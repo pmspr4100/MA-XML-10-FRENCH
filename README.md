@@ -2,7 +2,7 @@ MIUI V10 French Translation
 
 ## Introduction
 
-This repository contains the Turkish Translation of the MIUI Weekly ROM Releases from [xiaomi.eu](http://xiaomi.eu/community/forums/103/).
+This repository contains the French Translation of the MIUI Weekly ROM Releases from [xiaomi.eu].
 
 Main Translator:
 pms.pr4100
@@ -19,5 +19,3 @@ pms.pr4100
 ## For all problems:
 Administrator :: ingbrzy (ingbrzy@miuios.cz)
 FR Translator : pms.pr4100 (pms.pr4100@gmail.com)
-
-I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run, walk; if you can not walk, crawl, but do not give up."
