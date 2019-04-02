@@ -2481,7 +2481,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="incoming_call_volume_title">Sonnerie</string>
     <string name="infinity_display_settings">Affichage complet</string>
     <string name="infinity_display_slogan">"Innovation sur l'affichage complet"</string>
-    <string name="infinity_display_title">Affichage Plein écran</string>
+    <string name="infinity_display_title">Affichage plein écran</string>
     <string name="information_dialog_button_text">"C'est compris"</string>
     <string name="input_assistance">Aide à la saisie</string>
     <string name="input_hint_prefix">Entrer %1$s</string>
@@ -2969,7 +2969,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="long_press_menu_key_when_lock">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
     <string name="long_press_power_key_half_of_second">Appuyez et maintenez le bouton d’alimentation pour 0.5s pour activer Google Assistant</string>
     <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
-    <string name="lost_internet_access_cancel">Rester en Wi‑Fi</string>
+    <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
     <string name="lost_internet_access_persist">Ne plus afficher</string>
     <string name="lost_internet_access_switch">Se connecter au réseau mobile</string>
     <string name="lost_internet_access_text">"Vous pouvez vous connecter au réseau mobile lorsque vous rencontrez un problème de connexion Wi-Fi. Des frais liés à la consommation de données peuvent s'appliquer."</string>
@@ -2994,7 +2994,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="manage_xiaomi_router">Paramètres de Mi Router</string>
     <string name="manage_zen_access_title">Accès \"Ne pas déranger\"</string>
     <string name="manageapplications_settings_summary">Gérer et supprimer les applications installées</string>
-    <string name="manageapplications_settings_title">Gérer les applications</string>
+    <string name="manageapplications_settings_title">Applications installées</string>
     <string name="managed_device_admin_title">Professionnel</string>
     <string name="managed_profile_contact_search_summary">Autoriser les recherches de contacts dans votre organisation à identifier les appelants et les contacts</string>
     <string name="managed_profile_contact_search_title">Recherche de contacts</string>
@@ -5353,7 +5353,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="system_alert_window_summary">"%1$d applis sur %2$d autorisées à se superposer à d'autres"</string>
     <string name="system_and_device_section_title">Paramètres système</string>
     <string name="system_app">(Système)</string>
-    <string name="system_app_settings">Paramètres des applications système</string>
+    <string name="system_app_settings">Applications système</string>
     <string name="system_apps_updater">"Mise à jour d'applications système"</string>
     <string name="system_backup_section_title">Sauvegarde</string>
     <string name="system_dashboard_summary">Langues, date et heure, sauvegarde, mises à jour</string>
