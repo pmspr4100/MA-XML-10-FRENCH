@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Mise à jour</string>
+  <string name="app_name">Mise a jour</string>
   <string name="battery_islow">&lt;font color=#f37981&gt;Plug your charger&lt;/font&gt;</string>
   <string name="battery_islow_desc">Battery level is too low to install zip file safely, plug in your charger and try again later!</string>
   <string name="btn_changelog">Changelog</string>
@@ -47,7 +47,7 @@ Les mises à jour ne sont pas disponibles pour vous !"</string>
   <string name="notif_cancel">Annuler</string>
   <string name="notif_install">Installer</string>
   <string name="notif_new_summary">Appuyez pour plus infos</string>
-  <string name="notif_new_title">Nouvelle version disponible!</string>
+  <string name="notif_new_title">Nouvelle version disponible !</string>
   <string name="notifications_switch">Show notifications</string>
   <string name="permdesc_cache_filesystem">Allows app to write files on /cache.</string>
   <string name="permdesc_reboot">Allows app to reboot the device.</string>
