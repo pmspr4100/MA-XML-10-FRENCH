@@ -13,7 +13,7 @@
   <string name="btn_share">Share</string>
   <string name="btn_stop">Stop</string>
   <string name="btn_yes">Yes</string>
-  <string name="channel_downloading">Progression du téléchargement</string>
+  <string name="channel_downloading">Progression du telechargement</string>
   <string name="channel_update">Nouvelle version disponible</string>
   <string name="check_new_version">Vérifier</string>
   <string name="chengelog">%1$s</string>
@@ -34,7 +34,7 @@ Data will not be wiped."</string>
   <string name="install_title">Are you sure to continue?</string>
   <string name="menu_title_current_version_log">Ce qui est nouveau ?</string>
   <string name="menu_title_pick_rom_file">Choisissez le package de mise à jour</string>
-  <string name="menu_title_recovery">Redémarrer en mode Recovery</string>
+  <string name="menu_title_recovery">Redemarrer en mode Recovery</string>
   <string name="message">%1$s</string>
   <string name="message_checkbox">Hide future messages from Xiaomi.eu team</string>
   <string name="message_title">NOTE !</string>
