@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Mise a jour</string>
-  <string name="battery_islow">Plug your charger</string>
-  <string name="battery_islow_desc">Battery level is too low to install zip file safely, plug in your charger and try again later!</string>
+  <string name="battery_islow">Branchez votre chargeur</string>
+  <string name="battery_islow_desc">Le niveau de la batterie est trop faible pour installer le fichier zip en toute sécurité, branchez votre chargeur et réessayez plus tard !</string>
   <string name="btn_changelog">Changelog</string>
   <string name="btn_download">Téléchargement (%1$s)</string>
-  <string name="btn_error">Error occurred, try again?</string>
+  <string name="btn_error">"Une erreur s'est produite, essayez à nouveau ?"</string>
   <string name="btn_install">Installer</string>
   <string name="btn_no">Annuler</string>
   <string name="btn_ok">OK</string>
@@ -13,7 +13,7 @@
   <string name="btn_share">Partager</string>
   <string name="btn_stop">Arrêter</string>
   <string name="btn_yes">Oui</string>
-  <string name="channel_downloading">Progression du telechargement</string>
+  <string name="channel_downloading">Progression du téléchargement</string>
   <string name="channel_update">Nouvelle version disponible</string>
   <string name="check_new_version">Vérifier</string>
   <string name="chengelog">%1$s</string>
@@ -53,15 +53,15 @@ Les mises à jour ne sont pas disponibles pour vous !"</string>
   <string name="permdesc_reboot">Allows app to reboot the device.</string>
   <string name="permlab_cache_filesystem">Cache Access</string>
   <string name="permlab_reboot">Reboot Access</string>
-  <string name="pick_not_found">No suitable File Manager was found.</string>
+  <string name="pick_not_found">"Aucun gestionnaire de fichiers approprié n'a été trouvé."</string>
   <string name="pick_title">Pick using:</string>
   <string name="recovery_desc">Device will reboot to Recover mode now if you are not familiar with the mode cancel future actions. Continue?</string>
   <string name="server_error">Server not responding, application might not work properly!</string>
-  <string name="share_desc">Your MIUI version has been updated to %1$s, check latest changelog at: %2$s</string>
+  <string name="share_desc">Votre version de MIUI a été mise à jour pour %1$s, vérifier le dernier changelog à: %2$s</string>
   <string name="share_title">Partager avec</string>
   <string name="stable">stable</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="version">Actuellement installé:</string>
   <string name="weekly">hebdomadaire</string>
-  <string name="wifi_recommended">No WiFi connection to start download safely!</string>
+  <string name="wifi_recommended">Pas de connexion Wi-Fi pour commencer le téléchargement en toute sécurité !</string>
 </resources>
