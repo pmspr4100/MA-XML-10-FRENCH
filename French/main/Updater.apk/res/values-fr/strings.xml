@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Mise a jour</string>
-  <string name="battery_islow">&lt;font color=#f37981&gt;Plug your charger&lt;/font&gt;</string>
+  <string name="battery_islow">Plug your charger</string>
   <string name="battery_islow_desc">Battery level is too low to install zip file safely, plug in your charger and try again later!</string>
   <string name="btn_changelog">Changelog</string>
   <string name="btn_download">Download (%1$s)</string>
@@ -15,7 +15,7 @@
   <string name="btn_yes">Yes</string>
   <string name="channel_downloading">Progression du telechargement</string>
   <string name="channel_update">Nouvelle version disponible</string>
-  <string name="check_new_version">Vérifier</string>
+  <string name="check_new_version">VÃ©rifier</string>
   <string name="chengelog">%1$s</string>
   <string name="dialog_3g_desc">Be aware that using Mobile Data to download ROMs might take significant quota of your packet.</string>
   <string name="dialog_3g_title">Warning!</string>
@@ -26,14 +26,14 @@
   <string name="dialog_twrp">Your internal storage is encrypted. After device is rebooted to recovery, please enter your device unlock password to continue.</string>
   <string name="download_done">Successfully downloaded!</string>
   <string name="download_fail">Error while downloading!</string>
-  <string name="download_fail_desc">MD5 Sum does not matchâ€¦</string>
+  <string name="download_fail_desc">MD5 Sum does not matchÃ¢â‚¬Â¦</string>
   <string name="downloading">Downloading:</string>
   <string name="downloading_desc">Downloading in progress, check status in notification area.</string>
   <string name="install_desc">Device will reboot to recovery and install chosen file:&lt;b&gt; %1$s&lt;/b&gt;"
 Data will not be wiped."</string>
   <string name="install_title">Are you sure to continue?</string>
   <string name="menu_title_current_version_log">Ce qui est nouveau ?</string>
-  <string name="menu_title_pick_rom_file">Choisissez le package de mise à jour</string>
+  <string name="menu_title_pick_rom_file">Choisissez le package de mise Ã  jour</string>
   <string name="menu_title_recovery">Redemarrer en mode Recovery</string>
   <string name="message">%1$s</string>
   <string name="message_checkbox">Hide future messages from Xiaomi.eu team</string>
@@ -41,9 +41,9 @@ Data will not be wiped."</string>
   <string name="new_version">New version found!</string>
   <string name="no_info">No info available.</string>
   <string name="no_network">No network access.</string>
-  <string name="no_update">Vous êtes à jour ou il y a un problème avec le serveur, vérifiez la nouvelle version de xiaomi.eu !</string>
-  <string name="no_xioamieu">"Vous n'utilisez pas MIUI Rom créé par l'équipe Xiaomi.eu !
-Les mises à jour ne sont pas disponibles pour vous !"</string>
+  <string name="no_update">Vous Ãªtes Ã  jour ou il y a un problÃ¨me avec le serveur, vÃ©rifiez la nouvelle version de xiaomi.eu !</string>
+  <string name="no_xioamieu">"Vous n'utilisez pas MIUI Rom crÃ©Ã© par l'Ã©quipe Xiaomi.eu !
+Les mises Ã  jour ne sont pas disponibles pour vous !"</string>
   <string name="notif_cancel">Annuler</string>
   <string name="notif_install">Installer</string>
   <string name="notif_new_summary">Appuyez pour plus infos</string>
@@ -61,7 +61,7 @@ Les mises à jour ne sont pas disponibles pour vous !"</string>
   <string name="share_title">Share with</string>
   <string name="stable">stable</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="version">Actuellement installé:</string>
+  <string name="version">Actuellement installÃ©:</string>
   <string name="weekly">hebdomadaire</string>
   <string name="wifi_recommended">No WiFi connection to start download safely!</string>
 </resources>
