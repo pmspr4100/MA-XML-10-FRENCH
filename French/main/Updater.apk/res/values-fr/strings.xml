@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Mise a jour</string>
+  <string name="app_name">Mise à jour</string>
   <string name="battery_islow">Branchez votre chargeur</string>
   <string name="battery_islow_desc">Le niveau de la batterie est trop faible pour installer le fichier zip en toute sécurité, branchez votre chargeur et réessayez plus tard !</string>
   <string name="btn_changelog">Changelog</string>
