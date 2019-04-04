@@ -5060,7 +5060,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_settings">"Notifications &amp; barre d'état"</string>
     <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
     <string name="status_bar_settings_manage_notification">App notifications</string>
-	<string name="status_bar_settings_show_lte_for_4g">"Afficher l'icône LTE pour la 4G"</string>
+    <string name="status_bar_settings_show_lte_for_4g">"Afficher l'icône LTE pour la 4G"</string>
     <string name="status_bar_settings_notification_bar">Panneau de notification</string>
     <string name="status_bar_settings_status_bar">Barre de statut</string>
     <string name="status_bt_address">Adresse Bluetooth</string>
