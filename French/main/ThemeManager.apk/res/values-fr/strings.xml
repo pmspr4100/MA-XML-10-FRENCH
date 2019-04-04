@@ -253,9 +253,9 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="mix_global_option">Général</string>
     <string name="mix_global_option_des">Panneau de notification, Téléphone, Messages et autres éléments du système. Décochez cette case pour utiliser les options par défaut.</string>
-    <string name="mix_home_option_des">Fond décran et horloge. Décochez cette case pour utiliser les options par défaut.</string>
-    <string name="mix_icons_option_des">Icônes de lécran daccueil. Décochez cette case pour utiliser les options par défaut.</string>
-    <string name="mix_lockscreen_option_des">Fond décran et horloge. Décochez cette case pour utiliser les options par défaut.</string>
+    <string name="mix_home_option_des">"Fond d'écran et horloge. Décochez cette case pour utiliser les options par défaut."</string>
+    <string name="mix_icons_option_des">"Icônes de l'écran daccueil. Décochez cette case pour utiliser les options par défaut."</string>
+    <string name="mix_lockscreen_option_des">"Fond d'écran et horloge. Décochez cette case pour utiliser les options par défaut."</string>
     <string name="mix_tip">Composants de thème</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Cette sonnerie sera appliquée aux deux cartes SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">La sonnerie est appliquée pour les deux cartes SIM.</string>
@@ -618,7 +618,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="to_activate_the_account">Activez votre compte Mi maintenant</string>
     <string name="transparency_pref_summary">"Choisissez le degré de transparence de votre fond d'écran"</string>
     <string name="transparency_pref_title">"Niveau d'opacité"</string>
-    <string name="transparent_wallpaper">Fond décran transparent</string>
+    <string name="transparent_wallpaper">"Fond d'écran transparent"</string>
     <string name="transparent_wallpaper_apply_success">Défini avec succès. Accéder aux thèmes > Profil > Laboratoire thématique pour plus de fonctionnalités.</string>
     <string name="transparent_wallpaper_disable">Désactivé</string>
     <string name="transparent_wallpaper_enable">Activé</string>
@@ -628,8 +628,12 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="transparent_wallpaper_filter_set_successfully">Défini avec succès</string>
     <string name="transparent_wallpaper_filter_setting">Applications individuelles</string>
     <string name="transparent_wallpaper_guide">Allez à Thèmes</string>
-    <string name="transparent_wallpaper_guide_tip">Vous pouvez sélectionner un fond décran transparent dans Thèmes dès maintenant.</string>
+    <string name="transparent_wallpaper_guide_tip">"Vous pouvez sélectionner un fond d'écran transparent dans Thèmes dès maintenant."</string>
     <string name="transparent_wallpaper_pref_summary">"Fonds d'écran avec une opacité de fond réduite"</string>
+    <string name="transparent_wallpaper_white_wallpaper">Rendre le fond blanc</string>
+    <string name="transparent_wallpaper_white_wallpaper_failed">"Impossible de rendre le fond blanc"</string>
+    <string name="transparent_wallpaper_white_wallpaper_success">La couleur de fond est blanche maintenant</string>
+    <string name="transparent_wallpaper_white_wallpaper_tip">Le papier peint transparent semble le meilleur sur fond blanc</string>
     <string name="uid_change_dialog_message">"Vous avez supprimé les mises à jour. Redémarrez l'appareil pour pouvoir utiliser les thèmes."</string>
     <string name="uid_change_dialog_ok">"C'est compris"</string>
     <string name="uid_change_dialog_title">"Redémarrer l'appareil"</string>
