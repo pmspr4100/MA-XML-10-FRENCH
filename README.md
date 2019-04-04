@@ -1,3 +1,5 @@
+[![MIUI10 logo](https://i.imgur.com/s5PsCYM.png)](https://xiaomi.eu/)
+
 MIUI V10 French Translation
 
 ## Introduction
@@ -17,4 +19,4 @@ pms.pr4100
 
 ## For all problems:
 Administrator :: ingbrzy (ingbrzy@miuios.cz)
-FR Translator : pms.pr4100 (pms.pr4100@gmail.com)
+Translator : pms.pr4100 (pms.pr4100@gmail.com)
