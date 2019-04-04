@@ -262,8 +262,8 @@
   <string name="context_menu_add_to_desk_id">Add to Home screen</string>
   <string name="context_menu_orientation_portrait_swap_id">V/H screen</string>
   <string name="contextmenu_add_contact">Add contact</string>
-  <string name="contextmenu_copy">Copy</string>
-  <string name="contextmenu_copylink">Copy link URL</string>
+  <string name="contextmenu_copy">Copié</string>
+  <string name="contextmenu_copylink">"Copier l'URL du lien"</string>
   <string name="contextmenu_dial_dot">Dial…</string>
   <string name="contextmenu_download_image">Save image</string>
   <string name="contextmenu_download_image_as">Save image</string>
@@ -271,8 +271,8 @@
   <string name="contextmenu_manually_block_ad">Label as ad</string>
   <string name="contextmenu_map">Map</string>
   <string name="contextmenu_openlink">Open</string>
-  <string name="contextmenu_openlink_in_browser">Open in Browser</string>
-  <string name="contextmenu_openlink_newwindow">Open in new tab</string>
+  <string name="contextmenu_openlink_in_browser">Ouvrir dans le navigateur</string>
+  <string name="contextmenu_openlink_newwindow">Ouvrir dans un nouvel onglet</string>
   <string name="contextmenu_openlink_newwindow_background">Open in background tab</string>
   <string name="contextmenu_recognise_qr_code">Scan QR code</string>
   <string name="contextmenu_savelink">Save link</string>
@@ -286,9 +286,9 @@
   <string name="contextmenu_webpage_snapshot">Save page</string>
   <string name="copy_url">Copy URL</string>
   <string name="create_qr_code">QR code</string>
-  <string name="current_version_pad">Pad</string>
-  <string name="current_version_pc">Desktop</string>
-  <string name="current_version_phone">Phone</string>
+  <string name="current_version_pad">Tablette</string>
+  <string name="current_version_pc">PC</string>
+  <string name="current_version_phone">Téléphone</string>
   <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
   <string name="custom_head_content_pull_down_text">pull down</string>
   <string name="custom_head_pull_down_text">Enter infoFlow</string>
@@ -1284,7 +1284,7 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="security_url_confirm_message">Turning this feature off may create security risks.</string>
   <string name="security_warning">Security warning</string>
   <string name="security_warnings_confirm_message">Turning this feature off may create security risks.</string>
-  <string name="select_dot">Select text</string>
+  <string name="select_dot">Sélectionnez le texte</string>
   <string name="select_download_device">Choose device</string>
   <string name="send_comment_button">Send</string>
   <string name="send_comment_title">Comment</string>
@@ -1417,9 +1417,9 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="tae_sdk_login_qr_icon_taobao"></string>
   <string name="tae_sdk_qr_login_icon_password"></string>
   <string name="tae_sdk_qr_login_icon_scan"></string>
-  <string name="temp_refuse">No thanks</string>
+  <string name="temp_refuse">Non merci</string>
   <string name="temporary_not_available">temporary not available</string>
-  <string name="title_bar_loading">Loading…</string>
+  <string name="title_bar_loading">Chargement…</string>
   <string name="title_notice_push">Turn on push</string>
   <string name="too_many_windows_dialog_message">"Browser can't open a new tab until you close another tab"</string>
   <string name="too_many_windows_dialog_title">"Can't open more tabs"</string>
@@ -1441,7 +1441,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="url_copy_done">URL copied to clipboard</string>
   <string name="url_find_on_page_result">View in Browser</string>
   <string name="url_find_on_page_result_item">View all the text for \"%s\"</string>
-  <string name="url_hint">Enter a URL or search the web</string>
+  <string name="url_hint">Entrez une URL ou recherchez sur le Web</string>
   <string name="url_hint_from_search">Enter the keyword</string>
   <string name="url_hint_head">Everyone is searching：</string>
   <string name="url_opened_in_background">Open in background tab</string>
