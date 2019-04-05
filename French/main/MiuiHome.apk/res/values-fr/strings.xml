@@ -34,8 +34,8 @@
     <string name="announce_for_unchecked">%1$s, non vérifié</string>
     <string name="announce_for_widget_span">Largeur %1$d, hauteur %2$d</string>
     <string name="app_already_exist">"L'application existe déjà"</string>
-    <string name="app_being_backup_message">Lapplication est en cours de restauration</string>
-    <string name="app_being_restored_message">Lapp est en cours de restauration</string>
+    <string name="app_being_backup_message">"L'app est en cours de restauration"</string>
+    <string name="app_being_restored_message">"L'app est en cours de restauration"</string>
     <string name="app_category_books">Lecture</string>
     <string name="app_category_education">Éducation</string>
     <string name="app_category_entertainment">Divertissement</string>
@@ -102,7 +102,7 @@
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Supprimer</string>
     <string name="delete_screen">Supprimer un écran</string>
-    <string name="delete_wallpaper_message">Supprimer %1$d fond décran ?</string>
+    <string name="delete_wallpaper_message">"Supprimer %1$d fond d'écran ?"</string>
     <string name="deselect_all">Tout désélectionner</string>
     <string name="disable_wallpaper_scroll">Désactiver le défilement</string>
     <string name="download_action">Télécharger</string>
@@ -184,7 +184,7 @@
     <string name="group_live_folders">Dossiers</string>
     <string name="group_shortcuts">Raccourcis</string>
     <string name="guide_install_app_msg">Cette application nest pas installée sur votre appareil. Retrouvez et installez lapplication maintenant ?</string>
-    <string name="guide_install_app_title">Trouver et installer lapplication ?</string>
+    <string name="guide_install_app_title">"Trouver et installer l'application ?"</string>
     <string name="guide_tips_editing_mode">Appuyez &amp; maintenez pour prendre un widget</string>
     <string name="home_screen">Écran daccueil</string>
     <string name="icon_reorganize_channel">Organiser les icônes</string>
@@ -203,8 +203,8 @@
     <string name="local_wallpaper">Téléchargé</string>
     <string name="lock_screen">Écran de verrouillage</string>
     <string name="lock_screen_cells_title">"Verrouillage de l'écran d'accueil"</string>
-    <string name="lock_screen_failed_message">Impossible de définir le fond décran de lécran de verrouillage</string>
-    <string name="lock_screen_success_message">Appliqué à lécran de verrouillage</string>
+    <string name="lock_screen_failed_message">"Impossible de définir le fond d'écran de lécran de verrouillage"</string>
+    <string name="lock_screen_success_message">"Appliqué à l'écran de verrouillage"</string>
     <string name="lock_screen_wallpaper">"Fond d'écran de verrouillage"</string>
     <string name="memory_clear_nothing_result">Rien à effacer dans le cache</string>
     <string name="memory_clear_result">%1$s o effacés</string>
@@ -213,13 +213,13 @@
     <string name="menu_back_desktop">Retour à lécran daccueil</string>
     <string name="menu_cell_setting">Disposition de lécran daccueil</string>
     <string name="menu_customize">paramètres</string>
-    <string name="menu_default_screen_preview">Définir lécran par défaut</string>
+    <string name="menu_default_screen_preview">"Définir l'écran par défaut"</string>
     <string name="menu_edit">"Éditer l'écran d'accueil"</string>
     <string name="menu_exit_scene">Quitter le lanceur Mi Space</string>
     <string name="menu_finish">Terminé</string>
     <string name="menu_item_add_item">Placer sur le bureau</string>
     <string name="menu_launcher_setting">Paramètres du lanceur</string>
-    <string name="menu_lock">Verrouiller la disposition de lécran daccueil</string>
+    <string name="menu_lock">"Verrouiller la disposition de l'écran d'accueil"</string>
     <string name="menu_more">Plus</string>
     <string name="menu_picktheme">Choisir un thème</string>
     <string name="menu_reset_scene">Revenir à la disposition par défaut</string>
@@ -295,7 +295,7 @@
     <string name="reset_scene_prompt">"L'écran sera réinitialisé à la disposition par défaut."</string>
     <string name="reset_title">Restaurer</string>
     <string name="screen_cells_config_title">"Disposition de l'écran d'accueil"</string>
-    <string name="screen_locked_toast">La disposition de lécran daccueil est verrouillée.</string>
+    <string name="screen_locked_toast">"La disposition de l'écran d'accueil est verrouillée."</string>
     <string name="screen_number">%d écran</string>
     <string name="select_all">Tout sélectionner</string>
     <string name="select_frame">Cadre</string>
