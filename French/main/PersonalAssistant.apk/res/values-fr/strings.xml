@@ -47,12 +47,12 @@
     <string name="agenda_settings_birthday">"Afficher les rappels d'anniversaire"</string>
     <string name="app_label">"Coffre d'applications"</string>
     <string name="apps_label">Applications</string>
-	<string name="app_setting">"Paramètres du coffre d'application"</string>
+    <string name="app_setting">"Paramètres du coffre d'application"</string>
     <string name="app_setting_add_header_bg">Image de couverture</string>
     <string name="app_setting_datetime">Afficher la date</string>
     <string name="app_setting_has_not_setted">Non défini</string>
-    <string name="app_setting_has_setted">Défini</string>
-	<string name="app_setting_more_setting">Paramètres additionnels</string>
+    <string name="app_setting_has_setted">Défini</string>	
+    <string name="app_setting_more_setting">Paramètres additionnels</string>
     <string name="app_setting_on_off_setting">Paramètres généraux</string>
     <string name="app_setting_privacy_policy">Politique de confidentialité</string>
     <string name="app_setting_search">Barre de recherche</string>
