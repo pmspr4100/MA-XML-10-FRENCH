@@ -388,10 +388,13 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="downloading_title">Téléchargement des photos de Mi Cloud</string>
     <string name="edit_baby_info">Afficher les infos du bébé</string>
     <string name="email_picker_title">Ajouter un e-mail partagée</string>
+    <string name="empty_description_conditions">Rappelez-vous les histoires qui comptent</string>
+    <string name="empty_description_no_cards">Rappelez-vous les histoires qui comptent</string>
     <string name="empty_query_text_msg">"Je ne sais pas ce qu'il faut chercher…"</string>
     <string name="empty_recommend_back">Retour</string>
     <string name="empty_recommend_face_page_view">Plus de recommandations</string>
     <string name="empty_relation">Le nom du groupe ne peut pas être vide</string>
+    <string name="empty_title_no_cards">IA albums stories</string>
     <string name="empty_title_no_photos">Aucune photo ou vidéo</string>
     <string name="enable_auto_upload_tip">Activer la synchronisation avec Mi Cloud pour cet album ?</string>
     <string name="enable_auto_upload_title">Activer la synchronisation avec Mi Cloud</string>
