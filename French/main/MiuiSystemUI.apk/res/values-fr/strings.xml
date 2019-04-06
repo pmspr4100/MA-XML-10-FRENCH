@@ -1865,8 +1865,8 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="wifi_connected_mac_randomization">Connexion avec adresse MAC aléatoire</string>
     <string name="wifi_connected_mac_randomization_summary">"Randomiser l'adresse MAC lors des connexions à des réseaux Wi-Fi"</string>
     <string name="wifi_connected_no_internet">"Connecté, pas d'Internet"</string>
-    <string name="wifi_coverage_extend">Activer l’extension de couverture Wi‑Fi</string>
-    <string name="wifi_coverage_extend_summary">Étendre la couverture Wi‑Fi en utilisant un point d’accès</string>
+    <string name="wifi_coverage_extend">Activer l’extension de couverture Wi-Fi</string>
+    <string name="wifi_coverage_extend_summary">Étendre la couverture Wi-Fi en utilisant un point d’accès</string>
     <string name="wifi_disabled_by_recommendation_provider">"Pas connecté à cause d'un réseau de mauvaise qualité"</string>
     <string name="wifi_disabled_generic">Désactivé</string>
     <string name="wifi_disabled_network_failure">Configuration IP impossible</string>
