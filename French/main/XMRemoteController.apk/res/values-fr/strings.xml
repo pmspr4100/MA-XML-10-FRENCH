@@ -588,7 +588,7 @@ Vérifiez les autorisations ou rédemarrez l'appareil."</string>
     <string name="pair_server_data_only">Utiliser les données en ligne pour les nouvelles télécommandes</string>
     <string name="partner">Partenaire</string>
     <string name="passport_access_denied">Accès refusé</string>
-    <string name="passport_account_hint_text">Adresse e-mail, numéro de téléphone ou ID du Compte Mi</string>
+    <string name="passport_account_hint_text">E-mail/Téléphone/ID de Compte Mi</string>
     <string name="passport_account_identity_title">Vérifier votre identité</string>
     <string name="passport_account_label">Compte Mi</string>
     <string name="passport_account_name">Compte : %1$s</string>
@@ -677,7 +677,7 @@ Pour activer votre compte, suivez le
     <string name="passport_login_recycle_account_no">Non</string>
     <string name="passport_login_recycle_account_yes">Oui</string>
     <string name="passport_login_title">Connectez-vous à votre compte Mi</string>
-    <string name="passport_login_using_other_ways"><u>Autres moyens de se connecter</u></string>
+    <string name="passport_login_using_other_ways">Autres méthodes de connexion</string>
     <string name="passport_message_dialog_title">SMS avec code de vérification</string>
     <string name="passport_next">Suivant</string>
     <string name="passport_no">Non</string>
@@ -709,7 +709,7 @@ Pour activer votre compte, suivez le
     <string name="passport_reg_recycle_account_yes">Oui</string>
     <string name="passport_reg_success">Compte créé</string>
     <string name="passport_reg_success_summary">"%1$s a été associé à votre compte. Vous pouvez l'utiliser pour vous connecter et réinitialiser votre mot de passe."</string>
-    <string name="passport_reg_type_email">Utiliser une adresse e-mail</string>
+    <string name="passport_reg_type_email">Adresse e-mail</string>
     <string name="passport_reg_using_other_phone"><u>Utiliser un numéro de téléphone alternatif</u></string>
     <string name="passport_reg_using_other_phone_number_prompt">"Créer un nouveau compte en utilisant "</string>
     <string name="passport_reg_using_phone_number_prompt">Inscription par le numéro de téléphone</string>
@@ -1095,7 +1095,7 @@ Pour changer, appuyez longuement sur le bouton Marche/Arrêt de la TV"</string>
     <string name="wind_sweep">Balayage</string>
     <string name="wx_not_installed">"Installer d'abord WeChat"</string>
     <string name="xiaomi_vip">Mi VIP</string>
-    <string name="year_month_day_format">dd MMMM yyyy</string>
+    <string name="year_month_day_format">dd/MM/yy</string>
     <string name="yes">Oui</string>
     <string name="yesterday">Hier</string>
     <string name="catalyst_debugjs">Debug JS</string>
