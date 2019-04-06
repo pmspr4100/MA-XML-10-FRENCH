@@ -2114,6 +2114,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="expandable_under_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
     <string name="experimental_category_title">Paramètres expérimentaux</string>
     <string name="experimental_preference">(Expérimental)</string>
+    <string name="extended_power_menu">"Menu d'alimentation étendu"</string>
     <string name="external_code_size_label">Application sur USB</string>
     <string name="external_data_size_label">Carte SD</string>
     <string name="external_source_switch_title">Autoriser cette source</string>
@@ -6504,12 +6505,12 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="wifi_unmetered_label">Non mesuré</string>
     <string name="wifi_unspecified">Veuillez sélectionner un élément</string>
     <string name="wifi_use_system_certs">Utiliser les certificats du système</string>
-    <string name="wifi_verbose_logging">"Activer l'enregistrement des infos détaillées du Wi‑Fi"</string>
-    <string name="wifi_verbose_logging_summary">Augmentez le niveau de la connexion Wi‑Fi, affichez les RSSI pour chaque SSID dans la liste des réseaux Wi‑Fi.</string>
-    <string name="wifi_wakeup">Activation automatique du Wi‑Fi</string>
-    <string name="wifi_wakeup_summary">Réactiver le Wi‑Fi à proximité des réseaux haute qualité déjà enregistrés, par exemple votre réseau domestique</string>
+    <string name="wifi_verbose_logging">"Activer l'enregistrement des infos détaillées du Wi-Fi"</string>
+    <string name="wifi_verbose_logging_summary">Augmentez le niveau de la connexion Wi-Fi, affichez les RSSI pour chaque SSID dans la liste des réseaux Wi-Fi.</string>
+    <string name="wifi_wakeup">Activation automatique du Wi-Fi</string>
+    <string name="wifi_wakeup_summary">Réactiver le Wi-Fi à proximité des réseaux haute qualité déjà enregistrés, par exemple votre réseau domestique</string>
     <string name="wifi_wakeup_summary_no_location">Indisponible, car le service de localisation est désactivé. Activez la <annotation id="link">localisation</annotation>.</string>
-    <string name="wifi_wakeup_summary_scanning_disabled">Indisponible, car la recherche Wi‑Fi est désactivée</string>
+    <string name="wifi_wakeup_summary_scanning_disabled">Indisponible, car la recherche Wi-Fi est désactivée</string>
     <string name="wifi_wakeup_summary_scoring_disabled">"Pour utiliser cette fonctionnalité, sélectionnez un fournisseur d'évaluation de l'état du réseau"</string>
     <string name="wifi_wapi_as_cert">Certificat AS</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
@@ -6760,9 +6761,9 @@ Les notifications nécessaires pour l'activité du téléphone et son état sont
     <string name="zen_mode_settings_title">Ne pas déranger</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Activer Ne pas déranger</string>
     <string name="zen_mode_sound_summary_off">Désactivé</string>
-    <string name="zen_mode_sound_summary_off_with_info">Désactivé/%1$s</string>
+    <string name="zen_mode_sound_summary_off_with_info">Désactivé / %1$s</string>
     <string name="zen_mode_sound_summary_on">Activé</string>
-    <string name="zen_mode_sound_summary_on_with_info">Activé/%1$s</string>
+    <string name="zen_mode_sound_summary_on_with_info">Activé / %1$s</string>
     <string name="zen_mode_starred_callers">contacts favoris</string>
     <string name="zen_mode_starred_contacts_title">Contacts favoris</string>
     <string name="zen_mode_start_time">Heure de début</string>
