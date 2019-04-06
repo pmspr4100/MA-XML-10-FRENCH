@@ -1700,7 +1700,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_camera">Appareil photo</string>
     <string name="device_cellular_network">Recherche de réseaux mobiles</string>
     <string name="device_complete_parameters">Toutes les spécifications</string>
-    <string name="device_cpu">CPU</string>
+    <string name="device_cpu">Version du CPU</string>
     <string name="device_cpu10_info">Deca-core</string>
     <string name="device_cpu2_info">Dual-core</string>
     <string name="device_cpu4_info">Quad-core</string>
@@ -1716,7 +1716,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_info_not_available">Non disponible</string>
     <string name="device_info_settings">État du téléphone</string>
     <string name="device_internal_memory">Stockage Interne</string>
-    <string name="device_memory">RAM</string>
+    <string name="device_memory">Taille de la RAM</string>
     <string name="device_miui_more">Afficher plus</string>
     <string name="device_miui_version">Version MIUI</string>
     <string name="device_miui_version_for_POCO">Version MIUI (pour POCO)</string>
@@ -2565,6 +2565,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="keyboard_shortcuts_helper">"Outil d'aide pour raccourcis clavier"</string>
     <string name="keyboard_shortcuts_helper_summary">Afficher les raccourcis disponibles</string>
     <string name="keyguard_advance_setting_title">Paramètres avancés</string>
+    <string name="keyguard_double_tap_to_sleep_title">Double tap pour mettre en veille</string>
     <string name="keyguard_notification_status_title">Quand les notifications arrivent et que l’écran est éteint</string>
     <string name="keyguard_security_setting_others">Autres</string>
     <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
@@ -3381,7 +3382,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="network_reset_not_available">"La réinitialisation du réseau n'est pas disponible pour cet utilisateur."</string>
     <string name="network_restrictions">Restrictions sur le réseau</string>
     <string name="network_scorer_change_active_dialog_text">Utiliser %1$s au lieu de %2$s pour gérer vos connexions réseau ?</string>
-    <string name="network_scorer_change_active_dialog_title">"Changer d'assistant Wi‑Fi ?"</string>
+    <string name="network_scorer_change_active_dialog_title">"Changer d'assistant Wi-Fi ?"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Utiliser %s pour gérer vos connexions réseau ?</string>
     <string name="network_scorer_picker_none_preference">Aucun</string>
     <string name="network_scorer_picker_title">"Fournisseur d'évaluation état du réseau"</string>
@@ -4224,7 +4225,7 @@ Interface UT : %5$s"</string>
     <string name="restr_pin_enter_admin_pin">"Saisir le code d'accès administrateur"</string>
     <string name="restrict_background_blacklisted">Les données en arrière-plan sont désactivées.</string>
     <string name="restrict_bg_app">Restreindre</string>
-    <string name="restrict_max_aspect_ratio_title">Ces applications ne fonctionnent pas bien en mode Plein écran</string>
+    <string name="restrict_max_aspect_ratio_title">Ces applications ne fonctionnent pas bien en mode plein écran</string>
     <string name="restricted_app_detail_footer">"Ces applications utilisent la batterie en arrière-plan. Les applications dont l'accès est limité peuvent ne pas fonctionner correctement et leurs notifications risquent d'être retardées."</string>
     <string name="restricted_app_title">"Applications dont l'accès est limité"</string>
     <string name="restricted_false_label">Batterie en arrière-plan autorisée</string>
@@ -4312,8 +4313,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="screen_key_press">Appui court des boutons de navigation</string>
     <string name="screen_key_press_action">Fonction de déclenchement</string>
     <string name="screen_locking_sounds_title">"Sons du verrouillage d'écran"</string>
-    <string name="screen_max_aspect_ratio_desc">Autorisez les applications sélectionnées à fonctionner en mode Plein écran</string>
-    <string name="screen_max_aspect_ratio_title">Mode Plein écran</string>
+    <string name="screen_max_aspect_ratio_desc">Autorisez les applications sélectionnées à fonctionner en mode plein écran</string>
+    <string name="screen_max_aspect_ratio_title">Mode plein écran</string>
     <string name="screen_monochrome_mode_apps_loading">Un instant…</string>
     <string name="screen_monochrome_mode_apps_title">Utiliser le mode monochrome</string>
     <string name="screen_monochrome_mode_global_summary">Utiliser le mode monochrome pour toutes les applications</string>
@@ -5290,7 +5291,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="structure_face_enroll_not_able_low_electric_itle">"Impossible d'utiliser cette fonctionnalité en raison du niveau faible de la batterie"</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">La batterie doit être chargée à 5 % au moins pour démarrer un enregistrement.</string>
     <string name="structure_manage_facerecoginition_text">Gérer les données de visage en 3D</string>
-    <string name="suggest_unrestrict_max_aspect_ratio_title">Ces applications fonctionnent parfaitement en mode Plein écran</string>
+    <string name="suggest_unrestrict_max_aspect_ratio_title">Ces applications fonctionnent parfaitement en mode plein écran</string>
     <string name="suggested_fingerprint_lock_settings_summary" />
     <string name="suggested_fingerprint_lock_settings_title">Ajouter empreinte digitale pour déverrouiller</string>
     <string name="suggested_lock_settings_summary">Définissez verrouillage écran pour protéger téléphone</string>
@@ -5623,7 +5624,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlogin_account_summary">Tous les services Mi. Un compte Mi</string>
     <string name="unlogin_account_title">Se connecter avec le compte Mi</string>
     <string name="unmount_inform_text">La carte SD va être désinstallée.</string>
-    <string name="unrestrict_max_aspect_ratio_title">Ces applications sont optimisés pour le mode Plein écran</string>
+    <string name="unrestrict_max_aspect_ratio_title">Ces applications sont optimisés pour le mode plein écran</string>
     <string name="unrestricted_app_summary">"Autoriser l'accès non restreint aux données lorsque l'économiseur de données est activé"</string>
     <string name="unrestricted_app_title">Conso. données non restreinte</string>
     <string name="unrestricted_data_saver">Données non restreintes</string>
@@ -6007,7 +6008,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="vt_provisioned_switch_string">Appel vidéo géré</string>
     <string name="wait_for_debugger">Attendre le débogage</string>
     <string name="wait_for_debugger_summary">"Application déboguéeen attente d'un débogueur pour joindre avant l'exécution"</string>
-    <string name="wakeup_for_keyguard_notification_title">"Allumage de l'écran de verrouillage pour les notifications"</string>
+    <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran de verrouillage pour les notifications"</string>
     <string name="wallpaper_attributions">"Fonds d'écran"</string>
     <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite :
 © 2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
@@ -6380,7 +6381,7 @@ Donner cette autorisation à toutes les applications souhaitant activer la reche
     <string name="wifi_setting_frequency_band_error">"Un problème s'est produit lors du réglage de la bande de fréquence."</string>
     <string name="wifi_setting_frequency_band_summary">"Spécifier la plage de fréquence d'opération"</string>
     <string name="wifi_setting_frequency_band_title">Bande de fréquence Wi-Fi</string>
-    <string name="wifi_setting_on_during_sleep_title">Wi‑Fi activé pendant la veille</string>
+    <string name="wifi_setting_on_during_sleep_title">Wi-Fi activé pendant la veille</string>
     <string name="wifi_setting_sleep_policy_error">Un problème est survenu lors de la modification des paramètres.</string>
     <string name="wifi_setting_sleep_policy_title">Wi-Fi actif en veille</string>
     <string name="wifi_settings">Wi-Fi</string>
@@ -6388,7 +6389,7 @@ Donner cette autorisation à toutes les applications souhaitant activer la reche
     <string name="wifi_settings_master_switch_title">Utiliser le Wi-Fi</string>
     <string name="wifi_settings_scanning_required_enabled">Recherche Wi-Fi activée</string>
     <string name="wifi_settings_scanning_required_info">"L'option \"Recherche Wi-Fi\" autorise les applications et les services à rechercher des réseaux Wi-Fi à tout moment, même si le Wi-Fi est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation."</string>
-    <string name="wifi_settings_scanning_required_summary">"Pour activer automatiquement le Wi‑Fi, vous devez d'abord activer la recherche de réseaux Wi‑Fi."</string>
+    <string name="wifi_settings_scanning_required_summary">"Pour activer automatiquement le Wi-Fi, vous devez d'abord activer la recherche de réseaux Wi-Fi."</string>
     <string name="wifi_settings_scanning_required_title">Activer la recherche de réseaux Wi-Fi ?</string>
     <string name="wifi_settings_scanning_required_turn_on">Activer</string>
     <string name="wifi_settings_summary">"Configurer et gérer les points d'accès sans fil"</string>
@@ -6475,7 +6476,7 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="wifi_suspend_efficiency_title">"Améliorer l'efficacité"</string>
     <string name="wifi_suspend_optimizations">Optimisation du Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">Minimisez la consommation de la batterie lorsque le Wi-Fi est activé</string>
-    <string name="wifi_switch_away_when_unvalidated">"Utiliser les données mobiles si vous n'avez plus accès à Internet via le réseau Wi‑Fi"</string>
+    <string name="wifi_switch_away_when_unvalidated">"Utiliser les données mobiles si vous n'avez plus accès à Internet via le réseau Wi-Fi"</string>
     <string name="wifi_switch_to_gsm_message">Connexion Wi-Fi perdue. Utiliser la connexion de données mobile ?</string>
     <string name="wifi_switch_to_gsm_title">Utiliser le GSM ?</string>
     <string name="wifi_tap_to_sign_in">Appuyez ici pour vous connecter au réseau</string>
