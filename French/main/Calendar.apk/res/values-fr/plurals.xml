@@ -84,6 +84,10 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Rappel suivant dans %1$d minutes</item>
+        <item quantity="one">Rappel suivant dans %1$d minute</item>
+    </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">tous les %1$s le %2$s</item>
         <item quantity="one">tous les %1$s le %2$s</item>
