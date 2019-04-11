@@ -103,7 +103,7 @@
     <string name="item_title_currency">Devise</string>
     <string name="item_title_dress_size">Taille de vêtement</string>
     <string name="item_title_length_conversion">Longueur</string>
-    <string name="item_title_mortgage">Home loan</string>
+    <string name="item_title_mortgage">Prêt immobilier</string>
     <string name="item_title_scientific_calculator">Scientifique</string>
     <string name="item_title_tax">Taxes</string>
     <string name="item_title_temprature_conversion">Température</string>
@@ -163,7 +163,7 @@
     <string name="mortgage_interest_rate">Intérêt commercial</string>
     <string name="mortgage_item_repayment">Méthode de remboursement</string>
     <string name="mortgage_item_start_time">Date de début</string>
-    <string name="mortgage_item_years">Loan tenure</string>
+    <string name="mortgage_item_years">Durée de prêt</string>
     <string name="mortgage_loans_amount">Montant du prêt</string>
     <string name="mortgage_provident_found_interest_rate">"Taux d'intérêt du fonds"</string>
     <string name="mortgage_repayment_amount">Montant du remboursement</string>
