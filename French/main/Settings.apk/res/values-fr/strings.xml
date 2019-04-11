@@ -322,7 +322,6 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
 	<string name="aod_mode_bg">Background</string>
 	<string name="aod_mode_clock">Clock</string>
 	<string name="aod_mode_style">Clock style and background</string>
-	<string name="aod_mode_summary">Show time, date, and messages when the screen is off</string>
 	<string name="aod_mode_summary">This feature increases system power consumption. It will be turned off when your device stays in the dark for a long time or Battery saver restrictions are applied.</string>
 	<string name="aod_mode_time_summary">Schedule time to turn Always on mode on and off</string>
 	<string name="aod_mode_time_title">Schedule</string>
@@ -2133,7 +2132,6 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="every_day">Tous les jours</string>
     <string name="expand_button_title">Options avancées</string>
     <string name="expandable_under_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
-    <string name="experimental_category_title">Paramètres expérimentaux</string>
 	<string name="experimental_category_title">Expérimental</string>
     <string name="experimental_preference">(Expérimental)</string>
     <string name="extended_power_menu">"Menu d'alimentation étendu"</string>
@@ -3554,7 +3552,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="notification_fold_description2">MIUI se souviendra des notifications sur lesquelles vous avez appuyé, et utilisera plusieurs critères pour déterminer lesquelles sont importantes.</string>
     <string name="notification_fold_description3">"Si les notifications que vous considérez comme importantes continuent d'aller dans le dossier des notifications, veillez à nous en avertir. Nous apprécions vos retours."</string>
     <string name="notification_fold_footer_icon_summary">"Afficher les icônes d'application lorsque des notifications sans importance sont regroupées"</string>
-	<string name="notification_fold_footer_icon_title">Afficher les icônes de l'application</string>
+	<string name="notification_fold_footer_icon_title">"Afficher les icônes de l'application"</string>
 	<string name="notification_fold_summary">Toutes les notifications sans importance apparaîtront dans un dossier séparé</string>
     <string name="notification_fold_title">Dossier des notifications</string>
     <string name="notification_group_title">Groupe de notifications</string>
@@ -3620,7 +3618,6 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="notification_sound_title">Son de notification par défaut</string>
     <string name="notification_style_title">Style de notification</string>
     <string name="notification_suggestion_summary">Afficher ou masquer le contenu des notifications</string>
-	<string name="notification_suggestion_title">"Informations de contrôle sur l'écran de verrouillage"</string>
     <string name="notification_suggestion_title">"Contrôler les informations sur l'écran de verrouillage"</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
     <string name="notification_summary_level">Niveau %d</string>

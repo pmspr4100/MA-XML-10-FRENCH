@@ -339,6 +339,7 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
+	</string-array>
     <string-array name="clock_bg_setting_entries">
         <item>Blanc</item>
         <item>Noir</item>
@@ -672,10 +673,5 @@
         <item>Ne rien faire</item>
         <item>Répéter</item>
         <item>Rejeter</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>
