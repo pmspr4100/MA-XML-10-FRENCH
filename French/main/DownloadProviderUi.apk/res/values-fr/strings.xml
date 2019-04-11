@@ -77,6 +77,8 @@
     <string name="check_new_downloaded_action">Afficher</string>
     <string name="check_new_downloaded_file">Un nouveau fichier trouvé</string>
     <string name="clear_data">Effacer</string>
+	<string name="close">Quitter</string>
+	<string name="close_ad">Quitter AD</string>
     <string name="complete_time">Terminé :</string>
     <string name="confirm">OK </string>
     <string name="confirm_delete_the_download_item_message">Supprimer ces téléchargements ?</string>

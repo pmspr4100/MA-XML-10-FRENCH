@@ -66,6 +66,8 @@ Cette fonctionnalité crypte et envoie l'ID de votre appareil aux serveurs de Mi
     <string name="user_agreement_content">"
 En utilisant ce service, vous acceptez %s."</string>
     <string name="user_agreement_title">Modalités du service Mi Cloud</string>
+	<string name="user_detail_agreement">"Accord de l'utilisateur"</string>
+    <string name="user_detail_privacy_policy">Politique de confidentialité</string>
     <string name="privacy_policy">Politique de Confidentialité</string>
     <string name="loading">Un instant…</string>
     <string name="license_host_unreachable">Impossible de se connecter au réseau. Pour voir ces informations, allez sur %s.</string>
@@ -80,7 +82,8 @@ En utilisant ce service, vous acceptez %s."</string>
     <string name="find_device_error_server">Erreur du serveur</string>
     <string name="i_know">OK</string>
     <string name="button_cancel">Annuler</string>
-    <string name="enable_micloud">Connectez-vous pour utiliser mi Cloud</string>
+    <string name="enable_micloud">Connectez-vous pour utiliser Mi Cloud</string>
+	<string name="enable_sync_setting_title">Configuration des services cloud…</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Tous les éléments important dans un lieu</string>
     <string name="micloud_dspt">Utilisez le Mi Cloud pour synchroniser vos données et localiser votre appareil,</string>
@@ -150,6 +153,7 @@ En utilisant ce service, vous acceptez %s."</string>
     <string name="micloud_privacy_cloud_off">La synchronisation est désactivée</string>
     <string name="micloud_privacy_licence_agreed">Accepter Mi Cloud &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Politique de confidentialité&lt;/u>&lt;/a>.</string>
     <string name="micloud_privacy_licence_privacy_policy">Politique de Confidentialité</string>
+	<string name="provision_sync_items_loading">Préparation à la synchronisation des éléments</string>
     <string name="micloud_privacy_explanation">"Accorder l'autorisation pour activer les services de Mi Cloud"</string>
     <string name="micloud_privacy_cloud_sync">Activer les services de Mi Cloud</string>
     <string name="micloud_privacy_warning_title">Attention</string>

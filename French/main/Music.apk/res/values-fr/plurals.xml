@@ -78,6 +78,10 @@ Note : le fichier sera également supprimé de cet appareil."</item>
         <item quantity="other">&lt;font color==\"red\">%d chansons&lt;/font> en téléchargement</item>
         <item quantity="one">&lt;font color==\"red\">%d chanson&lt;/font> en téléchargement</item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">%d téléchargements gratuits restants</item>
+        <item quantity="one">%d téléchargement gratuit restant</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">%d éléments sélectionnés</item>
         <item quantity="one">%d élément sélectionné</item>
@@ -117,5 +121,9 @@ Note : le fichier sera également supprimé de cet appareil."</item>
     <plurals name="video_play_count">
         <item quantity="other">%1$s vues</item>
         <item quantity="one">%1$s vue</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">%d jours restants</item>
+        <item quantity="one">%d jour restant</item>
     </plurals>
 </resources>

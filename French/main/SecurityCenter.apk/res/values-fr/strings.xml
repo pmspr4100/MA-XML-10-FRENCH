@@ -949,7 +949,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Tout semble bon !</string>
     <string name="optimize_result_available_memory_info">Mémoire disponible</string>
-    <string name="optimize_result_title_uninstall_apps">Applis</string>
+    <string name="optimize_result_title_uninstall_apps">Désinstaller des applications</string>
     <string name="om_settings_title">Paramètres</string>
     <string name="om_settings_lock_app_manage">Verrouiller les applications</string>
     <string name="om_settings_lock_app">Verrouiller les applications</string>
@@ -1727,6 +1727,11 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="antivirus_monitor_risk_advice">"Cette application n'est pas sécurisée, supprimez-la"</string>
     <string name="antivirus_monitor_virus_advice">Cette application peut contenir un virus, supprimez-la</string>
     <string name="security_scan_optimizing">Optimisation…</string>
+	<string name="securityadd_install_fail">"Impossible de mettre à jour le plug-in. Réessayer."</string>
+	<string name="securityadd_update_tips_cancle">Pas maintenant</string>
+	<string name="securityadd_update_tips_message">"Mettre à jour le plug-in de service de sécurité pour accéder aux dernières fonctionnalités de jeu. %1$dMo seront téléchargés."</string>
+	<string name="securityadd_update_tips_now">Mettre à jour</string>
+	<string name="securityadd_update_tips_title">Mettre à jour</string>
     <string name="preferred_app_entries_launcher">Lanceur</string>
     <string name="preferred_app_entries_dial">Composeur</string>
     <string name="preferred_app_entries_messaging">Messagerie</string>
@@ -2062,6 +2067,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="app_manager_disable">Ne pas autoriser</string>
     <string name="app_manager_factory_reset">Désinstaller les mises à jour</string>
     <string name="app_manager_factory_reset_dlg_title">Désinstaller les mises à jour ?</string>
+	<string name="app_manager_find_apps">Trouver des applications</string>
     <string name="app_manager_factory_reset_dlg_msg">Toutes les mises à jour de cette application système Android seront désinstallées.</string>
     <string name="app_manager_system_mobile_disable">Désactiver les données</string>
     <string name="app_managere_not_have_app">Aucune</string>
@@ -2280,6 +2286,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gb_cutoff">|</string>
     <string name="gb_ad_game_size">Mo</string>
     <string name="gb_new_feature">Nouvelle fonctionnalité</string>
+	<string name="gb_shortcut_pref_title">"Raccourci de l'écran d'accueil"</string>
     <string name="gb_sign_notification_title">Augmentez la vitesse du réseau pour les jeux</string>
     <string name="gb_sign_notification_summary">"S'enregistrer quotidiennement pour recevoir le boost Xunyou"</string>
     <string name="gs_sign_notification">Rappel de vérification à 20 heures tous les jours</string>
@@ -2524,7 +2531,6 @@ Toutes les données sur votre appareil seront supprimées et le mot de passe de 
     <string name="resource_gamebooster">Accélérateur de la vitesse de jeu</string>
     <string name="keywords_gamebooster">Jeu;Augmentation de vitesse;Roi de Gloire;Mode Performance;NPD;Jeux;jeu;Vitesse de jeu;augmenter</string>
     <string name="path_gamebooster">Applications système/Sécurité/Accélérateur de la vitesse de jeu</string>
-    <string name="gb_shortcut_pref_title">Home screen shortcut</string>
     <string name="power_center_consume_rank">Utilisation de la batterie</string>
     <string name="power_center_custom_title">"Profils de gestion d'énergie"</string>
     <string name="power_center_auto_shutdown_summary_default">Allumer ou éteindre votre appareil à une heure programmée</string>

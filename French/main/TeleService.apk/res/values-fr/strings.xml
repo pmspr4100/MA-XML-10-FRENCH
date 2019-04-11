@@ -724,6 +724,7 @@ Bluetooth"</string>
     <string name="fdn_list_with_label">Liste FDN (%s)</string>
     <string name="fdn_summary">Restreindre les appels sortants à une liste de numéros FDNs ou à des numéros avec certains préfixes</string>
     <string name="fdn_with_label">"Paramètres d'appel (%s)"</string>
+	<string name="fiveg_switch_title">Réseau 5G</string>
     <string name="flash_when_ring_summary">Utilisez le flash pour notifier les appels entrants</string>
     <string name="flash_when_ring_title">"Flash lors d'un appel"</string>
     <string name="forbidden_network">(Limité)</string>

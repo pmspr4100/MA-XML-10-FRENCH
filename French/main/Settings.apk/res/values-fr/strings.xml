@@ -274,19 +274,19 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="allow_bind_app_widget_activity_allow_bind_title">"Créer un widget et autoriser l'accès ?"</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Toujours autoriser %1$s à créer des widgets et accéder à leurs données</string>
     <string name="allow_data_usage_title">Autor. conso données en itinér.</string>
-    <string name="allow_device_id_access">Applications avec accès à l’ID de l’appareil</string>
-    <string name="allow_float_summary">Pop up notifications at the top of the screen</string>
+    <string name="allow_device_id_access">"Applications avec accès à l'ID de l'appareil"</string>
+    <string name="allow_float_summary">Autoriser les notifications flottantes</string>
     <string name="allow_float_title">Notifications flottantes</string>
     <string name="allow_interruption">Autoriser les interruptions</string>
     <string name="allow_interruption_summary">"Autoriser l'application à émettre des sons, vibrer et/ou afficher des notifications à l'écran"</string>
-    <string name="allow_keyguard_summary">Show notifications on the lock screen</string>
+    <string name="allow_keyguard_summary">"Autoriser les notifications sur l'écran de verrouillage"</string>
     <string name="allow_keyguard_title">"Notifications d'écran de verrouillage"</string>
-    <string name="allow_lights_title">Allow breathing light tips</string>
+    <string name="allow_lights_title">"Autoriser l'utilisation de la LED de notification"</string>
     <string name="allow_mock_location">Autoriser les simulations de localisations</string>
     <string name="allow_mock_location_summary">Autoriser les simulations de localisations</string>
     <string name="allow_overlay_description">Autorisez cette application à se superposer aux autres applications que vous utilisez. Cette autorisation peut avoir un impact sur votre utilisation de ces dernières, ou modifier leur apparence ou leur comportement.</string>
-    <string name="allow_sound_title">Allow sound</string>
-    <string name="allow_vibrate_title">Allow vibration</string>
+    <string name="allow_sound_title">Autoriser le son</string>
+    <string name="allow_vibrate_title">Autoriser les vibrations</string>
     <string name="alpha_build">Alpha</string>
     <string name="always">Toujours</string>
     <string name="always_allow_bind_appwidgets_text">"Vous avez choisi de permettre à cette application de créer des widgets et d'accéder à leurs données."</string>
@@ -314,6 +314,19 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
     <string name="another_migration_already_in_progress">Une autre migration est déjà en cours.</string>
     <string name="anti_spam">Antispam</string>
+	<string name="aod_clock_style_title">"Style d'horloge"</string>
+	<string name="aod_close_color_inversion">"Cette fonctionnalité ne peut pas être combinée avec l'inversion de couleur. Désactiver l'inversion de couleur en premier."</string>
+	<string name="aod_got_it">Got it</string>
+	<string name="aod_lock_screen_date">EEEE dd MMMM</string>
+	<string name="aod_lock_screen_date_12">EEEE dd MMMM</string>
+	<string name="aod_mode_bg">Background</string>
+	<string name="aod_mode_clock">Clock</string>
+	<string name="aod_mode_style">Clock style and background</string>
+	<string name="aod_mode_summary">Show time, date, and messages when the screen is off</string>
+	<string name="aod_mode_summary">This feature increases system power consumption. It will be turned off when your device stays in the dark for a long time or Battery saver restrictions are applied.</string>
+	<string name="aod_mode_time_summary">Schedule time to turn Always on mode on and off</string>
+	<string name="aod_mode_time_title">Schedule</string>
+	<string name="aod_mode_title">Always on mode</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">"Type d'authentification"</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -497,6 +510,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="auto_disable_screenbuttons_rotation_title">Bloquer les boutons de navigation en mode Paysage</string>
     <string name="auto_disable_screenbuttons_summary">"Désactiver automatiquement les boutons de navigation lors de l'utilisation des applications sélectionnées. Appuyez deux fois sur un bouton de navigation pour réactiver."</string>
     <string name="auto_disable_screenbuttons_title">Désactiver automatiquement les boutons de navigation</string>
+	<string name="auto_dual_clock_aod_summary">"Afficher la double horloge lorsque l'heure actuelle est différente de celle de la deuxième horloge"</string>
     <string name="auto_dual_clock_summary">"Afficher la double horloge lorsque l'heure actuelle est différente de celle de la deuxième horloge"</string>
     <string name="auto_dual_clock_title">Double horloge</string>
     <string name="auto_launch_disable_text">Aucun paramètre par défaut défini</string>
@@ -1147,6 +1161,12 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="call_manager_enable_summary">Autoriser ce service à gérer comment vous passez vos appels</string>
     <string name="call_manager_enable_title">"Activer le gestionnaire d'appels"</string>
     <string name="call_manager_title">"Gestionnaire d'appels"</string>
+	<string name="call_records_name_1">Debbie Smith</string>
+	<string name="call_records_name_2">Jason Lee</string>
+	<string name="call_records_name_3">Tom Fowles</string>
+	<string name="call_records_summary_1">9:35 AM | 26 seconds | China Unicom</string>
+	<string name="call_records_summary_2">August 16 | 1m 16s | China Mobile</string>
+	<string name="call_records_summary_3">August 16 | 2m 24s | China Unicom</string>
     <string name="call_settings_primary_user_only">"Changer les paramètres d'appel dans le Premier Espace"</string>
     <string name="call_settings_summary">"Messagerie vocale, transferts d'appel, mise en attente, numéro de l'appelant"</string>
     <string name="call_settings_title">"Paramètres d'appel"</string>
@@ -1917,7 +1937,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="double_twist_for_camera_suggestion_title">Prendre des selfies plus rapidement</string>
     <string name="download_current_rom">Obtenez la dernière version de MIUI</string>
     <string name="downloading_description">Téléchargement…</string>
-    <string name="doze_always_on_summary">"Afficher l'heure, les icônes de notification et d'autres informations. Batterie davantage sollicitée."</string>
+    <string name="doze_always_on_summary">"Cette fonctionnalité augmente la consommation d'énergie du système. Il sera désactivé si votre appareil reste longtemps dans le noir ou si des restrictions d'économiseur d'énergie sont appliquées."</string>
     <string name="doze_always_on_title">Toujours activé</string>
     <string name="doze_summary">"Activer l'écran lors de la réception de notifications"</string>
     <string name="doze_title">Nouvelles notifications</string>
@@ -1925,9 +1945,10 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dtmf_tone_enable_title">Sonneries du clavier</string>
     <string name="dual_clock">Double horloge</string>
     <string name="dual_clock_aod_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes: 1. Pour l'écran éteitn, autoriser d'afficher les éléments dans Paramètres > Afficher; 2. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres > Thèmes; 3. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
-    <string name="dual_clock_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes: 1. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres > Thèmes; 2. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
+    <string name="dual_clock_aod_open_message">Dual Clock will be displayed on the Lock screen, Home screen, and turned off screen.</string>
+	<string name="dual_clock_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes: 1. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres > Thèmes; 2. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
     <string name="dual_clock_ok">"C'est compris"</string>
-    <string name="dual_clock_open_message">"La double horloge s'affichera sur l'écran de verrouillage, l'écran d'accueil et l'écran éteint."</string>
+    <string name="dual_clock_open_message">"La double horloge s'affichera sur l'écran de verrouillage, l'écran d'accueil."</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dump_log">Obtenir les journaux liés aux problèmes</string>
@@ -2113,6 +2134,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="expand_button_title">Options avancées</string>
     <string name="expandable_under_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
     <string name="experimental_category_title">Paramètres expérimentaux</string>
+	<string name="experimental_category_title">Expérimental</string>
     <string name="experimental_preference">(Expérimental)</string>
     <string name="extended_power_menu">"Menu d'alimentation étendu"</string>
     <string name="external_code_size_label">Application sur USB</string>
@@ -2389,10 +2411,14 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_anim_rhythm">Rythme</string>
     <string name="gxzw_anim_star">Lumière des étoiles</string>
     <string name="gxzw_anim_title">"Animation d'empreinte"</string>
+	<string name="gxzw_aod_show_summary">"L'icône d'empreintes digitales sera affichée lorsque l'écran est éteint. Cette fonctionnalité augmente la consommation d'énergie du système."</string>
+	<string name="gxzw_aod_show_tittle">"Afficher l'icône d'empreinte digitale lorsque l'écran est éteint"</string>
     <string name="gxzw_dialog_message">"Pour pouvoir utiliser le capteur d'empreinte digitale intégré à l'écran, n'utilisez pas de protecteur d'écran. Si vous pensez qu'un protecteur d'écran est toujours nécessaire, choisissez parmi les options compatibles autorisées."</string>
     <string name="gxzw_dialog_not_show_again">Ne pas afficher à nouveau</string>
     <string name="gxzw_dialog_ok">"C'est compris"</string>
     <string name="gxzw_dialog_title">"À propos du capteur d'empreinte digitale intégré à l'écran"</string>
+	<string name="launcher_icon">Icônes</string>
+	<string name="gxzw_enroll_again">Lift your finger and press the fingerprint scanner again</string>
     <string name="gxzw_quick_open_title" />
     <string name="handy_mode">Mode une main</string>
     <string name="handy_mode_enable">Mode une main</string>
@@ -2680,6 +2706,9 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="launching_cit">Démarrage du CIT</string>
     <string name="launching_pho">Lancement des infos du téléphone…</string>
     <string name="launching_rep">Rapport…</string>
+	<string name="layout_exhuge_font_take_effect_tips">La taille du texte XXL ne fonctionne que dans Téléphone, Messagerie et Contacts.</string>
+	<string name="layout_exhuge_font_tips">"Plus d'options sont disponibles dans %1$s"</string>
+	<string name="layout_exhuge_font_tips_reg">"Accessibilité &gt; Taille d'affichage"</string>
     <string name="layout_size_exhuge">XXL</string>
     <string name="layout_size_exhuge_text">XXL</string>
     <string name="layout_size_huge">XL</string>
@@ -2704,7 +2733,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="legal_workday_message">(Sauter les vacances)</string>
     <string name="license_title">Licence</string>
     <string name="lift_to_wake_title">Soulever pour activer</string>
-    <string name="lights_title">Blink light</string>
+    <string name="lights_title">Lumière de la LED</string>
     <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
     <string name="line_breaking_title">Optimiser le texte</string>
     <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
@@ -3498,13 +3527,13 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="notes_privacy_password_role_instruction">Vos notes privées seront stockées ici.</string>
     <string name="notifi_channels">Catégories de notifications</string>
     <string name="notifi_channels_other">Autre</string>
-    <string name="notifi_importance_default">Shows everywhere, makes noise, but does not visually.</string>
-    <string name="notifi_importance_high">Shows everywhere, makes noise and peeks. May use full screen intents.</string>
-    <string name="notifi_importance_low">Shows everywhere, but is not intrusive.</string>
-    <string name="notifi_importance_min">Only shows in the shade</string>
+    <string name="notifi_importance_default">Play sound and show on the Lock screen</string>
+	<string name="notifi_importance_high">Play sound, show on the Lock screen, allow using fullscreen options</string>
+	<string name="notifi_importance_low">"Don't play sound"</string>
+	<string name="notifi_importance_min">"Don't show on the Lock screen, don't play sound"</string>
     <string name="notifi_importance_none">Désactivé</string>
     <string name="notifi_importance_unspecified">Let the app decide</string>
-    <string name="notifi_no_channels">This app has not posted any notifications</string>
+    <string name="notifi_no_channels">"Cette application n'a pas encore reçu de notification"</string>
     <string name="notification_app_settings_button">Paramètres de notification</string>
     <string name="notification_badge_title">Autoriser la pastille de notification</string>
     <string name="notification_badging_title">Autoriser pastilles notification</string>
@@ -3524,7 +3553,9 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="notification_fold_description1">Le dossier des notifications est apparu dans MIUI 9. Cette fonctionnalité filtre les notifications peu importantes et les place dans un dossier séparé.</string>
     <string name="notification_fold_description2">MIUI se souviendra des notifications sur lesquelles vous avez appuyé, et utilisera plusieurs critères pour déterminer lesquelles sont importantes.</string>
     <string name="notification_fold_description3">"Si les notifications que vous considérez comme importantes continuent d'aller dans le dossier des notifications, veillez à nous en avertir. Nous apprécions vos retours."</string>
-    <string name="notification_fold_summary">Toutes les notifications sans importance apparaîtront dans un dossier séparé</string>
+    <string name="notification_fold_footer_icon_summary">"Afficher les icônes d'application lorsque des notifications sans importance sont regroupées"</string>
+	<string name="notification_fold_footer_icon_title">Afficher les icônes de l'application</string>
+	<string name="notification_fold_summary">Toutes les notifications sans importance apparaîtront dans un dossier séparé</string>
     <string name="notification_fold_title">Dossier des notifications</string>
     <string name="notification_group_title">Groupe de notifications</string>
     <string name="notification_importance_blocked">Ne jamais afficher les notifications</string>
@@ -3589,6 +3620,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="notification_sound_title">Son de notification par défaut</string>
     <string name="notification_style_title">Style de notification</string>
     <string name="notification_suggestion_summary">Afficher ou masquer le contenu des notifications</string>
+	<string name="notification_suggestion_title">"Informations de contrôle sur l'écran de verrouillage"</string>
     <string name="notification_suggestion_title">"Contrôler les informations sur l'écran de verrouillage"</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
     <string name="notification_summary_level">Niveau %d</string>
@@ -3702,6 +3734,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="page_layout_31">Jack Tang</string>
     <string name="page_layout_32">Play Store</string>
     <string name="page_layout_33">Google</string>
+	<string name="page_layout_34">Téléphone</string>
+	<string name="page_layout_35">Notes</string>
     <string name="page_layout_4">Musique</string>
     <string name="page_layout_5">Vidéo</string>
     <string name="page_layout_6">Applications</string>
@@ -3709,8 +3743,12 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="page_layout_8">Mi Life</string>
     <string name="page_layout_9">Thèmes</string>
     <string name="page_layout_confirm_message">Votre appareil doit redémarrer pour prendre en charge ces modifications. Cela peut prendre environ 1 minute.</string>
-    <string name="page_layout_confirm_title">Valider les changements</string>
-    <string name="page_layout_godzilla_title">XXL</string>
+    <string name="page_layout_confirm_message_enlarge">"Le texte, les images et les icônes seront agrandis. Certaines icônes peuvent changer de place."</string>
+	<string name="page_layout_confirm_message_narrow">"Le texte, les images et les icônes deviendront plus petits. Certaines icônes peuvent changer de place."</string>
+	<string name="page_layout_confirm_title">Valider les changements</string>
+    <string name="page_layout_confirm_title_enlarge">Bigger items</string>
+	<string name="page_layout_confirm_title_narrow">Smaller items</string>
+	<string name="page_layout_godzilla_title">XXL</string>
     <string name="page_layout_huge_title">XL</string>
     <string name="page_layout_large_title">L</string>
     <string name="page_layout_medium_title">M</string>
@@ -4197,15 +4235,15 @@ Interface UT : %5$s"</string>
     <string name="reset_network_complete_toast">Les paramètres des réseaux ont bien été réinitialisés.</string>
     <string name="reset_network_confirm_title">Réinitialiser ?</string>
     <string name="reset_network_data">Données Mobiles</string>
-    <string name="reset_network_desc">"Tous les paramètres réseau seront réinitialisés, y compris les suivants :
+    <string name="reset_network_desc">"Ceci réinitialisera tous les paramètres réseau, y compris:
 
-"<li>Wi‑Fi</li>"
-"<li>Données mobiles</li>"
-"<li>Bluetooth</li></string>
+"&lt;li&gt;Wi-Fi&lt;/li&gt;"
+"&lt;li&gt;Données mobile&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
     <string name="reset_network_final_button_text">Réinitialiser les paramètres</string>
     <string name="reset_network_final_desc">Réinitialiser tous les paramètres réseau ? Cette action est irréversible.</string>
     <string name="reset_network_title">Réinitialiser le Wi-Fi, les données mobiles et le Bluetooth</string>
-    <string name="reset_network_wifi">Wi‑Fi</string>
+    <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_second_space_passwd">Réinitialiser le mot de passe du second espace</string>
     <string name="reset_second_space_passwd_cancel">Annuler</string>
     <string name="reset_second_space_passwd_confirm">Continuer</string>
@@ -4382,8 +4420,6 @@ Pour épingler l'écran :
     <string name="screen_timeout_summary">"Après %1$s d'inactivité"</string>
     <string name="screen_timeout_title">"Extinction de l'écran"</string>
     <string name="screen_usage_summary">"Durée d'activation de l'écran depuis la charge complète"</string>
-    <string name="screen_zoom_conversation_icon_alex">A</string>
-    <string name="screen_zoom_conversation_icon_pete">P</string>
     <string name="screen_zoom_conversation_message_1">Bonjour Pierre !</string>
     <string name="screen_zoom_conversation_message_2">"Et si on prenait un café aujourd'hui pour discuter ?"</string>
     <string name="screen_zoom_conversation_message_3">Bonne idée. Je connais un café sympa dans ce quartier.</string>
@@ -4451,7 +4487,7 @@ Pour épingler l'écran :
     <string name="se_wallet_ese">Mi Pay et carte de transport NFC</string>
     <string name="se_wallet_hce">Utiliser le portefeuille HCE</string>
     <string name="se_wallet_uicc">Utiliser le portefeuille de la carte SIM%1$s</string>
-    <string name="search_about_settings">À propos du téléphone;Modèle;Version Android;Version MIUI;CPU;RAM;Mémoire interne;Mémoire;Stockage;Stockage interne;Version de bande de base;Version du noyau;Numéro de build</string>
+    <string name="search_about_settings">À propos du téléphone;Modèle;Version Android;Version MIUI;CPU;RAM;Mémoire interne;Mémoire;Stockage;Stockage interne;Version de bande de base;Version du noyau;Numéro de build;Mon appareil;Téléphone;Appareil</string>
     <string name="search_accelerometer_title">"Rotation automatique de l'écran;Rotation de l'écran;Orientation;Portrait;Paysage"</string>
     <string name="search_access_control">Paramètres de confidentialité;Confidentialité de sécurité;Invité;Mode invité</string>
     <string name="search_accessibility_captioning_title">Sous-titre</string>
@@ -4608,7 +4644,7 @@ Pour épingler l'écran :
     <string name="search_trusted_credentials">"Certificats de confiance;Signature d'application;Signatures d'application;Certificats;Signature"</string>
     <string name="search_tts_settings_title">Sortie de la synthèse vocale;Synthèse vocale</string>
     <string name="search_turn_on_security_lock">"Sélectionner un verrouillage d'écran;Ajouter un verrouillage d'écran;verrouillage d'écran"</string>
-    <string name="search_unlogin_account_title">Compte Mi;ID du Compte Mi;Compte;ID du compte</string>
+    <string name="search_unlogin_account_title">Compte Mi;ID du Compte Mi;Compte;ID du compte;Compte Xiaomi;Protection du compte;Protéger le compte;Sécurité du compte;Mon compte</string>
     <string name="search_usb_tethering_button_text">Partage de connexion USB;Partage de connexion;USB</string>
     <string name="search_user_agreement">"Conditions générales d'utilisation"</string>
     <string name="search_user_dict_settings_title">Dictionnaire personnel;Dictionnaire</string>
@@ -5850,7 +5886,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="vibrate_input_devices_summary">Rediriger le vibreur vers la manette de jeu lorsque vous êtes connecté</string>
     <string name="vibrate_on_touch_summary">Retour haptique pour la fonction tactile, le clavier, etc.</string>
     <string name="vibrate_on_touch_title">Vibreur pour le toucher</string>
-    <string name="vibrate_title">Vibreur</string>
+    <string name="vibrate_title">Vibration</string>
     <string name="vibrate_when_ringing_title">Vibreur pour les appels</string>
     <string name="vip_list">Autoriser les appels entrants</string>
     <string name="virtual_keyboard_category">Clavier virtuel</string>
@@ -5892,11 +5928,11 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="virus_scanner_select_trust_lib">Sélection de la base de données virales</string>
     <string name="virus_scanner_title">Analyse virale</string>
     <string name="virus_scanner_update_lib">Mettre à jour</string>
-    <string name="visibility_override_title">On lock screen</string>
+    <string name="visibility_override_title">"Sur l'écran de verrouillage"</string>
     <string name="vision_settings_description">"Vous pouvez personnaliser cet appareil en fonction de vos besoins et modifier ces fonctionnalités d'accessibilité ultérieurement dans les paramètres."</string>
     <string name="vision_settings_suggestion_title">Modifier la taille de la police</string>
     <string name="vision_settings_title">Paramètres visuels</string>
-    <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist">IA Mi</string>
     <string name="voice_category">Discours</string>
     <string name="voice_helper_title">Assistant vocal</string>
     <string name="voice_input_output_settings">Saisie et sortie vocales</string>
@@ -6558,6 +6594,7 @@ On dirait que le stockage des certificats n’est pas activé."</string>
     <string name="wizard_back">Retour</string>
     <string name="wizard_finish">Terminer</string>
     <string name="wizard_next">Suivant</string>
+	<string name="words_title">Texte</string>
     <string name="work_alarm_ringtone_title">"Son de l'alarme professionnelle par défaut"</string>
     <string name="work_mode_label">Profil professionnel</string>
     <string name="work_mode_off_summary">Les applications et les notifications sont désactivées</string>
@@ -6804,8 +6841,8 @@ Les notifications nécessaires pour l'activité du téléphone et son état sont
     <string name="zen_suggestion_summary">Suspendre les notifications pour rester concentré</string>
     <string name="zen_suggestion_title">Mettre à jour le mode Ne pas déranger</string>
     <string name="zone_auto">Fuseau horaire automatique</string>
-    <string name="zone_auto_summaryOff">Utiliser le fuseau horaire fourni par le réseau</string>
-    <string name="zone_auto_summaryOn">Utiliser le fuseau horaire fourni par le réseau</string>
+    <string name="zone_auto_summaryOff">Use the time provided by the carrier network</string>
+	<string name="zone_auto_summaryOn">Use the time provided by the carrier network</string>
     <string name="zone_change_to_from_dst">%1$s : à partir du %2$s.</string>
     <string name="zone_info_footer">Fuseau horaire utilisé : %1$s. %2$s commence le %3$s.</string>
     <string name="zone_info_footer_no_dst">"Fuseau horaire utilisé : %1$s. Aucune heure d'été."</string>

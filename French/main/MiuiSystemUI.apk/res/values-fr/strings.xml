@@ -292,8 +292,10 @@
     <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
     <string name="always_use_device">Utiliser par défaut pour cet appareil USB</string>
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
-    <string name="aod_lock_screen_date">EE, d MMMM</string>
-    <string name="aod_lock_screen_date_12">EE, d MMMM</string>
+    <string name="aod_dual_togother">HH:mm</string>
+	<string name="aod_dual_togother_12">hh:mm aa</string>
+	<string name="aod_lock_screen_date">EEEE dd MMMM</string>
+	<string name="aod_lock_screen_date_12">EEEE dd MMMM</string>
     <string name="apn_settings_not_available">"Les paramètres du nom de point d'accès (Apn) ne sont pas disponibles pour cet utilisateur"</string>
     <string name="app_info">"Infos sur l'application"</string>
     <string name="app_label">Système IU</string>
@@ -751,6 +753,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="guest_wipe_session_message">Voulez-vous continuer votre session ?</string>
     <string name="guest_wipe_session_title">Bienvenue, invité !</string>
     <string name="guest_wipe_session_wipe">Recommencer</string>
+	<string name="gxzw_area">Scanner empreintes digitales</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">Appuyer un peu plus fort</string>
     <string name="gxzw_try_again">Veuillez réessayer</string>
@@ -985,8 +988,12 @@ Réessayez dans %2$d secondes."</string>
     <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>
     <string name="local_backup_password_toast_validation_failure">Impossible de définir le mot de passe de sauvegarde</string>
     <string name="lock_screen_carrier_airplane_mode_on">Mode Avion</string>
-    <string name="lock_screen_date">EEEE d MMMM</string>
-    <string name="lock_screen_date_12">EEEE d MMMM</string>
+    <string name="lock_screen_date">EEEE dd MMMM</string>
+    <string name="lock_screen_date_12">EEEE dd MMMM</string>
+	<string name="lock_screen_date_two_lines">"EEEE
+dd MMMM"</string>
+  <string name="lock_screen_date_two_lines_12">"EEEE
+dd MMMM"</string>
     <string name="lock_screen_magazine_default_content">Portion quotidienne de nouvelles images</string>
     <string name="lock_screen_magazine_default_title">"Fond d'écran Carrousel"</string>
     <string name="lock_screen_magazine_global_button_text">Plus</string>

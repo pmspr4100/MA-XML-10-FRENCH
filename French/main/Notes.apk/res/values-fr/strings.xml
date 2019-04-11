@@ -86,8 +86,6 @@
     <string name="force_touch_menu_add">Ajouter une note</string>
     <string name="format_move_note_out_folder">Cette note a été déplacée</string>
     <string name="format_move_note_to_folder">Déplacé vers %1$s</string>
-    <string name="format_move_notes_out_folder">%1$s déplacé</string>
-    <string name="format_move_notes_to_folder">Déplacé de %1$s à %2$s</string>
     <string name="hidden_notes_fragment_title">Notes masquées</string>
     <string name="hide_arrow_description">Masquer</string>
     <string name="hint_cannot_view_hidden_note_content">Vous ne pouvez pas afficher le contenu des notes masquées</string>
@@ -207,11 +205,9 @@
     <string name="toast_cancel_to_insert_image">"Impossible d'ajouter une image."</string>
     <string name="toast_message_add_image_fail">"Impossible d'ajouter une image"</string>
     <string name="toast_notes_delete_success">Supprimé avec succès</string>
-    <string name="toast_notes_hidden_count">%1$s a été masqué avec succès</string>
     <string name="toast_notes_hidden_edit">Cette note a été cachée avec succès. Tirez vers le bas pour voir les notes cachées.</string>
     <string name="toast_notes_hidden_home">Cette note a été cachée avec succès. Tirez vers le bas pour voir les notes cachées.</string>
     <string name="toast_notes_unhidden">Affiché avec succès</string>
-    <string name="toast_notes_unhidden_count">%1$s a été affiché avec succès</string>
     <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour être joint au message.</string>
     <string name="toast_reach_text_limit_checkbox">"Impossible d'ajouter une case à cocher car la note est trop longue"</string>
     <string name="toast_reach_text_limit_truncate">Cette note est trop longue. Une partie du texte a été coupée à la fin.</string>

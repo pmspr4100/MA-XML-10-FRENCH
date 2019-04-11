@@ -7,6 +7,7 @@
     <string name="button_next">Suivant</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
+    <string name="doing_calc_backup_data_size">Calculer la taille…</string>
     <string name="retry">Réessayer</string>
     <string name="cloud_app_current_device">Appareil actuel</string>
     <string name="cloud_app_other_devices">Autres appareils</string>
@@ -51,6 +52,7 @@
     <string name="other_device_main_space">Premier espace</string>
     <string name="other_device_second_space">Second espace</string>
     <string name="process_whole_recovery">Restauration de \"%s\"</string>
+	<string name="provision_background_restore_more_data">Restaurer plusieurs éléments en arrière-plan</string>
     <string name="size_unknown">Taille inconnue</string>
     <string name="recovering">Restauration %s</string>
     <string name="start_recover">Restaurer %s</string>
@@ -72,7 +74,7 @@
     <string name="desktop_waiting">En attente</string>
     <string name="desktop_downloading">Téléchargement</string>
     <string name="desktop_installing">Installation</string>
-    <string name="desktop_wait_wifi">En attente</string>
+    <string name="desktop_wait_network">Patienter…</string>
     <string name="desktop_failed">Erreur</string>
     <string name="recover_from_micloud">Restaurer à partir de la sauvegarde Mi Cloud</string>
     <string name="click_try_to_restore_again">Appuyez pour essayer à nouveau</string>
@@ -88,6 +90,8 @@
     <string name="wait_icon_download">Téléchargement des icônes des applications</string>
     <string name="download_settings_fail">"Impossible de télécharger les paramètres de l'écran d'accueil"</string>
     <string name="restore_init_description">Démarrer la restauration</string>
+	<string name="restore_network_pause">%s (Cliquez pour reprendre)</string>
+    <string name="restore_network_unconnect">%s (Attente de la connexion)</string>
     <string name="restore_finish_description">Restauration terminée</string>
     <string name="backup_fail_wifi_needed">Impossible de sauvegarder, besoin de Wi-Fi.</string>
     <string name="backup_success">Sauvegardé avec succès</string>
@@ -114,7 +118,7 @@
     <string name="confirm_cancel_restore_positive">Continuer</string>
     <string name="confirm_cancel_restore_negative">Annuler</string>
     <string name="confirm_restore_title">Restaurer</string>
-    <string name="confirm_restore_summary">"L'écran d'accueil va redémarrer et les applications seront téléchargées automatiquement quand vous serez connecté au Wi-Fi"</string>
+    <string name="confirm_restore_summary">"L'écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement."</string>
     <string name="confirm_restore">Restaurer</string>
     <string name="cloud_backup_have_data">Sauvegarde trouvée dans Mi Cloud</string>
     <string name="cloud_backup_select_recover">Choisir une sauvegarde à partir de Mi Cloud</string>
@@ -123,6 +127,16 @@
     <string name="backup_now">Sauvegarder maintenant</string>
     <string name="restore_unfinished">Restauration, réessayez plus tard</string>
     <string name="remove_unfinished">Retrait, réessayez plus tard</string>
+	<string name="restore_app_order_finish">Terminé</string>
+    <string name="restore_app_order_loading">Un instant…</string>
+    <string name="restore_app_order_retry">Réessayer</string>
+    <string name="restore_app_order_retry_desc">"Impossible de se connecter au réseau.
+Vérifiez vos paramètres réseau et réessayez."</string>
+    <string name="restore_app_order_search_hint">Rechercher des éléments pour définir la priorité</string>
+    <string name="restore_app_order_search_installed">Applications sur cet appareil</string>
+    <string name="restore_app_order_search_normal">Applications à priorité régulière</string>
+    <string name="restore_app_order_search_prior">Applications hautement prioritaires</string>
+    <string name="restore_app_order_title">Prioriser les éléments restaurés</string>
     <string name="backup_successfully">Sauvegardé avec succès</string>
     <string name="btn_back">Retour</string>
     <string name="btn_continue">Continuer</string>
@@ -131,8 +145,13 @@
     <string name="can_not_restore_in_lite_mode">Impossible de restaurer en mode simplifié</string>
     <string name="can_not_backup_in_lite_mode">Impossible de sauvegarder en mode simplifié</string>
     <string name="restore_data_title">Restaurer les données</string>
+	<string name="restore_detail_category_apps">"Disposition de l'écran d'accueil &amp; applications"</string>
+    <string name="restore_detail_category_settings">Paramètres</string>
+    <string name="restore_detail_more">Plus</string>
+    <string name="restore_detail_title">Sélectionnez les éléments à restaurer</string>
     <string name="provision_error_connect_msg">Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne.</string>
     <string name="provision_error_connect_title">Impossible de se connecter</string>
+	<string name="provision_restore_data">"Restauration d'éléments"</string>
     <string name="loading_user_backup">"Chargement des sauvegardes d'utilisateur…"</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Impossible de vérifier le compte.</string>
@@ -180,9 +199,14 @@
     <string name="title_alert_cancel_restore">Arrêter la restauration</string>
     <string name="msg_alert_cancel_restore">En cours de restauration des éléments. Arrêter maintenant ?</string>
     <string name="btn_restore_cancel">Annuler</string>
+    <string name="btn_restore_continue">Restaurer quand même</string>  
     <string name="btn_restore_resume">Reprendre</string>
     <string name="title_alert_restore_error">Restauration impossible</string>
+	<string name="title_restore_with_current_network">Utiliser la connexion actuelle pour télécharger des fichiers</string>
     <string name="msg_alert_restore_error">Impossible de restaurer les éléments du Mi Cloud. Réessayez.</string>
+	<string name="msg_restore_start_with_metered_network">"Votre écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s des fichiers seront téléchargés.&lt;/font&gt;&lt;/b&gt;"</string>
+    <string name="msg_restore_with_metered_network_hint">Si vous procédez à la restauration de ces éléments, les données mobiles seront utilisées pour le téléchargement..</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; des fichiers seront téléchargés."</string>
     <string name="btn_restore_retry">Veuillez réessayer</string>
     <string name="btn_restore_abort">Annuler</string>
     <string name="backup_stopped_title">La sauvegarde était en pause</string>

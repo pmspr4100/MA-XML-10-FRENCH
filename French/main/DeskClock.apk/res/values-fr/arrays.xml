@@ -339,6 +339,10 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
+    <string-array name="clock_bg_setting_entries">
+        <item>Blanc</item>
+        <item>Noir</item>
+        <item>Auto</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Côte d'Ivoire"</item>

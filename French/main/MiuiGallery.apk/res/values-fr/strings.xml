@@ -485,7 +485,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="ext_sdcard_permission_request_title">Autoriser la Galerie à accéder à la carte SD</string>
     <string name="ext_sdcard_request_failed_button_text">OK </string>
     <string name="ext_sdcard_request_succeed_toast_text">Vous êtes prêt à faire sensation !</string>
-    <string name="face_album_empty">"Pas assez de photos pour reconnaître les personnes.r
+    <string name="face_album_empty">"Pas assez de photos pour reconnaître les personnes.
 Prenez plus de photos à vos amis !"</string>
     <string name="face_album_empty_syncing">Synchronisation des données en cours, revenez plus tard</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Se connecter au réseau pour synchroniser les informations</string>
@@ -855,6 +855,7 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_beautify">Embellir</string>
     <string name="photo_editor_beautify_auto">Auto</string>
     <string name="photo_editor_beauty_compare">Original</string>
+	<string name="photo_editor_compare_tip">"Appuyez longuement pour voir l'image originale"</string>
     <string name="photo_editor_crop_and_rotate">Rogner</string>
     <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Recadré automatiquement</string>
@@ -892,6 +893,7 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_navigator_module_download_wait_wlan">En attente du Wi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">Téléchargement de %s en cours…</string>
     <string name="photo_editor_navigator_need_download">Se connecter à Internet pour télécharger %s.</string>
+	<string name="photo_editor_remove_watermark">Supprimer filigrane</string>
     <string name="photo_editor_remover">Supprimer</string>
     <string name="photo_editor_rotate">Pivoter</string>
     <string name="photo_editor_saving">Enregistrement…</string>

@@ -165,7 +165,9 @@
     <string name="auto_cleaner_open">Activer</string>
     <string name="btn_text_done">Terminer</string>
     <string name="btn_text_stop">Arrêter</string>
-    <string name="hints_quick_scanning">Analyse…</string>
+    <string name="scanning">Analyse…</string>
+    <string name="search_history">Historique des recherches</string>
+    <string name="security_center_slogan">Sécurité. Toujours sur ses gardes.</string>
     <string name="hints_quick_cleanuping">Optimisation…</string>
     <string name="hints_deepclean_scanning">Analyse %s</string>
     <string name="cache_title_system_cache">Cache données</string>

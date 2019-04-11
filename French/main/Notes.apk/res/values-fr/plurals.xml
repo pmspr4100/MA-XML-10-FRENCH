@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="alert_message_delete">
+        <item quantity="other">Supprimer %1$s fichiers ?</item>
+        <item quantity="one">Supprimer %1$s fichier ?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%1$s n'ont pas été synchronisés"</item>
-        <item quantity="one">"%1$s n'a pas été synchronisé"</item>
+        <item quantity="other">"%1$s fichiers n'ont pas été synchronisés"</item>
+        <item quantity="one">"%1$s fichier n'a pas été synchronisé"</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">Suppression de %1$s notes du dossier</item>
+        <item quantity="one">Suppression de %1$s note du dossier</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Déplacement de %1$s notes vers %2$s</item>
+        <item quantity="one">Déplacement de %1$s note vers %2$s</item>
+    </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d secondes restantes</item>
+        <item quantity="one">%d seconde restante</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">Chiffrer %1$s notes avec succès</item>
+        <item quantity="one">Chiffrer %1$s note avec succès</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Déchiffrer %1$s notes avec succès</item>
+        <item quantity="one">Déchiffrer %1$s note avec succès</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%d caractères</item>
+        <item quantity="one">%d caractère</item>
     </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s dossiers</item>
@@ -11,13 +39,5 @@
     <plurals name="note_terms">
         <item quantity="other">%1$s notes</item>
         <item quantity="one">%1$s note</item>
-    </plurals>
-    <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d secondes restantes</item>
-        <item quantity="one">%d seconde restante</item>
-    </plurals>
-    <plurals name="word_count">
-        <item quantity="other">%d caractères</item>
-        <item quantity="one">%d caractère</item>
     </plurals>
 </resources>

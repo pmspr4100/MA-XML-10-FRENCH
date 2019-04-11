@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>Réseau domestique</item>
         <item>Tous les réseaux</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>CHAUD</item>
         <item>TIÈDE</item>
         <item>FROID</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
     </string-array>
     <string-array name="ai_key_item_name">
         <item>"Parler à l'assistant Google"</item>
@@ -347,12 +326,6 @@
         <item>" | Activé"</item>
         <item>" | Activé (média)"</item>
         <item>" | Activé (téléphone)"</item>
-    </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (par défaut)</item>
