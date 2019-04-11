@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="action_add_to_workspace">Ajouter à lespace de travail</string>
-    <string name="activity_not_found">Lapplication nest pas installée sur votre appareil</string>
+    <string name="action_add_to_workspace">"Ajouter à l'espace de travail"</string>
+    <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
     <string name="add_screen">Ajouter un écran</string>
     <string name="announce_for_app_move_in_folder">Déplacé à la position %1$d dans le dossier</string>
     <string name="announce_for_checked">%1$s, vérifié</string>
@@ -25,7 +25,7 @@
     <string name="announce_for_drop_workspace">"Numéro d'écran %1$d, numéro de ligne %2$d, numéro colonne %3$d"</string>
     <string name="announce_for_edit_mode">"Mode d'édition activé"</string>
     <string name="announce_for_edit_mode_disable">"Mode d'édition désactivé"</string>
-    <string name="announce_for_move">Déplacer vers la colonne%2$d, ligne%1$d</string>
+    <string name="announce_for_move">Déplacer vers la colonne %2$d, ligne %1$d</string>
     <string name="announce_for_move_hotseat">"Aller à la position d'ancrage %1$d"</string>
     <string name="announce_for_open_default_preview">"Paramètres de l'écran d'accueil par défaut ouverts"</string>
     <string name="announce_for_open_folder">Dossier %1$s ouvert</string>
@@ -175,7 +175,7 @@
     <string name="gadget_weather_loading">Aucune donnée</string>
     <string name="gadget_weather_low_temp">Température basse</string>
     <string name="gadget_weather_theme_type">Type de gadget</string>
-    <string name="gadget_weather_time_format">EEEE d MMMM</string>
+    <string name="gadget_weather_time_format">d EEEE MMMM</string>
     <string name="gadget_weather_title">Météo</string>
     <string name="gadget_weather_title_14">Météo</string>
     <string name="gadget_weather_title_24">Météo</string>
@@ -183,10 +183,10 @@
     <string name="group_folder">Nouveau dossier</string>
     <string name="group_live_folders">Dossiers</string>
     <string name="group_shortcuts">Raccourcis</string>
-    <string name="guide_install_app_msg">Cette application nest pas installée sur votre appareil. Retrouvez et installez lapplication maintenant ?</string>
+    <string name="guide_install_app_msg">"Cette application n'est pas installée sur votre appareil. Retrouvez et installez l'application maintenant ?"</string>
     <string name="guide_install_app_title">"Trouver et installer l'application ?"</string>
     <string name="guide_tips_editing_mode">Appuyez &amp; maintenez pour prendre un widget</string>
-    <string name="home_screen">Écran daccueil</string>
+    <string name="home_screen">"Écran d'accueil"</string>
     <string name="icon_reorganize_channel">Organiser les icônes</string>
     <string name="image_too_small_message">"L'image originale nest pas assez grande."</string>
     <string name="install">Installer</string>
@@ -194,7 +194,7 @@
     <string name="is_setting_wallpaper_message">Définition comme fond décran…</string>
     <string name="is_system_wallpaper_message">Impossible de supprimer les ressources système</string>
     <string name="launcher_auto_fill_empty_title">Remplir les cellules vides</string>
-    <string name="launcher_not_exist">Une erreur sest produite, retournez à lécran daccueil et réessayez.</string>
+    <string name="launcher_not_exist">"Une erreur s'est produite, retournez à l'écran d'accueil et réessayez."</string>
     <string name="launcher_title">"Écran d'accueil &amp; Récents"</string>
     <string name="like">Ajouter aux favoris</string>
     <string name="liked">Ajouté aux favoris</string>
@@ -203,15 +203,15 @@
     <string name="local_wallpaper">Téléchargé</string>
     <string name="lock_screen">Écran de verrouillage</string>
     <string name="lock_screen_cells_title">"Verrouillage de l'écran d'accueil"</string>
-    <string name="lock_screen_failed_message">"Impossible de définir le fond d'écran de lécran de verrouillage"</string>
+    <string name="lock_screen_failed_message">"Impossible de définir le fond d'écran de l'écran de verrouillage"</string>
     <string name="lock_screen_success_message">"Appliqué à l'écran de verrouillage"</string>
     <string name="lock_screen_wallpaper">"Fond d'écran de verrouillage"</string>
     <string name="memory_clear_nothing_result">Rien à effacer dans le cache</string>
     <string name="memory_clear_result">%1$s o effacés</string>
     <string name="menu_add">Ajouter</string>
     <string name="menu_auto_fill">Remplir les cellules vides</string>
-    <string name="menu_back_desktop">Retour à lécran daccueil</string>
-    <string name="menu_cell_setting">Disposition de lécran daccueil</string>
+    <string name="menu_back_desktop">"Retour à l'écran d'accueil"</string>
+    <string name="menu_cell_setting">"Disposition de l'écran d'accueil"</string>
     <string name="menu_customize">paramètres</string>
     <string name="menu_default_screen_preview">"Définir l'écran par défaut"</string>
     <string name="menu_edit">"Éditer l'écran d'accueil"</string>
@@ -228,7 +228,7 @@
     <string name="menu_sort">Trier les applications</string>
     <string name="menu_trans_effect">Effets de transition</string>
     <string name="menu_wallpaper">Fond décran</string>
-    <string name="menu_workspace_preview">Aperçus des écrans daccueil</string>
+    <string name="menu_workspace_preview">"Aperçus des écrans d'accueil"</string>
     <string name="mi_wallpaper">Thèmes MIUI</string>
     <string name="miui_screen_config_title">"Paramètres de l'écran d'accueil"</string>
     <string name="mtzgadget_missing_text">Widget non disponible</string>
@@ -247,10 +247,10 @@
     <string name="open_personal_assistant_dialog_title">"Désactiver le Coffre d'applications"</string>
     <string name="open_personal_assistant_title">"Coffre d'applications"</string>
     <string name="out_of_space">Plus despace sur ce bureau</string>
-    <string name="permdesc_install_shortcut">Permet à une application dajouter des raccourcis sans lintervention de lutilisateur.</string>
-    <string name="permdesc_install_widget">Permet à une application dajouter des widgets sans votre intervention.</string>
+    <string name="permdesc_install_shortcut">"Permet à une application d'ajouter des raccourcis sans l'intervention de l'utilisateur."</string>
+    <string name="permdesc_install_widget">"Permet à une application d'ajouter des widgets sans votre intervention."</string>
     <string name="permdesc_read_settings">"Autorise une application à lire les paramètres et les raccourcis de l'écran d'accueil."</string>
-    <string name="permdesc_uninstall_shortcut">Permet à une application de supprimer les raccourcis sans lintervention de lutilisateur.</string>
+    <string name="permdesc_uninstall_shortcut">"Permet à une application de supprimer les raccourcis sans l'intervention de l'utilisateur."</string>
     <string name="permdesc_write_settings">"Autorise une application à modifier les paramètres et les raccourcis de l'écran d'accueil."</string>
     <string name="permlab_install_shortcut">Installer des raccourcis</string>
     <string name="permlab_install_widget">Installer des widgets</string>
@@ -343,7 +343,7 @@
     <string name="unnamed_folder_name">Dossier</string>
     <string name="wallpaper">"Fond d'écran"</string>
     <string name="wallpaper_auto_change_title">Écran de verrouillage</string>
-    <string name="wallpaper_failed_message">Impossible de définir le fond décran</string>
+    <string name="wallpaper_failed_message">"Impossible de définir le fond d'écran"</string>
     <string name="wallpaper_scaling_message">Ajuster à taille fixe</string>
     <string name="wallpaper_scroll_type_tips">Défiler les fonds décran</string>
     <string name="wallpaper_settings">"Fond d'écran"</string>
