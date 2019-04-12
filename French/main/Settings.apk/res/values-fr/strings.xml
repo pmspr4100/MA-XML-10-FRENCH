@@ -1725,6 +1725,12 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_cpu4_info">Quad-core</string>
     <string name="device_cpu6_info">Hexa-core</string>
     <string name="device_cpu8_info">Octa-core</string>
+    <string name="device_description_battery">Capacité de la batterie</string>
+    <string name="device_description_camera">Caméra arrière</string>
+    <string name="device_description_cpu">Processeur</string>
+    <string name="device_description_ram">Mémoire vive</string>
+    <string name="device_description_resolution">Résolution</string>
+    <string name="device_description_screen">"Taille de l'écran"</string>
     <string name="device_details_title">"Détails de l'appareil"</string>
     <string name="device_display_layout_title">Fonctionnalités du Mi 5</string>
     <string name="device_edit_title">Renommer le téléphone</string>
@@ -3186,7 +3192,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_install_drive_mode_error">Installation impossible, réessayez.</string>
     <string name="miui_lab_install_drive_mode_summary">"Le mode voiture est une application système. L'installation ne requiert pas de connexion internet."</string>
     <string name="miui_lab_install_drive_mode_title">Installer le mode voiture</string>
-    <string name="miui_lab_settings">Lab MIUI</string>
+    <string name="miui_lab_settings">Laboratoire MIUI</string>
     <string name="miui_lab_slogan">Apprendre. Explorer. Découvrir.</string>
     <string name="miui_master_clear_summary">Efface toutes les données sur le téléphone</string>
     <string name="miui_more_special_feature">Explorer de nouvelles fonctionnalités</string>
@@ -3210,7 +3216,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_sos_emergency_failed_sms" formatted="false">Impossible d’envoyer un message à %1s (%2s).</string>
     <string name="miui_sos_emergency_failed_sms_noname">Impossible d’envoyer un message à %1s.</string>
     <string name="miui_sos_enable_switch_summary">"Appuyez rapidement sur le bouton d'alimentation 5 fois pour envoyer un message texte SOS avec votre position à vos contacts d'urgence"</string>
-    <string name="miui_sos_enable_switch_title">SOS Urgence</string>
+    <string name="miui_sos_enable_switch_title">"SOS d'urgence"</string>
     <string name="miui_sos_exit_dialog_cancel">Annuler</string>
     <string name="miui_sos_exit_dialog_message">"Vous avez activé le mode SOS Urgence. Vos informations de localisation sont en cours d'envoi à vos contacts d'urgence. Désactiver de toute manière?"</string>
     <string name="miui_sos_exit_dialog_ok">OK </string>
@@ -5180,7 +5186,7 @@ Toutes les applications enregistrées sur \"^1\" vont être désinstallées, et 
     <string name="storage_internal_unmount_details"><b>"Lorsque vous éjectez la mémoire de stockage \"^1\", les applications qui y sont enregistrées cessent de fonctionner, et les fichiers multimédias qu'elle contient ne sont plus disponibles jusqu'à ce que vous la réinsériez."</b>" 
 
 La mémoire de stockage \"^1\" a été configurée pour ne fonctionner que sur cet appareil. Vous ne pouvez pas l'utiliser sur d'autres appareils."</string>
-    <string name="storage_label">Stockage</string>
+    <string name="storage_label">Information stockage</string>
     <string name="storage_low_summary">"Il est possible que certaines fonctionnalités du système, comme la synchronisation, ne soient pas opérationnelles. Libérez de l'espace en supprimant certains éléments (applications ou contenu multimédia, par exemple) ou en annulant leur épinglage."</string>
     <string name="storage_low_title">Espace de stockage bientôt saturé</string>
     <string name="storage_manager_indicator">"Gestionnaire d'espace de stockage : ^1"</string>
@@ -5207,11 +5213,9 @@ La mémoire de stockage \"^1\" a été configurée pour ne fonctionner que sur c
     <string name="storage_percent_full">utilisés</string>
     <string name="storage_photos_videos">Photos et vidéos</string>
     <string name="storage_rename_title">Renommer la mémoire de stockage</string>
-    <string name="storage_settings">Stockage</string>
+    <string name="storage_settings">Information stockage</string>
     <string name="storage_settings_summary">Désinstaller la carte SD, afficher la mémoire disponible</string>
     <string name="storage_settings_title">Paramètres de stockage</string>
-    <string name="storage_size_large">^1<small><small> ^2</small></small></string>
-    <string name="storage_size_large_alternate">^1<small> <font size="20">^2</font></small></string>
     <string name="storage_summary">%1$s utilisés - %2$s disponibles</string>
     <string name="storage_summary_format">%1$s utilisés dans %2$s</string>
     <string name="storage_summary_with_sdcard">Mémoire de stockage interne : %1$s utilisés – %2$s disponibles</string>
