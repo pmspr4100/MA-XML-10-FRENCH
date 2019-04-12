@@ -589,7 +589,7 @@ Activez optimisation batterie."</string>
     <string name="band_mode_set">Définir</string>
     <string name="band_mode_succeeded">OK</string>
     <string name="band_mode_title">Définir le mode de bande radio</string>
-    <string name="baseband_version">Version de bande de base</string>
+    <string name="baseband_version">Version du modem</string>
     <string name="batch_delete_saved_network">Supprimer les réseaux enregistrés : %s ?</string>
     <string name="batch_delete_saved_networks">Supprimer tous les réseaux sélectionnés</string>
     <string name="battery_abnormal_apps_summary">%1$d applications ne fonctionnent pas correctement</string>
@@ -2161,6 +2161,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="failed_to_shut_down_find_device_title">Impossible de désactiver</string>
     <string name="fallback_home_title">Un instant…</string>
     <string name="fcc_equipment_id">"ID de l'équipement"</string>
+    <string name="feature_flags_dashboard_title">Drapeaux de fonctionnalité</string>
     <string name="feedback">Commentaires</string>
     <string name="file_privacy_password_role_instruction">Vos fichiers privés seront stockés ici.</string>
     <string name="filter">Filtrer</string>
@@ -4718,7 +4719,7 @@ Pour épingler l'écran :
     <string name="security_keyguard_category_name">Écran de verrouillage</string>
     <string name="security_password_category_name">"Verrouillage de l'écran"</string>
     <string name="security_passwords_title">Confidentialité</string>
-    <string name="security_patch">Mise à jour du correctif de sécurité Android</string>
+    <string name="security_patch">Patch de sécurité Android</string>
     <string name="security_privacy_settings_title">Confidentialité</string>
     <string name="security_relative">Sécurité</string>
     <string name="security_settings_billing_desc">Cette application peut engendrer des frais :</string>
@@ -5499,7 +5500,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="touch_sensitive_turn_off_title">Le mode gant est désactivé</string>
     <string name="touch_sounds_title">Sons des touches</string>
     <string name="touch_title">Toucher</string>
-    <string name="track_frame_time">Profil de rendu gpu</string>
+    <string name="track_frame_time">Profil de rendu GPU</string>
     <string name="trackball_settings">Trackball</string>
     <string name="trackball_wake_title">Réveil par souris</string>
     <string name="traffic_none">Aucun</string>
