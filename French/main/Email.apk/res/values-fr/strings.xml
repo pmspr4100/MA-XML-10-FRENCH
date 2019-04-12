@@ -444,7 +444,8 @@
     <string name="first_quick_default_reply">Appuyer sur le bouton pour envoyer \"%s\" à toutes les personnes dans la conversation</string>
     <string name="folder_list_display_all">Afficher tous les dossiers</string>
     <string name="folder_list_display_only_import">Afficher seulement les dossiers importants</string>
-    <string name="folder_picker_title">Chois des dossiers</string>
+	<string name="folder_no_mails">"Pas d'emails dans ce dossier"</string>
+    <string name="folder_picker_title">Choisissez des dossiers</string>
     <string name="folder_removed">Supprimé de %1$s</string>
     <string name="folder_shortcut_widget_label">Dossier e-mail</string>
     <string name="folder_synchronization_mail_settings">Paramètres de synchronisation des dossiers</string>
@@ -675,7 +676,7 @@ Essayez une autre boîte de réception."</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">"Autoriser E-mail à accéder aux informations des contacts, du stockage et de l'agenda dans les paramètres"</string>
     <string name="open_external_storage_and_contacts_permission">Autoriser E-mail à accéder au stockage et au contacts dans les paramètres</string>
     <string name="open_notification_kingagent">Activer les notifications burial point</string>
-    <string name="optimization_suggestion">Suggestions doptimisation</string>
+    <string name="optimization_suggestion">"Suggestions d'optimisation"</string>
     <string name="others_mail">Autre</string>
     <string name="others_mail_des">(Compatible avec les services mail de 600K)</string>
     <string name="outbox_alert_button_no_resend">Ne pas renvoyer</string>
