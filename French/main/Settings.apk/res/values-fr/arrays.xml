@@ -722,10 +722,6 @@
         <item>Compatibilité</item>
         <item>Haut débit</item>
     </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="dark_ui_mode_entries">
         <item>"Automatique (en fonction de l'heure de la journée)"</item>
         <item>Toujours activé</item>
@@ -749,12 +745,6 @@
         <item>5 minutes</item>
         <item>10 minutes</item>
         <item>30 minutes</item>
-    </string-array>
-    <string-array name="eap_method_without_sim_auth">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Aucun</item>
@@ -790,20 +780,10 @@
         <item>Les notifications apparaîtront sur le panneau de notification</item>
         <item>Les notifications apparaîtront dans un autre dossier</item>
     </string-array>
-    <string-array name="fold_values">
-        <item>0</item>
-        <item>1</item>
-        <item>-1</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4,5 pouces</item>
         <item>4,0 pouces</item>
         <item>3,5 pouces</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Désactivé</item>
@@ -820,10 +800,6 @@
         <item>Ne jamais vérifier</item>
         <item>Vérifier pour le contenu DRM uniquement</item>
         <item>Toujours vérifier</item>
-    </string-array>
-    <string-array name="hide_account_list">
-        <item>com.android.localphone</item>
-        <item>com.android.sim</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>"Allumer l'écran"</item>
@@ -916,8 +892,6 @@
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>@string/msd_pc_system_install_finish_summary_xp</item>
-        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>Le stockage USB sera ouvert automatiquement quand vous connecterez votre appareil à un PC.</item>
         <item></item>
     </string-array>
@@ -937,7 +911,6 @@
 Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
-        <item>@string/msd_install_retry_connect</item>
         <item>Réinstaller Mi PC Suite</item>
     </string-array>
     <string-array name="mvno_type_entries">
@@ -955,12 +928,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Graphique</item>
         <item>Pourcentage</item>
-    </string-array>
-    <string-array name="notifi_importance_values">
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Rechercher</item>
@@ -1128,11 +1095,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Augmenter le contraste</item>
         <item>Par défaut</item>
     </string-array>
-    <string-array name="screen_resolution_text">
-        <item>2K</item>
-        <item>1080p</item>
-        <item>720p</item>
-    </string-array>
     <string-array name="screen_saturation_title">
         <item>Brillant</item>
         <item>Standard</item>
@@ -1197,17 +1159,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>2 heures</item>
         <item>8 heures</item>
     </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>4</item>
-        <item>1</item>
-    </string-array>
     <string-array name="startup_hips_action">
         <item>Autoriser</item>
         <item>Refuser</item>
@@ -1236,11 +1187,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Normal</item>
         <item>Extrême</item>
     </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animation désactivée</item>
         <item>"Échelle d'animation .5x"</item>
@@ -1260,17 +1206,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Rapide</item>
         <item>Très rapide</item>
         <item>Le plus rapide</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>Très lent</item>
@@ -1303,12 +1238,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Des contacts favoris uniquement</item>
         <item>Aucun</item>
     </string-array>
-    <string-array name="vip_mode_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="vpn_states">
         <item>Déconnecté</item>
         <item>Initialisation en cours...</item>
@@ -1339,16 +1268,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Moyen</item>
         <item>Élevé</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wpa2</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi préféré</item>
         <item>Priorité au mobile</item>
@@ -1367,34 +1286,10 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Wi-Fi de préférence</item>
         <item>Priorité au mobile</item>
     </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values_without_wifi_only">
-        <item>2</item>
-        <item>1</item>
-    </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Se connecter automatiquement</item>
         <item>Se connecter manuellement</item>
         <item>Toujours demander</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-        <item>SIM</item>
-        <item>AKA</item>
-        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>Non</item>
@@ -1484,10 +1379,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Échec</item>
         <item>Bloqué</item>
         <item>Éviter temporairement une mauvaise connexion</item>
-    </string-array>
-    <string-array name="wifi_tether_security_values">
-        <item>4</item>
-        <item>0</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animation désactivée</item>
