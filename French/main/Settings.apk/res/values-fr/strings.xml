@@ -1043,7 +1043,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bluetooth_unlock_state_label">"État : "</string>
     <string name="bluetooth_unlock_state_ok">Débloqué</string>
     <string name="bluetooth_unlock_state_too_far">Pas assez proche</string>
-    <string name="bluetooth_unlock_title">Déverr. avec un app. Bluetooth</string>
+    <string name="bluetooth_unlock_title">Déverr. avec un périphérique Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Désactivé</string>
     <string name="bluetooth_unlock_turned_on">Activé</string>
     <string name="bluetooth_unpair_dialog_body">Votre téléphone ne sera plus associé à \"%1$s\"</string>
@@ -1156,16 +1156,16 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="cache_size_label">Cache</string>
     <string name="cached">"Processus d'arrière-plan en cache"</string>
     <string name="calendar_sound_dialog_title">"Choisir le son d'agenda"</string>
-    <string name="calendar_sound_title">"Son d'agenda"</string>
+    <string name="calendar_sound_title">"Son de l'agenda"</string>
     <string name="call_manager_enable_summary">Autoriser ce service à gérer comment vous passez vos appels</string>
     <string name="call_manager_enable_title">"Activer le gestionnaire d'appels"</string>
     <string name="call_manager_title">"Gestionnaire d'appels"</string>
 	<string name="call_records_name_1">Debbie Smith</string>
 	<string name="call_records_name_2">Jason Lee</string>
 	<string name="call_records_name_3">Tom Fowles</string>
-	<string name="call_records_summary_1">9:35 AM | 26 seconds | China Unicom</string>
-	<string name="call_records_summary_2">August 16 | 1m 16s | China Mobile</string>
-	<string name="call_records_summary_3">August 16 | 2m 24s | China Unicom</string>
+	<string name="call_records_summary_1">9:35 AM | 26 secondes | China Unicom</string>
+	<string name="call_records_summary_2">16 août | 1m 16s | China Mobile</string>
+	<string name="call_records_summary_3">16 août | 2m 24s | China Unicom</string>
     <string name="call_settings_primary_user_only">"Changer les paramètres d'appel dans le Premier Espace"</string>
     <string name="call_settings_summary">"Messagerie vocale, transferts d'appel, mise en attente, numéro de l'appelant"</string>
     <string name="call_settings_title">"Paramètres d'appel"</string>
@@ -1248,7 +1248,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="channel_group_notifications_off_desc">"À votre demande, Android bloque l'affichage de ce groupe de notifications sur cet appareil"</string>
     <string name="channel_notifications_off_desc">"À votre demande, Android bloque l'affichage de cette catégorie de notifications sur cet appareil"</string>
     <string name="charge_length_format">%1$sauparavant</string>
-    <string name="charging_sounds_title">Sons de rechargement</string>
+    <string name="charging_sounds_title">Son de rechargement</string>
     <string name="check_find_device_status_failure_confirm">OK </string>
     <string name="check_update">Vérifier les mises à jour</string>
     <string name="checkbox_notification_same_as_incoming_call">Utiliser le volume des appels entrants pour les notifications</string>
@@ -1475,10 +1475,10 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="current_use_ese_wallet">"Vous utilisez Mi Wallet. Cela vous permet d'utiliser Mi Pay et la carte de transport NFC."</string>
     <string name="current_use_hce_wallet">Vous utilisez le portefeuille HCE</string>
     <string name="current_use_uicc_se">Utilisation des éléments sécurisés sur la carte SIM</string>
-    <string name="current_use_uicc_wallet">Vous utilisez le portefeuille de la carte SIM%1$s</string>
+    <string name="current_use_uicc_wallet">Vous utilisez le portefeuille de la carte SIM %1$s</string>
     <string name="current_zone">(actuel)</string>
     <string name="custom_carrier_title">"Éditer le nom de l'opérateur"</string>
-    <string name="custom_wifi_name_title">Editer le nom du Wi-Fi</string>
+    <string name="custom_wifi_name_title">Éditer le nom du Wi-Fi</string>
     <string name="cutout_mode_always">"Toujours montrer l'encoche"</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">"Certaines applications risquent de ne pas s'afficher correctement si vous personnalisez le mode d'affichage de l'encoche."</string>
@@ -1499,7 +1499,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="dark_color_mode">Mode nuit</string>
     <string name="dark_color_summary">Utiliser une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles</string>
     <string name="dark_ui_mode">Mode Nuit</string>
-    <string name="dark_ui_mode_title">Activer le mode Nuit</string>
+    <string name="dark_ui_mode_title">Activer le mode nuit</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Réduire</string>
     <string name="dashboard_title">Paramètres</string>
     <string name="data_limit">Limite de données</string>
@@ -1679,6 +1679,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="default_spell_checker">Correcteur ortho par défaut</string>
     <string name="default_theme">Par défaut</string>
     <string name="default_usb_mode">Connexion USB</string>
+	<string name="default_vol_stream_title">Contrôle du volume par défaut</string>
     <string name="delete">Supprimer</string>
     <string name="delete_fingerprint_confirm_msg">Supprimer une empreinte digitale ?</string>
     <string name="delete_fingerprint_text">Supprimer une empreinte digitale</string>
@@ -1947,7 +1948,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="doze_summary">"Activer l'écran lors de la réception de notifications"</string>
     <string name="doze_title">Nouvelles notifications</string>
     <string name="draw_overlay">Superposer aux autres applis</string>
-    <string name="dtmf_tone_enable_title">Sonneries du clavier</string>
+    <string name="dtmf_tone_enable_title">Son du clavier</string>
     <string name="dual_clock">Double horloge</string>
     <string name="dual_clock_aod_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes: 1. Pour l'écran éteitn, autoriser d'afficher les éléments dans Paramètres > Afficher; 2. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres > Thèmes; 3. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
     <string name="dual_clock_aod_open_message">Dual Clock will be displayed on the Lock screen, Home screen, and turned off screen.</string>
@@ -2505,7 +2506,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="inactive_app_active_summary">Active. Appuyer pour basculer.</string>
     <string name="inactive_app_inactive_summary">Inactive. Appuyer pour basculer.</string>
     <string name="inactive_apps_title">Applications inactives</string>
-    <string name="incall_show">Profile video for incoming calls</string>
+    <string name="incall_show">Profil vidéo pour les appels entrants</string>
     <string name="include_app_data_title">Inclure données application</string>
     <string name="incoming_call_breathing_light_color_title">Couleur des appels</string>
     <string name="incoming_call_breathing_light_freq_title">Fréquence de clignotement pour les appels</string>
@@ -2599,6 +2600,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="keyguard_notification_status_title">Quand les notifications arrivent et que l’écran est éteint</string>
     <string name="keyguard_security_setting_others">Autres</string>
     <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
+    <string name="keyguard_vertical_clock_title">Horloge verticale</string>
     <string name="keywords_accounts">compte</string>
     <string name="keywords_airplane">Avion;Mode avion;Aéroplane;Mode aéroplane;Vol;Mode vol</string>
     <string name="keywords_all_apps">applis, télécharger, applications, système</string>
@@ -2847,7 +2849,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lock_screen_notifications_summary_hide_profile">Masquer le contenu professionnel sensible</string>
     <string name="lock_screen_notifications_summary_show">Afficher toutes les notifications et leurs contenus</string>
     <string name="lock_screen_notifications_summary_show_profile">Afficher tout contenu notificat. professionnelles</string>
-    <string name="lock_screen_notifications_title">"Sur l'écran de verrouillage"</string>
+    <string name="lock_screen_notifications_title">"Notification sur l'écran de verrouillage"</string>
     <string name="lock_screen_signature_summary">"Ce message s'affiche à l'écran de verrouillage"</string>
     <string name="lock_screen_signature_title">"Informations du propriétaire à l'écran de verrouillage"</string>
     <string name="lock_screen_unlock_show">"Ignorer l'écran de verrouillage"</string>
@@ -3621,8 +3623,8 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="notification_show_lights_title">Clignotement</string>
     <string name="notification_sound_default">Son notif. par défaut</string>
     <string name="notification_sound_dialog_title">Son notif. par défaut</string>
-    <string name="notification_sound_title">Son de notification par défaut</string>
-    <string name="notification_style_title">Style de notification</string>
+    <string name="notification_sound_title">Son des notifications par défaut</string>
+    <string name="notification_style_title">Style des notifications</string>
     <string name="notification_suggestion_summary">Afficher ou masquer le contenu des notifications</string>
     <string name="notification_suggestion_title">"Contrôler les informations sur l'écran de verrouillage"</string>
     <string name="notification_summary_channel">%1$s • %2$s</string>
@@ -3790,7 +3792,9 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="password_turned_off_text">Le mot de passe a été désactivé</string>
     <string name="password_turned_on_text">Le mot de passe a été activé</string>
     <string name="payment_summary">"%1$s est l'application par défaut."</string>
-    <string name="peek_notification_icon_title">Montrer les icônes pour les notifications entrants</string>
+    <string name="peek_notification_icon_title">Afficher les icônes des notifications</string>
+    <string name="status_bar_settings_notification_use_app_icon">Utiliser les icônes des applications</string>
+    <string name="status_bar_settings_qs_layout">Configuration rapide des paramètres</string>
     <string name="performance_category">Performance</string>
     <string name="permission_detail_info">Détails</string>
     <string name="permission_detail_info_summary">%1$d securité | %2$d privées | %3$d autres</string>
@@ -3859,6 +3863,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="power_key_how_start_detail">Appuyez sur le bouton d’alimentation et maintenez-le enfoncé pendant 0,5 seconde. Relâchez pour parler.</string>
     <string name="power_key_start_enjoy">Apprenez en plus à propos du Google Assistant</string>
     <string name="power_key_start_guide">Activation de Google Assistant à l’aide du bouton d’alimentation sur des appareils à affichage plein écran</string>
+    <string name="power_menu_under_keyguard_summary">"Autoriser l'accès au menu d'alimentation lorsque le périphérique est verrouillé"</string>
+    <string name="power_menu_under_keyguard_title">"Accès au menu d'alimentation"</string>
     <string name="power_mgr">Optimisation de la batterie</string>
     <string name="power_mode">Puissance</string>
     <string name="power_mode_balanced_title">Puissance équilibrée</string>
@@ -3901,7 +3907,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="pref_title_network_details">Détails du réseau</string>
     <string name="pref_title_update_notification">"Notifications de l'utilisation de données"</string>
     <string name="pref_volume_launch_camera_summary">"Appuyer deux fois sur le volume bas pour lancer l'appareil photo"</string>
-    <string name="pref_volume_launch_camera_title">"Lancer l'Appareil photo"</string>
+    <string name="pref_volume_launch_camera_title">"Lancer l'appareil photo"</string>
     <string name="pref_volume_wake_summary">"Appuyer sur les boutons de volume allume l'appareil"</string>
     <string name="pref_volume_wake_title">Allumer avec les boutons de volume</string>
     <string name="preference_change_password_title">Modifier le mot de passe</string>
@@ -4419,7 +4425,7 @@ Pour épingler l'écran :
     <string name="screen_resolution_ultrahigh_format">Ultra-haute (%1$s)</string>
     <string name="screen_saturation">Saturation</string>
     <string name="screen_shot">"Faire une capture d'écran"</string>
-    <string name="screen_timeout">Délai avant veille</string>
+    <string name="screen_timeout">Délai avant la mise en veille</string>
     <string name="screen_timeout_summary">"Après %1$s d'inactivité"</string>
     <string name="screen_timeout_title">"Extinction de l'écran"</string>
     <string name="screen_usage_summary">"Durée d'activation de l'écran depuis la charge complète"</string>
@@ -4854,9 +4860,9 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="show_all_anrs">Afficher toutes les ANR</string>
     <string name="show_all_anrs_summary">"Afficher le dialogue \" L'application ne répond pas \" pour les applications en arrière-plan"</string>
     <string name="show_all_apps">"Afficher l'utilisation de l'appareil chargé"</string>
-    <string name="show_background_processes">Voir processus en cache</string>
-    <string name="show_carrier_under_keyguard_title">"Montrer l'opérateur téléphonique pendant que l'appareil est verrouillé"</string>
-    <string name="show_connected_devices_summary">Voir les appareils connectés</string>
+    <string name="show_background_processes">Afficher processus en cache</string>
+    <string name="show_carrier_under_keyguard_title">"Afficher le nom de l'opérateur quand l'appareil est verrouillé"</string>
+    <string name="show_connected_devices_summary">Afficher les appareils connectés</string>
     <string name="show_connected_devices_title">Appareils connectés</string>
     <string name="show_dev_already">Inutile, vous êtes déjà un développeur.</string>
     <string name="show_dev_on">Vous êtes désormais un développeur !</string>
@@ -4899,7 +4905,7 @@ Remarque : Vous ne pouvez pas utiliser votre empreinte digitale pour déverroui
     <string name="silent_mode">Mode Silencieux</string>
     <string name="silent_mode_title">Mode silencieux</string>
     <string name="silent_off">Désactiver</string>
-    <string name="silent_settings">Silencieux/NPD</string>
+    <string name="silent_settings">Silencieux / Ne pas déranger</string>
     <string name="silent_standard">Silencieux</string>
     <string name="silent_time">Durée du mode Silencieux</string>
     <string name="silent_total">NPD</string>
@@ -5054,7 +5060,7 @@ Cette fonctionnalité nécessite des autorisations pour accéder à votre locali
     <string name="sound_category_sound_title">Paramètres généraux</string>
     <string name="sound_category_system_title">Système</string>
     <string name="sound_dashboard_summary">Volume, vibreur, Ne pas déranger</string>
-    <string name="sound_effects_enable_title">Sons des touches</string>
+    <string name="sound_effects_enable_title">Son des touches</string>
     <string name="sound_settings">Son</string>
     <string name="sound_settings_example_summary">Volume de sonnerie à 80 %</string>
     <string name="sound_settings_summary">Volume de sonnerie à %1$s</string>
@@ -5100,6 +5106,8 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
     <string name="status_bar_settings">"Notifications &amp; barre d'état"</string>
     <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
+    <string name="status_bar_settings_expand_top_notification">Expand top notification</string>	
     <string name="status_bar_settings_manage_notification">App notifications</string>
     <string name="status_bar_settings_show_lte_for_4g">"Afficher l'icône LTE pour la 4G"</string>
     <string name="status_bar_settings_notification_bar">Panneau de notification</string>
@@ -5661,6 +5669,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlogin_account_summary">Tous les services Mi. Un compte Mi</string>
     <string name="unlogin_account_title">Se connecter avec le compte Mi</string>
     <string name="unmount_inform_text">La carte SD va être désinstallée.</string>
+	<string name="unmute_sound_title">Activer le son</string>
     <string name="unrestrict_max_aspect_ratio_title">Ces applications sont optimisés pour le mode plein écran</string>
     <string name="unrestricted_app_summary">"Autoriser l'accès non restreint aux données lorsque l'économiseur de données est activé"</string>
     <string name="unrestricted_app_title">Conso. données non restreinte</string>
@@ -5888,7 +5897,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="vibrate_on_touch_summary">Retour haptique pour la fonction tactile, le clavier, etc.</string>
     <string name="vibrate_on_touch_title">Vibreur pour le toucher</string>
     <string name="vibrate_title">Vibration</string>
-    <string name="vibrate_when_ringing_title">Vibreur pour les appels</string>
+    <string name="vibrate_when_ringing_title">Vibrer pour les appels</string>
     <string name="vip_list">Autoriser les appels entrants</string>
     <string name="virtual_keyboard_category">Clavier virtuel</string>
     <string name="virtual_sim_category_title">Mi Itinérance</string>

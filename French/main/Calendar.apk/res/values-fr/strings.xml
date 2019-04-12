@@ -134,6 +134,7 @@
     <string name="date_jump_title">Aller à la date</string>
     <string name="date_today">"  (aujourd'hui)"</string>
     <string name="day_view_new_event_hint">Nouvel événement</string>
+    <string name="default_reminder_later_time">Intervalle par défaut pour \"Rappeler plus tard\"</string>
     <string name="default_reminder_mode">Rappels</string>
     <string name="delete_recurring_event_title">Supprimer %s ?</string>
     <string name="delete_this_event_title">Supprimer cet événement ?</string>
@@ -387,7 +388,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="setting_about_imei">IMEI :</string>
     <string name="setting_about_miui_version">Version MIUI :</string>
     <string name="setting_about_summary">Version :</string>
-    <string name="setting_accounts">Comptes Calendrier</string>
+    <string name="setting_accounts">Comptes calendrier</string>
     <string name="setting_change_language">Sélectionnez la langue du calendrier</string>
     <string name="setting_fb_birthdays_title">Importer les anniversaires depuis Facebook</string>
     <string name="setting_features_title">Paramètres de fonctionnalités</string>

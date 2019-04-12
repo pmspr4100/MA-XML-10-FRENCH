@@ -1468,7 +1468,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="sum_cfnrc_disabled">Désactivé</string>
     <string name="sum_cfnrc_enabled">Transfert vers {0}</string>
     <string name="sum_cfnry_disabled">Désactivé</string>
-    <string name="sum_cfnry_enabled">Ttransfert vers {0}</string>
+    <string name="sum_cfnry_enabled">Transfert vers {0}</string>
     <string name="sum_cfu_disabled">Désactivé</string>
     <string name="sum_cfu_enabled">Transférer les appels vers {0}</string>
     <string name="sum_cfu_enabled_indicator">Transférer tous les appels</string>

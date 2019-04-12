@@ -63,9 +63,9 @@
     <string name="channel_name_timer">Minuteur</string>
     <string name="check_theme_app_install">Assurez-vous que lapplication de thèmes est installée sur votre appareil.</string>
     <string name="check_voice_assist_app_version">Mettez à jour IA Mi vers sa dernière version.</string>
-	<string name="clock_bg_button_setting_summary_common">Select background color for the Clock app</string>
+	<string name="clock_bg_button_setting_summary_common">"Sélectionnez la couleur de fond pour l'application"</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Black will be used as the background color every time you switch to Dark mode</string>
-    <string name="clock_bg_button_setting_title">Background color</string>
+    <string name="clock_bg_button_setting_title">Couleur de fond</string>
     <string name="close_alarm">Désactiver</string>
     <string name="common_settings">Paramètres</string>
     <string name="confirm_abort">Abandonner</string>
@@ -101,10 +101,10 @@
     <string name="force_touch_enter_stopwatch">Chrono.</string>
     <string name="force_touch_enter_timer">Minuteur</string>
     <string name="go_back">Retour</string>
-	<string name="holiday_update">An update for public holidays is available</string>
-	<string name="holiday_update_fail">"Couldn't update"</string>
-	<string name="holiday_update_loading">Updating…</string>
-	<string name="holiday_update_success">All items are up to date</string>
+	<string name="holiday_update">Une mise à jour pour les jours fériés est disponible</string>
+	<string name="holiday_update_fail">"Impossible de mettre à jour"</string>
+	<string name="holiday_update_loading">Mise à jour…</string>
+	<string name="holiday_update_success">Tous les articles sont à jour</string>
     <string name="hour_unit">H</string>
     <string name="install_weather_app_error">"Impossible de charger l'application"</string>
     <string name="install_weather_app_loading">Juste un instant…</string>
@@ -179,11 +179,6 @@
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="remind_ringtone">Sonnerie</string>
     <string name="repeat_count">Fois</string>
-    <string name="repeat_count_value_five">5</string>
-    <string name="repeat_count_value_one">1</string>
-    <string name="repeat_count_value_ten">10</string>
-    <string name="repeat_count_value_three">3</string>
-    <string name="repeat_count_value_two">2</string>
     <string name="reset">RAZ</string>
     <string name="revert">Revenir</string>
     <string name="search_alarm_clock_keywords">Alarme;Réveil;</string>
@@ -206,13 +201,6 @@
     <string name="snooze_duration">Répéter</string>
     <string name="snooze_duration_title">Répéter</string>
     <string name="snooze_duration_value">Intervale (minutes)</string>
-    <string name="snooze_duration_value_fifteen">15</string>
-    <string name="snooze_duration_value_five">5</string>
-    <string name="snooze_duration_value_one">1</string>
-    <string name="snooze_duration_value_ten">10</string>
-    <string name="snooze_duration_value_thirty">30</string>
-    <string name="snooze_duration_value_twenty">20</string>
-    <string name="snooze_duration_value_twenty_five">25</string>
     <string name="star_wy_alarm_speech">Rencontrer Roy Wang</string>
     <string name="start">Départ</string>
     <string name="start_up">Départ</string>
@@ -248,7 +236,7 @@
     <string name="timer_continue_timer">Continuer</string>
     <string name="timer_created">Minuteur ajouté avec succès</string>
     <string name="timer_end_time">"La minuterie s'arrêtera à %s"</string>
-    <string name="timer_end_time_format">HH:mm dd MMM</string>
+    <string name="timer_end_time_format">HH:mm dd MMMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_is_paused">La minuterie est en pause</string>
@@ -283,7 +271,7 @@
     <string name="worldclock_title">Horloges</string>
     <string name="worldclock_world_time">Fuseaux horaires</string>
     <string name="worldcolock_timezone_current">Actuel : %1$s</string>
-    <string name="worldcolock_timezone_date">dd MMM</string>
+    <string name="worldcolock_timezone_date">dd MMMM</string>
     <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">"Pareille que l'heure locale"</string>
 </resources>
