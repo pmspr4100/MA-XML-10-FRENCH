@@ -92,6 +92,7 @@ Vous devez accepter la politique de confidentialité de Kika avant d'utiliser ce
     <string name="content_description_complete">Terminé</string>
     <string name="language_picker_other_languages_title">Plus de langues</string>
     <string name="language_settings">Choisir une langue</string>
+    <string name="locale_picker_other_locale_title">Autres régions</string>
     <string name="navigation_picker_radio_text_full_screen">Gestes en plein écran</string>
     <string name="navigation_picker_radio_text_virtual_key">Boutons</string>
     <string name="congratulation_swipe">Balayez vers le haut pour accéder au système</string>
@@ -118,5 +119,4 @@ Vous devez accepter la politique de confidentialité de Kika avant d'utiliser ce
     <string name="ai_button_double_press">Double appui</string>
     <string name="ai_button_double_press_desc">Appuyez deux fois sur le bouton IA pour terminer les tâches personnalisées</string>
     <string name="zone_picker_title">Choisir un fuseau horaire</string>
-    <string name="locale_picker_other_locale_title">Plus de régions</string>
 </resources>
