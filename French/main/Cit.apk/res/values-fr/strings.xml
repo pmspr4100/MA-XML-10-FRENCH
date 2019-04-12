@@ -79,9 +79,6 @@
   <string name="UIM1_unregistered">Unregistered UIM1</string>
   <string name="UIM2_unregistered">Unregistered UIM2</string>
   <string name="UIM_unregistered">Unregistered UIM</string>
-  <string name="UIT87">"  [UIT87]"</string>
-  <string name="UIT88">"  [UIT88]"</string>
-  <string name="UIT89">"  [UIT89]"</string>
   <string name="Uim">USIM</string>
   <string name="Uim1_has_insert">UIM1 inserted</string>
   <string name="Uim1_not_insert">UIM1 not insert</string>
@@ -97,13 +94,7 @@
   <string name="WIFI_scan_timeout">WIFI scanning timeout</string>
   <string name="WIFI_scanning_wifi">Scanning WIFI hotspot</string>
   <string name="Warning_HallSensor">When the magnet location near the green rectangle, showed close, when the magnet is far away from the green rectangle, show far from them</string>
-  <string name="X:">X axis:</string>
-  <string name="Y:">Y axis:</string>
-  <string name="Z:">Z axis:</string>
   <string name="acc_adjust">Adjust</string>
-  <string name="acce_X">X :</string>
-  <string name="acce_Y">Y :</string>
-  <string name="acce_Z">Z :</string>
   <string name="accelarator_attention">"the picture below will pointer to phone been placed orientation(horizontal, up, down, left, right), if there is no picture been showed or pointer mistake, then it's error"</string>
   <string name="accelerator_test">Accelerator</string>
   <string name="accept">Use this recording</string>
@@ -123,7 +114,6 @@
   <string name="adjust_hint">Please lay your phone DOWN!</string>
   <string name="adjust_ok">Calibration success</string>
   <string name="aifsninfo">Aifsn:</string>
-  <string name="aifsnlimit">[0-255]</string>
   <string name="aifsnnum">"AIFS slots num[0-255]
 only in frame mode"</string>
   <string name="aifsnout">Aifsn should be from 0 to 255!</string>
@@ -143,7 +133,7 @@ only in frame mode"</string>
   <string name="audio_db_album_name">Audio recordings</string>
   <string name="audio_db_artist_name">Your recordings</string>
   <string name="audio_db_playlist_name">My recordings</string>
-  <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
   <string name="audio_receive_cn">Chinese</string>
   <string name="audio_receive_en">English</string>
   <string name="audio_receive_info">System will shuffle 2 Numbers, please choose again according to the actual hear digital interface corresponding numeric button</string>
@@ -166,7 +156,6 @@ only in frame mode"</string>
   <string name="backlight_keypadlight_test">Backlight＆KeypadLight</string>
   <string name="backlight_light">Backlight</string>
   <string name="backlight_test">Backlight</string>
-  <string name="banding_limit">[0-1]</string>
   <string name="banding_title">"channel_banding [0-20M  1-40M]"</string>
   <string name="banding_title2">"channel_banding [0-20M  1-40M 3-80M]"</string>
   <string name="baseband_version">Baseband version</string>
@@ -216,7 +205,6 @@ only in frame mode"</string>
   <string name="blow_from_mic_to_rec">Blowing on the MIC, the receiver playback. Judge whether there is sound.</string>
   <string name="blow_to_earphone_mic">Blowing on the earphone MIC, the earphone speaker playback. Judge whether there is sound.</string>
   <string name="blow_to_mic">Blowing on the MIC, the speaker playback. Judge whether there is sound.</string>
-  <string name="blt">[ BLT]:</string>
   <string name="blueledblink">Blue led blink?</string>
   <string name="blueledtest">Blue LED</string>
   <string name="bluetooth">bluetooth</string>
@@ -228,7 +216,6 @@ only in frame mode"</string>
   <string name="bsp">BSP version</string>
   <string name="bt_addr_test">Bluetooth address</string>
   <string name="bt_enable_error">Bluetooth opened error</string>
-  <string name="bt_result">[BT]:</string>
   <string name="btdevicenum">BT Device number:</string>
   <string name="btdut">DUT mode for BT RF testing</string>
   <string name="btsearchwait">Searching BT devices..., please wait 12 seconds.</string>
@@ -259,9 +246,6 @@ only in frame mode"</string>
   <string name="cdmaonly">CDMA Only</string>
   <string name="cellinfo">Cell Info</string>
   <string name="channel">Channel:</string>
-  <string name="channel1">1</string>
-  <string name="channel13">13</string>
-  <string name="channel7">7</string>
   <string name="channel_name">Channel Name</string>
   <string name="channelbanding">channel banding:</string>
   <string name="charge_battery_test">Charge/Batt</string>
@@ -299,9 +283,6 @@ only in frame mode"</string>
   <string name="cta">CTA version</string>
   <string name="cta_softver">"CTA  version number:"</string>
   <string name="current_value">"Current value: "</string>
-  <string name="custombt">[BT]:</string>
-  <string name="customft">[FT]:</string>
-  <string name="customsn">[SN]:</string>
   <string name="customversion">[Version]:</string>
   <string name="customversionandtestinfo">Version and Test Info</string>
   <string name="ddr_test">DDr Test</string>
@@ -388,8 +369,6 @@ only in frame mode"</string>
   <string name="freq_edit">Edit channel</string>
   <string name="freq_item_del">Delete frequence list</string>
   <string name="freq_save">Save frequence</string>
-  <string name="freqlimit">[1-13]</string>
-  <string name="freqlimit_unmod">[1,7,13]</string>
   <string name="freqout">Frequency should be from 1 to 13!</string>
   <string name="frequence">Frequence</string>
   <string name="frequence2">Frequence:</string>
@@ -462,16 +441,6 @@ the selected?"</string>
   <string name="judge_test_over">Screen test completed</string>
   <string name="kernel_num">Kernel version:</string>
   <string name="kernel_version">Kernel version</string>
-  <string name="key_0">0</string>
-  <string name="key_1">1</string>
-  <string name="key_2">2</string>
-  <string name="key_3">3</string>
-  <string name="key_4">4</string>
-  <string name="key_5">5</string>
-  <string name="key_6">6</string>
-  <string name="key_7">7</string>
-  <string name="key_8">8</string>
-  <string name="key_9">9</string>
   <string name="keyboard">KEY</string>
   <string name="keyboard_and_motor_test">Key And Motor</string>
   <string name="keyboard_show">The current key button button BACK、button HOME、button MENU、button VOLUME_UP、button VOLUME_DOWN</string>
@@ -540,12 +509,6 @@ the selected?"</string>
   <string name="midmainboardtest">PCBA test</string>
   <string name="midtest">cit test</string>
   <string name="min_available">%d min available</string>
-  <string name="minus">-</string>
-  <string name="mod11a">11a</string>
-  <string name="mod11ac">11ac</string>
-  <string name="mod11b">11b</string>
-  <string name="mod11g">11a/g</string>
-  <string name="mod11n">11n</string>
   <string name="modeselect">Preferred network mode</string>
   <string name="modout">Mod should be from 0 to 4!</string>
   <string name="modulated">Modulated</string>
@@ -631,7 +594,6 @@ off---Disabling continuous Tx"</string>
   <string name="pa_waiting">﻿Reading calibration valus waiting please...</string>
   <string name="pass">Pass</string>
   <string name="patterninfo">Pattern:</string>
-  <string name="patternlimit">[0-5]</string>
   <string name="patternnum">"0-all zero\u0009 1-all ones
 2-repeating 10
 3-PN7\u00094-PN9\u00095-PN15"</string>
@@ -667,14 +629,8 @@ off---Disabling continuous Tx"</string>
   <string name="plug_otg_in">OTG device in</string>
   <string name="plug_otg_out">OTG device out</string>
   <string name="pluginheadset">Please plugin headset, It works for antenna</string>
-  <string name="plus">+</string>
   <string name="positive_headset_plug_in">Positive direction Headset plugged in</string>
   <string name="powerinfo">POWER:</string>
-  <string name="powerlimit_mod">[0-15]</string>
-  <string name="powerlimit_mod_aw550">[0-13]</string>
-  <string name="powerlimit_unmod">[0-11]</string>
-  <string name="powernum">"unmod:0-11
-mod:0-15"</string>
   <string name="powerout">Power should be from 0 to 14 or 0 to 11 in unmod mode!</string>
   <string name="preset_add">Add</string>
   <string name="preset_delete">Delete</string>
@@ -774,9 +730,6 @@ mod:0-15"</string>
   <string name="smartpaendfail">Smart PA Calibration fail,Please exit......</string>
   <string name="smartpaing">Smart PA Calibration now,Please wait......</string>
   <string name="smartpastart">Smart PA Calibration Prepare......</string>
-  <string name="sn">[ S/N]:</string>
-  <string name="sn_fmt">"%s
-"</string>
   <string name="softver">Software version:</string>
   <string name="softversion">Software version</string>
   <string name="softversion_hint">Enter the function test？</string>
@@ -853,9 +806,6 @@ N: no test"</string>
   <string name="tx99_mod_info">tx99</string>
   <string name="ubboardtest">UB board</string>
   <string name="uimCard_test">UIMCard</string>
-  <string name="uit87">[ UIT87]:</string>
-  <string name="uit88">[ UIT88]:</string>
-  <string name="uit89">[ UIT89]:</string>
   <string name="unit">" MHz"</string>
   <string name="unknown">unknown</string>
   <string name="unlock">Unlock</string>
