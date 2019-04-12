@@ -39,7 +39,7 @@
     <string name="alert_dialog_download_prepare">En préparation pour télécharger…</string>
     <string name="alert_dialog_download_progress">"Téléchargement de l'application "</string>
     <string name="and"> et </string>
-    <string name="app_name">Mi Vidéo</string>
+    <string name="app_name">Vidéo</string>
     <string name="bind_sign_in_title">Ajouter un compte</string>
     <string name="cancel">Annuler</string>
     <string name="canceled">Annulé</string>
@@ -490,7 +490,6 @@ Vérifiez d'autres vidéos !"</string>
     <string name="sns_sign_in">Autre méthode de connexion</string>
     <string name="sure_to_logout">Se déconnecter maintenant ?</string>
     <string name="switch_ratio_pause">La vitesse de lecture est instable. Revenir à la vitesse par défaut…</string>
-    <string name="symbol_rmb">¥</string>
     <string name="t_downloading">Téléchargement :</string>
     <string name="t_exit_app">Appuyer encore pour quitter.</string>
     <string name="t_lv_check_delete_history">Sélectionner les éléments à supprimer</string>
@@ -513,10 +512,20 @@ Vérifiez d'autres vidéos !"</string>
     <string name="ui_log_tip">Appuyez dans cette zone, appuyez et maintenez pour effacer les anciens journaux. Déplacez manuellement les journaux.</string>
     <string name="update">Mettre à jour</string>
     <string name="user_id_hint">Email/téléphone</string>
-    <string name="v_app_name">Mi Video</string>
+    <string name="v_app_name">Vidéo</string>
     <string name="v_cancel">Annuler</string>
     <string name="v_code_title">Enter le code de vérification en 2 étapes</string>
     <string name="v_ok">OK </string>
-    <string name="v_pw_need_update_app">Mettre Mi Video à jour pour utiliser toutes ses fonctionnnalités</string>
+    <string name="v_pw_need_update_app">Mettre Mi Vidéo à jour pour utiliser toutes ses fonctionnnalités</string>
     <string name="v_save">Enregistrer</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l’état du gestionnaire de téléchargement dans Gestion des applications."</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
+Taille: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
+Taille de la mise à jour Delta: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s mettre à jour !</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Mémoire indisponible, veuillez vérifier la carte SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
 </resources>
