@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="pref_fling_gesture_entries">
-        <item>Page back forward</item>
-        <item>Switch tabs</item>
-        <item>None</item>
+        <item>Page suivante</item>
+        <item>"Changer d'onglets"</item>
+        <item>Aucun</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>"Page d'accueil par défaut"</item>
@@ -14,9 +14,9 @@
         <item>Affichage horizontal</item>
     </string-array>
     <string-array name="pref_tab_restore_array">
-        <item>Always asking</item>
-        <item>Open</item>
-        <item>Close</item>
+        <item>Toujours demander</item>
+        <item>Ouvrir</item>
+        <item>Fermer</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Très petite</item>
@@ -44,21 +44,21 @@
         <item>Suivez les jeux olympiques avec Mi</item>
     </string-array>
     <string-array name="suggestion_topic_tips">
-        <item>Watching Focus</item>
-        <item>Central Issue</item>
+        <item>Regarder le focus</item>
+        <item>Problème central</item>
     </string-array>
     <string-array name="suggestion_weather_condition_message">
-        <item>Clear</item>
-        <item>Partly cloudy</item>
-        <item>Cloudy</item>
-        <item>Shower</item>
-        <item>Thunderstorm</item>
+        <item>Clair</item>
+        <item>Partiellement nuageux</item>
+        <item>Nuageux</item>
+        <item>Pluie</item>
+        <item>Orage</item>
         <item>Hail</item>
-        <item>Sleet</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
+        <item>Neige fondue</item>
+        <item>Légère pluie</item>
+        <item>Pluie modérée</item>
+        <item>Forte pluie</item>
+        <item>Pluie torrentielle</item>
         <item>Torrential rain</item>
         <item>Extreme rainstorm</item>
         <item>Snow shower</item>
