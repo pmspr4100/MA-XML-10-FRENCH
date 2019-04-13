@@ -439,7 +439,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="application_item_disable">Refuser</string>
     <string name="application_item_permission">Autoriser</string>
     <string name="application_lock_name">"Verrouillage d'application"</string>
-    <string name="application_manager_section_title">Applis</string>
+    <string name="application_manager_section_title">Applications</string>
     <string name="application_permission_manager">Autorisation des applications</string>
     <string name="application_permissions">Autorisation des applications</string>
     <string name="application_restrictions">Autoriser des applications et des contenus</string>
@@ -2239,7 +2239,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="firewall_allow_data">"Autoriser l'utilisation des données mobiles"</string>
     <string name="firewall_allow_network">Autoriser</string>
     <string name="firewall_allow_wlan">"Autoriser l'utilisation de la connexion Wi-Fi"</string>
-    <string name="firewall_applist">Applis</string>
+    <string name="firewall_applist">Applications</string>
     <string name="firewall_mobile">Données Mobiles</string>
     <string name="firewall_network_allow">%1$s est autorisé à utiliser la connexion %2$s</string>
     <string name="firewall_network_restrict_notify_message">Appuyez pour modifier les paramètres.</string>
@@ -2459,7 +2459,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="header_category_device">Appareil</string>
     <string name="header_category_personal">Personnel</string>
     <string name="header_category_system">Système</string>
-    <string name="header_category_wireless_networks">Réseaux sans fils</string>
+    <string name="header_category_wireless_networks">Paramètres réseaux</string>
     <string name="header_data_and_synchronization">Données et synchronisation</string>
     <string name="heavy_weight_stop_description">"Impossible d'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
     <string name="help_feedback_label">Aide &amp; commentaires</string>

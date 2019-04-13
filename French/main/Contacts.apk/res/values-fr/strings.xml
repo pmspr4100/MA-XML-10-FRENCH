@@ -893,7 +893,7 @@ Raison: \"%s\""</string>
     <string name="preference_show_yellowpage_tab_description">Pages jaunes pourrait ne pas fonctionner correctement lorsque cette fonctionnalité est désactivée.</string>
     <string name="preference_show_yellowpage_tab_title">Afficher les Pages jaunes</string>
     <string name="preference_simple_mode_description">Afficher photos et autres informations de contact dans la liste</string>
-    <string name="preference_simple_mode_title">Afficher photos et infos</string>
+    <string name="preference_simple_mode_title">Afficher les photos et infos</string>
     <string name="preference_smart_group_company_summary">Regrouper par société</string>
     <string name="preference_smart_group_company_title">Entreprises</string>
     <string name="preference_smart_group_frequency_summary">Regrouper par le plus récent</string>
