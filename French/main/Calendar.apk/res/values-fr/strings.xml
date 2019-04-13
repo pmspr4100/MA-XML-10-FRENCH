@@ -66,7 +66,7 @@
     <string name="alert_title">"Notifications d'Agenda"</string>
     <string name="anniversary_event_title">Anniversaire : %1$s</string>
     <string name="anniversary_secondary_tag">Anniversaire</string>
-    <string name="app_label">Agenda</string>
+    <string name="app_label">Calendrier</string>
     <string name="app_not_found">"Impossible d'ouvrir l'appli sélectionnée"</string>
     <string name="birthday_born">date de naissance</string>
     <string name="birthday_calendar_display_name">"Rappels d'anniversaire"</string>
