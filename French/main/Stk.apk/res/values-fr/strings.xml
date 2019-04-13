@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Boîte à outils SIM</string>
+    <string name="app_name">Outils SIM</string>
     <string name="menu_end_session">Terminer la session</string>
     <string name="help">Aide</string>
     <string name="menu_back">Retour</string>
@@ -27,8 +27,8 @@
     <string name="stk_dialog_reject">NON</string>
     <string name="no_sim_card_inserted">Insérez la carte SIM pour lancer la boîte à outils SIM.</string>
     <string name="stk_channel_name">Messages du service mobile</string>
-    <string name="sim_type_sim_name">Boîte à outils SIM</string>
-    <string name="sim_type_usim_name">Boîte à outils USIM</string>
-    <string name="sim_type_uim_name">Boîte à outils USIM</string>
+    <string name="sim_type_sim_name">Outils SIM</string>
+    <string name="sim_type_usim_name">Outils USIM</string>
+    <string name="sim_type_uim_name">Outils USIM</string>
     <string name="stk_intent_permission">Des autorisations sont requises</string>
 </resources>
