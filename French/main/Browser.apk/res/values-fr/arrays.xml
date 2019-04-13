@@ -1,38 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="aqi_title_prefix">
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-    </string-array>
-    <string-array name="menu_theme_setting">
-        <item>Blanc</item>
-        <item>Jaune</item>
-        <item>Gris</item>
-        <item>Marron</item>
-        <item>Vert</item>
-        <item>Bleu</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Précédent / Page suivante</item>
-        <item>"Changer d'onglet"</item>
-        <item>Aucune</item>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Page back forward</item>
+        <item>Switch tabs</item>
+        <item>None</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>"Page d'accueil par défaut"</item>
         <item>Personnalisé</item>
     </string-array>
-    <string-array name="pref_nav_mode_summary">
-        <item>Téléphone</item>
-        <item>Tablette</item>
-    </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
         <item>Affichage vertical</item>
         <item>Affichage horizontal</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Always asking</item>
+        <item>Open</item>
+        <item>Close</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Très petite</item>
@@ -52,40 +36,60 @@
         <item>Non merci</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
-        <item>OK </item>
+        <item>OK</item>
         <item>Suivre</item>
     </string-array>
     <string-array name="shortcut_dialog_title">
         <item>Message du navigateur</item>
         <item>Suivez les jeux olympiques avec Mi</item>
     </string-array>
-    <string-array name="weather_type">
-        <item>Dégagé</item>
-        <item>Nuageux</item>
-        <item>Couvert</item>
-        <item>Brumeux</item>
-        <item>Tempête de pluie</item>
-        <item>Averse</item>
-        <item>Pluie torrentielle</item>
-        <item>Orage</item>
-        <item>Averses</item>
-        <item>Fortes pluies</item>
-        <item>Pluie modérée</item>
-        <item>Pluie fine</item>
-        <item>Pluie et neige mêlées</item>
-        <item>Tempête de neige</item>
-        <item>Neige</item>
-        <item>Fortes chutes de neige</item>
-        <item>Chutes de neige modérées</item>
-        <item>Légères chutes de neige</item>
-        <item>Forte tempête de sable</item>
-        <item>Tempête de sable</item>
-        <item>Sable</item>
-        <item>Venteux</item>
-        <item>Grêle</item>
-        <item>Poussière</item>
-        <item>Brume</item>
-        <item>Pluie verglaçante</item>
-        <item></item>
+    <string-array name="suggestion_topic_tips">
+        <item>Watching Focus</item>
+        <item>Central Issue</item>
+    </string-array>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Clear</item>
+        <item>Partly cloudy</item>
+        <item>Cloudy</item>
+        <item>Shower</item>
+        <item>Thunderstorm</item>
+        <item>Hail</item>
+        <item>Sleet</item>
+        <item>Light rain</item>
+        <item>Moderate rain</item>
+        <item>Heavy rain</item>
+        <item>Rainstorm</item>
+        <item>Torrential rain</item>
+        <item>Extreme rainstorm</item>
+        <item>Snow shower</item>
+        <item>Light snow</item>
+        <item>Moderate snow</item>
+        <item>Heavy snow</item>
+        <item>Blizzard</item>
+        <item>Fog</item>
+        <item>Freezing rain</item>
+        <item>Sandstorm</item>
+        <item>Light to moderate rain</item>
+        <item>Moderate to heavy rain</item>
+        <item>Heavy to torrential rain</item>
+        <item>Torrential rain to downpour</item>
+        <item>Downpour to extreme rainstorm</item>
+        <item>Light to moderate snow</item>
+        <item>Moderate to heavy snow</item>
+        <item>Heavy snow to blizzard</item>
+        <item>Floating dust</item>
+        <item>Raising sand</item>
+        <item>Sandstorm</item>
+        <item>Dense fog</item>
+        <item>Strong fog</item>
+        <item>Haze</item>
+        <item>Moderate haze</item>
+        <item>Heavy haze</item>
+        <item>Severe haze</item>
+        <item>Dense fog</item>
+        <item>Strong dense fog</item>
+        <item>None</item>
+        <item>Rain</item>
+        <item>Snow</item>
     </string-array>
 </resources>
