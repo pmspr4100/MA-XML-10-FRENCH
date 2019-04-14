@@ -944,10 +944,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="mw_search_menu_title">Search</string>
   <string name="mw_snippets_disabled_generic_prompt">Get personalized content</string>
   <string name="mw_snippets_disabled_signed_out_instructions">To get personalized content suggested by Google, sign in to Chrome.</string>
-  <string name="mw_status_bar_notification_info_overflow">999+</string>
   <string name="mw_time_picker_dialog_am">AM</string>
-  <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-  <string name="mw_time_picker_dialog_minute_second_separator">:</string>
   <string name="mw_time_picker_dialog_pm">PM</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Set time</string>
@@ -975,7 +972,6 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="navigate_feedback_dislike_tips">Will reduce such video recommendations</string>
   <string name="navigate_feedback_input_report_label">Other reasons</string>
   <string name="navigate_feedback_report">report</string>
-  <string name="navigate_feedback_report_input_length">%1$d/100</string>
   <string name="navigate_feedback_report_input_tips">Leave your question, we will deal with it as soon as possible</string>
   <string name="navigate_feedback_report_success">Report success</string>
   <string name="navigate_feedback_report_title">Report reasons</string>
@@ -1068,7 +1064,6 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_content_night_read_mode">Mode nuit</string>
   <string name="pref_content_search_engine">"Moteur de recherche dans la barre d'adresse"</string>
   <string name="pref_content_search_engine_summary">Choisissez un moteur de recherche</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_value_always">ALWAYS</string>
   <string name="pref_data_preload_value_never">NEVER</string>
   <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
@@ -1094,13 +1089,11 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_force_userscalable">Forcer le zoom</string>
   <string name="pref_force_userscalable_summary">"Ignorer la demande d'un site Web pour contrôler le comportement du zoom"</string>
   <string name="pref_general_title">Général</string>
-  <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
   <string name="pref_images_preload_value_always">2</string>
   <string name="pref_images_preload_value_never">0</string>
   <string name="pref_images_preload_value_wifi_only">1</string>
   <string name="pref_key_gesture_title">Boutons &amp; Gestes</string>
   <string name="pref_label_advert_manager">Gérer les annonces libellées</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_value_always">ALWAYS</string>
   <string name="pref_link_prefetch_value_never">NEVER</string>
   <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
@@ -1153,7 +1146,6 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="pref_tab_restore">Récupérer la dernière page ouverte au démarrage</string>
   <string name="pref_ua_string">Agent utilisateur</string>
   <string name="pref_version_info">Informations de version</string>
-  <string name="pref_video_preload_default_value">@string/pref_video_preload_value_wifi_only</string>
   <string name="pref_video_preload_value_always">ALWAYS</string>
   <string name="pref_video_preload_value_never">NEVER</string>
   <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
@@ -1335,7 +1327,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="ssl_untrusted">"This certificate isn't from a trusted authority."</string>
   <string name="ssl_warnings_header">There are problems with the security certificate for this site.</string>
   <string name="start_save_page_capture">Saving screenshot…</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_close">Close</string>
   <string name="storage_internal">Internal storage</string>
   <string name="storage_open">Open</string>
@@ -1386,7 +1377,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="suggestion_sliding_ads_info_mark_text">ADS</string>
   <string name="suggestion_sliding_item_more_text">SEE MORE</string>
   <string name="suggestion_topic_subtitle_hyphen">Focus</string>
-  <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
   <string name="suggestion_translation_more">VIEW MORE</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="switchText">YES</string>

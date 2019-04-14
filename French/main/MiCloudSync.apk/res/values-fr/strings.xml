@@ -9,5 +9,4 @@
   <string name="error_unauthorized">"La synchronisation a été désactivée en raison d'un trop grand nombre de tentatives de connexion."</string>
   <string name="micloud_downloading_clipboard_message_from_web">Presse-papiers: reçu un message de votre ordinateur</string>
   <string name="micloud_send_message_desc">"Envoi d'un message Mi"</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
