@@ -84,7 +84,7 @@
     <string name="drag_barcode_into_frame">Placez le code-barres dans le cadre</string>
     <string name="drag_crop_to_business_card">Déplacer pour couper</string>
     <string name="email">E-mail :</string>
-    <string name="error_camera_disabled">"L'accès à l'App. photo a été refusé pour des raisons de sécurité"</string>
+    <string name="error_camera_disabled">"L'accès à l'Appareil photo a été refusé pour des raisons de sécurité"</string>
     <string name="error_cannot_connect_camera">"Impossible de se connecter à l'appareil photo"</string>
     <string name="error_empty_result">Impossible de trouver les résultats</string>
     <string name="error_get_image">"Impossible d'obtenir l'image"</string>

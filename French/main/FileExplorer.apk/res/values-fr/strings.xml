@@ -28,7 +28,7 @@
     <string name="already_latest_version">La version actuelle est à jour.</string>
     <string name="app_name">Explorateur de fichiers</string>
     <string name="app_name_bluetooth">Bluetooth</string>
-    <string name="app_name_camera">App. photo</string>
+    <string name="app_name_camera">Appareil photo</string>
     <string name="app_name_downloadedrom">Paquets</string>
     <string name="app_name_downloads">Téléchargements</string>
     <string name="app_name_market">App Store</string>
@@ -58,7 +58,7 @@
     <string name="category_favorite">Mes favoris</string>
     <string name="category_file">Fichiers</string>
     <string name="category_installed_app">Applications installées</string>
-    <string name="category_midrive">MiDrive</string>
+    <string name="category_midrive">Mi Drive</string>
     <string name="category_music">Musiques</string>
     <string name="category_other">Autres</string>
     <string name="category_photo">Photos</string>
@@ -232,8 +232,8 @@
     <string name="make_private_msg_3">Tous les fichiers dans ce dossier seront cachés.</string>
     <string name="megabyteShort">Mo</string>
     <string name="menu_item_deep_clean">Nettoyage en profondeur</string>
-    <string name="menu_item_ftp">"Se connecter à l'ordinateur"</string>
-    <string name="menu_item_midrop">Transférer des fichiers</string>
+    <string name="menu_item_ftp">FTP</string>
+    <string name="menu_item_midrop">Mi Drop</string>
     <string name="menu_item_router">Routeur</string>
     <string name="menu_item_sort">Trier par</string>
     <string name="menu_item_sort_add_time">Créé</string>
@@ -256,6 +256,11 @@
     <string name="new_folder_name">Dossier sans nom</string>
     <string name="no">Non</string>
     <string name="no_apk">Appuyez pour obtenir des applications</string>
+    <string name="no_app_tags">Vide</string>
+    <string name="no_comment">Sans commentaires</string>
+    <string name="no_content">"Ouvrez à nouveau l'explorateur de fichiers pour voir des vidéos populaires."</string>
+    <string name="no_daren_tip">Rien ici encore</string>
+    <string name="no_downloaded_sticker_tip">"Impossible de trouver les autocollants téléchargés. Découvrez les stickers partagés par les fans Mi."</string>
     <string name="no_enough_storage_indication">Stockage plein.</string>
     <string name="no_enough_storage_title">Espace disque insuffisant</string>
     <string name="no_file">Vide</string>
@@ -374,7 +379,7 @@
     <string name="search_description">"Rechercher tous les fichiers sur l'appareil"</string>
     <string name="search_empty_view_hint">Pas de résultat</string>
     <string name="search_error_hint">Rechercher</string>
-    <string name="search_file_type_apk">Apk</string>
+    <string name="search_file_type_apk">Applications</string>
     <string name="search_file_type_doc">Document</string>
     <string name="search_file_type_music">Musique</string>
     <string name="search_file_type_picture">Photo</string>

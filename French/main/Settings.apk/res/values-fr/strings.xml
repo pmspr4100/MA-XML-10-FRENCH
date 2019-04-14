@@ -1482,7 +1482,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="cutout_mode_always">"Toujours montrer l'encoche"</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">"Certaines applications risquent de ne pas s'afficher correctement si vous personnalisez le mode d'affichage de l'encoche."</string>
-    <string name="cutout_mode_title">Faire une encoche individuellement une application</string>
+    <string name="cutout_mode_title">Faire une encoche dans les applications individuelles</string>
     <string name="cutout_type_desc">"Activer pour lisser les courbes de l'encoche"</string>
     <string name="cutout_type_title">"Ajuster la forme de l'encoche"</string>
     <string name="daltonizer_mode_deuteranomaly">Deutéranomalie (rouge-vert)</string>
@@ -1498,7 +1498,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="dangerous_option_switch_title">Avertir des fonctionnalités à haut risque</string>
     <string name="dark_color_mode">Mode nuit</string>
     <string name="dark_color_summary">Utiliser une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles</string>
-    <string name="dark_ui_mode">Mode Nuit</string>
+    <string name="dark_ui_mode">Mode nuit</string>
     <string name="dark_ui_mode_title">Activer le mode nuit</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Réduire</string>
     <string name="dashboard_title">Paramètres</string>
@@ -1566,7 +1566,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="data_usage_menu_auto_sync">Synchronisation automatique des données</string>
     <string name="data_usage_menu_cellular_networks">Réseaux mobiles</string>
     <string name="data_usage_menu_hide_ethernet">Masquer conso Ethernet</string>
-    <string name="data_usage_menu_hide_wifi">Masquer conso données Wi‑Fi</string>
+    <string name="data_usage_menu_hide_wifi">Masquer conso données Wi-Fi</string>
     <string name="data_usage_menu_metered">Restrictions réseau</string>
     <string name="data_usage_menu_restrict_background">Limiter données arr.-plan</string>
     <string name="data_usage_menu_roaming">Autoriser itinérance</string>
@@ -1590,7 +1590,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
     <string name="data_usage_restrict_denied_dialog">La consommation des données en arrière-plan ne peut être restreinte que si vous avez défini une limite de données mobiles.</string>
     <string name="data_usage_summary_format">Volume des données utilisées : %1$s</string>
-    <string name="data_usage_summary_title">Conso. des données</string>
+    <string name="data_usage_summary_title">Conso des données</string>
     <string name="data_usage_sweep_limit"><font size="18">^1</font><font size="9">^2</font>"
 "<font size="12">plafond</font></string>
     <string name="data_usage_sweep_warning"><font size="18">^1</font><font size="9">^2</font>"
@@ -4949,8 +4949,8 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_lock_settings_summary_off">Désactivé</string>
     <string name="sim_lock_settings_summary_on">Verrouillée</string>
     <string name="sim_lock_settings_title">Verrouillage de la carte SIM</string>
-    <string name="sim_management_title">Cartes SIM &amp; réseaux mobiles</string>
-    <string name="sim_management_title_singlesim">Carte SIM &amp; réseaux mobiles</string>
+    <string name="sim_management_title">Réseaux mobiles</string>
+    <string name="sim_management_title_singlesim">Réseaux mobiles</string>
     <string name="sim_multi_sims_summary">Sélectionnez la carte SIM à utiliser en priorité pour les données mobiles.</string>
     <string name="sim_multi_sims_title">Plusieurs cartes SIM détectées</string>
     <string name="sim_name_hint">Saisir le nom de la carte SIM</string>
@@ -5451,7 +5451,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tether_settings_title_usb">Partage de connexion via USB</string>
     <string name="tether_settings_title_usb_bluetooth">Partage de connexion</string>
     <string name="tether_settings_title_wifi">"Point d'accès Wi-Fi mobile"</string>
-    <string name="tether_share_qrcode_title">Partager un code QR</string>
+    <string name="tether_share_qrcode_title">Partager un QR code</string>
     <string name="tethering_footer_info">"Utilisez un point d'accès et le partage de connexion pour fournir un accès à Internet à d'autres appareils via votre connexion de données mobiles. Les applications peuvent également créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
     <string name="tethering_hardware_offload">Accélération matérielle pour le partage</string>
     <string name="tethering_hardware_offload_summary">"Utiliser l'accélération du matériel de partage de connexion si disponible"</string>
@@ -5968,7 +5968,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="volume_restore_alert">Réinitialiser tous les niveaux de volume à leurs paramètres par défaut ?</string>
     <string name="volume_ring_description">Sonnerie &amp; notifications</string>
     <string name="volume_ring_mute">Couper la sonnerie et le son des notifications</string>
-    <string name="volume_system_description">"App. photo, verrouillage de l'écran et d'autres notifications système"</string>
+    <string name="volume_system_description">"Appareil photo, verrouillage de l'écran et d'autres notifications système"</string>
     <string name="volume_voice_description">"Volume lors d'appel"</string>
     <string name="vpn_always_on_invalid_reason_dns">Les adresses de serveur DNS pour le VPN permanent doivent être composées de chiffres</string>
     <string name="vpn_always_on_invalid_reason_no_dns">Vous devez spécifier un serveur DNS pour le VPN permanent</string>
@@ -6286,8 +6286,8 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_hotspot_ap_band_title">"Bande du point d'accès"</string>
     <string name="wifi_hotspot_auto_off_summary">"Le point d'accès Wi-Fi se désactive si aucun appareil n'est connecté"</string>
     <string name="wifi_hotspot_auto_off_title">"Désactiver le point d'accès automatiquement"</string>
-    <string name="wifi_hotspot_checkbox_text">"Point d'accès Wi‑Fi"</string>
-    <string name="wifi_hotspot_configure_ap_text">Configuration point accès Wi‑Fi</string>
+    <string name="wifi_hotspot_checkbox_text">"Point d'accès Wi-Fi"</string>
+    <string name="wifi_hotspot_configure_ap_text">Configuration point accès Wi-Fi</string>
     <string name="wifi_hotspot_configure_ap_text_summary">"Point d'accès AndroidAP WPA2 PSK"</string>
     <string name="wifi_hotspot_connect">SE CONNECTER</string>
     <string name="wifi_hotspot_footer_info_local_only">"Les applications peuvent créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
@@ -6538,8 +6538,8 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="wifi_tether_settings_title">"Point d'accès Wi-Fi mobile"</string>
     <string name="wifi_tether_starting">"Activation du point d'accès Wi-Fi en cours…"</string>
     <string name="wifi_tether_stopping">"Désactivation du point d'accès Wi-Fi en cours…"</string>
-    <string name="wifi_traffic_priority">Mode Trafic</string>
-    <string name="wifi_traffic_priority_extreme">Mode Extrême</string>
+    <string name="wifi_traffic_priority">Mode trafic</string>
+    <string name="wifi_traffic_priority_extreme">Mode extrême</string>
     <string name="wifi_traffic_priority_extreme_summary">"L'application actuelle a la priorité à utiliser pour les ressources réseau, fournir une expérience extrême, ce qui peut provoquer l'application en arrière-plan ne peut pas utiliser le réseau"</string>
     <string name="wifi_traffic_priority_off">Désactivé</string>
     <string name="wifi_traffic_priority_on">Activé</string>

@@ -63,7 +63,7 @@
     <string name="err_type_app">Applications</string>
     <string name="err_type_appstore">App Store</string>
     <string name="err_type_bluetooth">Bluetooth</string>
-    <string name="err_type_camera">App. photo</string>
+    <string name="err_type_camera">Appareil photo</string>
     <string name="err_type_hardware">Matériel</string>
     <string name="err_type_hardware_summary">Boutons, charge, capteurs, etc..</string>
     <string name="err_type_more">Plus</string>
@@ -197,7 +197,7 @@
     <string name="michat_artificial_customer_text">Assistant personnel</string>
     <string name="michat_attach_image">Photo</string>
     <string name="michat_attach_smiley">Émoticône</string>
-    <string name="michat_attach_take_photo">App. photo</string>
+    <string name="michat_attach_take_photo">Appareil photo</string>
     <string name="michat_back_to_detail">Retourner au chat</string>
     <string name="michat_cant_access_artificial">"Impossible d'atteindre le support maintenant"</string>
     <string name="michat_cant_join_artificial">Un problème de réseau est survenu, impossible de se connecter</string>

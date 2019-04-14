@@ -60,7 +60,7 @@
     <string name="accessibility_bluetooth_tether">Partage de connexion via Bluetooth.</string>
     <string name="accessibility_brightness">"Luminosité de l'affichage"</string>
     <string name="accessibility_brightness_slider">Curseur de luminosité</string>
-    <string name="accessibility_camera_button">App. photo</string>
+    <string name="accessibility_camera_button">Appareil photo</string>
     <string name="accessibility_carrier_network_change_mode">"Changement d'opérateur réseau."</string>
     <string name="accessibility_cast_name">Connecté à %s.</string>
     <string name="accessibility_casting_turned_off">"La diffusion de l'écran s'est arrêtée."</string>
