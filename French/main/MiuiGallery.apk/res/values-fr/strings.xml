@@ -197,7 +197,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="by_others">Autre</string>
     <string name="by_sms">SMS</string>
     <string name="byteShort">o</string>
-    <string name="camera_needs_auto_backup_tip">"L'album Appareil photo doit être sauvegardé"</string>
+    <string name="camera_needs_auto_backup_tip">"L'album appareil photo doit être sauvegardé"</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_download_btn_text">Arrêter</string>
     <string name="cancel_hint">Opération annulée</string>
@@ -250,7 +250,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="click_top_right">Appuyez sur cette icône</string>
     <string name="close">Fermer</string>
     <string name="close_dialog_desc">Fermer la fenêtre de dialogue</string>
-    <string name="cloud_camera_display_name">"Photos de l'Appareil photo"</string>
+    <string name="cloud_camera_display_name">"Photos de l'appareil photo"</string>
     <string name="cloud_guide_auto_backup_title">Choisir les albums à sauvegarder</string>
     <string name="cloud_guide_login_title">Sauvegarder automatiquement vos photos et vidéos</string>
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
