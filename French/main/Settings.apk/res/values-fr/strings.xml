@@ -1902,8 +1902,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dndm_vip_list_custom_group">Exceptions</string>
     <string name="dndm_vip_list_group">Liste des exceptions</string>
     <string name="dndm_vip_list_starred_contact">Favoris</string>
-    <string name="dndm_wristband">Activer avec le Mi Band</string>
-    <string name="dndm_wristband_detailed">"Activer le mode Ne pas déranger si le Mi Band détecte que vous dormez dans les une heure avant l'heure de début programmée"</string>
+    <string name="dndm_wristband">Activer avec le Mi Fit</string>
+    <string name="dndm_wristband_detailed">"Activer le mode Ne pas déranger si le Mi Fit détecte que vous dormez dans les une heure avant l'heure de début programmée"</string>
     <string name="do_disclosure_generic">Cet appareil est géré par votre organisation.</string>
     <string name="do_disclosure_learn_more_separator">" "</string>
     <string name="do_disclosure_with_name">Cet appareil est géré par %s.</string>
@@ -4200,7 +4200,7 @@ Interface UT : %5$s"</string>
     <string name="recent_notifications">Envoyées récemment</string>
     <string name="recent_notifications_see_all_title">Tout afficher depuis les sept derniers jours</string>
     <string name="recommend_item_1">Étui pour téléphone</string>
-    <string name="recommend_item_2">Mi Band</string>
+    <string name="recommend_item_2">Mi Fit</string>
     <string name="recommend_item_3">Batterie externe</string>
     <string name="recommend_item_4">Écouteurs</string>
     <string name="recommend_item_title">Recommandations</string>
@@ -4545,7 +4545,7 @@ Pour épingler l'écran :
     <string name="search_dndm_open">Ne pas déranger; NPD; Activer NPD</string>
     <string name="search_dndm_repeated_call_setting_title">Appels répétés</string>
     <string name="search_dndm_vip_call_setting_title">VIP;Exceptions</string>
-    <string name="search_dndm_wristband">Activer avec Mi Band;Mi Band</string>
+    <string name="search_dndm_wristband">Activer avec Mi Fit;Mi Fit</string>
     <string name="search_do_not_disturb_mode">Ne pas déranger</string>
     <string name="search_dtmf_tone_enable_title">Activer la tonalité des touches du pavé numérique;Touches du pavé numérique;tonalité des touches;sons des touches;sons du pavé numérique</string>
     <string name="search_empty">Aucun résultat</string>
