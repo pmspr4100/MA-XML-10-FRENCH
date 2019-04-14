@@ -99,8 +99,8 @@
     <string name="feedback_empty_report_list">Aucun commentaire</string>
     <string name="feedback_guess">Notre avis</string>
     <string name="feedback_history_remind_login_desc">Connectez-vous avec votre Compte Mi pour voir les détails et la progression de vos commentaires</string>
-    <string name="feedback_id">ID : %d</string>
-    <string name="feedback_jira_key">Clé JIRA : %s</string>
+    <string name="feedback_id">ID: %d</string>
+    <string name="feedback_jira_key">Clé JIRA: %s</string>
     <string name="feedback_package_log_failed">Impossible de compresser les journaux</string>
     <string name="feedback_phone_model_label">Modèle du téléphone</string>
     <string name="feedback_probability_label">Probabilité</string>
@@ -165,8 +165,6 @@
     <string name="feedback_tracking">Suivi des problèmes</string>
     <string name="feedback_version_label">Version</string>
     <string name="feesback_list">Rapports</string>
-    <string name="first_position">2#</string>
-    <string name="floor">%1$s#</string>
     <string name="from">de %1$s</string>
     <string name="goon_feedback_main">Continuer</string>
     <string name="hint_feedback_main">"Décrivez l'erreur"</string>
@@ -192,7 +190,6 @@
     <string name="menu_copy">Copier</string>
     <string name="message_label">Message</string>
     <string name="michat_app_name">Support en ligne</string>
-    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">"Si vous ne pouvez pas appeler l'assistance technique au 400, veuillez composer le %1$s en utlisant un autre téléphone"</string>
     <string name="michat_artificial_customer_text">Assistant personnel</string>
     <string name="michat_attach_image">Photo</string>
@@ -278,7 +275,7 @@
     <string name="module_system">Système</string>
     <string name="module_tools">Outils système</string>
     <string name="modules">Sélectionner un élément</string>
-    <string name="multi_graph_more">Total : %d</string>
+    <string name="multi_graph_more">Total: %d</string>
     <string name="network_err">Impossible de se connecter au réseau.</string>
     <string name="network_errorbtntip_custom">Veuillez réessayer</string>
     <string name="network_errorbtntip_login">Se connecter</string>
@@ -305,7 +302,7 @@
     <string name="passport_account_hint_text">Adresse email ou ID du compte Mi</string>
     <string name="passport_account_identity_title">Vérifier votre identité</string>
     <string name="passport_account_label">Compte Mi</string>
-    <string name="passport_account_name">Compte : %1$s</string>
+    <string name="passport_account_name">Compte: %1$s</string>
     <string name="passport_account_not_activated">"Votre compte n'a pas été activé "</string>
     <string name="passport_account_not_actived">"Votre compte n'a pas été activé"</string>
     <string name="passport_active_email_visit">Vérifiez votre boîte de réception à %s</string>
@@ -410,8 +407,8 @@ Pour activer votre compte, suivez le
     <string name="passport_register_account_verified_confirm">Compte vérifié</string>
     <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro, essayez avec un autre</string>
     <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéro de téléphone"</string>
-    <string name="passport_registered_phone_user_ID">ID utilisateur : %s</string>
-    <string name="passport_registered_phone_user_name">"Nom d'utilisateur : %s"</string>
+    <string name="passport_registered_phone_user_ID">ID utilisateur: %s</string>
+    <string name="passport_registered_phone_user_name">"Nom d'utilisateur: %s"</string>
     <string name="passport_reject_recycle_account">Non</string>
     <string name="passport_relogin">Se connecter à nouveau</string>
     <string name="passport_relogin_notice">Reconnectez-vous</string>
@@ -492,7 +489,7 @@ Pour activer votre compte, suivez le
     <string name="tab_title_chat">FAQ</string>
     <string name="tab_title_my_reports">Mes commentaires</string>
     <string name="tab_title_preferences">Paramètres</string>
-    <string name="tab_title_report">Commentaire</string>
+    <string name="tab_title_report">Commentaires</string>
     <string name="title_answer_feedback_main">Nous avons trouvé des réponses !</string>
     <string name="title_catch_full_log">Journaux</string>
     <string name="title_customer_service">Service clientèle</string>
@@ -528,7 +525,6 @@ Pour activer votre compte, suivez le
     <string name="toast_screenshot_too_large">"Impossible d'envoyer des images ou vidéos de plus de 10 Mo."</string>
     <string name="toast_third_packagename_required">"Saisir le nom de l'application"</string>
     <string name="toast_title_required">Décrire votre problème</string>
-    <string name="topic_author">1#</string>
     <string name="try_again">Veuillez réessayer</string>
     <string name="upload_log_failed">"Impossible d'envoyer les journaux"</string>
     <string name="warning_field_empty">Entrer %1$s</string>

@@ -15,7 +15,7 @@
   <string name="btn_yes">Oui</string>
   <string name="channel_downloading">Progression du téléchargement</string>
   <string name="channel_update">Nouvelle version disponible</string>
-  <string name="check_new_version">Vérifier</string>
+  <string name="check_new_version">Vérification des mises à jour</string>
   <string name="dialog_3g_desc">"Sachez que l'utilisation des données Mobile pour télécharger des ROM peut demander un quota important de votre forfait."</string>
   <string name="dialog_3g_title">Attention !</string>
   <string name="dialog_btn_3g">Continuer quand même</string>
@@ -23,8 +23,8 @@
   <string name="dialog_stop_desc">Vous pouvez suspendre ou arrêter le téléchargement, faites votre choix maintenant.</string>
   <string name="dialog_stop_title">Arrêter le téléchargement ?</string>
   <string name="dialog_twrp">"Votre stockage interne est crypté. Une fois le périphérique redémarré, veuillez entrer le mot de passe de déverrouillage de votre périphérique pour continuer."</string>
-  <string name="download_done">Téléchargé avec succès!</string>
-  <string name="download_fail">Erreur lors du téléchargement!</string>
+  <string name="download_done">Téléchargé avec succès !</string>
+  <string name="download_fail">Erreur lors du téléchargement !</string>
   <string name="download_fail_desc">MD5 Sum ne correspond pas</string>
   <string name="downloading">Téléchargement:</string>
   <string name="downloading_desc">Téléchargement en cours, contrôle du statut dans la zone de notification.</string>
@@ -32,15 +32,16 @@
 Les données ne seront pas effacées."</string>
   <string name="install_title">Êtes-vous sûr de continuer ?</string>
   <string name="menu_title_current_version_log">Ce qui est nouveau ?</string>
-  <string name="menu_title_pick_rom_file">Choisissez le package de mise à jour</string>
+  <string name="menu_title_pick_rom_file">Installer le package de mise à jour</string>
   <string name="menu_title_recovery">Redémarrer en mode Recovery</string>
   <string name="message_checkbox">"Masquer les futurs messages de l'équipe Xiaomi.eu"</string>
   <string name="message_title">NOTE !</string>
   <string name="new_version">Nouvelle version trouvée !</string>
   <string name="no_info">Aucune information disponible.</string>
   <string name="no_network">"Pas d'accès au réseau."</string>
-  <string name="no_update">Vous êtes à jour ou il y a un problème avec le serveur, vérifiez la nouvelle version de xiaomi.eu !</string>
-  <string name="no_xioamieu">"Vous n'utilisez pas MIUI Rom créé par l'équipe Xiaomi.eu !
+  <string name="no_update">"Vous êtes à jour ou il y a un problème avec le serveur, 
+Vérifiez sur le forum xiaomi.eu !"</string>
+  <string name="no_xioamieu">"Vous n'utilisez pas la ROM MIUI créé par l'équipe Xiaomi.eu !
 Les mises à jour ne sont pas disponibles pour vous !"</string>
   <string name="notif_cancel">Annuler</string>
   <string name="notif_install">Installer</string>

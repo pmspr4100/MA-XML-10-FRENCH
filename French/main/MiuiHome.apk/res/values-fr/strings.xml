@@ -53,7 +53,7 @@
     <string name="app_category_tools">Outils</string>
     <string name="app_category_travel">Voyage</string>
     <string name="app_category_vr">RV</string>
-    <string name="application_name">Lanceur dapplications</string>
+    <string name="application_name">"Lanceur d'applications"</string>
     <string name="apply">Définir</string>
     <string name="apply_action">Définir</string>
     <string name="apply_as_lock_screen">Définir comme écran de verrouillage</string>

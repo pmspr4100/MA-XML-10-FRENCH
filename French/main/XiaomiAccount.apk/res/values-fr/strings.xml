@@ -43,8 +43,8 @@
     <string name="passport_confirm_recycle_account">Oui</string>
     <string name="passport_reject_recycle_account">Non</string>
     <string name="passport_input_password_for_login">Ce numéro est associé à un compte existant, entrez votre mot de passe</string>
-    <string name="passport_registered_phone_user_ID">ID utilisateur : %s</string>
-    <string name="passport_registered_phone_user_name">"Nom d'utilisateur : %s"</string>
+    <string name="passport_registered_phone_user_ID">ID utilisateur: %s</string>
+    <string name="passport_registered_phone_user_name">"Nom d'utilisateur: %s"</string>
     <string name="passport_password_req_notice">8 à 16 caractères alphanumériques, sensible à la casse.</string>
     <string name="passport_reset_password_prompt">Mot de passe incorrect</string>
     <string name="passport_reset_password_title">Réinitialiser le mot de passe</string>
@@ -87,7 +87,7 @@ Pour activer votre compte, suivez le
     <string name="passport_quick_login_dialog_step2_title">Vérification en 2 étapes</string>
     <string name="passport_delete_account">Se Déconnecter</string>
     <string name="passport_vcode_notification_title">"La vérification n'est pas terminée"</string>
-    <string name="passport_account_name">Compte : %1$s</string>
+    <string name="passport_account_name">Compte: %1$s</string>
     <string name="passport_account_hint_text">E-mail/Téléphone/ID de Compte Mi</string>
     <string name="passport_email_or_id_hint_text">E-mail / ID de compte Mi</string>
     <string name="passport_phone_num_hint_text">Numéro de téléphone</string>
@@ -348,8 +348,8 @@ Pour activer votre compte, suivez le
     <string name="mi_finance_info">Bonus pour les nouveaux utilisateurs</string>
     <string name="loading_micloud_sync_data">Un instant…</string>
     <string name="activity_not_found_notice">"Impossible de trouver l'application"</string>
-    <string name="scan_barcode_title">Scannez le Code QR pour vous connecter</string>
-    <string name="talkback_scan_barcode">Scanner un code QR</string>
+    <string name="scan_barcode_title">Scannez le QR code pour vous connecter</string>
+    <string name="talkback_scan_barcode">Scanner un QR code</string>
     <string name="authorize_title">Autorisation</string>
     <string name="my_device_title">Appareil actuel</string>
     <string name="device_list_title">Mes appareils</string>
@@ -437,7 +437,7 @@ Pour activer votre compte, suivez le
     <string name="mipay_identitiy_no">Non vérifié</string>
     <string name="account_token_expired_title">"Échec de l'authentification"</string>
     <string name="account_token_expired_msg">"Le code de vérification a expiré, recommencez ou déconnectez-vous
-L'ID de votre compte : %s"</string>
+L'ID de votre compte: %s"</string>
     <string name="bind_safe_phone_msg">Ajoutez votre numéro de téléphone pour être en mesure de vous connecter à votre compte Mi la prochaine fois.</string>
     <string name="account_notification_message">La session a expiré, veuillez vous reconnecter.</string>
     <string name="sim_changed_notification_title">Numéro de téléphone modifié ?</string>
