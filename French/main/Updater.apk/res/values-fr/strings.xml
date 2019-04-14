@@ -29,7 +29,7 @@
   <string name="download_fail_desc">MD5 Sum ne correspond pas</string>
   <string name="downloading">Téléchargement:</string>
   <string name="downloading_desc">Téléchargement en cours, contrôle du statut dans la zone de notification.</string>
-  <string name="install_desc">L\'appareil va redémarrer pour récupérer et installer le fichier choisi:&lt;b&gt; %1$s&lt;/b&gt;"
+  <string name="install_desc">L\'appareil va redémarrer pour récupérer et installer la ROM: &lt;b&gt; %1$s&lt;/b&gt;"
 Les données ne seront pas effacées."</string>
   <string name="install_title">Êtes-vous sûr de continuer ?</string>
   <string name="menu_title_current_version_log">Ce qui est nouveau ?</string>
