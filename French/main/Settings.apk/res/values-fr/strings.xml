@@ -46,7 +46,7 @@
     <string name="about_settings">À propos du téléphone</string>
     <string name="about_settings_summary">Informations légales, état et version du logiciel</string>
     <string name="ac_enable_summary">Définir un mot de passe pour les applications individuelles</string>
-    <string name="ac_enable_title">"Verrouillage d'application"</string>
+    <string name="ac_enable_title">"Verrouillage d'applications"</string>
     <string name="ac_privacy_mode_sum">Demander un mot de passe pour désactiver le mode Invité</string>
     <string name="ac_privacy_mode_title">Mot de passe</string>
     <string name="ac_set_apps_title">Choisir une application à bloquer</string>
@@ -58,7 +58,7 @@
     <string name="access_control_need_password">"%s a été protégé
 "</string>
     <string name="access_control_need_to_unlock">Mot de passe requis :</string>
-    <string name="access_control_no_back_footer">Appuyer sur [icon] pour quitter</string>
+    <string name="access_control_no_back_footer">Appuyer sur [icône] pour quitter</string>
     <string name="access_control_password_title">Mot de passe</string>
     <string name="access_control_recording_intro_header">Dessinez un schéma de déverrouillage:</string>
     <string name="access_control_reset_by_account">Se connecter à votre compte Mi pour ré-initialiser le mot de passe</string>
@@ -1131,7 +1131,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="bt_trace_log">Activer le suivi du journal Bluetooth</string>
     <string name="bt_trace_log_summary">Log Bluetooth trace</string>
     <string name="btn_back">Retour</string>
-    <string name="bug_report_settings">Commentaire</string>
+    <string name="bug_report_settings">Commentaires</string>
     <string name="bugreport_in_power">Raccourci de rapport de bogues</string>
     <string name="bugreport_in_power_summary">"Afficher un bouton dans le menu d'énergie pour effectuer un rapport de bogue"</string>
     <string name="build_number">Numéro de build</string>
@@ -1720,7 +1720,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_camera">Appareil photo</string>
     <string name="device_cellular_network">Recherche de réseaux mobiles</string>
     <string name="device_complete_parameters">Toutes les spécifications</string>
-    <string name="device_cpu">Version du CPU</string>
+    <string name="device_cpu">Version processeur</string>
     <string name="device_cpu10_info">Deca-core</string>
     <string name="device_cpu2_info">Dual-core</string>
     <string name="device_cpu4_info">Quad-core</string>
@@ -1742,7 +1742,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_info_not_available">Non disponible</string>
     <string name="device_info_settings">État du téléphone</string>
     <string name="device_internal_memory">Stockage Interne</string>
-    <string name="device_memory">Taille de la RAM</string>
+    <string name="device_memory">Mémoire vive</string>
     <string name="device_miui_more">Afficher plus</string>
     <string name="device_miui_version">Version MIUI</string>
     <string name="device_miui_version_for_POCO">Version MIUI (pour POCO)</string>
@@ -1980,7 +1980,7 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="emergency_address_title">"Adresse d'urgence"</string>
     <string name="emergency_info_summary">Informations et contacts pour %1$s</string>
     <string name="emergency_info_title">"Informations d'urgence"</string>
-    <string name="emergency_sos_title">SOS Urgence</string>
+    <string name="emergency_sos_title">"Messages d'urgences"</string>
     <string name="emergency_tone_alert">Tonalités</string>
     <string name="emergency_tone_silent">Silence</string>
     <string name="emergency_tone_summary">"Définir le comportement en cas d'appel d'urgence"</string>
@@ -2395,7 +2395,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="go_to_sleep">"Éteindre l'écran"</string>
     <string name="google_backup_enable">Activer les sauvegardes</string>
     <string name="google_backup_section_title">Sauvegarde Google &amp; restauration</string>
-    <string name="google_title">Google</string>
+    <string name="google_title">Google.</string>
     <string name="got_it">"C'est compris"</string>
     <string name="gsm_to_wifi_connect_type_title">Cellulaire par Wi-Fi</string>
     <string name="gxzw_add_fingerprint_continue">Continuer</string>
@@ -2424,7 +2424,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_dialog_ok">"C'est compris"</string>
     <string name="gxzw_dialog_title">"À propos du capteur d'empreinte digitale intégré à l'écran"</string>
 	<string name="launcher_icon">Icônes</string>
-	<string name="gxzw_enroll_again">Lift your finger and press the fingerprint scanner again</string>
+	<string name="gxzw_enroll_again">"Soulevez votre doigt et appuyez à nouveau sur le lecteur d'empreintes digitales"</string>
     <string name="gxzw_quick_open_title" />
     <string name="handy_mode">Mode une main</string>
     <string name="handy_mode_enable">Mode une main</string>
@@ -2493,7 +2493,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="ime_security_warning">%1$s peut enregistrer tout ce que vous tapez, y compris les mots de passe, numéros de carte de crédit et autres données personnelles.</string>
     <string name="imei_information_summary">Informations relatives au code IMEI</string>
     <string name="imei_information_title">Informations sur le code IMEI</string>
-    <string name="imei_multi_sim">Code IMEI (emplacement SIM %1$d)</string>
+    <string name="imei_multi_sim">Code IMEI (SIM %1$d)</string>
     <string name="immediately_destroy_activities">Ne pas’ conserver les activités</string>
     <string name="immediately_destroy_activities_summary">"Terminer toute activité aussitôt que l'utilisateur la quitte"</string>
     <string name="importance_default">Par défaut</string>
@@ -2557,7 +2557,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="internal_storage_sentence">mémoire de stockage interne</string>
     <string name="invalid_location">"L'emplacement d'installation n'est pas valide."</string>
     <string name="invalid_size_value">Impossible de calculer la taille du package.</string>
-    <string name="item_system_app">Applications système</string>
+    <string name="item_system_app">Applications systèmes</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
     <string name="join_many_items_last">%1$s et %2$s</string>
     <string name="join_many_items_middle">%1$s, %2$s</string>
@@ -2607,8 +2607,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="keywords_all_apps">applis, télécharger, applications, système</string>
     <string name="keywords_ambient_display">notification reçue</string>
     <string name="keywords_ambient_display_screen">"affichage en mode veille, affichage de l'écran de verrouillage"</string>
-    <string name="keywords_android_version">mise à jour du correctif de sécurité Android, version de bande de base, version de noyau</string>
-    <string name="keywords_app">RAM</string>
+    <string name="keywords_android_version">Patch de sécurité android, version du modem, version de noyau</string>
+    <string name="keywords_app">Mémoire vive</string>
     <string name="keywords_app_permissions">applications, autorisations, sécurité</string>
     <string name="keywords_assist_gesture_launch">geste</string>
     <string name="keywords_assist_input">par défaut, assistant</string>
@@ -3100,14 +3100,14 @@ D'autres personnes utilisent cet appareil.
     <string name="media_output_summary">Téléphone</string>
     <string name="media_output_summary_unavailable">Indisponible</string>
     <string name="media_output_title">Diffuser des contenus multimédias sur</string>
-    <string name="media_volume_option_title">Volume des contenus multimédias</string>
+    <string name="media_volume_option_title">Volume du multimédias</string>
     <string name="media_volume_summary">Régler le volume pour la musique et les vidéos</string>
     <string name="media_volume_title">Multimédia</string>
     <string name="megabyteShort">Mo</string>
     <string name="megabyte_per_second">Mo/s</string>
-    <string name="meid_multi_sim">MEID (emplacement SIM %1$d)</string>
+    <string name="meid_multi_sim">MEID (SIM %1$d)</string>
     <string name="mem_details_title">Détails de la mémoire</string>
-    <string name="memory">RAM</string>
+    <string name="memory">Mémoire vive</string>
     <string name="memory_apps_usage">Applications et données associées</string>
     <string name="memory_available">Disponible</string>
     <string name="memory_available_read_only">Disponible (en lecture seule)</string>
@@ -3120,7 +3120,7 @@ D'autres personnes utilisent cet appareil.
     <string name="memory_details">Détails</string>
     <string name="memory_details_title">Détails de la mémoire</string>
     <string name="memory_downloads_usage">Téléchargements</string>
-    <string name="memory_max_desc">Maximale : %1$s</string>
+    <string name="memory_max_desc">Maximale: %1$s</string>
     <string name="memory_max_use">Maximale</string>
     <string name="memory_maximum_usage">Utilisation maximale</string>
     <string name="memory_media_cache_usage">Données mises en cache</string>
@@ -3218,8 +3218,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_sos_emergency_delivered_sms_noname">%1s a déjà accepté</string>
     <string name="miui_sos_emergency_failed_sms" formatted="false">Impossible d’envoyer un message à %1s (%2s).</string>
     <string name="miui_sos_emergency_failed_sms_noname">Impossible d’envoyer un message à %1s.</string>
-    <string name="miui_sos_enable_switch_summary">"Appuyez rapidement sur le bouton d'alimentation 5 fois pour envoyer un message texte SOS avec votre position à vos contacts d'urgence"</string>
-    <string name="miui_sos_enable_switch_title">"SOS d'urgence"</string>
+    <string name="miui_sos_enable_switch_summary">"Appuyez rapidement sur le bouton d'alimentation 5 fois pour envoyer un message d'urgence avec votre position à vos contacts d'urgence"</string>
+    <string name="miui_sos_enable_switch_title">"Messages d'urgences"</string>
     <string name="miui_sos_exit_dialog_cancel">Annuler</string>
     <string name="miui_sos_exit_dialog_message">"Vous avez activé le mode SOS Urgence. Vos informations de localisation sont en cours d'envoi à vos contacts d'urgence. Désactiver de toute manière?"</string>
     <string name="miui_sos_exit_dialog_ok">OK </string>
@@ -3267,7 +3267,7 @@ D'autres personnes utilisent cet appareil.
     <string name="model_info">Modèle</string>
     <string name="model_name">Modèle</string>
     <string name="model_number">"Modèle de l'appareil"</string>
-    <string name="model_summary">Modèle : %1$s</string>
+    <string name="model_summary">Modèle: %1$s</string>
     <string name="modify_instruction_password_settings">Définir le mot de passe</string>
     <string name="modify_privacy_password">Modifier le mot de passe</string>
     <string name="more_dangerous_option_hint">Des fonctionnalités à risque élevé comprenant \"%1$s\" sont activées. Appuyez pour modifier les paramètres.</string>
@@ -3287,14 +3287,14 @@ D'autres personnes utilisent cet appareil.
     <string name="msd_help_summary">"Impossible de se connecter à votre appareil ? 
 Sélectionnez votre système d'exploitation :"</string>
     <string name="msd_help_title">Aide</string>
-    <string name="msd_install">Ré-installer le pilote?</string>
+    <string name="msd_install">Réinstaller le pilote?</string>
     <string name="msd_install_download_zhushou">Mi Phone Manager téléchargé</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Suivant</string>
     <string name="msd_install_retry">"Si l'ordinateur n'a pas réussi à détecter votre appareil, Essayez ce qui suit:"</string>
     <string name="msd_install_retry_connect">Reconnecter le câble USB.</string>
     <string name="msd_install_retry_reinstall">Réinstaller le pilote.</string>
-    <string name="msd_install_retry_reinstall_mac">"Installez d、'abord Android File Transfer si vous avez un Mac, et exécutez le logiciel."</string>
+    <string name="msd_install_retry_reinstall_mac">"Installez d'abord Android File Transfer si vous avez un Mac, et exécutez le logiciel."</string>
     <string name="msd_install_status_done">Pilote installé</string>
     <string name="msd_install_status_undo">Installer le pilote</string>
     <string name="msd_install_succeed">Pilote installé</string>
@@ -4497,7 +4497,7 @@ Pour épingler l'écran :
     <string name="se_wallet_ese">Mi Pay et carte de transport NFC</string>
     <string name="se_wallet_hce">Utiliser le portefeuille HCE</string>
     <string name="se_wallet_uicc">Utiliser le portefeuille de la carte SIM%1$s</string>
-    <string name="search_about_settings">À propos du téléphone;Modèle;Version Android;Version MIUI;CPU;RAM;Mémoire interne;Mémoire;Stockage;Stockage interne;Version de bande de base;Version du noyau;Numéro de build;Mon appareil;Téléphone;Appareil</string>
+    <string name="search_about_settings">À propos du téléphone;Modèle;Version Android;Version MIUI;Processeur;Mémoire vive;Mémoire interne;Mémoire;Stockage;Stockage interne;Version du modem;Version du noyau;Numéro de build;Mon appareil;Téléphone;Appareil</string>
     <string name="search_accelerometer_title">"Rotation automatique de l'écran;Rotation de l'écran;Orientation;Portrait;Paysage"</string>
     <string name="search_access_control">Paramètres de confidentialité;Confidentialité de sécurité;Invité;Mode invité</string>
     <string name="search_accessibility_captioning_title">Sous-titre</string>
@@ -4647,7 +4647,7 @@ Pour épingler l'écran :
     <string name="search_status_bar_settings_toggle_position">Positions des raccourcis;Raccourcis;raccourcis;changer raccourcis</string>
     <string name="search_storage_settings">Stockage;Mémoire</string>
     <string name="search_sync_settings">Synchroniser;Auto;Wi-Fi uniquement</string>
-    <string name="search_system_app_settings">Applications système</string>
+    <string name="search_system_app_settings">Applications systèmes</string>
     <string name="search_theme_settings_title">Thèmes;Thème;Personnalisation;Personnaliser</string>
     <string name="search_touch_assistant">Assistant tactile;Assistant de touche</string>
     <string name="search_touch_sensitive_title">Mode Gant;gants;gant</string>
@@ -4719,7 +4719,7 @@ Pour épingler l'écran :
     <string name="security_keyguard_category_name">Écran de verrouillage</string>
     <string name="security_password_category_name">"Verrouillage de l'écran"</string>
     <string name="security_passwords_title">Confidentialité</string>
-    <string name="security_patch">Patch de sécurité Android</string>
+    <string name="security_patch">Patch de sécurité android</string>
     <string name="security_privacy_settings_title">Confidentialité</string>
     <string name="security_relative">Sécurité</string>
     <string name="security_settings_billing_desc">Cette application peut engendrer des frais :</string>
@@ -4975,7 +4975,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="sim_slot_empty">Carte SIM vide</string>
     <string name="sim_status_title">Statut SIM</string>
-    <string name="sim_status_title_sim_slot">État carte SIM (emplacement SIM %1$d)</string>
+    <string name="sim_status_title_sim_slot">État de la carte SIM (SIM %1$d)</string>
     <string name="simulate_color_space">Simuler un espace de couleur</string>
     <string name="single_key_use">Bouton unique</string>
     <string name="single_key_use_summary">"Utilisez le bouton d'accueil pour les fonctions exécutées par les 2 autres boutons"</string>
@@ -5107,8 +5107,8 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
     <string name="status_bar_settings">"Notifications &amp; barre d'état"</string>
     <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
-    <string name="status_bar_settings_expand_top_notification">Expand top notification</string>	
-    <string name="status_bar_settings_manage_notification">App notifications</string>
+    <string name="status_bar_settings_expand_top_notification">Développer la notification supérieure</string>	
+    <string name="status_bar_settings_manage_notification">"Notifications d'applications"</string>
     <string name="status_bar_settings_show_lte_for_4g">"Afficher l'icône LTE pour la 4G"</string>
     <string name="status_bar_settings_notification_bar">Panneau de notification</string>
     <string name="status_bar_settings_status_bar">Barre de statut</string>
@@ -5124,7 +5124,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_min_number">MIN</string>
     <string name="status_msid_number">MSID</string>
     <string name="status_number">Numéro de téléphone</string>
-    <string name="status_number_sim_slot">Num. tél. (emplacement SIM %1$d)</string>
+    <string name="status_number_sim_slot">Numéro de téléphone (SIM %1$d)</string>
     <string name="status_number_sim_status">Numéro de téléphone sur SIM</string>
     <string name="status_operator">Réseau</string>
     <string name="status_prl_version">"Version de la liste d'itinérance préférée"</string>
@@ -5399,9 +5399,9 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="system_alert_window_apps_title">Applications</string>
     <string name="system_alert_window_settings">Superposer aux autres applis</string>
     <string name="system_alert_window_summary">"%1$d applis sur %2$d autorisées à se superposer à d'autres"</string>
-    <string name="system_and_device_section_title">Paramètres système</string>
+    <string name="system_and_device_section_title">Paramètres systèmes</string>
     <string name="system_app">(Système)</string>
-    <string name="system_app_settings">Applications système</string>
+    <string name="system_app_settings">Applications systèmes</string>
     <string name="system_apps_updater">"Mise à jour d'applications système"</string>
     <string name="system_backup_section_title">Sauvegarde</string>
     <string name="system_dashboard_summary">Langues, date et heure, sauvegarde, mises à jour</string>
