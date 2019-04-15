@@ -15,7 +15,7 @@
     <string name="search_go">Rechercher</string>
     <string name="selectAll">Tout sélectionner</string>
     <string name="unknownName">Inconnu</string>
-    <string name="untitled">&lt;Sans nom></string>
+    <string name="untitled">&lt;Sans nom&gt;</string>
     <string name="VideoView_error_button">OK</string>
     <string name="VideoView_error_text_unknown">Impossible de lire la vidéo.</string>
     <string name="VideoView_error_title">Problème vidéo</string>
@@ -127,7 +127,6 @@
     <string name="anr_activity_process">"L'activité \"%1$s\" ne répond pas."</string>
     <string name="anr_application_process">%1$s ne répond pas.</string>
     <string name="anr_process">Le processus \"%1$s\" ne répond pas.</string>
-    <string name="anr_title" />
     <string name="app_category_audio">Musique et audio</string>
     <string name="app_category_game">Jeux</string>
     <string name="app_category_image">Photos et images</string>
@@ -144,10 +143,6 @@
     <string name="app_suspended_more_details">En savoir plus</string>
     <string name="app_suspended_title">Application indisponible</string>
     <string name="app_upgrading_toast">"Mise à jour de l'application %1$s…"</string>
-    <string name="autofill_address_name_separator">" "</string>
-    <string name="autofill_address_summary_format">$1$2$3</string>
-    <string name="autofill_address_summary_name_format">$1$2$3</string>
-    <string name="autofill_address_summary_separator">", "</string>
     <string name="autofill_area">Région</string>
     <string name="autofill_county">Comté</string>
     <string name="autofill_department">Département</string>
@@ -163,10 +158,10 @@
     <string name="autofill_province">Province</string>
     <string name="autofill_save_accessibility_title">Enregistrer pour la saisie automatique</string>
     <string name="autofill_save_no">Non, merci</string>
-    <string name="autofill_save_title">Enregistrer dans &lt;b>%1$s&lt;/b> ?</string>
-    <string name="autofill_save_title_with_2types">Enregistrer %1$s et %2$s dans &lt;b>%3$s&lt;/b> ?</string>
-    <string name="autofill_save_title_with_3types">Enregistrer %1$s, %2$s et %3$s dans &lt;b>%4$s&lt;/b> ?</string>
-    <string name="autofill_save_title_with_type">Enregistrer %1$s dans &lt;b>%2$s&lt;/b> ?</string>
+    <string name="autofill_save_title">Enregistrer dans &lt;b&gt;%1$s&lt;/b&gt;?</string>
+    <string name="autofill_save_title_with_2types">Enregistrer %1$s et %2$s dans &lt;b&gt;%3$s&lt;/b&gt;?</string>
+    <string name="autofill_save_title_with_3types">Enregistrer %1$s, %2$s et %3$s dans &lt;b&gt;%4$s&lt;/b&gt;?</string>
+    <string name="autofill_save_title_with_type">Enregistrer %1$s dans &lt;b&gt;%2$s&lt;/b&gt;?</string>	
     <string name="autofill_save_type_address">adresse</string>
     <string name="autofill_save_type_credit_card">carte de paiement</string>
     <string name="autofill_save_type_email_address">adresse e-mail</string>
@@ -225,7 +220,7 @@
     <string name="close_button_text">Fermer</string>
     <string name="color_correction_feature_name">Correction des couleurs</string>
     <string name="color_inversion_feature_name">Inversion des couleurs</string>
-    <string name="common_name">Nom commun :</string>
+    <string name="common_name">Nom commun:</string>
     <string name="condition_provider_service_binding_label">Fournisseur de conditions</string>
     <string name="conference_call">Conférence téléphonique</string>
     <string name="contentServiceSync">Synchroniser</string>

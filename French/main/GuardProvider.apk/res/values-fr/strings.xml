@@ -19,7 +19,7 @@
     <string name="tencent_dialog_dbupdate">Mise à jour automatique de la base de données virales</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="avl_dialog_title">"Politique de Confidentialité d'AVL"</string>
-    <string name="avl_dialog_header">"Cette fonctionnalité crypte et envoi l'identifiant de votre appareil aux serveurs d'AVL(%s)."</string>
+    <string name="avl_dialog_header">"Cette fonctionnalité crypte et envoi l'identifiant de votre appareil aux serveurs d'AVL (%s)."</string>
     <string name="avl_dialog_policy">consulter la Politique de Confidentialité</string>
     <string name="avl_dialog_cloudscan" />
     <string name="avl_dialog_dbupdate" />
