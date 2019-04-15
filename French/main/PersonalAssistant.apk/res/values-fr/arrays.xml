@@ -4,8 +4,18 @@
         <item>Vert - fonctionnel, rouge - défaillant</item>
         <item>Rouge - fonctionnel, vert - défaillant</item>
     </string-array>
-    <string-array name="stock_title_schema">
-        <item>Surligner le nom</item>
-        <item>Surligner le code</item>
+    <string-array name="day_time_space">
+        <item>Nuit</item>
+        <item>Tôt le matin</item>
+        <item>Matin</item>
+        <item>Midi</item>
+        <item>Après midi</item>
+        <item>"Tard dans l'après-midi"</item>
+        <item>Soirée</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Petite</item>
+        <item>Normale</item>
+        <item>Grande</item>
     </string-array>
 </resources>
