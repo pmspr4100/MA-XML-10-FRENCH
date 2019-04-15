@@ -307,7 +307,7 @@ Ne désactivez pas le point d'accès Wi-Fi. Gardez les appareils proches l'un de
     <string name="trans_detail_app_data_useless_tip">"Vous pouvez restaurer ces données depuis l'appli, pas besoin de les transférer."</string>
     <string name="trans_detail_item_app_data_too_large_tip">"Il se peut que l'élément soit trop gros pour le transférer."</string>
     <string name="trans_detail_item_app_data_selected_tip">Les applications correspondantes sélectionnées également.</string>
-    <string name="trans_detail_item_app_data_skip_data">""Impossible de transférer les données de l'application""</string>
+    <string name="trans_detail_item_app_data_skip_data">"Impossible de transférer les données de l'application"</string>
     <string name="trans_detail_list_footer">"1. Vous pouvez sélectionner les applications individuelles que vous souhaitez transférer. 
 2. Si vous sélectionnez les données d'application, les applications correspondantes seront également sélectionnées. 
 3. Les données d'applications WeChat et QQ peuvent ne pas être transférées en raison de problèmes de compatibilité. Vous pouvez essayer les fonctionnalités de transfert dans l'appli."</string>

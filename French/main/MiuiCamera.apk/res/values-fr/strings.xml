@@ -6,7 +6,7 @@
     <string name="hibernate_hint">"Appuyez sur l'écran pour réveiller l'appareil photo"</string>
     <string name="camera_error_title">"Erreur de l'appareil photo"</string>
     <string name="cannot_connect_camera_once">"Connexion impossible à l'appareil photo"</string>
-    <string name="cannot_connect_camera_twice">"Impossible de se connecter à l'app. photo. Essayez de redémarrer votre appareil."</string>
+    <string name="cannot_connect_camera_twice">"Impossible de se connecter à l'appareil photo. Essayez de redémarrer votre appareil."</string>
     <string name="camera_disabled">"L'appareil photo a été désactivé"</string>
     <string name="camera_label">Appareil photo</string>
     <string name="video_camera_label">Caméscope</string>
@@ -24,7 +24,7 @@
     <string name="pref_camera_recordlocation_title">Enregistrer les infos de localisation</string>
     <string name="pref_camera_recordlocation_entry_off">Désactiver</string>
     <string name="pref_camera_recordlocation_entry_on">Activé</string>
-    <string name="pref_camera_sound_title">"Sons de l'appareil photo"</string>
+    <string name="pref_camera_sound_title">"Son de l'appareil photo"</string>
     <string name="pref_camera_proximity_lock_title">Mode poche</string>
     <string name="pref_camera_proximity_lock_summary">Verrouiller les gestes tactiles une fois placé dans une poche</string>
     <string name="screen_on_proximity_sensor_summary">"Ne pas couvrir la zone de l'écouteur"</string>
@@ -369,6 +369,7 @@
     <string name="ubifocus_capture_warning_message">"Pour de meilleurs résultats, votre photo doit contenir des sujets proches (moins d'1 mètre) et lointains"</string>
     <string name="ubi_focus_capture_fail">Impossible de prendre la photo</string>
     <string name="object_track_enable_toast">Pour sélectionner un objet, appuyez simultanément les deux points autour de sa bordure.</string>
+    <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
     <string name="pref_camera_auto_capture_when_stable_title">"Capturer des objets sélectionnés lorsqu'ils sont stables"</string>
     <string name="pref_camera_auto_capture_when_stable_summary">"Pour sélectionner un objet, appuyez sur deux points en diagonale autour de sa bordure. Une fois que l'objet est stationnaire l'appareil photo se déclenche automatiquement."</string>
     <string name="simple_mode_button_text_manual">Désactiver le mode manuel</string>
@@ -402,7 +403,7 @@
     <string name="pref_camera_delay_capture_entry_3s">Délai 3 s</string>
     <string name="pref_camera_delay_capture_entry_5s">Délai 5 s</string>
     <string name="pref_camera_delay_capture_entry_10s">Délai 10 s</string>
-    <string name="pref_ai_detect">Détection AI</string>
+    <string name="pref_ai_detect">Détection IA</string>
     <string name="pref_google_lens">Lentilles Google</string>
     <string name="pref_camera_beauty">Embellir</string>
     <string name="pref_camera_beauty_deep">Embellir Pro</string>
@@ -426,8 +427,8 @@
     <string name="pref_camera_snap_label_take_movie">Vidéo</string>
     <string name="pref_camera_snap_entry_off">Désactivé</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Impossible d'utiliser le Mode de prise rapide pendant que \"Réveil par le volume\" est activé."</string>
-    <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
-    <string name="simple_mode_button_text_tilt_shift">Désactiver le mode Tilt-shift</string>
+    <string name="pref_camera_tilt_shift_title">Inclinaison</string>
+    <string name="simple_mode_button_text_tilt_shift">Désactiver le mode inclinaison</string>
     <string name="pref_camera_magic_mirror_title">Miroir magique</string>
     <string name="simple_mode_button_text_magic_mirror">Désactiver le miroir magique</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Alignez la flèche avec la ligne de référence</string>
@@ -515,10 +516,11 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="config_name_straighten">Redresser</string>
     <string name="config_name_hht">HHT</string>
     <string name="config_name_group">Selfie en groupe</string>
-    <string name="config_name_tilt">Tilt-shift</string>
+    <string name="config_name_tilt">Inclinaison</string>
     <string name="config_name_scene">Scène</string>
     <string name="config_name_magic">Magique</string>
     <string name="config_name_super_resolution">Super résolution</string>
+    <string name="beauty_body_whole">Corps</string>
     <string name="beauty_fragment_tab_name_beauty">Beauté</string>
     <string name="beauty_fragment_tab_name_makeup">Avancé</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Beauté</string>
@@ -544,12 +546,12 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="sticker_tab1">Mignon</string>
     <string name="sticker_tab2">Drôle</string>
     <string name="pref_privacy_title">Politique de Confidentialité</string>
-    <string name="user_agreement2">"Conditions d'Utilisation"</string>
+    <string name="user_agreement2">"Conditions d'utilisation"</string>
     <string name="user_agreement4">Politique de Confidentialité</string>
     <string name="user_agree">Accepter</string>
     <string name="do_not_remind_me">Ne plus afficher</string>
     <string name="user_notice_identify_summary_format">"En utilisant ce service, vous acceptez les conditions de Xiaomi %1$s et %2$s Acceptez-vous de vous connecter à Internet ?"</string>
-    <string name="user_notice_title">"Conditions Générales d'Utilisation"</string>
+    <string name="user_notice_title">"Conditions générales d'utilisation"</string>
     <string name="network_access_user_notice_title">Connexion à Internet</string>
     <string name="install_confirmed">Installer</string>
     <string name="confirm_install_scanner_title">Installer Scanner</string>
@@ -656,7 +658,7 @@ en mode Portrait"</string>
 Le mode ultra grand angle vient en aide lorsque vous ne pouvez pas vous éloigner de la scène."</string>
     <string name="live_reverse_message">Supprimer lélément précédemment capturé?</string>
     <string name="live_reverse_confirm">Supprimer</string>
-    <string name="live_error_title">Lheure du système nest pas correcte</string>
+    <string name="live_error_title">"L'heure du système n'est pas correcte"</string>
     <string name="live_error_message">Certaines fonctionnalités peuvent ne pas fonctionner correctement lorsque lheure du système est incorrecte.</string>
     <string name="live_error_confirm">Ajuster lheure</string>
     <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
