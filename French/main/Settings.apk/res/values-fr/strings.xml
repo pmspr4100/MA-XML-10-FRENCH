@@ -3287,7 +3287,7 @@ D'autres personnes utilisent cet appareil.
     <string name="msd_help_summary">"Impossible de se connecter à votre appareil ? 
 Sélectionnez votre système d'exploitation :"</string>
     <string name="msd_help_title">Aide</string>
-    <string name="msd_install">Réinstaller le pilote?</string>
+    <string name="msd_install">Réinstaller le pilote ?</string>
     <string name="msd_install_download_zhushou">Mi Phone Manager téléchargé</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Suivant</string>
@@ -3422,7 +3422,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Utiliser %s pour gérer vos connexions réseau ?</string>
     <string name="network_scorer_picker_none_preference">Aucun</string>
     <string name="network_scorer_picker_title">"Fournisseur d'évaluation état du réseau"</string>
-    <string name="network_settings_title">Réseaux Mobiles</string>
+    <string name="network_settings_title">Réseaux mobiles</string>
     <string name="network_speed_for_apps_close">"Forcer l'arrêt"</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">Forcer la fermeture de cette application ?</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">"Impossible de forcer l'arrêt d'une application système."</string>
@@ -3430,7 +3430,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="network_speed_for_apps_title">Connexion</string>
     <string name="network_speed_for_apps_total">Vitesse de connexion</string>
     <string name="networks">"Sélection de l'opérateur"</string>
-    <string name="networks_title">Réseaux Mobiles</string>
+    <string name="networks_title">Réseaux mobiles</string>
     <string name="never">Jamais</string>
     <string name="new_backup_pw_prompt">Saisissez votre nouveau mot de passe de sauvegarde complète.</string>
     <string name="new_device_suggestion_summary">Découvrez votre nouveau téléphone</string>
@@ -4553,7 +4553,7 @@ Pour épingler l'écran :
     <string name="search_fluency_mode">Animations système</string>
     <string name="search_font">Police du système;Police;polices;Tailles de police;Taille de police</string>
     <string name="search_force_touch">Touche 3D</string>
-    <string name="search_gesture_wakeup_title">"Appuyer deux fois allumer l'écran;appuyer deux fois pour allumer;allumer lécran;appuyer deux fois sur l'écran;appuyer deux fois"</string>
+    <string name="search_gesture_wakeup_title">"Appuyer deux fois allumer l'écran;appuyer deux fois pour allumer;allumer l'écran;appuyer deux fois sur l'écran;appuyer deux fois"</string>
     <string name="search_gps">GPS;Accès à la localisation;Services de localisation</string>
     <string name="search_handy_mode">Mode une main;Mode une-main;Mode une main;Une main</string>
     <string name="search_hint">Recherche dans les paramètres</string>
