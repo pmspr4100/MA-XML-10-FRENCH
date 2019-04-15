@@ -5721,7 +5721,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_week_total_text">"Temps d'écran (7 derniers jours)"</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Week-ends</string>
-    <string name="usage_state_work_day_hour_minute" formatted="false">Jours de la semaine: %d h %d m</string
+    <string name="usage_state_work_day_hour_minute" formatted="false">Jours de la semaine: %d h %d m</string>
     <string name="usage_stats_label">Données statistiques</string>
     <string name="usage_stats_normal_day">Jours de la semaine</string>
     <string name="usage_stats_week_day">Week-ends</string>
@@ -5759,7 +5759,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usagestats_app_category_miui_video_etc">Musique et vidéo</string>
     <string name="usagestats_device_notification_des">"Limite de temps d'écran pour aujourd'hui: %s"</string>
     <string name="usagestats_device_notification_des_over">"Vous avez déjà atteint votre limite de temps d'écran aujourd'hui."</string>
-    <string name="usagestats_device_notification_des_reset" formatted="false">Limite de temps d'écran pour aujourd'hui: %s | %s restantes</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">"Limite de temps d'écran pour aujourd'hui: %s | %s restantes"</string>
     <string name="usagestats_device_notification_title">"Alerte de temps d'écran"</string>
     <string name="usagestats_device_timeout_des" formatted="false">"Vous utilisez votre appareil depuis %d h %d m aujourd'hui. Reposez-vous !"</string>
     <string name="usagestats_device_timeout_negative">Rappeler dans 1 heure</string>
