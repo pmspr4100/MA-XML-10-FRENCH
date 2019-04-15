@@ -5746,27 +5746,25 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_type_video">Vidéo</string>
     <string name="usage_type_wake_lock">Maintenir activé</string>
     <string name="usage_type_wifi_running">Wi-Fi activé</string>
-	
     <string name="usagestats_app_category_miui_financial">Finance</string>
-    <string name="usagestats_app_category_miui_game">Games</string>
-    <string name="usagestats_app_category_miui_life">Lifestyle</string>
-    <string name="usagestats_app_category_miui_productivity">Productivity</string>
-    <string name="usagestats_app_category_miui_reading">Reading</string>
-    <string name="usagestats_app_category_miui_shopping">Shopping</string>
-    <string name="usagestats_app_category_miui_social">Social networks</string>
-    <string name="usagestats_app_category_miui_system">System apps</string>
-    <string name="usagestats_app_category_miui_tools">Tools</string>
-    <string name="usagestats_app_category_miui_undefined">Other</string>
-    <string name="usagestats_app_category_miui_video_etc">Music and video</string>
-    <string name="usagestats_device_notification_des">Screen time limit for today: %s</string>
-    <string name="usagestats_device_notification_des_over">"You've already reached your screen time limit today."</string>
-    <string name="usagestats_device_notification_des_reset" formatted="false">Screen time limit for today: %s | %s remaining</string>
-    <string name="usagestats_device_notification_title">Screen time alert</string>
-    <string name="usagestats_device_timeout_des" formatted="false">"You've been using your device for %dh %dm today. Have some rest!"</string>
-    <string name="usagestats_device_timeout_negative">Remind in 1 hour</string>
-    <string name="usagestats_device_timeout_positive">Got it</string>
-    <string name="usagestats_device_timeout_title">Screen time alert</string>
-	
+    <string name="usagestats_app_category_miui_game">Jeux</string>
+    <string name="usagestats_app_category_miui_life">Mode de vie</string>
+    <string name="usagestats_app_category_miui_productivity">Productivité</string>
+    <string name="usagestats_app_category_miui_reading">Lecture</string>
+    <string name="usagestats_app_category_miui_shopping">Achats</string>
+    <string name="usagestats_app_category_miui_social">Réseaux sociaux</string>
+    <string name="usagestats_app_category_miui_system">Applications système</string>
+    <string name="usagestats_app_category_miui_tools">Outils</string>
+    <string name="usagestats_app_category_miui_undefined">Autre</string>
+    <string name="usagestats_app_category_miui_video_etc">Musique et vidéo</string>
+    <string name="usagestats_device_notification_des">"Limite de temps d'écran pour aujourd'hui: %s"</string>
+    <string name="usagestats_device_notification_des_over">"Vous avez déjà atteint votre limite de temps d'écran aujourd'hui."</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">Limite de temps d'écran pour aujourd'hui: %s | %s restantes</string>
+    <string name="usagestats_device_notification_title">"Alerte de temps d'écran"</string>
+    <string name="usagestats_device_timeout_des" formatted="false">"Vous utilisez votre appareil depuis %d h %d m aujourd'hui. Reposez-vous !"</string>
+    <string name="usagestats_device_timeout_negative">Rappeler dans 1 heure</string>
+    <string name="usagestats_device_timeout_positive">Vu</string>
+    <string name="usagestats_device_timeout_title">"Alerte de temps d'écran"</string>
     <string name="usb_adb_input">Débogage USB (Paramètres de sécurité)</string>
     <string name="usb_adb_input_desc">"Accorder les autorisations et simulation d'entrée via le débogage USB"</string>
     <string name="usb_audio_disable_routing">Désactiver le routage audio USB</string>
@@ -5791,7 +5789,6 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usb_midi_summary">Permettre aux applications compatibles avec le protocole MIDI de fonctionner via USB avec des logiciels MIDI sur votre ordinateur</string>
     <string name="usb_midi_title">MIDI</string>
     <string name="usb_mount">Monter le stockage USB</string>
-    <string name="usb_mount_summary" />
     <string name="usb_msd_driver_installer_summary">Obtenez les pilotes pour Windows et OSX</string>
     <string name="usb_msd_driver_installer_title">"Pilote d'installation du disque (MSD)"</string>
     <string name="usb_msd_summary">Transfère des fichiers via Windows ou OSX</string>
