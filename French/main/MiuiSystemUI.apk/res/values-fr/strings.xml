@@ -758,7 +758,8 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="gxzw_press_harder">Appuyer un peu plus fort</string>
     <string name="gxzw_try_again">Veuillez réessayer</string>
     <string name="gxzw_try_more_again">Veuillez réessayer</string>
-    <string name="gxzw_use_password">Utiliser votre mot de passe pour débloquer</string>
+    <string name="gxzw_use_password">Utilisez votre mot de passe pour déverrouiller</string>
+    <string name="gxzw_use_password_to_unlock">Entrer le mot de passe</string>
     <string name="hdcp_checking_dialog_title">Définir le comportement de vérification HDCP</string>
     <string name="hdcp_checking_title">Vérification HDCP</string>
     <string name="headset">Casque</string>

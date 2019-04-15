@@ -241,6 +241,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="summary_err_restore_no_network">Impossible de se connecter au réseau</string>
     <string name="err_authentication_failed">"Échec de l'authentification"</string>
     <string name="err_low_storage">Espace libre insuffisant</string>
+    <string name="err_no_gms">"Version de l'application incompatible. Installez cette application séparément"</string>
     <string name="err_unknown">Erreur inconnue</string>
     <string name="err_version_too_old">Le fichier de sauvegarde est trop vieux.</string>
     <string name="err_version_unsupported">"La version de la sauvegarde n'est pas supportée."</string>
@@ -306,6 +307,7 @@ Ne désactivez pas le point d'accès Wi-Fi. Gardez les appareils proches l'un de
     <string name="trans_detail_app_data_useless_tip">"Vous pouvez restaurer ces données depuis l'appli, pas besoin de les transférer."</string>
     <string name="trans_detail_item_app_data_too_large_tip">"Il se peut que l'élément soit trop gros pour le transférer."</string>
     <string name="trans_detail_item_app_data_selected_tip">Les applications correspondantes sélectionnées également.</string>
+    <string name="trans_detail_item_app_data_skip_data">""Impossible de transférer les données de l'application""</string>
     <string name="trans_detail_list_footer">"1. Vous pouvez sélectionner les applications individuelles que vous souhaitez transférer. 
 2. Si vous sélectionnez les données d'application, les applications correspondantes seront également sélectionnées. 
 3. Les données d'applications WeChat et QQ peuvent ne pas être transférées en raison de problèmes de compatibilité. Vous pouvez essayer les fonctionnalités de transfert dans l'appli."</string>

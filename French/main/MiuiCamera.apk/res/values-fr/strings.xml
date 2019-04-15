@@ -548,7 +548,7 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="user_agreement4">Politique de Confidentialité</string>
     <string name="user_agree">Accepter</string>
     <string name="do_not_remind_me">Ne plus afficher</string>
-    <string name="user_notice_identify_summary_format">"En utilisant ce service, vous êtes d'accord avec les %1$s et %2$s de Xiaomi."</string>
+    <string name="user_notice_identify_summary_format">"En utilisant ce service, vous acceptez les conditions de Xiaomi %1$s et %2$s Acceptez-vous de vous connecter à Internet ?"</string>
     <string name="user_notice_title">"Conditions Générales d'Utilisation"</string>
     <string name="network_access_user_notice_title">Connexion à Internet</string>
     <string name="install_confirmed">Installer</string>
@@ -604,8 +604,8 @@ en mode Portrait"</string>
     <string name="autozoom_hint">Suivre lobjet en mouvement</string>
     <string name="autozoom_disabled_hint">Arrêter de suivre lobjet en mouvement</string>
     <string name="autozoom_click_hint">"Appuyez sur un objet pour le maintenir au point lorsqu'il est en mouvement. Restez à au moins 3 mètres pour un meilleur effet."</string>
-    <string name="live_sticker_fragment_tab_name">Autocollants</string>
-    <string name="live_speed_fragment_tab_name">Vitesse</string>
+    <string name="live_sticker_fragment_tab_name">TikTok Magic Autocollants</string>
+    <string name="live_speed_fragment_tab_name">"Vitesse d'enregistrement"</string>
     <string name="live_speed_extreme_slow">Très lent</string>
     <string name="live_speed_slow">Lent</string>
     <string name="live_speed_normal">Normal</string>
@@ -619,7 +619,7 @@ en mode Portrait"</string>
     <string name="beauty_body_body">Élancé</string>
     <string name="beauty_body_shoulder">Épaules</string>
     <string name="beauty_body_legged">Jambes</string>
-    <string name="beauty_body_reset_tip">Effet de figure réinitialisé avec succès</string>
+    <string name="beauty_body_reset_tip">Effet de figure supprimé avec succès</string>
     <string name="ultra_wide_open_tip">Mode ultra grand angle</string>
     <string name="ultra_wide_close_tip">Mode ultra grand angle est désactivé</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ULTRA GRAND</string>
@@ -650,7 +650,7 @@ en mode Portrait"</string>
     <string name="live_edit_exit_message">Arrêter la séance photo maintenant ?</string>
     <string name="live_edit_exit_confirm">Arrêter</string>
     <string name="live_edit_share_title">Partager</string>
-    <string name="beauty_reset_toast">Effets dembellissement supprimés avec succès</string>
+    <string name="beauty_reset_toast">Réinitialiser les effets de figure avec succès</string>
     <string name="pref_camera_ultra_wide_mode_title">Mode ultra grand angle</string>
     <string name="ultra_wide_mode_use_hint_text">"Utilisez ce mode pour inclure davantage de scènes dans votre photo.
 Le mode ultra grand angle vient en aide lorsque vous ne pouvez pas vous éloigner de la scène."</string>
