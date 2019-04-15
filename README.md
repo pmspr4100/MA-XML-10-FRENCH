@@ -1,6 +1,7 @@
-[![MIUI10 logo](https://i.imgur.com/s5PsCYM.png)](https://xiaomi.eu/)
 
 ## MIUI V10 French Translation / MIUI V10 Traduction Française
+
+[![MIUI10 logo](https://i.imgur.com/s5PsCYM.png)](https://xiaomi.eu/)
 
 ## Introduction / Introduction
 
@@ -15,10 +16,9 @@
 ## Current improvements / Améliorations en cours
 
 * Daily updates are made / * Des mises à jour quotidiennes sont effectuées.
-* Xiaomi models added / * Pour les modèles Xiaomi.
-* Spelling errors corrected / * Correction orthographique.
 * Some of the problems have been fixed / * Certains problèmes ont été corrigés.
-* All of Xiaomi phones etc... / * Tous les téléphones Xiaomi etc...
+* Spelling errors corrected / * Correction orthographique.
+* Xiaomi models added / * Pour tous les modèles Xiaomi.
 
 ## For all problems / Pour tous problèmes
 * Translation French: pms.pr4100 (pms.pr4100@gmail.com)
