@@ -57,7 +57,7 @@
     <string name="access_control_app_entry_single">"Ouvrir l'application"</string>
     <string name="access_control_need_password">"%s a été protégé
 "</string>
-    <string name="access_control_need_to_unlock">Mot de passe requis :</string>
+    <string name="access_control_need_to_unlock">Mot de passe requis:</string>
     <string name="access_control_no_back_footer">Appuyer sur [icône] pour quitter</string>
     <string name="access_control_password_title">Mot de passe</string>
     <string name="access_control_recording_intro_header">Dessinez un schéma de déverrouillage:</string>
@@ -590,7 +590,7 @@ Activez optimisation batterie."</string>
     <string name="band_mode_succeeded">OK</string>
     <string name="band_mode_title">Définir le mode de bande radio</string>
     <string name="baseband_version">Version du modem</string>
-    <string name="batch_delete_saved_network">Supprimer les réseaux enregistrés : %s ?</string>
+    <string name="batch_delete_saved_network">Supprimer les réseaux enregistrés: %s ?</string>
     <string name="batch_delete_saved_networks">Supprimer tous les réseaux sélectionnés</string>
     <string name="battery_abnormal_apps_summary">%1$d applications ne fonctionnent pas correctement</string>
     <string name="battery_abnormal_details_title">Applications qui déchargent la batterie</string>
@@ -629,27 +629,27 @@ Activez optimisation batterie."</string>
     <string name="battery_full_charge_last">La charge complète dure environ</string>
     <string name="battery_indicator_style">Indicateur de batterie</string>
     <string name="battery_indicator_title">Indicateur de batterie</string>
-    <string name="battery_info_awake_battery">Temps de veille sur la batterie :</string>
-    <string name="battery_info_awake_plugged">Temps de veille pendant la charge :</string>
+    <string name="battery_info_awake_battery">Temps de veille sur la batterie:</string>
+    <string name="battery_info_awake_plugged">Temps de veille pendant la charge:</string>
     <string name="battery_info_health_cold">Froide</string>
     <string name="battery_info_health_dead">Morte</string>
     <string name="battery_info_health_good">Bien</string>
-    <string name="battery_info_health_label">État de la batterie :</string>
+    <string name="battery_info_health_label">État de la batterie:</string>
     <string name="battery_info_health_over_voltage">Surtension</string>
     <string name="battery_info_health_overheat">Surchauffe</string>
     <string name="battery_info_health_unknown">Inconnu</string>
     <string name="battery_info_health_unspecified_failure">Erreur inconnue</string>
     <string name="battery_info_label">Infos de la batterie</string>
-    <string name="battery_info_level_label">Niveau de la batterie :</string>
+    <string name="battery_info_level_label">Niveau de la batterie:</string>
     <string name="battery_info_power_ac">AC</string>
     <string name="battery_info_power_ac_usb">AC+USB</string>
-    <string name="battery_info_power_label">Alimentation électrique :</string>
+    <string name="battery_info_power_label">Alimentation électrique:</string>
     <string name="battery_info_power_unknown">Inconnu</string>
     <string name="battery_info_power_unplugged">Débranché</string>
     <string name="battery_info_power_usb">USB</string>
     <string name="battery_info_power_wireless">Sans fil</string>
-    <string name="battery_info_scale_label">Dimension de la batterie :</string>
-    <string name="battery_info_screen_on">"Temps de veille de l'écran :"</string>
+    <string name="battery_info_scale_label">Dimension de la batterie:</string>
+    <string name="battery_info_screen_on">"Temps de veille de l'écran:"</string>
     <string name="battery_info_status_charging">En charge</string>
     <string name="battery_info_status_charging_ac">Chargement depuis AC</string>
     <string name="battery_info_status_charging_lower">Chargement</string>
@@ -657,14 +657,14 @@ Activez optimisation batterie."</string>
     <string name="battery_info_status_charging_wireless">Chargement sans fil</string>
     <string name="battery_info_status_discharging">Pas en charge</string>
     <string name="battery_info_status_full">Pleine</string>
-    <string name="battery_info_status_label">État de la batterie :</string>
+    <string name="battery_info_status_label">État de la batterie:</string>
     <string name="battery_info_status_not_charging">Pas en charge</string>
     <string name="battery_info_status_unknown">Inconnu</string>
-    <string name="battery_info_technology_label">Technologie :</string>
-    <string name="battery_info_temperature_label">Température de la batterie :</string>
+    <string name="battery_info_technology_label">Technologie:</string>
+    <string name="battery_info_temperature_label">Température de la batterie:</string>
     <string name="battery_info_temperature_units">° C</string>
-    <string name="battery_info_uptime">En marche depuis :</string>
-    <string name="battery_info_voltage_label">Tension de la batterie :</string>
+    <string name="battery_info_uptime">En marche depuis:</string>
+    <string name="battery_info_voltage_label">Tension de la batterie:</string>
     <string name="battery_info_voltage_units">mV</string>
     <string name="battery_last_full_charge">Dernière charge complète</string>
     <string name="battery_level_title">Niveau de la batterie</string>
@@ -817,7 +817,7 @@ Applications :
     <string name="bluetooth_connection_notif_message">"Appuyez pour vous connecter à l'appareil \"%1$s\"."</string>
     <string name="bluetooth_connection_permission_request">Demande de connexion Bluetooth</string>
     <string name="bluetooth_device">Appareil Bluetooth sans nom</string>
-    <string name="bluetooth_device_address">Adresse :</string>
+    <string name="bluetooth_device_address">Adresse:</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Autoriser les fichiers entrants</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Connecter à un appareil Bluetooth</string>
     <string name="bluetooth_device_advanced_online_mode_title">Se connecter</string>
@@ -833,7 +833,7 @@ Applications :
     <string name="bluetooth_device_details">"Paramètres de l'appareil"</string>
     <string name="bluetooth_device_mac_address">"Adresse Bluetooth de l'appareil : %1$s"</string>
     <string name="bluetooth_device_misc_title">Périphériques Bluetooth rarement utilisés</string>
-    <string name="bluetooth_device_name">Nom :</string>
+    <string name="bluetooth_device_name">Nom:</string>
     <string name="bluetooth_device_name_summary">Visible avec le nom \"^1\" pour les autres appareils</string>
     <string name="bluetooth_device_searchable">Visibilité</string>
     <string name="bluetooth_devices">Appareils Bluetooth</string>
@@ -844,7 +844,7 @@ Applications :
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Redémarrer ?</string>
     <string name="bluetooth_disable_absolute_volume">Désactiver le volume absolu</string>
     <string name="bluetooth_disable_absolute_volume_summary">Désactivez tout le volume du Bluetooth en cas de problème de volume avec des périphériques distants, par exemple un volume inacceptable ou une incapacité à le contrôler.</string>
-    <string name="bluetooth_disable_profile_message">Le profil :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>va être désactivé sur :&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_disable_profile_message">Le profil :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>va être désactivé sur:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Désactiver le profil ?</string>
     <string name="bluetooth_disabled">Désactivé</string>
     <string name="bluetooth_disconnect_a2dp_profile">"%1$s sera déconnecté de l'audio du support."</string>
@@ -1040,7 +1040,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bluetooth_unlock_settings_unlock_device">"Déverrouiller l'appareil"</string>
     <string name="bluetooth_unlock_state_disconnected">Déconnecté</string>
     <string name="bluetooth_unlock_state_key_error">Clé érronée</string>
-    <string name="bluetooth_unlock_state_label">"État : "</string>
+    <string name="bluetooth_unlock_state_label">"État: "</string>
     <string name="bluetooth_unlock_state_ok">Débloqué</string>
     <string name="bluetooth_unlock_state_too_far">Pas assez proche</string>
     <string name="bluetooth_unlock_title">Déverr. avec un périphérique Bluetooth</string>
@@ -1068,18 +1068,18 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bootloader_device_bind_no_data_network">Désactivez la Wi-Fi et ajoutez votre compte et appareil utilisant les données mobiles.</string>
     <string name="bootloader_device_bind_no_network">Connectez-vous au réseau et réessayez</string>
     <string name="bootloader_device_bind_no_sim">Insérez une carte SIM et réessayez.</string>
-    <string name="bootloader_device_bind_server_code">"Ajout impossible. Code d'erreur :"</string>
+    <string name="bootloader_device_bind_server_code">"Ajout impossible. Code d'erreur:"</string>
     <string name="bootloader_device_bind_server_token_expired_1">"Impossible de vérifier. Essayez d'ajouter votre compte et appareil à nouveau."</string>
     <string name="bootloader_device_bind_server_token_expired_2">Impossible de vérifier. Connectez-vous à votre compte à nouveau et réessayez.</string>
     <string name="bootloader_device_bind_sim_invalid">La carte SIM est invalide. Remplacez-là et réessayez.</string>
     <string name="bootloader_locked_answer_1">"Nous verrouillons les appareils pour vous garantir leur sécurité et pour vous assurer que vos informations personnelles ne soient pas communiquées à des tiers. Si vous avez besoin d'entrer en mode Fastboot pour flasher votre appareil, vous pouvez le déverrouiller."</string>
-    <string name="bootloader_locked_answer_1_warning">"Souvenez-vous : vous ne serez pas en mesure d'utiliser \"Localiser l'appareil\" après que le téléphone sera déverrouillé."</string>
+    <string name="bootloader_locked_answer_1_warning">"Souvenez-vous: vous ne serez pas en mesure d'utiliser \"Localiser l'appareil\" après que le téléphone sera déverrouillé."</string>
     <string name="bootloader_locked_answer_2">"1. Assurez-vous d'avoir inséré une carte SIM dans votre appareil.
 2. Désactivez la Wi-Fi et activez les données mobiles. Assurez votre appareil peut être connecter à Internet en utilisant les données mobiles.
 3. Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
-4. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici :"</string>
+4. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici:"</string>
     <string name="bootloader_locked_answer_2_no_sim">"Appuyez sur \"Ajouter un compte\" ci-dessous pour associer votre compte Mi avec cet appareil.
-2. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici :"</string>
+2. Téléchargez l'outil de déverrouillage depuis notre site web. Notez que vous devriez déverrouiller vos appareils depuis un ordinateur. Téléchargez ici:"</string>
     <string name="bootloader_locked_check_status">Ajouter un compte et un appareil</string>
     <string name="bootloader_locked_question_1">Pourquoi les appareils devraient-ils être verrouillés ?</string>
     <string name="bootloader_locked_question_2">Je comprends les risques, mais je souhaite toujours déverrouiller mon appareil.</string>
@@ -1121,7 +1121,7 @@ Vous pouvez désactiver cette fonctionnalité dans les paramètres > Bluetooth >
     <string name="bt_ldac_declaration">"Lorsque le périphérique Bluetooth prend en charge LDAC, il sera connecté par défaut. LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
     <string name="bt_ldac_dialog_summary">"LDAC fournit une expérience audio de haute qualité et apporte également une consommation d'énergie plus élevée
 Cette fonctionnalité peut être désactivée dans [Settings]"</string>
-    <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut :"</string>
+    <string name="bt_ldac_dialog_title">"L'appareil actuel supporte LDAC, qui a été connecté par défaut:"</string>
     <string name="bt_ldac_open_dialog_summary">"LDAC fournit une expérience audio de haute qualité mais aussi augmente la consommation d'énergie. Des problèmes peuvent se produire pendant la lecture en raison des limites du matériel Bluetooth."</string>
     <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
@@ -1351,7 +1351,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Ajouter</string>
     <string name="confirm_convert_to_fbe_warning">Voulez-vous vraiment effacer les données des utilisateurs et chiffrer les fichiers ?</string>
     <string name="confirm_download_cancelation_dialog_message">Annuler le téléchargement ?</string>
-    <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
+    <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
     <string name="confirm_erase">Supprimer</string>
     <string name="confirm_fingerprint_icon_content_description">Utilisez votre empreinte digitale pour continuer.</string>
@@ -1390,7 +1390,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="controls_subtitle">Ajuster la consommation</string>
     <string name="convenience_key_category_title">Contrôle du système</string>
     <string name="convert_to_fbe_warning">"Convertir la partition des données en fichiers basés sur le chiffrement.
- Avertissement : cette action effacera toutes vos données.
+ Avertissement: cette action effacera toutes vos données.
  Cette fonctionnalité est en cours de développement et peut ne pas fonctionner correctement.
  Appuyer sur 'Nettoyer et convertir…' pour continuer."</string>
     <string name="convert_to_file_encryption">Convertir en chiffrement de fichier</string>
@@ -1439,7 +1439,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir sa configurati
     <string name="crypt_keeper_decrypt_methods">"Après chiffrement de l'appareil, en supposant que vous ’ avez mis en place un verrouillage de l'écran (qui est, un motif ou un PIN numérique ou un mot de passe), vous ’ aurez besoin pour déverrouiller l'écran pour déchiffrer l'appareil chaque fois que vous l'allumez. La seule autre façon de déchiffrer consiste à effectuer une réinitialisation des données d'usine pour supprimer toutes vos données."</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Si vous avez chiffré votre téléphone, vous devez entrer votre mot de passe, PIN, ou schéma à chaque fois que vous redémarrez l'appareil afin de le déchiffrer."</string>
     <string name="crypt_keeper_decrypt_methods_title">Déchiffrer votre appareil</string>
-    <string name="crypt_keeper_desc">"Vous pouvez chiffrer l'ensemble de vos données : vos comptes, paramètres, applications et tout autre fichier. Si vous avez activé le verrouillage d'écran (avec un schéma, un code ou un mot de passe), vous devez déverrouiller l'écran pour déchiffrer le téléphone chaque fois que vous l'allumez. La seule autre manière de déchiffrer ce dernier consiste à rétablir la configuration d'usine, ce qui entraîne la suppression de l'ensemble de vos données.
+    <string name="crypt_keeper_desc">"Vous pouvez chiffrer l'ensemble de vos données: vos comptes, paramètres, applications et tout autre fichier. Si vous avez activé le verrouillage d'écran (avec un schéma, un code ou un mot de passe), vous devez déverrouiller l'écran pour déchiffrer le téléphone chaque fois que vous l'allumez. La seule autre manière de déchiffrer ce dernier consiste à rétablir la configuration d'usine, ce qui entraîne la suppression de l'ensemble de vos données.
 
 La procédure de chiffrement dure au moins une heure. La batterie du téléphone doit être chargée au départ, et le téléphone doit rester branché pendant tout le processus. Toute interruption entraîne la perte d'une partie ou de la totalité des données."</string>
     <string name="crypt_keeper_dialog_need_password_message">"Vous devez définir un code ou un mot de passe pour le verrouillage de l'écran avant de lancer le chiffrement."</string>
@@ -1583,7 +1583,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="data_usage_metered_wifi_disabled">"Pour sélectionner des point d'accès mobiles, activer le Wi-Fi."</string>
     <string name="data_usage_metered_yes">"Facturé à l'usage"</string>
     <string name="data_usage_other_apps">Autres applications incluses dans la consommation</string>
-    <string name="data_usage_pick_cycle_day">Jour du mois de réinitialisation du cycle utilisation données :</string>
+    <string name="data_usage_pick_cycle_day">Jour du mois de réinitialisation du cycle utilisation données:</string>
     <string name="data_usage_received_sent">%1$s reçus, %2$s envoyés</string>
     <string name="data_usage_restrict_background">"Si vous limitez les données d'arrière-plan, certaines applications et services ne fonctionneront pas sauf si vous êtes connecté à un réseau Wi-Fi."</string>
     <string name="data_usage_restrict_background_multiuser">Si vous limitez les données mobiles en arrière-plan, certaines applications et services ne fonctionneront pas correctement, sauf si vous êtes connecté à un réseau Wi-Fi.</string>
@@ -1600,7 +1600,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="data_usage_tab_ethernet">Ethernet</string>
     <string name="data_usage_tab_mobile">Mobiles</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
-    <string name="data_usage_template">%1$s utilisés pour la période : %2$s</string>
+    <string name="data_usage_template">%1$s utilisés pour la période: %2$s</string>
     <string name="data_usage_title">Données principales</string>
     <string name="data_usage_total_during_range">%2$s : environ %1$s utilisés</string>
     <string name="data_usage_total_during_range_mobile">%2$s : env. %1$s utilisés, selon votre téléphone. Le suivi conso de votre opérateur peut différer.</string>
@@ -1641,7 +1641,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="day_of_week">Jour de la semaine</string>
     <string name="debug_app">Sélectionner une application de débogage</string>
     <string name="debug_app_not_set">Aucune application de débogage définie</string>
-    <string name="debug_app_set">Application de débogage : %1$s</string>
+    <string name="debug_app_set">Application de débogage: %1$s</string>
     <string name="debug_applications_category">Applications</string>
     <string name="debug_debugging_category">Débogage</string>
     <string name="debug_drawing_category">Dessin</string>
@@ -1804,7 +1804,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dialog_title_hdmi_color_calibration">Correction des couleurs prédéfinies</string>
     <string name="dialog_title_login">Se connecter à votre compte Mi</string>
     <string name="dialog_yes">Oui</string>
-    <string name="direct_boot_unaware_dialog_message">Remarque : vous ne pourrez utiliser ce clavier qu’après un redémarrage uniquement si vous déverrouillez votre appareil</string>
+    <string name="direct_boot_unaware_dialog_message">Remarque: vous ne pourrez utiliser ce clavier qu’après un redémarrage uniquement si vous déverrouillez votre appareil</string>
     <string name="directory_access">"Accès à l'annuaire"</string>
     <string name="disable_overlays">Désactiver les superpostions HW</string>
     <string name="disable_overlays_summary">"Toujours utiliser le GPU pour le rendu d'écran"</string>
@@ -2003,7 +2003,7 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="enable_service_password_reason">"Vous devez confirmer le mot de passe, car l'activation du service %1$s influe sur le chiffrement des données."</string>
     <string name="enable_service_pattern_reason">"Vous devez confirmer le schéma, car l'activation du service %1$s influe sur le chiffrement des données."</string>
     <string name="enable_service_pin_reason">"Vous devez confirmer le code PIN, car l'activation du service %1$s influe sur le chiffrement des données."</string>
-    <string name="enable_service_title">Le service effectuera les actions suivantes :</string>
+    <string name="enable_service_title">Le service effectuera les actions suivantes:</string>
     <string name="enable_snapshot_screenlock">Appui prolongé sur retour prend une photo</string>
     <string name="enable_terminal_summary">"Activer l'application du terminal qui offre l'accès au shell local"</string>
     <string name="enable_terminal_title">Terminal local</string>
@@ -2323,7 +2323,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="forget_privacy_password_setting">Ajouter un compte Mi</string>
     <string name="forget_privacy_password_summary">Utiliser le compte Mi pour réinitialiser votre mot de passe</string>
     <string name="forget_wifi_message">Votre appareil arrêtera de se connecter automatiquement à ce réseau.</string>
-    <string name="found_new_version">Nouvelle version disponible :</string>
+    <string name="found_new_version">Nouvelle version disponible:</string>
     <string name="fourhours">2 heures</string>
     <string name="fp_nav_center_back_to_home_title">"Appuyer le bouton d'Accueil pour retourner à l'Écran d'accueil"</string>
     <string name="free_memory">Disponible</string>
@@ -2337,7 +2337,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="free_wifi_connect_summary">Appuyez pour se connecter à %1$s.</string>
     <string name="free_wifi_connect_title">Wi-Fi disponible</string>
     <string name="free_wifi_connected">Connecté au Wi-Fi gratuit</string>
-    <string name="free_wifi_connected_time">Durée : %1$s</string>
+    <string name="free_wifi_connected_time">Durée: %1$s</string>
     <string name="free_wifi_connecting">Connexion...</string>
     <string name="free_wifi_login_again">Connectez-vous à nouveau</string>
     <string name="free_wifi_manage_summary">Appuyez pour voir %1$s.</string>
@@ -2955,9 +2955,9 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lockpattern_change_lock_pin_label">Modifier le code PIN de déverrouillage</string>
     <string name="lockpattern_confirm_button_text">Confirmer</string>
     <string name="lockpattern_continue_button_text">Continuer</string>
-    <string name="lockpattern_need_to_confirm">Redessiner le schéma pour confirmer :</string>
-    <string name="lockpattern_need_to_unlock_wrong">Veuillez réessayer :</string>
-    <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage :</string>
+    <string name="lockpattern_need_to_confirm">Redessiner le schéma pour confirmer:</string>
+    <string name="lockpattern_need_to_unlock_wrong">Veuillez réessayer:</string>
+    <string name="lockpattern_pattern_confirmed_header">Votre nouveau schéma de déverrouillage:</string>
     <string name="lockpattern_pattern_entered_header">Schéma enregistré</string>
     <string name="lockpattern_pattern_same_with_others">"Doit être différent du mot de passe de l'autre espace"</string>
     <string name="lockpattern_pattern_same_with_owner">Il doit être différent de celui du premier espace</string>
@@ -2965,8 +2965,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lockpattern_recording_incorrect_too_short">Reliez au moins %d points, puis réessayez.</string>
     <string name="lockpattern_recording_inprogress">Relâchez le doigt lorsque vous avez terminé</string>
     <string name="lockpattern_recording_intro_footer">Appuyez sur Menu pour de l’aide.</string>
-    <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage :</string>
-    <string name="lockpattern_recording_intro_header_second_space">Dessiner un schéma de déverrouillage pour le second espace :</string>
+    <string name="lockpattern_recording_intro_header">Dessiner un schéma de déverrouillage:</string>
+    <string name="lockpattern_recording_intro_header_second_space">Dessiner un schéma de déverrouillage pour le second espace:</string>
     <string name="lockpattern_restart_button_text">Dessiner à nouveau</string>
     <string name="lockpattern_retry_button_text">Effacer</string>
     <string name="lockpattern_settings_change_lock_pattern">Modifier le schéma de déverrouillage</string>
@@ -3134,7 +3134,7 @@ D'autres personnes utilisent cet appareil.
     <string name="memory_summary">Utilisation moyenne de %1$s sur %2$s de mémoire</string>
     <string name="memory_system_rom">Stockage système</string>
     <string name="memory_system_space">Stockage système</string>
-    <string name="memory_title">Disponible : %1$s\u0009\u0009Total : %2$s</string>
+    <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
     <string name="memory_usage">Utilisation de la mémoire</string>
     <string name="memory_usage_apps">Mémoire utilisée par les applications</string>
     <string name="memory_use_summary">%1$s de mémoire utilisé(s) au cours des trois dernières heures en moyenne</string>
@@ -3261,7 +3261,7 @@ D'autres personnes utilisent cet appareil.
     <string name="mobile_unknown_sim_operator">Opérateur de carte SIM inconnu</string>
     <string name="mock_location_app">Sélectionner une application de localisation fictive</string>
     <string name="mock_location_app_not_set">Aucune application de localisation fictive définie</string>
-    <string name="mock_location_app_set">"Simulation de l'appli de localisation : %1$s"</string>
+    <string name="mock_location_app_set">"Simulation de l'appli de localisation: %1$s"</string>
     <string name="mode_disable">Désactivé</string>
     <string name="mode_enable">Activé</string>
     <string name="model_info">Modèle</string>
@@ -3281,11 +3281,11 @@ D'autres personnes utilisent cet appareil.
     <string name="moving">Déplacement en cours</string>
     <string name="msd_driver_download">Télécharger le pilote</string>
     <string name="msd_driver_download_mac">Pour Mac, Téléchargez et installez AndroidFileTransfer.dmg</string>
-    <string name="msd_driver_download_mac_url">Téléchargez le pilote sur : http://www.android.com/filetransfer/</string>
+    <string name="msd_driver_download_mac_url">Téléchargez le pilote sur: http://www.android.com/filetransfer/</string>
     <string name="msd_driver_download_xp">Téléchargez Mi Phone Manager pour utiliser votre téléphone comme un périphérique de stockage USB.</string>
     <string name="msd_driver_download_xp_url">Téléchargez pilote sur: http://zhushou.xiaomi.com/</string>
     <string name="msd_help_summary">"Impossible de se connecter à votre appareil ? 
-Sélectionnez votre système d'exploitation :"</string>
+Sélectionnez votre système d'exploitation:"</string>
     <string name="msd_help_title">Aide</string>
     <string name="msd_install">Réinstaller le pilote ?</string>
     <string name="msd_install_download_zhushou">Mi Phone Manager téléchargé</string>
@@ -3373,7 +3373,7 @@ Sélectionnez votre système d'exploitation :"</string>
     <string name="mvno_match_data">Valeur MVNO</string>
     <string name="mvno_type">Type MVNO</string>
     <string name="my_device">Mon appareil</string>
-    <string name="my_device_disclaimer">"Remarque : les informations des matériels, y compris le processeur, la capacité de la batterie, la taille et la résolution de l'écran, ainsi que l'appareil photo sont fournies par les laboratoires, les concepteurs et fournisseurs de Xiaomi."</string>
+    <string name="my_device_disclaimer">"Remarque: les informations des matériels, y compris le processeur, la capacité de la batterie, la taille et la résolution de l'écran, ainsi que l'appareil photo sont fournies par les laboratoires, les concepteurs et fournisseurs de Xiaomi."</string>
     <string name="my_device_info_account_preference_title">Compte</string>
     <string name="my_device_info_device_name_preference_title">"Nom de l'appareil"</string>
     <string name="n_cacrts">%d certificats CA</string>
@@ -4057,11 +4057,11 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur de DNS privé"</string>
     <string name="private_dns_mode_provider_failure">Connexion impossible</string>
     <string name="private_dns_mode_provider_hostname_hint">Saisissez le nom du fournisseur du DNS</string>
-    <string name="private_gallery_need_to_unlock">Mot de passe requis :</string>
-    <string name="private_gallery_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
+    <string name="private_gallery_need_to_unlock">Mot de passe requis:</string>
+    <string name="private_gallery_recording_intro_header">Dessinez un schéma de déverrouillage:</string>
     <string name="private_gallery_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Xiaomi</string>
-    <string name="private_sms_need_to_unlock">Mot de passe requis :</string>
-    <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage :</string>
+    <string name="private_sms_need_to_unlock">Mot de passe requis:</string>
+    <string name="private_sms_recording_intro_header">Dessinez un schéma de déverrouillage:</string>
     <string name="private_sms_reset_by_account">Pour réinitialiser votre mot de passe, connectez-vous à votre compte Mi</string>
     <string name="process_dex2oat_label">Optimisation des applications</string>
     <string name="process_mediaserver_label">Serveur multimédia</string>
@@ -4141,7 +4141,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="radioInfo_unknown">Inconnu</string>
     <string name="radio_controls_summary">Gérer Wi-Fi, Bluetooth, mode avion, Réseaux mobiles, &amp; VPN</string>
     <string name="radio_controls_title">Plus</string>
-    <string name="radio_info_asdiv_switch_label">État ASDiv :</string>
+    <string name="radio_info_asdiv_switch_label">État ASDiv:</string>
     <string name="radio_info_band_mode_label">Sélectionner une bande radio</string>
     <string name="radio_info_call_redirect_label">Redirection des appels :</string>
     <string name="radio_info_call_status_label">"État de l'appel vocal :"</string>
@@ -4317,7 +4317,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="rule_name">Nom</string>
     <string name="running_frequency">Fréquence</string>
     <string name="running_process_item_removed_user_label">Utilisateur supprimé</string>
-    <string name="running_process_item_user_label">Utilisateur : %1$s</string>
+    <string name="running_process_item_user_label">Utilisateur: %1$s</string>
     <string name="running_processes_header_apps_prefix">Applications</string>
     <string name="running_processes_header_cached_prefix">En cache</string>
     <string name="running_processes_header_footer">Utilisation de la RAM par les applications</string>
@@ -5094,7 +5094,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="stable_build">Stable</string>
     <string name="standard">Silencieux</string>
     <string name="standard_info">Les appels et les notifications seront réduits au silence</string>
-    <string name="standby_bucket_summary">Application en état de veille : %s</string>
+    <string name="standby_bucket_summary">Application en état de veille: %s</string>
     <string name="start_silent_mode">Activer le mode Silence</string>
     <string name="starting_android">"Lancement d'Android en cours…"</string>
     <string name="status_awaiting_tap">Appuyer sur un tag pour le modifier…</string>
@@ -5780,7 +5780,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usb_eject">Éjecter le stockage USB</string>
     <string name="usb_eject_summary">Éjecter le stockage USB pour le retirer en toute sécurité</string>
     <string name="usb_format">Effacer le stockage USB</string>
-    <string name="usb_format_summary">Efface toutes les données sur le stockage USB (ex : musique et photos)</string>
+    <string name="usb_format_summary">Efface toutes les données sur le stockage USB (ex: musique et photos)</string>
     <string name="usb_host_mode_subtext">"Utiliser des manettes de jeu ou autres périphiques sur le port USB peut consommer plus d'énergie"</string>
     <string name="usb_host_mode_text">Mode USB host</string>
     <string name="usb_insert_summary">Connecter le stockage USB</string>
@@ -5883,7 +5883,7 @@ N'importe quel utilisateur peut mettre à jour les applications pour tous les au
     <string name="user_dict_settings_add_menu_title">Ajouter</string>
     <string name="user_dict_settings_add_screen_title">Expression</string>
     <string name="user_dict_settings_add_shortcut_hint">Raccourci facultatif</string>
-    <string name="user_dict_settings_add_shortcut_option_name">Raccourci :</string>
+    <string name="user_dict_settings_add_shortcut_option_name">Raccourci:</string>
     <string name="user_dict_settings_add_word_hint">Saisissez un mot</string>
     <string name="user_dict_settings_add_word_option_name">Mot :</string>
     <string name="user_dict_settings_all_languages">Pour toutes les langues</string>
@@ -6207,7 +6207,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="wifi_assistant_confirm_connection_title">Confirmer la connexion</string>
     <string name="wifi_assistant_data_prompt">"Activer l'assistant Wi-Fi"</string>
     <string name="wifi_assistant_data_prompt_summary">"Lorsque l'assistant Wi-Fi bascule sur le réseau de données mobiles, affichez une boîte de dialogue à valider"</string>
-    <string name="wifi_assistant_description">"Après avoir activé cette fonction :
+    <string name="wifi_assistant_description">"Après avoir activé cette fonction:
 1.Lorsque la connexion Wi-Fi est mauvaise, le système essaie automatiquement d'autres réseaux Wi-Fi disponibles
 2.Lorsque toutes les connexions Wi-Fi existantes sont mauvaises et que les données mobiles sont activées, le système choisira intelligemment la meilleure connexion réseau"</string>
     <string name="wifi_assistant_disconnect">Déconnecter</string>
