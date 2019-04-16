@@ -2,7 +2,8 @@
 
 ## Introduction
 
-* Ce référentiel contient la Traduction Française [xiaomi.eu].
+* Ce référentiel contient la Traduction Française.
+* Support des ROM Bêta & Stable pour [xiaomi.eu].
 
 ## Traducteur Français
 * Pseudo: pms.pr4100
