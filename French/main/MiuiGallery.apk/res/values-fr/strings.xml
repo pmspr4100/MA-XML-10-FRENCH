@@ -153,7 +153,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="backup_device_space_low_btn_text">Vider</string>
     <string name="backup_device_space_low_desc">Libérez le stockage pour continuer à sauvegarder des éléments</string>
     <string name="backup_device_space_low_title">"Pas assez d'espace de stockage"</string>
-    <string name="backup_dirty_num">Total : %s</string>
+    <string name="backup_dirty_num">Total: %s</string>
     <string name="backup_dirty_tip">Photos et vidéos non sauvegardées</string>
     <string name="backup_file_over_size_desc">Photos plus grosses que %1$s et les vidéos plus grosses que %2$s ne peuvent pas être sauvegardées.</string>
     <string name="backup_immediately">Sauvegarder</string>
@@ -190,7 +190,6 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="backuping_title_normal">Sauvegarde en cours…</string>
     <string name="begin_share">Album de Bébé \"%s\" créé , vous pouvez le partager maintenant</string>
     <string name="begin_share_toast">Créer un album distinct pour cet enfant avant de le partager ?</string>
-    <string name="blank_app_name" />
     <string name="browse_category_title">Parcourir</string>
     <string name="buy_member_tip">Devenir membre</string>
     <string name="by_email">E-mail</string>
@@ -275,7 +274,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="collage__talkback_effect">Effet %d</string>
     <string name="collage_choose">Sélectionner</string>
     <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
-    <string name="collage_drawable_rect_date_month_day">dd MMM</string>
+    <string name="collage_drawable_rect_date_month_day">dd MMMM</string>
     <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">Marges</string>
     <string name="collage_mirror">Mirroir</string>
@@ -348,8 +347,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="delete_from_homepage_album">Albums visibles dans Galerie</string>
     <string name="delete_from_this_album_and_cloud">de cet album et de Mi Cloud</string>
     <string name="delete_from_web">Albums Web</string>
-    <string name="delete_in_album">Lorsque vous supprimez une photo ou une vidéo depuis un album, elle sera aussi supprimée dans :</string>
-    <string name="delete_in_home_page">Lorsque vous supprimez une photo ou une vidéo depuis un album, elle sera aussi supprimée dans :</string>
+    <string name="delete_in_album">Lorsque vous supprimez une photo ou une vidéo depuis un album, elle sera aussi supprimée dans:</string>
+    <string name="delete_in_home_page">Lorsque vous supprimez une photo ou une vidéo depuis un album, elle sera aussi supprimée dans:</string>
     <string name="delete_in_process">Effacement…</string>
     <string name="delete_origin">"Supprimer les images de l'album d'origine"</string>
     <string name="delete_other_shared_images">"Désolé, vous ne pouvez pas supprimer les photos partagées par d'autres"</string>
@@ -381,9 +380,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="download_type_thumbnail">Haute qualité</string>
     <string name="download_type_thumbnail_desc">Haute qualité</string>
     <string name="download_type_title">Qualité de téléchargement</string>
-    <string name="download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d’opératuer. Télécharger quand même?</string>
+    <string name="download_with_metered_network_msg">Le téléchargement de fichiers originaux peut générer des frais de supplémentaires d’opératuer. Télécharger quand même ?</string>
     <string name="download_with_metered_network_title">Vous êtes connecté à un réseau payant</string>
-    <string name="downloading_desc">%1$d/%2$d</string>
     <string name="downloading_dialog_message">Vous pouvez sélectionner la qualité des images téléchargées ou désactivez les téléchargements automatiques dans les paramètres.</string>
     <string name="downloading_title">Téléchargement des photos de Mi Cloud</string>
     <string name="edit_baby_info">Afficher les infos du bébé</string>
@@ -590,7 +588,7 @@ sont disponibles"</string>
  pour fonctionner normalement, appuyez sur \"Définir\" pour aller à Permissions."</string>
     <string name="grant_permission_title">"Autoriser l'accès"</string>
     <string name="grant_permission_unlock_and_set">Déverrouiller et configurer</string>
-    <string name="has_invalid_recipient">Destinataires non valides : %1$s</string>
+    <string name="has_invalid_recipient">Destinataires non valides: %1$s</string>
     <string name="have_known">"C'est compris"</string>
     <string name="hidden_album_display_name">Album privé</string>
     <string name="home_menu_cleaner">"Libérer de l'espace"</string>
@@ -752,7 +750,6 @@ pour personnaliser Galerie"</string>
     <string name="movie_video_long">Vidéo plus longue</string>
     <string name="movie_video_short">vidéo de 10s</string>
     <string name="must_pick_file">Sélectionnez une photo</string>
-    <string name="name_split">,</string>
     <string name="need_to_turn_on_network">"L'appareil n'est pas connecté à Internet"</string>
     <string name="need_to_turn_on_sync">Activer la synchronisation avec Mi Cloud</string>
     <string name="need_to_turn_on_sync_first">"Activez la synchronisation avec Mi Cloud d'abord"</string>
@@ -860,7 +857,6 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Recadré automatiquement</string>
     <string name="photo_editor_crop_reset">Réinitialiser</string>
-    <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">Dessiner</string>
     <string name="photo_editor_filter">Filtre</string>
     <string name="photo_editor_font_default">>Mi Lanting (Normal)</string>
@@ -900,11 +896,6 @@ pour personnaliser Galerie"</string>
     <string name="photo_editor_sticker">Autocollant</string>
     <string name="photo_editor_talkback_cancel">Annuler</string>
     <string name="photo_editor_talkback_confirm">Confirmer</string>
-    <string name="photo_editor_talkback_crop_16_9">16:9</string>
-    <string name="photo_editor_talkback_crop_1_1">1:1</string>
-    <string name="photo_editor_talkback_crop_3_4">3:4</string>
-    <string name="photo_editor_talkback_crop_4_3">4: 3</string>
-    <string name="photo_editor_talkback_crop_9_16">9:16</string>
     <string name="photo_editor_talkback_crop_free">Libre</string>
     <string name="photo_editor_talkback_crop_mirror">Miroir</string>
     <string name="photo_editor_talkback_crop_original">Original</string>
@@ -950,7 +941,7 @@ pour personnaliser Galerie"</string>
     <string name="picker_origin_request_progress_fail">"Impossible de télécharger l'image d'origine en raison d'une erreur de réseau."</string>
     <string name="picker_origin_request_progress_message">Préparation des fichiers originaux (%1$d/%2$d)…</string>
     <string name="picker_title_format">Sélectionner %1$d à %2$d photos</string>
-    <string name="picker_title_selection_format">Photos sélectionnées : %d</string>
+    <string name="picker_title_selection_format">Photos sélectionnées: %d</string>
     <string name="picker_title_selection_format_multiple">Sélectionner %1$d à %2$d photos (%3$d)</string>
     <string name="picker_title_specify_format">Sélectionner %d photos</string>
     <string name="picker_title_specify_format_one">Sélectionner %d photo</string>
@@ -979,7 +970,6 @@ pour personnaliser Galerie"</string>
     <string name="publish_failed">Échec de publication.</string>
     <string name="publish_succeeded">Publié</string>
     <string name="publishing">Publication…</string>
-    <string name="quotation">\"%s\"</string>
     <string name="recent_album_empty_title">Aucune nouvelle photo ajoutée récemment</string>
     <string name="recommanded_face_abandon_tip">Retiré des suggestions</string>
     <string name="recommanded_face_added_tip">Ajouté à \"%s\"</string>
@@ -1127,7 +1117,7 @@ pour personnaliser Galerie"</string>
     <string name="set_as_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
     <string name="set_as_wallpaper_title">"Définir comme fond d'écran"</string>
     <string name="set_face_group_toast_msg_new_user">Maintenir une personne pour fusionner ou ignorer.</string>
-    <string name="set_face_group_toast_msg_old_user">"Maintenir la photo d'une personne pour créer des groupes (ex : Famille, Amis, etc.)"</string>
+    <string name="set_face_group_toast_msg_old_user">"Maintenir la photo d'une personne pour créer des groupes (ex: Famille, Amis, etc.)"</string>
     <string name="set_face_group_toast_title_new_user">Suggestion</string>
     <string name="set_face_group_toast_title_old_user">Les personnes peuvent être organisées par groupe</string>
     <string name="set_face_image">Définir une nouvelle photo de profil</string>
@@ -1154,13 +1144,13 @@ pour personnaliser Galerie"</string>
     <string name="slideshow_interval_value">%1$d secondes</string>
     <string name="slim_complete">Terminé</string>
     <string name="slim_complete_action_title">Optimisé avec succès</string>
-    <string name="slim_cost_time_minute">%d min restantes</string>
+    <string name="slim_cost_time_minute">%d mins restantes</string>
     <string name="slim_cost_time_minute_and_second">%1$d min %2$d s restantes</string>
-    <string name="slim_cost_time_second">%d s restantes</string>
+    <string name="slim_cost_time_second">%d secs restantes</string>
     <string name="slim_description_dialog_detail">Réduire la taille des photos locales. Les fichiers originaux seront stockés dans Mi Cloud.</string>
     <string name="slim_description_dialog_ok">"C'est compris"</string>
-    <string name="slim_description_dialog_slim_after">"Après :  167 ko"</string>
-    <string name="slim_description_dialog_slim_before">"Avant :  3,07 Mo"</string>
+    <string name="slim_description_dialog_slim_after">"Après: 167 ko"</string>
+    <string name="slim_description_dialog_slim_before">"Avant: 3,07 Mo"</string>
     <string name="slim_exit_dialog_positive">Arrêter</string>
     <string name="slim_exit_dialog_title">"Arrêter l'optimisation"</string>
     <string name="slim_running">Optimisation…</string>
@@ -1236,13 +1226,13 @@ pour personnaliser Galerie"</string>
     <string name="text_tab_watermark">Filigranes</string>
     <string name="things_album_empty_title">Les photos peuvent être triées par les objets en elles</string>
     <string name="thumbnail_name">miniature</string>
-    <string name="tip_capture_location">Emplacement :</string>
-    <string name="tip_capture_params">Donnée EXIF :</string>
-    <string name="tip_capture_time">Pris le :</string>
-    <string name="tip_file_info">Information sur le fichier :</string>
-    <string name="tip_file_path">Chemin local :</string>
+    <string name="tip_capture_location">Emplacement:</string>
+    <string name="tip_capture_params">Donnée EXIF:</string>
+    <string name="tip_capture_time">Pris le:</string>
+    <string name="tip_file_info">Information sur le fichier:</string>
+    <string name="tip_file_path">Chemin local:</string>
     <string name="tip_not_download">"Pas sur l'appareil. Sera téléchargé depuis Mi Cloud pendant la lecture."</string>
-    <string name="tip_screenshot_package_info">"Nom de l'application :"</string>
+    <string name="tip_screenshot_package_info">"Nom de l'application:"</string>
     <string name="title_set_name">Saisir un nom</string>
     <string name="title_tip">Astuce</string>
     <string name="title_warn">Attention</string>
@@ -1378,8 +1368,8 @@ pour personnaliser Galerie"</string>
     <string name="video_err">Lecture impossible</string>
     <string name="video_not_exist">"La vidéo n'existe pas"</string>
     <string name="video_with_time">Vidéo enregistrée le %s</string>
-    <string name="video_with_time_and_location">Vidéo enregistrée le %1$s. Emplacement : %2$s.</string>
-    <string name="view_by_gallery_tip">Gallerie Miui</string>
+    <string name="video_with_time_and_location">Vidéo enregistrée le %1$s. Emplacement: %2$s.</string>
+    <string name="view_by_gallery_tip">Galerie Miui</string>
     <string name="view_face_album">"Afficher l'album"</string>
     <string name="view_more_face_desc">Afficher plus de personnes</string>
     <string name="voice_assistant">Assistant vocal</string>

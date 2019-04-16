@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="app_start_setting">
-        <item>仅允许自启动白名单</item>
-        <item>全部禁止</item>
+        <item>Autoriser uniquement la listes blanches à démarrage automatique</item>
+        <item>Tout interdire</item>
     </string-array>
 </resources>

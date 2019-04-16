@@ -93,7 +93,7 @@
     <string name="accessibility_desc_connected">Connecté.</string>
     <string name="accessibility_desc_connecting">Connexion.</string>
     <string name="accessibility_desc_lock_screen">Écran de verrouillage.</string>
-    <string name="accessibility_desc_notification_icon">Notification de %1$s : %2$s</string>
+    <string name="accessibility_desc_notification_icon">Notification de %1$s: %2$s</string>
     <string name="accessibility_desc_notification_shade">Panneau de notification.</string>
     <string name="accessibility_desc_off">Désactivé.</string>
     <string name="accessibility_desc_on">Activé.</string>
@@ -221,7 +221,7 @@
     <string name="accessibility_recent_task_exit">Fermés récemments</string>
     <string name="accessibility_recent_task_locked">Verrouillé, balayer vers le bas pour déverrouiller.</string>
     <string name="accessibility_recent_task_locked_state">Verrouillé</string>
-    <string name="accessibility_recent_task_memory_info">RAM totale : %2$s | RAM disponible : %1$s. Appuyer rapidement 2 fois pour vider.</string>
+    <string name="accessibility_recent_task_memory_info">RAM totale: %2$s | RAM disponible: %1$s. Appuyer rapidement 2 fois pour vider.</string>
     <string name="accessibility_recent_task_unlocked">Déverrouillé</string>
     <string name="accessibility_recent_task_unlocked_state">Déverrouillé</string>
     <string name="accessibility_recents_all_items_dismissed">Toutes les applications récentes ont été retirées.</string>
@@ -483,7 +483,7 @@
     <string name="compat_mode_off">"Étirer pour remplir l'écran"</string>
     <string name="compat_mode_on">"Zoomer pour remplir l'écran"</string>
     <string name="confirm">"C'est compris"</string>
-    <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
+    <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
     <string name="confirm_pin_msg">Répétez le code PIN</string>
     <string name="connected_via_carrier">Connecté à %1$s</string>
@@ -492,7 +492,7 @@
     <string name="connected_via_passpoint">Connecté via %1$s</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="convert_to_fbe_warning">"Convertir la partition des données en fichiers basés sur le chiffrement.
- Avertissement : cette action effacera toutes vos données.
+ Avertissement: cette action effacera toutes vos données.
  Cette fonctionnalité est en cours de développement et peut ne pas fonctionner correctement.
  Appuyer sur 'Nettoyer et convertir…' pour continuer."</string>
     <string name="convert_to_file_encryption">Convertir en chiffrement de fichier</string>
@@ -521,7 +521,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="data_usage_uninstalled_apps_users">Applications et utilisateurs supprimés</string>
     <string name="debug_app">Sélectionner une application de débogage</string>
     <string name="debug_app_not_set">Aucune application de débogage définie</string>
-    <string name="debug_app_set">Application de débogage : %1$s</string>
+    <string name="debug_app_set">Application de débogage: %1$s</string>
     <string name="debug_applications_category">Applications</string>
     <string name="debug_debugging_category">Débogage</string>
     <string name="debug_drawing_category">Dessin</string>
@@ -552,7 +552,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="development_settings_summary">"Définir les options pour le développement d'appplication"</string>
     <string name="development_settings_title">Options développeur</string>
     <string name="digital_clock_dot">:</string>
-    <string name="direct_boot_unaware_dialog_message">"Remarque : vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil."</string>
+    <string name="direct_boot_unaware_dialog_message">"Remarque: vous ne pourrez utiliser ce clavier qu'après un redémarrage uniquement si vous déverrouillez votre appareil."</string>
     <string name="disable_notification_summary">Ne jamais afficher les notifications des applications sélectionnées</string>
     <string name="disable_notification_title">Masquer les notifications</string>
     <string name="disable_overlays">Désactiver les superpostions HW</string>
@@ -661,7 +661,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="face_data_manage_unlock_title">Déverrouiller avec les données de visage</string>
     <string name="face_data_siggesstion_next">Suivant</string>
     <string name="face_data_siggesstion_next_time">Suivant (%d sec)</string>
-    <string name="face_data_suggesstion_first">"Problèmes de sécurité : le déverrouillage facial est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil pourrait être déverrouillé avec votre photo, aussi bien par des personnes ou objets avec une apparence similaire."</string>
+    <string name="face_data_suggesstion_first">"Problèmes de sécurité: le déverrouillage facial est moins sécurisé qu'un code PIN, un mot de passe ou un schéma. Votre appareil pourrait être déverrouillé avec votre photo, aussi bien par des personnes ou objets avec une apparence similaire."</string>
     <string name="face_data_suggesstion_second">"Assurez-vous que toutes les parties de votre visage ne sont pas couvertes d'objets et sont clairement visibles. Votre visage devrait être bien éclairé également."</string>
     <string name="face_unlock_adjust_distance">"Assurez-vous que la distance entre votre visage et l'écran est optimale."</string>
     <string name="face_unlock_be_on_the_screen">"Tenez l'appareil en face de votre visage"</string>
@@ -754,7 +754,6 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="guest_wipe_session_title">Bienvenue, invité !</string>
     <string name="guest_wipe_session_wipe">Recommencer</string>
 	<string name="gxzw_area">Scanner empreintes digitales</string>
-    <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">Appuyer un peu plus fort</string>
     <string name="gxzw_try_again">Veuillez réessayer</string>
     <string name="gxzw_try_more_again">Veuillez réessayer</string>
@@ -778,7 +777,7 @@ Une fois le téléphone refroidi, il fonctionnera normalement."</string>
     <string name="how_to_switch_recents">Ouvrir Récents</string>
     <string name="how_to_use_drawer">Comment ouvrir le menu latéral ?</string>
     <string name="how_to_use_drawer_summary">"Balayez vers la droite dans la partie supérieure de l'écran"</string>
-    <string name="how_to_use_fsg">Vous pouvez effectuer ces actions en utilisant des gestes :</string>
+    <string name="how_to_use_fsg">Vous pouvez effectuer ces actions en utilisant des gestes:</string>
     <string name="ime_security_warning">%1$s peut enregistrer tout ce que vous tapez, y compris les mots de passe, numéros de carte de crédit et autres données personnelles.</string>
     <string name="immediately_destroy_activities">Ne pas’ conserver les activités</string>
     <string name="immediately_destroy_activities_summary">"Terminer toute activité aussitôt que l'utilisateur la quitte"</string>
@@ -849,13 +848,13 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="keyboard_key_space">Espace</string>
     <string name="keyboard_key_tab">Onglet</string>
     <string name="keyboard_shortcut_group_applications">Applications</string>
-    <string name="keyboard_shortcut_group_applications_assist">Assister</string>
+    <string name="keyboard_shortcut_group_applications_assist">Assistant</string>
     <string name="keyboard_shortcut_group_applications_browser">Navigateur</string>
-    <string name="keyboard_shortcut_group_applications_calendar">Agenda</string>
+    <string name="keyboard_shortcut_group_applications_calendar">Calendrier</string>
     <string name="keyboard_shortcut_group_applications_contacts">Contacts</string>
     <string name="keyboard_shortcut_group_applications_email">E-mail</string>
     <string name="keyboard_shortcut_group_applications_music">Musique</string>
-    <string name="keyboard_shortcut_group_applications_sms">SMS</string>
+    <string name="keyboard_shortcut_group_applications_sms">Message</string>
     <string name="keyboard_shortcut_group_applications_youtube">YouTube</string>
     <string name="keyboard_shortcut_group_system">Système</string>
     <string name="keyboard_shortcut_group_system_back">Retour</string>
@@ -1067,7 +1066,7 @@ dd MMMM"</string>
     <string name="mobile_data_always_on_summary">Toujours garder les données mobiles actives, même lorsque le Wi‑Fi est actif (pour un changement rapide de réseau).</string>
     <string name="mock_location_app">Sélectionner une application de localisation fictive</string>
     <string name="mock_location_app_not_set">Aucune application de localisation fictive définie</string>
-    <string name="mock_location_app_set">"Simulation de l'appli de localisation : %1$s"</string>
+    <string name="mock_location_app_set">"Simulation de l'appli de localisation: %1$s"</string>
     <string name="monitoring_button_view_policies">Voir les conditions</string>
     <string name="monitoring_description_app">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau, y compris les e-mails, les applications et les sites Web.</string>
     <string name="monitoring_description_app_personal">Vous êtes connecté à %1$s, qui peut surveiller les activités de votre réseau personnel, y compris les e-mails, les applications et les sites Web.</string>
@@ -1136,7 +1135,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="not_support_multi_window">Les applications actuelles ne prennent pas en charge le mode Écran divisé</string>
     <string name="notch_sos_status_bar_title">SOS</string>
     <string name="notification_all_categories">Toutes les catégories</string>
-    <string name="notification_app_settings">Personnaliser : %1$s</string>
+    <string name="notification_app_settings">Personnaliser: %1$s</string>
     <string name="notification_channel_alerts">Alertes</string>
     <string name="notification_channel_battery">Batterie</string>
     <string name="notification_channel_controls_closed_accessibility">Contrôle des notifications pour %1$s fermé</string>
@@ -1150,7 +1149,6 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_channel_switch_accessibility">Autoriser les notifications de ce canal</string>
     <string name="notification_channel_tv_pip">Picture-in-Picture</string>
     <string name="notification_channel_usb">USB</string>
-    <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
     <string name="notification_default_channel_desc">"Cette application n'a pas de catégorie de notifications"</string>
     <string name="notification_done">Terminé</string>
     <string name="notification_group_collapse_button_text">Plier</string>
@@ -1164,10 +1162,9 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_low_battery_action_btn">Activer</string>
     <string name="notification_low_battery_need_charge">La batterie est faible. Chargez votre appareil.</string>
     <string name="notification_low_battery_open_save_mode">"Activer l'économiseur de batterie"</string>
-    <string name="notification_low_battery_title">Batterie faible : %d%%</string>
+    <string name="notification_low_battery_title">Batterie faible: %d%%</string>
     <string name="notification_manager">Gérer les notifications</string>
     <string name="notification_manager_des">Filtrer et gérer les notifications</string>
-    <string name="notification_menu_accessibility">%1$s %2$s</string>
     <string name="notification_menu_filter_description">Notifications sans importance</string>
     <string name="notification_menu_filter_secondary_text">Toutes les notifications de %s apparaîtront dans un dossier séparé.</string>
     <string name="notification_menu_filter_title">Sans importance</string>
@@ -1271,7 +1268,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
 "<b>Niveau 0</b>" 
 - Bloquer toutes les notifications de l'application "</string>
     <string name="power_remaining_charging_duration_only">"%1$s- Jusqu'à être complètement chargé"</string>
-    <string name="power_remaining_duration_only">Environ %1$smin restantes</string>
+    <string name="power_remaining_duration_only">Environ %1$s min restantes</string>
     <string name="power_remaining_duration_only_enhanced">Environ %1$s restant relativement à votre utilisation</string>
     <string name="power_remaining_duration_only_short">%1$s restantes</string>
     <string name="power_remaining_duration_only_shutdown_imminent">"Le téléphone peut s'éteindre bientôt"</string>
@@ -1280,8 +1277,6 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="power_remaining_less_than_duration_only">Moins de %1$s restant</string>
     <string name="power_remaining_more_than_subtext">Plus de %1$s restant (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Plus de %1$s restant</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
-    <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="private_dns_mode_off">Désactivé</string>
     <string name="private_dns_mode_opportunistic">Automatique</string>
     <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur de DNS privé"</string>
@@ -1455,7 +1450,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="right_nav_bar_button_type">Appuyer une fois de plus sur le bouton droit</string>
     <string name="running_foreground_services_msg">"Appuyer pour les détails sur la batterie ou l'utilisation des données"</string>
     <string name="running_foreground_services_title">Applications fonctionnant en arrière-plan</string>
-    <string name="running_process_item_user_label">Utilisateur : %1$s</string>
+    <string name="running_process_item_user_label">Utilisateur: %1$s</string>
     <string name="runningservices_settings_summary">Voir et contrôler les services actuellement en exécution</string>
     <string name="runningservices_settings_title">"Services en cours d'exécution"</string>
     <string name="save">Enregistrer</string>
@@ -1548,33 +1543,32 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="speed_label_very_slow">Très lent</string>
     <string name="ssl_ca_cert_warning">"Le réseau peut
 être surveillé"</string>
-    <string name="standby_bucket_summary">Application en état de veille : %s</string>
+    <string name="standby_bucket_summary">Application en état de veille: %s</string>
     <string name="start_dreams">"Enregistreur d'écran"</string>
     <string name="status_bar">"Barre d'état"</string>
     <string name="status_bar_accessibility_dismiss_recents">Rejeter les applis récentes</string>
     <string name="status_bar_airplane">Mode avion</string>
     <string name="status_bar_alarm">Alarme</string>
     <string name="status_bar_clear_all_button">Effacer</string>
-    <string name="status_bar_clock_date_format">E, d MMM</string>
-    <string name="status_bar_clock_date_format_12">E, d MMM</string>
-    <string name="status_bar_clock_date_time_format">E, d MMM H:mm</string>
-    <string name="status_bar_clock_date_time_format_12">E, d MMM, h:mm aa</string>
-    <string name="status_bar_date_format">"E
-d MMM"</string>
-    <string name="status_bar_date_format_12">"E
-d MMM"</string>
+    <string name="status_bar_clock_date_format">EEEE dd MMMM</string>
+    <string name="status_bar_clock_date_format_12">EEEE dd MMMM</string>
+    <string name="status_bar_clock_date_time_format">EEEE dd MMMM HH:mm</string>
+    <string name="status_bar_clock_date_time_format_12">EEEE dd MMMM hh:mm aa</string>
+    <string name="status_bar_date_format">"EEEE
+dd MMMM"</string>
+    <string name="status_bar_date_format_12">"EEEE
+dd MMMM"</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Configurer des méthodes de saisie</string>
     <string name="status_bar_latest_events_title">Notifications</string>
-    <string name="status_bar_network_flow_content">"Aujourd'hui : %1$s   Restant : %2$s"</string>
-    <string name="status_bar_network_flow_exceed_content">"Aujourd'hui : %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé : &lt;font color=%2$s>%3$s&lt;/font>"</string>
-    <string name="status_bar_network_flow_limit">"   Limite mensuelle : %1$s   "</string>
+    <string name="status_bar_network_flow_content">"Aujourd'hui: %1$s   Restant: %2$s"</string>
+    <string name="status_bar_network_flow_exceed_content">"Aujourd'hui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Dépassé: &lt;font color=%2$s>%3$s&lt;/font>"</string>
+    <string name="status_bar_network_flow_limit">"   Limite mensuelle: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   Acheter >"</string>
-    <string name="status_bar_network_flow_today">"Aujourd'hui : %1$s"</string>
+    <string name="status_bar_network_flow_today">"Aujourd'hui: %1$s"</string>
     <string name="status_bar_no_notifications_title">Aucune notification</string>
     <string name="status_bar_no_recent_apps">Vos écrans récents apparaissent ici</string>
     <string name="status_bar_notification_app_settings_title">%s paramètres</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_notification_inspect_item_title">Paramètres de notification</string>
     <string name="status_bar_ongoing_events_title">En cours</string>
     <string name="status_bar_recent_guide_all">"Glissez vers le haut pour fermer
@@ -1682,7 +1676,7 @@ Glissez vers le bas pour verrouiller"</string>
     <string name="tethering_hardware_offload">Accélération matérielle pour le partage</string>
     <string name="tethering_hardware_offload_summary">"Utiliser l'accélération du matériel de partage de connexion si disponible"</string>
     <string name="tethering_settings_not_available">Les paramètres du partage de connexion ne sont pas disponibles pour cet utilisateur</string>
-    <string name="thermal_shutdown_dialog_message">"Votre téléphone était trop chaud, il s'est donc éteint pour se refroidir. Votre téléphone fonctionne maintenant normalement. Il peut surchauffer si vous :
+    <string name="thermal_shutdown_dialog_message">"Votre téléphone était trop chaud, il s'est donc éteint pour se refroidir. Votre téléphone fonctionne maintenant normalement. Il peut surchauffer si vous:
 \u0009• Utilisez des applications gourmandes en ressources (telles que des applications de jeu, vidéo ou de navigation)
 \u0009• Téléchargez ou mettez de gros fichiers en ligne
 \u0009• Utilisez votre téléphone à des températures élevées"</string>
@@ -1946,7 +1940,6 @@ On dirait que le stockage des certificats n’est pas activé."</string>
     <string name="zen_alarm_warning_indef">"Vous n'entendrez pas votre prochaine alarme %1$s sauf si vous l'éteignez avant"</string>
     <string name="zen_alarms_introduction">Vous ne serez pas dérangé par les sons et les vibrations, sauf par les alarmes. Vous entendrez toujours ce que vous avez choisi de jouer, y compris de la musique, des vidéos et des jeux.</string>
     <string name="zen_interruption_level_priority">Priorité uniquement</string>
-    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Demander à chaque fois</string>
     <string name="zen_mode_duration_settings_title">Durée</string>
     <string name="zen_mode_enable_dialog_turn_on">Activer</string>

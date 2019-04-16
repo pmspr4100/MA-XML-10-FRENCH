@@ -2,8 +2,6 @@
 <resources>
 	<string name="Subscribe">Souscrire</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
     <string name="abc_action_mode_done">OK</string>
@@ -109,7 +107,7 @@
     <string name="com_facebook_smart_login_confirmation_continue_as">Continuer en tant que %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Confirmer la connexion</string>
     <string name="com_facebook_tooltip_default">Vous avez le contrôle - choisissez les informations que vous voulez partager avec les apps.</string>
-    <string name="com_permission_desc">"Mi Video ne peut pas accéder aux vidéos sur votre appareil. Autorisez l'accès dans les paramètres."</string>
+    <string name="com_permission_desc">"Vidéo ne peut pas accéder aux vidéos sur votre appareil. Autorisez l'accès dans les paramètres."</string>
     <string name="com_permission_title">Autorisation requise</string>
     <string name="common_google_play_services_enable_button">Activer</string>
     <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
@@ -171,8 +169,8 @@
     <string name="lv_app_check_failed">"Impossible de vérifier le paquet d'installation"</string>
     <string name="lv_app_click_to_install">Appuyer pour mettre à jour</string>
     <string name="lv_app_download_failed">"Impossible de télécharger le paquet d'installation, veuillez réessayer."</string>
-    <string name="lv_app_downloaded">Mi Video téléchargé avec succès</string>
-    <string name="lv_app_downloading">Téléchargement de Mi Video…</string>
+    <string name="lv_app_downloaded">Vidéo téléchargé avec succès</string>
+    <string name="lv_app_downloading">Téléchargement de Vidéo…</string>
     <string name="lv_audio_changed">Nouveau son audio</string>
     <string name="lv_audio_title">Son audio</string>
     <string name="lv_audio_track">Son audio</string>
@@ -212,9 +210,9 @@
     <string name="lv_mplayer_error_malformed">Fichier multimédia non valide</string>
     <string name="lv_mplayer_error_server_died">Erreur du serveur multimédia</string>
     <string name="lv_mplayer_error_timed_out">La requête a expiré</string>
-    <string name="lv_ready_to_install">Mi Video est déjà installé</string>
+    <string name="lv_ready_to_install">Vidéo est déjà installé</string>
     <string name="lv_screen_shot_failure">"Impossible d'effectuer une capture d'écran, veuillez réessayer."</string>
-    <string name="lv_screen_shot_failure_tips">"Mettez à jour Mi Videos pour effectuer des captures d'écran"</string>
+    <string name="lv_screen_shot_failure_tips">"Mettez à jour Vidéos pour effectuer des captures d'écran"</string>
     <string name="lv_screen_shot_success">"Capture d'écran effectuée avec succès"</string>
     <string name="lv_screenrecord_failure">"Impossible d'enregistrer, réessayez."</string>
     <string name="lv_screenrecord_share_gif">Partager une image GIF</string>
@@ -238,11 +236,7 @@
     <string name="lv_subtitle_manual_add_sub">Sous-titres ajoutés avec succès</string>
     <string name="lv_subtitle_no_subtitle">Les sous-titres ne sont pas disponibles</string>
     <string name="lv_subtitle_non_subtitle_file">Aucun fichier de sous-titres disponible</string>
-    <string name="lv_subtitle_offset_add_1s">+1 s</string>
-    <string name="lv_subtitle_offset_add_dot5s">+0.5 s</string>
     <string name="lv_subtitle_offset_normal">Ne pas déplacer les sous-titres</string>
-    <string name="lv_subtitle_offset_sub_1s">-1 s</string>
-    <string name="lv_subtitle_offset_sub_dot5s">-0.5 s</string>
     <string name="lv_subtitle_onlinesub_language">Langue : %s</string>
     <string name="lv_subtitle_onlinesub_loading">Chargement des sous-titres…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Chargement des sous-titres…</string>
@@ -267,7 +261,7 @@
     <string name="lv_videoView_error_title">Impossible de lire la vidéo</string>
     <string name="lv_video_null">Aucune vidéo</string>
     <string name="lv_volume">Volume</string>
-    <string name="mi_video">Mi Video</string>
+    <string name="mi_video">Vidéo</string>
     <string name="more">Plus</string>
     <string name="mr_button_content_description">Icône Cast</string>
     <string name="mr_cast_button_connected">Icône Cast. Connecté</string>
@@ -290,7 +284,7 @@
     <string name="mr_controller_volume_slider">Curseur de volume</string>
     <string name="mr_system_route_name">Système</string>
     <string name="mr_user_route_category_name">Appareils</string>
-    <string name="need_update_app">Mettre Mi Video à jour pour utiliser toutes ses fonctionnnalités</string>
+    <string name="need_update_app">Mettre Vidéo à jour pour utiliser toutes ses fonctionnnalités</string>
     <string name="network_connect_info">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="network_failed">Impossible de se connecter au réseau</string>
     <string name="next">Suivant</string>
@@ -319,19 +313,19 @@
     <string name="ovp_detail_more_summary">Plus</string>
     <string name="ovp_detail_require_pay">À louer</string>
     <string name="ovp_detail_require_subscription">Exige un abonnement</string>
-    <string name="ovp_detail_score">"Vote : "</string>
+    <string name="ovp_detail_score">"Vote: "</string>
     <string name="ovp_detail_shortcut">Raccourci</string>
     <string name="ovp_detail_summary">Résumé</string>
     <string name="ovp_detail_v_all_episode">Tous les épisodes</string>
     <string name="ovp_detail_v_episode">Épisode</string>
-    <string name="ovp_detail_v_episode_all">Épisodes : %2$d/%1$d</string>
+    <string name="ovp_detail_v_episode_all">Épisodes: %2$d/%1$d</string>
     <string name="ovp_detail_v_episode_count">"Actualisé à l'épisode %d"</string>
     <string name="ovp_detail_v_episode_download_null">Impossible de télécharger cet épisode</string>
     <string name="ovp_detail_v_variety_episode_count">Actualisé à la saison %s</string>
     <string name="ovp_episode_suffix">"Ép. %d "</string>
     <string name="ovp_favor">Favoris</string>
     <string name="ovp_favor_null">Aucun élément ici.</string>
-    <string name="ovp_feedback_title">Avis sur Mi Video</string>
+    <string name="ovp_feedback_title">Avis sur Vidéo</string>
     <string name="ovp_home_folder_is_null_jump_upfolder_tip">Impossible de retrouver le fichier média. Passé au ficher du niveau supérieur.</string>
     <string name="ovp_home_item_camera">Galerie</string>
     <string name="ovp_home_item_download">Téléchargements</string>
@@ -398,11 +392,11 @@
     <string name="passport_v_code_error">Le code de vérification est incorrect</string>
     <string name="passport_wechat_not_install">"Wechat n'est pas installé"</string>
     <string name="permission_continue">Continuer</string>
-    <string name="permission_info">"Mi Video doit accéder au numéro IMEI de votre appareil pour effectuer les opérations suivantes : 
+    <string name="permission_info">"Vidéo doit accéder au numéro IMEI de votre appareil pour effectuer les opérations suivantes : 
 
 Personnaliser mieux ses services pour votre appareil;
  Augmentez la sécurité de votre compte."</string>
-    <string name="permission_info1">Mi Video doit accéder au numéro IMEI de votre appareil pour effectuer les opérations suivantes :</string>
+    <string name="permission_info1">Vidéo doit accéder au numéro IMEI de votre appareil pour effectuer les opérations suivantes :</string>
     <string name="permission_info2">Personnaliser mieux ses services pour votre appareil;</string>
     <string name="permission_info3">Augmentez la sécurité de votre compte</string>
     <string name="permission_title">Autorisation requise</string>
@@ -443,7 +437,7 @@ Vérifiez d'autres vidéos !"</string>
     <string name="pw_onlineservice_open_info">Activez les services en ligne pour utiliser cette fonctionnalité.</string>
     <string name="pw_onlineservice_open_title">Attention</string>
     <string name="pw_people_search">Populaire</string>
-    <string name="pw_permission_content">"Vous ne serez plus en mesure d'utiliser Mi Video sans les autorisations requises."</string>
+    <string name="pw_permission_content">"Vous ne serez plus en mesure d'utiliser Vidéo sans les autorisations requises."</string>
     <string name="pw_permission_refuse">Restreindre quand même</string>
     <string name="pw_permission_retry">Autoriser</string>
     <string name="pw_permission_title">Autorisation requise</string>
@@ -482,7 +476,7 @@ Vérifiez d'autres vidéos !"</string>
     <string name="selectall">Tout sélectionner</string>
     <string name="selectnull">Tout déselectionner</string>
     <string name="share">Partager</string>
-    <string name="share_ugc_content">"Jeter un coup d'œil à %1$s! #%2$s (%3$s)"</string>
+    <string name="share_ugc_content">"Jeter un coup d'oeil à %1$s! #%2$s (%3$s)"</string>
     <string name="share_ugc_waitting">Générer un lien en cours…</string>
     <string name="sign_in_title">Se connecter avec le compte Mi</string>
     <string name="slid_fail_message">"Impossible d'enregistrer"</string>
@@ -490,13 +484,13 @@ Vérifiez d'autres vidéos !"</string>
     <string name="sns_sign_in">Autre méthode de connexion</string>
     <string name="sure_to_logout">Se déconnecter maintenant ?</string>
     <string name="switch_ratio_pause">La vitesse de lecture est instable. Revenir à la vitesse par défaut…</string>
-    <string name="t_downloading">Téléchargement :</string>
+    <string name="t_downloading">Téléchargement:</string>
     <string name="t_exit_app">Appuyer encore pour quitter.</string>
     <string name="t_lv_check_delete_history">Sélectionner les éléments à supprimer</string>
     <string name="t_lv_check_hide_file">Sélectionner les vidéos à masquer</string>
     <string name="t_lv_check_unhide_file">Sélectionner les vidéos à démasquer</string>
     <string name="t_lv_downloading_new_version">Téléchargement des mises à jour…</string>
-    <string name="t_lv_no_new_version">Mi Video est à jour.</string>
+    <string name="t_lv_no_new_version">Vidéo est à jour.</string>
     <string name="t_lv_password_limit">Le mot de passe doit contenir au moins 4 caractères</string>
     <string name="t_lv_password_null">Le mot de passe ne peut pas être vide</string>
     <string name="t_lv_password_wrong">Le mot de passe est incorrect. Réessayez.</string>

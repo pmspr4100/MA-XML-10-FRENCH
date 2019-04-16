@@ -6,9 +6,9 @@
     <string name="extracting_pkcs12">Extraction en cours…</string>
     <string name="pkcs12_file_password_dialog_title">Extraire de %s</string>
     <string name="name_credential_dialog_title">Attribuer un nom au certificat</string>
-    <string name="credential_name">Nom du certificat :</string>
+    <string name="credential_name">Nom du certificat:</string>
     <string name="credential_password">Saisir le mot de passe pour extraire les certificats</string>
-    <string name="credential_info">Le package contient :</string>
+    <string name="credential_info">Le package contient:</string>
     <string name="p12_description">Certificats dans le keystore PKCS12</string>
     <string name="one_userkey">une clé utilisateur</string>
     <string name="one_usercrt">un certificat utilisateur</string>
@@ -29,7 +29,7 @@
     <string name="no_cert_file_found">Fichier de certificat introuvable sur la carte SD</string>
     <string name="sdcard_not_present">Carte SD manquante.</string>
     <string name="only_primary_user_allowed">Seul le propriétaire de cet appareil peut installer des certificats.</string>
-    <string name="credential_usage_label">Utilisation du certificat :</string>
+    <string name="credential_usage_label">Utilisation du certificat:</string>
     <string name="wifi_title">Profil du Wi-Fi</string>
     <string name="wifi_detail_title">Détails relatifs à %s</string>
     <string name="wifi_detail_label">Détails</string>
@@ -38,21 +38,21 @@
     <string name="wifi_cancel_label">Annuler</string>
     <string name="wifi_dismiss_label">Ignorer</string>
     <string name="wifi_no_config">Aucune</string>
-    <string name="wifi_config_text">"Nom : %1$s
-Nom de domaine complètement qualifié (FQDN) : %2$s
-Consortiums en itinérance : %3$s
-Domaine : %4$s
-Méthode d'authentification : EAP-%5$s
+    <string name="wifi_config_text">"Nom: %1$s
+Nom de domaine complètement qualifié (FQDN): %2$s
+Consortiums en itinérance: %3$s
+Domaine: %4$s
+Méthode d'authentification: EAP-%5$s
 "</string>
-    <string name="wifi_ttls_config_text">"Nom de l'utilisateur : %s
+    <string name="wifi_ttls_config_text">"Nom de l'utilisateur: %s
 "</string>
-    <string name="wifi_tls_config_text">"Certificat client :
+    <string name="wifi_tls_config_text">"Certificat client:
 %1$s
-Clé : %2$s
+Clé: %2$s
 "</string>
-    <string name="wifi_sim_config_text">"SIM : %s
+    <string name="wifi_sim_config_text">"SIM: %s
 "</string>
-    <string name="wifi_trust_config_text">"Certificat de confiance :
+    <string name="wifi_trust_config_text">"Certificat de confiance:
 %s
 "</string>
     <string name="install_done_title">Identifiants installés</string>

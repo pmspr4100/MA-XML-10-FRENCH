@@ -2,9 +2,9 @@
 <resources>
     <string name="xiaomi_update_dialog_title">Mise à jour disponible</string>
     <string name="xiaomi_update_dialog_message">"Version %1$s
-Taille : %2$s"</string>
+Taille: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Version %1$s
-Taille de la mise à jour : %2$s"</string>
+Taille de la mise à jour: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Stockage indisponible, vérifiez votre carte SD.</string>
     <string name="xiaomi_connect_download_manager_fail">Impossible de démarrer le téléchargement. Vérifier que le gestionnaire de téléchargements fonctionne normalement.</string>
     <string name="app_name">Sauvegarde</string>
@@ -52,9 +52,9 @@ Taille de la mise à jour : %2$s"</string>
     <string name="prompt_reading">Lecture...</string>
     <string name="prompt_sending">Envoi...</string>
     <string name="prompt_writing">Sauvegarde…</string>
-    <string name="backup_new">Nouveau :</string>
+    <string name="backup_new">Nouveau:</string>
     <string name="backup_update">Mettre à jour</string>
-    <string name="backup_delete">Supprimer :</string>
+    <string name="backup_delete">Supprimer:</string>
     <string name="findlost_contact">Restaurer les contacts</string>
     <string name="findlost_contact_online">Restaurer les contacts depuis Mi Cloud</string>
     <string name="cloud_backup_login">Connectez-vous à votre compte Mi</string>
@@ -66,7 +66,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="local_restore_window_title">Récupération de données locales</string>
     <string name="account_login">Se connecter</string>
     <string name="miliao_account_login">Connectez-vous avec Mi Talk</string>
-    <string name="miliao_account_guide">Utilisez votre compte Mi pour vous connecter au Cloud Mi, au MIUI Theme Store, et aux autres services Mi, où que vous soyez.</string>
+    <string name="miliao_account_guide">Utilisez votre compte Mi pour vous connecter au Mi Cloud, au MIUI Theme Store, et aux autres services Mi, où que vous soyez.</string>
     <string name="auto_backup">Planification des sauvegardes</string>
     <string name="contact_title">Contacts</string>
     <string name="call_title">Historique des appels</string>
@@ -108,11 +108,11 @@ Taille de la mise à jour : %2$s"</string>
     <string name="task_backup_cancel_progress">Arrêt…</string>
     <string name="task_restore_cancel_progress">Arrêt…</string>
     <string name="nothing_searched">Aucun résultat.</string>
-    <string name="restore_counts">Restauration :</string>
+    <string name="restore_counts">Restauration:</string>
     <string name="service_stoped">Service arrêté</string>
     <string name="sc_network_unavailable">Vérifiez votre connexion puis réessayez.</string>
     <string name="sc_bad_request">Requête non valide</string>
-    <string name="sc_unaccess_password_file">Impossible de trouver le mot de passe du réseau WiFi</string>
+    <string name="sc_unaccess_password_file">Impossible de trouver le mot de passe du réseau Wi-Fi</string>
     <string name="sc_service_unavailable">Service Mi Cloud indisponible</string>
     <string name="sc_unauthorized">Se connecter à nouveau</string>
     <string name="sc_request_timeout">La requête a expiré</string>
@@ -173,7 +173,7 @@ Taille de la mise à jour : %2$s"</string>
     <string name="refresh">Actualiser</string>
     <string name="cloud_item_info_summary">" (Locale %1$s | Mi Cloud %2$s)"</string>
     <string name="cloud_restore_guide">Pour restaurer les données utilisateur de %s, appuyez sur Restaurer</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Téléchargez l'application MiTalk et connectez-vous.
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009Téléchargez l'application Mi Talk et connectez-vous.
 \u0009http://www.miliao.com
 
 2.\u0009Allez dans les Paramètres de MiTalk et sélectionnez \"Sauvegarder vos contacts vers votre compte Mi\""</string>
@@ -293,7 +293,7 @@ En attente de l'ancien appareil de se connecter…"</string>
 Ne désactivez pas le Wi-Fi. Gardez vos appareils proches l'un de l'autre."</string>
     <string name="trans_receiver_time_remained">"%s restant.
 Ne désactivez pas le point d'accès Wi-Fi. Gardez les appareils proches l'un de l'autre."</string>
-    <string name="trans_time_spent">Temps écoulé : %s</string>
+    <string name="trans_time_spent">Temps écoulé: %s</string>
     <string name="trans_restoring_no_items">Récupération des informations…</string>
     <string name="trans_detail_category_sysdata">"Données systèmes (messages, contacts et historique d'appels inclus)"</string>
     <string name="trans_detail_category_userdata">Applications</string>
@@ -347,13 +347,13 @@ Ne désactivez pas le point d'accès Wi-Fi. Gardez les appareils proches l'un de
     <string name="trans_connect_failed_toast">Impossible de se connecter</string>
     <string name="trans_open_camera_failed_title">"Impossible de se connecter à l'appareil photo"</string>
     <string name="trans_open_camera_failed_message">Redémarrez votre appareil ou vérifiez que Mi Mover est autorisé à utiliser &lt;b>Appareil photo&lt;/b>.</string>
-    <string name="trans_generate_qr_code_failed">Impossible de créer le code QR</string>
+    <string name="trans_generate_qr_code_failed">Impossible de créer le QR code</string>
     <string name="trans_scan_invalid_qrcode">Code QR non valide</string>
-    <string name="trans_scan_qr_code_tips">Numérisez le code QR en utilisant le nouvel appareil</string>
+    <string name="trans_scan_qr_code_tips">Numérisez le QR code en utilisant le nouvel appareil</string>
     <string name="trans_show_qr_code_label">Connecter un ancien appareil</string>
     <string name="trans_show_qr_code_tips">Scanner le QR code en utilisant un ancien appareil</string>
     <string name="trans_operate_new_phone_tips">"Aller à Paramètres > Paramètres Supplémentaires > Mi Mover
-Appuyer [Je suis le receveur] pour créer le code QR"</string>
+Appuyer [Je suis le receveur] pour créer le QR code"</string>
     <string name="trans_operate_func_one">Méthode A</string>
     <string name="trans_operate_func_two">Méthode B</string>
     <string name="trans_operate_old_phone_tips1">"1. Installer l'application Mi Mover sur votre ancien appareil
@@ -362,11 +362,11 @@ Appuyer [Je suis le receveur] pour créer le code QR"</string>
     <string name="trans_operate_old_phone_tips2">"Allez dans Paramètres > Paramètres supplémentaires > Mi Mover, appuyez sur [Je suis l'expéditeur]"</string>
     <string name="trans_operate_tip_for_other_android">Ouvrez Mi Mover sur votre ancien téléphone, appuyez sur \"Démarrer\" et scannez le QR code ci-dessus.</string>
     <string name="trans_operate_reconnect_new_tips">"Patientez jusqu'à ce que le nouveau téléphone affiche \"La connexion a été interrompue\".
-Puis appuyez sur \"Reconnecter\" pour générer un code QR."</string>
+Puis appuyez sur \"Reconnecter\" pour générer un QR code."</string>
     <string name="trans_operate_reconnect_old_tips">"Patientez jusqu'à ce que l'ancien téléphone affiche \"La connexion a été interrompue\".
-Puis appuyez sur \"Reconnecter\" pour générer un code QR."</string>
-    <string name="trans_generating_qrcode">Génération du code QR…</string>
-    <string name="trans_generate_qrcode_failed">Impossible de générer le code QR. Fermez les autres applications et réessayez.</string>
+Puis appuyez sur \"Reconnecter\" pour générer un QR code."</string>
+    <string name="trans_generating_qrcode">Génération du QR code…</string>
+    <string name="trans_generate_qrcode_failed">Impossible de générer le QR code. Fermez les autres applications et réessayez.</string>
     <string name="trans_wait_trans_data">"Connectez l'ancien appareil.
 En attente de transfert…"</string>
     <string name="trans_select_data">Sélectionner les éléments à envoyer</string>
@@ -391,13 +391,13 @@ Libérez de l'espace de stockage ou ne transférez que des éléments importants
     <string name="soft_ap_creating">"Création d'un point d'accès…"</string>
     <string name="wait_link">"Connectez votre ancien appareil à ce point d'accès. 
 Ne quittez pas cette page tant que la connexion n'est pas établie."</string>
-    <string name="old_way">Vous pouvez également vous connecter en utilisant un code QR. Appuyez pour générer le code.</string>
+    <string name="old_way">Vous pouvez également vous connecter en utilisant un QR code. Appuyez pour générer le code.</string>
     <string name="soft_ap_create_failed">"Impossible de créer le point d'accès"</string>
     <string name="scan_soft_ap_label">Connecter à un ancien appareil</string>
     <string name="scan_soft_ap">Recherche du nouvel appareil…</string>
     <string name="click_soft_ap_to_link">"Sélectionnez un point d'accès pour vous connecter"</string>
     <string name="waiting">Juste un instant…</string>
-    <string name="old_soft_name">Se connecter via un code QR</string>
+    <string name="old_soft_name">Se connecter via un QR code</string>
     <string name="confirm_exit_link_title">Interrompre le transfert</string>
     <string name="confirm_exit_link_msg">"Quitter l'application maintenant interrompra le transfert en cours. Vous devrez à nouveau établir la connexion entre les deux appareils. Quitter l'application quand même?"</string>
     <string name="confirm_exit_link">Quitter</string>
@@ -426,18 +426,17 @@ pour télécharger et installer Mi Mover."</string>
     <string name="user_notice_title">Attention</string>
     <string name="user_notice_message">"Certaines fonctionnalités ont besoin d'une connexion Internet pour fonctionner normalement."</string>
     <string name="user_notice_declaration_ignore">Ne plus afficher</string>
-    <string name="total_size">, %s</string>
     <string name="trans_intro_title">FAQ</string>
     <string name="trans_intro_question_1">%d. Comment utiliser Mi Mover pour transférer des données depuis un appareil iOS ?</string>
     <string name="trans_intro_desc_1">Sur un téléphone Mi, connectez-vous au Wi-Fi et appuyez sur \"Je suis le destinataire\". Sélectionnez votre appareil iOS, connectez-vous à iCloud et importez les données.</string>
     <string name="trans_intro_question_2">%d. Comment utiliser Mi Mover pour transférer des données depuis un appareil Android ?</string>
-    <string name="trans_intro_title_new">Sur un nouveau téléphone :</string>
-    <string name="trans_intro_desc_new">Appuyez sur \" Je suis le destinataire \". Un code QR sera généré.</string>
-    <string name="trans_intro_title_old">Sur un ancien téléphone :</string>
-    <string name="trans_intro_desc_old">"Appuyez sur \" Je suis l'expéditeur \". Scannez le code QR sur le nouveau téléphone, patientez jusqu'à ce que Mi Mover détecte les fichiers à envoyer, puis appuyez sur \" Envoyer \"."</string>
+    <string name="trans_intro_title_new">Sur un nouveau téléphone:</string>
+    <string name="trans_intro_desc_new">Appuyez sur \" Je suis le destinataire \". Un QR code sera généré.</string>
+    <string name="trans_intro_title_old">Sur un ancien téléphone:</string>
+    <string name="trans_intro_desc_old">"Appuyez sur \" Je suis l'expéditeur \". Scannez le QR code sur le nouveau téléphone, patientez jusqu'à ce que Mi Mover détecte les fichiers à envoyer, puis appuyez sur \" Envoyer \"."</string>
     <string name="trans_intro_desc_old_market">"Appuyez sur \"Démarrer\". Scannez le QR code sur le nouveau, patientez jusqu'à ce que Mi Mover vous demande quels fichiers envoyer, et appuyez sur \"Envoyer\"."</string>
     <string name="trans_intro_question_10">"%d. Vous ne trouvez pas le point d'accès sur l'ancien appareil ?"</string>
-    <string name="trans_intro_desc_10">Appuyez sur \"Connecter via le code QR\" sur le nouvel appareil et scannez le code QR pour établir la connexion.</string>
+    <string name="trans_intro_desc_10">Appuyez sur \"Connecter via le QR code\" sur le nouvel appareil et scannez le QR code pour établir la connexion.</string>
     <string name="trans_intro_question_3">%d. Que faire si Mi Mover se bloque à certaine étape ?</string>
     <string name="trans_intro_desc_3">Annulez le transfert, quittez Mi Mover et recommencez. Les fichiers en double seront écrasés au cours du nouveau transfert.</string>
     <string name="trans_intro_question_4">"%d. Pourquoi ne suis-je pas en mesure d'utiliser le Wi-Fi pendant les transferts ?"</string>
@@ -446,21 +445,21 @@ pour télécharger et installer Mi Mover."</string>
     <string name="trans_intro_question_5">"%d. Pourquoi Mi Mover me dit-il que l'espace de stockage sur mon ancien téléphone est insuffisant ?"</string>
     <string name="trans_intro_desc_5">"L'espace de stockage sur les anciens appareils est utilisé pour la création des paquets de transferts. Assurez-vous que vous avez au moins 500 Mo à 1 Go d'espace de stockage disponible sur votre ancien téléphone avant de commencer le transfert."</string>
     <string name="trans_intro_question_6">%d. Pourquoi certaines applications ne sont-elles pas transférées avec succès ?</string>
-    <string name="trans_intro_desc_6">"Il existe plusieurs raisons pour lesquelles cela peut se produire : des problèmes de compatibilité de la version du système et de l'application, des problèmes de réseau, des problèmes de compatibilité spécifiques à un périphérique particulier, etc."</string>
+    <string name="trans_intro_desc_6">"Il existe plusieurs raisons pour lesquelles cela peut se produire: des problèmes de compatibilité de la version du système et de l'application, des problèmes de réseau, des problèmes de compatibilité spécifiques à un périphérique particulier, etc."</string>
     <string name="trans_intro_question_7">%d. Pourquoi certaines applications ne se lanceront-elles pas sur un nouvel appareil ?</string>
     <string name="trans_intro_desc_7">"Certains profils d'applications (e-banking, finance, etc.) sont associés à un périphérique spécifique pour des raisons de sécurité. Essayez d'effacer les données de l'application ou de réinstaller l'application sur un nouvel appareil."</string>
     <string name="trans_intro_question_8">"%d. Pourquoi l'historique de WeChat n'est-il pas complètement transféré ?"</string>
     <string name="trans_intro_desc_8">"Les données de l'application WeChat et l'historique des conversations peuvent ne pas être transférés intégralement via Mi Mover. Accédez aux paramètres de WeChat et déconnectez-vous de votre compte pour obtenir plus de chances pour un transfert réussi."</string>
     <string name="trans_intro_question_9">%d. Quels éléments ne peuvent pas être transférés ?</string>
-    <string name="trans_intro_title_account">Comptes et mots de passe :</string>
-    <string name="trans_intro_desc_account">Vous devez vous connecter à nouveau à vos comptes (ex. : Compte Mi, Exchange, Google, etc.) sur le nouvel appareil pour des raisons de sécurité.</string>
-    <string name="trans_intro_title_private">Album privé :</string>
+    <string name="trans_intro_title_account">Comptes et mots de passe:</string>
+    <string name="trans_intro_desc_account">Vous devez vous connecter à nouveau à vos comptes (ex.: Compte Mi, Exchange, Google, etc.) sur le nouvel appareil pour des raisons de sécurité.</string>
+    <string name="trans_intro_title_private">Album privé:</string>
     <string name="trans_intro_desc_private">"Mi Mover ne peut pas accéder au photos dans l'album masqué car elles sont chiffrées. Vous pouvez restaurer ces photos depuis Mi Cloud sur un nouvel appareil."</string>
-    <string name="trans_intro_title_multiuser">Données du Second espace :</string>
+    <string name="trans_intro_title_multiuser">Données du Second espace:</string>
     <string name="trans_intro_desc_multiuser">Mi Mover ne peut pas accéder aux éléments dans le Second espace. Déplacez les éléments vers le Premier espace et lancez Mi Mover depuis ledit espace.</string>
-    <string name="trans_intro_title_multiapp">Données des applications clônées :</string>
+    <string name="trans_intro_title_multiapp">Données des applications clônées:</string>
     <string name="trans_intro_desc_multiapp">"Mi Mover ne transfère pas les données des applications clônées afin d'éviter des conflits entre les fichiers."</string>
-    <string name="trans_intro_title_gms">Données générées par les applications Google :</string>
+    <string name="trans_intro_title_gms">Données générées par les applications Google:</string>
     <string name="trans_intro_desc_gms">"En raison de la forte probabilité d'échec des transferts en raison de problèmes de compatibilité, Mi Mover ne prend pas en charge le transfert des données générées par les applications Google."</string>
     <string name="trans_intro_question_9_market">%d. Commentaires.</string>
     <string name="trans_intro_desc_9_method_1_title">"1. Partagez votre avis avec l'application \"Commentaire\"."</string>
@@ -468,7 +467,7 @@ pour télécharger et installer Mi Mover."</string>
     <string name="trans_intro_desc_9_method_2_title">2. Envoyez-nous un e-mail</string>
     <string name="trans_intro_desc_9_method_2_dec">Envoyez votre commentaire à miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_3_title">3. Signaler des problèmes dans QQ</string>
-    <string name="trans_intro_desc_9_method_3_dec">Goupe QQ de Mi Mover : 687338378</string>
+    <string name="trans_intro_desc_9_method_3_dec">Goupe QQ de Mi Mover: 687338378</string>
     <string name="btn_got_it">"C'est compris"</string>
     <string name="backup_security_tips_title">Les sauvegardes peuvent ne pas fonctionner</string>
     <string name="backup_security_tips_message">Certaines applications peuvent ne pas être sauvegardées ou restaurées.</string>
@@ -496,14 +495,14 @@ Avez-vous apprécié Mi Mover ?"</string>
     <string name="trans_dialog_survey_finish">Envoyer</string>
     <string name="trans_failed_details_page_title">Transferts sans succès</string>
     <string name="close_twice_auth_tutor">"Désactivez l'authentification à 2 facteurs de l'identifiant Apple"</string>
-    <string name="close_twice_auth_steps">"Suivez ces étapes pour désactiver l'authentification à 2 facteurs de l'identifiant Apple :"</string>
+    <string name="close_twice_auth_steps">"Suivez ces étapes pour désactiver l'authentification à 2 facteurs de l'identifiant Apple:"</string>
     <string name="close_twice_auth_step_1">"1. Ouvrez n'importe quel navigateur sur n'importe quel ordinateur et rendez-vous sur appleid.apple.com."</string>
     <string name="close_twice_auth_step_2">"2. Connectez-vous à l'identifiant Apple dont vous souhaitez désactiver l'authentification à 2 facteurs, allez à la section \"Sécurité\" des paramètres du comptes et choisissez \"Éditer\"."</string>
     <string name="close_twice_auth_step_3">"3. Cliquez sur \"Désactiver l'authentification à 2 facteurs\". Cliquez une fois de plus pour confirmer."</string>
-    <string name="close_twice_auth_note">"Remarque :
+    <string name="close_twice_auth_note">"Remarque:
 Après la création d'une nouvelle question de sécurité et la confirmation de votre date de naissance, la fonction d'authentification à 2 facteurs sera désactivée. Si vous ne voyez pas l'option pour la désactiver sur la page du compte de l'identifiant Apple, vous ne pouvez pas alors la désactiver."</string>
     <string name="close_twice_auth_btn">"Désactiver l'authentification à 2 facteurs"</string>
-    <string name="close_twice_auth_operation">"URL :
+    <string name="close_twice_auth_operation">"URL:
 https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
     <string name="platform_chooser_title">Choisir un ancien appareil</string>
     <string name="platform_chooser_item_ios">Importer depuis un appareil iOS</string>
@@ -513,7 +512,7 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
     <string name="icloud_need_wifi_message">"Vous n'êtes connecté au Wi-Fi actuellement. Pour importer les données depuis iCloud, connectez-vous au Wi-Fi."</string>
     <string name="icloud_login_title">Se connecter à iCloud</string>
     <string name="icloud_backup_tip">Connectez-vous au compte iCloud de votre ancien appareil iOS</string>
-    <string name="icloud_how_to_backup_tip_title">Astuces :</string>
+    <string name="icloud_how_to_backup_tip_title">Astuces:</string>
     <string name="icloud_how_to_backup_tip_summary">Pour importer les données depuis iOS, vous devez créer une sauvegarde iCloud.</string>
     <string name="icloud_how_to_backup_tip_steps">"1. Ouvrez Réglages sur votre appareil iOS, et sélectionnez iCloud.
 2. Déplacez le bouton pour Contacts et autres éléments.
@@ -546,7 +545,7 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
     <string name="hsa_send_again_countdown">Renvoyer (%d sec)</string>
     <string name="hsa_sending">Envoi…</string>
     <string name="hsa_send_failed">"Impossible de désactiver Localiser l'appareil. Patientez une minute ou deux et réessayez."</string>
-    <string name="hsa_tip_title">Astuces :</string>
+    <string name="hsa_tip_title">Astuces:</string>
     <string name="hsa_tip_message">"1. Un message avec le code de vérification a été envoyé à l'appareil associé à votre ID Apple.
 
 2. Désactivez l'authentification à 2 facteurs si le code de vérification ne fonctionne pas."</string>
@@ -562,7 +561,7 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
     <string name="loading_data">Chargement des données</string>
     <string name="icloud_need_sync">"Pour importer les données depuis iOS, 
 ous devez d'abord créer une sauvegarde iCloud."</string>
-    <string name="list_footer_tip_title">Astuces :</string>
+    <string name="list_footer_tip_title">Astuces:</string>
     <string name="import_tip_summary">En raison des problèmes de compatibilité, vous pouvez seulement transférer partiellement les données depuis vos appareil iOS. Assurez-vous de créer une sauvegarde iCloud avant de commencer le transfert.</string>
     <string name="button_import">Importer</string>
     <string name="select_empty">Sélectionner les éléments à importer</string>
@@ -615,7 +614,7 @@ Les données qui n'ont pas été importées doivent être importées encore."</s
     <string name="perm_read_sms">Lire les SMS</string>
     <string name="perm_storage">Lire et écrire sur un support de stockage externe</string>
     <string name="lack_perm_title">Autorisation requise</string>
-    <string name="lack_perm_msg">Mi Mover a besoin des autorisations suivantes : &lt;b>%s&lt;/b>.</string>
+    <string name="lack_perm_msg">Mi Mover a besoin des autorisations suivantes: &lt;b>%s&lt;/b>.</string>
     <string name="flash_drive_backup_restore">Sauvegardes USB</string>
     <string name="flash_drive_backup_note">"Sauvegardez les applications sur un lecteur USB.
 Vérifiez que le lecteur USB dispose de suffisamment d'espace disponible avant de démarrer."</string>

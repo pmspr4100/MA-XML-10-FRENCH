@@ -115,8 +115,8 @@
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d s</string>
     <string name="callrecordview_item_op_time_rejected">Rejeté</string>
-    <string name="callrecordview_item_op_time_short_incoming">"Entrant : "</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"Sortant : "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"Entrant: "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"Sortant: "</string>
     <string name="callrecordview_item_op_video">Vidéo</string>
     <string name="callrecordview_menu_add_call_note">"Ajouter une note d'appel"</string>
     <string name="callrecordview_menu_batch_delete">Supprimer le lot</string>
@@ -186,9 +186,6 @@
     <string name="cloud_state_loading">Un instant…</string>
     <string name="cloud_state_sync_finished">Synchronisé avec Mi Cloud</string>
     <string name="cloud_state_syncing">Synchronisé avec Mi Cloud</string>
-    <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
-    <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
-%2$s"</string>
     <string name="composer_failed_to_get_database_infomation">"Impossible d'obtenir les informations concernant la base de données."</string>
     <string name="composer_has_no_exportable_contact">"Il n'y a pas de contacts exportables. Si vous avez des contacts sur votre appareil, certains fournisseurs de données peuvent ne pas autoriser l'exportation des contacts à partir de l'appareil."</string>
     <string name="composer_not_initialized">"Le système de composition vCard n'a pas démarré correctement."</string>
@@ -198,7 +195,7 @@
     <string name="confirm_delete_contact_all_call_logs">"Effacer tout l'historique de %s ?"</string>
     <string name="confirm_delete_selected_all_call_logs">"Effacer l'historique des appels ?"</string>
     <string name="confirm_delete_sim_entry_miui_title">Supprimer</string>
-    <string name="confirm_export_message">Votre liste de contacts va être exporter dans le fichier : %s.</string>
+    <string name="confirm_export_message">Votre liste de contacts va être exporter dans le fichier: %s.</string>
     <string name="confirm_export_title">Exporter les contacts ?</string>
     <string name="connections">Connexions</string>
     <string name="contactDetailAbout">Information de contact</string>
@@ -338,8 +335,8 @@ Les cartes de contact ont été désactivées"</string>
     <string name="description_image_button_plus">Plus</string>
     <string name="description_image_button_pound">Dièse</string>
     <string name="description_image_button_seven">sept</string>
-    <string name="description_image_button_sim1_named_dial">Composer en utilisant la SIM1%s</string>
-    <string name="description_image_button_sim2_named_dial">Composer en utilisant la SIM2 %s</string>
+    <string name="description_image_button_sim1_named_dial">Composer avec la SIM 1 %s</string>
+    <string name="description_image_button_sim2_named_dial">Composer avec la SIM 2 %s</string>
     <string name="description_image_button_six">six</string>
     <string name="description_image_button_star">étoile</string>
     <string name="description_image_button_three">trois</string>
@@ -494,7 +491,7 @@ Raison: \"%s\""</string>
     <string name="frequentList">Contacts fréquents</string>
     <string name="full_name">Nom complet</string>
     <string name="gallery">Galerie</string>
-    <string name="generic_no_account_prompt">Protégez vos contacts même si vous perdez votre téléphone ; synchronisez les avec un service en ligne.</string>
+    <string name="generic_no_account_prompt">Protégez vos contacts même si vous perdez votre téléphone; synchronisez les avec un service en ligne.</string>
     <string name="generic_no_account_prompt_title">Ajouter un compte</string>
     <string name="ghostData_company">Entreprise</string>
     <string name="ghostData_title">Titre</string>
@@ -518,7 +515,6 @@ Raison: \"%s\""</string>
     <string name="group_sms_progress_msg">Groupement ...</string>
     <string name="groupsLabel">Groupes</string>
     <string name="groups_list_empty">Aucun groupe</string>
-    <string name="hint_distance" />
     <string name="hint_findContacts">Trouver des contacts</string>
     <string name="hint_more_contact">Fusionner les contacts en double</string>
     <string name="hybrid_check_network">Paramètres réseau</string>
@@ -547,7 +543,6 @@ Raison: \"%s\""</string>
     <string name="import_multiple_vcard_string">Importer plusieurs fichiers vCard</string>
     <string name="import_name">Nom</string>
     <string name="import_one_vcard_string">Importer 1 fichier vCard</string>
-    <string name="import_percent">0%</string>
     <string name="import_selected_sim_entries_miui">Importer les contacts sélectionnés</string>
     <string name="import_sim_contacts_hint_title">Importer des contacts SIM</string>
     <string name="import_sim_entries_finish">Contacts importés depuis la carte SIM</string>
@@ -686,7 +681,6 @@ Raison: \"%s\""</string>
     <string name="miprofile_find_profile_no_recommend">Aucun profil recommandé</string>
     <string name="miprofile_finding_label">Trouver des cartes de contact</string>
     <string name="miprofile_name">Mon profil</string>
-    <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_nick_name_edit">Éditer le surnom du contact</string>
     <string name="miprofile_nick_name_edit_dialog_hint">Saisir un pseudo</string>
     <string name="miprofile_nick_name_edit_dialog_message">"Votre pseudo apparaitra dans l'historique des appels et les informations de profile"</string>
@@ -739,7 +733,7 @@ Raison: \"%s\""</string>
     <string name="name_prefix">Préfixe de nom</string>
     <string name="name_suffix">Suffixe de nom</string>
     <string name="next">Suivant</string>
-    <string name="next_birthday">Prochain anniversaire : %s</string>
+    <string name="next_birthday">Prochain anniversaire: %s</string>
     <string name="nfc_vcard_file_name">Contact reçu par NFC</string>
     <string name="nicknameLabelsGroup">Surnom</string>
     <string name="nickname_editor_title">Éditer le pseudo</string>
@@ -772,7 +766,6 @@ Raison: \"%s\""</string>
     <string name="not_applied">"Impossible d'appliquer"</string>
     <string name="notification_action_voicemail_play">Jouer</string>
     <string name="notification_new_voicemail_ticker">Message vocal de %1$s</string>
-    <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="openDialKeyboard">Pavé numérique</string>
     <string name="open_contact">Afficher le contact</string>
     <string name="open_dial_pad_description">Ouvrir le pavé numérique</string>
@@ -788,7 +781,6 @@ Raison: \"%s\""</string>
     <string name="option_view_contact">Voir</string>
     <string name="option_view_group">Voir</string>
     <string name="organizationLabelsGroup">Organisation</string>
-    <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">Autres contacts</string>
     <string name="other_phone">Autres périphériques</string>
     <string name="path_batch_delete">Applications système/Contacts/Organiser les contacts/Supprimer le paquet</string>
@@ -863,7 +855,7 @@ Raison: \"%s\""</string>
     <string name="pref_title_account_import">Importer des contacts</string>
     <string name="pref_title_import_from_account">Importer vers le compte Mi</string>
     <string name="preference_auto_ip_summary_disable">Désactivé</string>
-    <string name="preference_auto_ip_summary_on">Préfixe du fournisseur : %s</string>
+    <string name="preference_auto_ip_summary_on">Préfixe du fournisseur: %s</string>
     <string name="preference_auto_ip_title">Préfixe Automatique</string>
     <string name="preference_contacts">Contacts</string>
     <string name="preference_contacts_display">"Préférences d'affichage"</string>
@@ -922,8 +914,8 @@ Raison: \"%s\""</string>
     <string name="pull_to_refresh_pull_label">Faire glisser pour actualiser</string>
     <string name="pull_to_refresh_refreshing_label">Un instant…</string>
     <string name="pull_to_refresh_release_label">Relâcher pour actualiser</string>
-    <string name="qr_card_card">Code QR</string>
-    <string name="qrcode_card_title">Code QR</string>
+    <string name="qr_card_card">QR code</string>
+    <string name="qrcode_card_title">QR code</string>
     <string name="quick_dial_setting_delete_dialog_message">Supprimer le numéro de téléphone rapide attribué ?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">Supprimer</string>
     <string name="quick_dial_setting_hint">Appuyez sur un bouton pour attribuer ou retirer un numéro de téléphone rapide. Appuyez et maintenez le bouton.</string>
@@ -965,8 +957,6 @@ Raison: \"%s\""</string>
 Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="report_inquiry_mms">Signaler un SMS</string>
     <string name="restore_nickname">Restaurer</string>
-    <string name="ret_sign">"
-"</string>
     <string name="returnCall">Rappeler</string>
     <string name="ringLabelsGroup">Sonnerie</string>
     <string name="save_photo_progress">Sauvegarde de la photo…</string>
@@ -1112,7 +1102,6 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="strequentList">Favoris</string>
     <string name="success_message_import_from_account">Contact importé</string>
     <string name="summary_kind_title">Résumé</string>
-    <string name="sv">SV</string>
     <string name="t9_search_empty_create_contact">Nouveau contact</string>
     <string name="t9_search_empty_edit_contact">Ajouter aux contacts</string>
     <string name="t9_search_empty_send_sms">Envoyer un message</string>

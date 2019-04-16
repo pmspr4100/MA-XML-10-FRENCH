@@ -55,7 +55,6 @@
     <string name="app_label">Horloge</string>
     <string name="auto_silence_never">Jamais</string>
     <string name="auto_silence_title">Silence automatique</string>
-    <string name="battery_charging_level">%d%%</string>
     <string name="birthday_alarm">"Alarme d'anniversaire"</string>
     <string name="birthday_alarm_summary">"Jouer \"Joyeux anniversaire\" comme sonnerie d'alarme par défaut pour votre anniversaire"</string>
     <string name="cancel">Annuler</string>
@@ -71,8 +70,7 @@
     <string name="confirm_abort">Abandonner</string>
     <string name="content_desc_keep_screen">"Bouton \"Garder l'écran allumé\""</string>
     <string name="control_set_alarm">Régler une alarme</string>
-    <string name="control_set_alarm_with_existing">"Régler l'alarme : %s"</string>
-    <string name="day_concat">", "</string>
+    <string name="control_set_alarm_with_existing">"Régler l'alarme: %s"</string>
     <string name="default_alarm_alert">"Sonnerie d'alarme par défaut"</string>
     <string name="default_alarm_title">Sonnerie par défaut</string>
     <string name="default_label">Alarme</string>
@@ -105,10 +103,9 @@
 	<string name="holiday_update_fail">"Impossible de mettre à jour"</string>
 	<string name="holiday_update_loading">Mise à jour…</string>
 	<string name="holiday_update_success">Tous les articles sont à jour</string>
-    <string name="hour_unit">H</string>
     <string name="install_weather_app_error">"Impossible de charger l'application"</string>
     <string name="install_weather_app_loading">Juste un instant…</string>
-    <string name="invalid_time">Heure non valide : %3$s %1$d : %2$d</string>
+    <string name="invalid_time">Heure non valide: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">"La durée du minuteur n'est pas valide"</string>
     <string name="keep_screen_on">"Laisser l'écran allumé"</string>
     <string name="korea_permission_calendar">Agenda</string>
@@ -138,7 +135,6 @@
     <string name="life_post_wake_up_item_acumu_day_title">Nombre de jours</string>
     <string name="life_post_wake_up_item_percentage_title">Les fans Mi après vous</string>
     <string name="life_post_wake_up_item_time_title">Heure de réveil</string>
-    <string name="life_post_wake_up_percentage_sign">%</string>
     <string name="life_post_wake_up_percentage_title">Les fans Mi après vous</string>
     <string name="life_post_wake_up_time_title">Heure de réveil</string>
     <string name="life_post_weather_invalid">Appuyez pour obtenir les infos météo</string>
@@ -174,7 +170,6 @@
     <string name="open_keep_screen">"L'écran pourra rester allumé"</string>
     <string name="other_category_title">Autre</string>
     <string name="pause">Pause</string>
-    <string name="percentage_sign">%</string>
 	<string name="personal_recommend">Recommandations de contenu personnalisées</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="remind_ringtone">Sonnerie</string>
@@ -210,11 +205,6 @@
     <string name="system_time_settings_category_title">"Réglages de l'heure"</string>
     <string name="temperature_unit">℃</string>
     <string name="time">Heure</string>
-    <string name="time_picker_colon">:</string>
-    <string name="time_picker_label_hour">H</string>
-    <string name="time_picker_label_minute">M</string>
-    <string name="time_picker_label_second">S</string>
-    <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">"Appuyez sur l'écran pour arrêter la sonnerie"</string>
     <string name="timer_alarm_dot_matrix_label">MINUTEUR</string>
     <string name="timer_alert_alert_silenced">Minuteurs silencieux après %1$s.</string>
@@ -242,9 +232,6 @@
     <string name="timer_is_paused">La minuterie est en pause</string>
     <string name="timer_item_duration_display">%1$d min %2$d sec</string>
     <string name="timer_item_label_hint">Nom de la minuterie</string>
-    <string name="timer_item_picker_hour">H</string>
-    <string name="timer_item_picker_minute">M</string>
-    <string name="timer_item_picker_second">s</string>
     <string name="timer_new_item">Ajouter une minuterie</string>
     <string name="timer_notify_text">Répéter ou annuler la minuterie.</string>
     <string name="timer_pause_timer">Mettre en pause le minuteur</string>
@@ -270,8 +257,7 @@
     <string name="worldclock_search_city">Sélectionnez une ville</string>
     <string name="worldclock_title">Horloges</string>
     <string name="worldclock_world_time">Fuseaux horaires</string>
-    <string name="worldcolock_timezone_current">Actuel : %1$s</string>
+    <string name="worldcolock_timezone_current">Actuel: %1$s</string>
     <string name="worldcolock_timezone_date">dd MMMM</string>
-    <string name="worldcolock_timezone_gap">%s H</string>
     <string name="worldcolock_timezone_local">"Pareille que l'heure locale"</string>
 </resources>

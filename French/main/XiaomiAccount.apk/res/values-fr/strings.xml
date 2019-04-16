@@ -184,7 +184,7 @@ Pour activer votre compte, suivez le
     <string name="passport_select_the_register_phone">Sélectionner le numéro de téléphone pour créer un compte</string>
     <string name="passport_select_the_recycle_phone_login">Sélectionner votre compte</string>
     <string name="passport_recycle_login_other_account">"Ils ne sont pas les miens. J'utiliserai un autre."</string>
-    <string name="passport_registered_phone_num">Numéro de téléphone : %s</string>
+    <string name="passport_registered_phone_num">Numéro de téléphone: %s</string>
     <string name="passport_quick_login">Se connecter</string>
     <string name="passport_error_verify_activator_phone_title">Impossible de vérifier le numéro de téléphone</string>
     <string name="passport_error_verify_activator_phone_message">"Assurez-vous que le service de la carte SIM est activé et que l'appareil est connecté au réseau."</string>
@@ -329,7 +329,7 @@ Pour activer votre compte, suivez le
     <string name="no_phone">Aucun numéro de téléphone</string>
     <string name="action_update_phone">Modifier le numéro de téléphone</string>
     <string name="action_add_phone">Ajouter un numéro de téléphone</string>
-    <string name="phone_num_use_for">Numéro de téléphone utilisé pour :</string>
+    <string name="phone_num_use_for">Numéro de téléphone utilisé pour:</string>
     <string name="sign_in">Connexion</string>
     <string name="get_back_pwd">Réinitialisation du mot de passe</string>
     <string name="identity">Identification</string>
@@ -396,22 +396,22 @@ Pour activer votre compte, suivez le
     <string name="notify_network_restricted_content_mobile_network">"Le compte Mi est restreint d'accéder à Internet. Appuyer pour autoriser."</string>
     <string name="sms_send_success">Envoyé</string>
     <string name="auth_fail_warning">La session a expiré, veuillez vous reconnecter plus tard</string>
-    <string name="find_device_message">Appareil verrouillé. Message : %1$s. Appeler %2$s.</string>
+    <string name="find_device_message">Appareil verrouillé. Message: %1$s. Appeler %2$s.</string>
     <string name="find_device_owner_phone">Appareil verrouillé. Appeler %1$s.</string>
-    <string name="find_device_prompt_message">Appareil verrouillé. Message : %1$s.</string>
+    <string name="find_device_prompt_message">Appareil verrouillé. Message: %1$s.</string>
     <string name="find_device_activate_account">Activer votre compte</string>
     <string name="login_check_find_device">Obtention des informations de sécurité…</string>
-    <string name="unlock_help_notice">"Aide :
+    <string name="unlock_help_notice">"Aide:
 1. Si vous avez oublié votre mot de passe, rendez-vous sur id.mi.com pour le réinitialiser.
 2. Si vous ne parvenez pas à réinitialiser votre mot de passe ou si quelqu'un a verrouillé votre appareil, rendez-vous sur i.mi.com pour le déverrouiller.
-3. Votre numéro de déverrouillage : %s"</string>
+3. Votre numéro de déverrouillage: %s"</string>
     <string name="login_find_device_bind">"Cet appareil est associé à l'ID d'un Compte Mi existant (%s)."</string>
-    <string name="find_device_locked_account_phone" formatted="false">%s, numéro de téléphone associé : %s</string>
-    <string name="find_device_locked_account_email" formatted="false">%s, adresse e-mail associée : %s</string>
+    <string name="find_device_locked_account_phone" formatted="false">%s, numéro de téléphone associé: %s</string>
+    <string name="find_device_locked_account_email" formatted="false">%s, adresse e-mail associée: %s</string>
     <string name="oauth_title">Se connecter avec le compte Mi</string>
     <string name="oauth_getting_scopes">Vérification du compte…</string>
     <string name="oauth_get_scopes_failed">"Impossible d'obtenir les infos du compte"</string>
-    <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les autorisations suivantes :&lt;br> &lt;br> %3$s ;</string>
+    <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> obtiendra les autorisations suivantes:&lt;br> &lt;br> %3$s ;</string>
     <string name="guest_account_label">Compte invité</string>
     <string name="push_notification_title">Vous êtes connecté à votre compte Mi sur un appareil inconnu</string>
     <string name="push_notification_content">Obtenir le code de vérification</string>

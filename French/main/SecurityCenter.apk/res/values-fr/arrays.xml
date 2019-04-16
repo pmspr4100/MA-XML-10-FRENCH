@@ -12,15 +12,15 @@
         <item>"Ce mois "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
-        <item>"Cette semaine : "</item>
-        <item>"Aujourd'hui : "</item>
-        <item>"Ce mois : "</item>
+        <item>"Cette semaine: "</item>
+        <item>"Aujourd'hui: "</item>
+        <item>"Ce mois: "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
-        <item>"Hier : "</item>
-        <item>"Aujourd'hui : "</item>
-        <item>"Le mois dernier : "</item>
-        <item>"Ce mois : "</item>
+        <item>"Hier: "</item>
+        <item>"Aujourd'hui: "</item>
+        <item>"Le mois dernier: "</item>
+        <item>"Ce mois: "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Hier (Données)</item>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
     <string name="abc_action_mode_done">Terminé</string>
@@ -37,7 +35,6 @@
     <string name="exo_download_failed">Échec du téléchargement</string>
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements en cours…</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Aucun</string>

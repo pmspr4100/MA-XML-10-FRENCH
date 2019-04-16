@@ -27,10 +27,10 @@
     <string name="paste_as_plain_text">Coller au format texte brut</string>
     <string name="autofill">Saisie automatique</string>
     <string name="BaMmi">"Interdiction d'appel"</string>
-    <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
-    <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
-    <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : non restreint</string>
-    <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant : restreint</string>
+    <string name="CLIRDefaultOffNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: non restreint</string>
+    <string name="CLIRDefaultOffNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: restreint</string>
+    <string name="CLIRDefaultOnNextCallOff">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: non restreint</string>
+    <string name="CLIRDefaultOnNextCallOn">Par défaut, les numéros des appelants ne sont pas restreints. Appel suivant: restreint</string>
     <string name="CLIRPermanent">"Impossible de modifier le paramètre relatif au numéro de l'appelant."</string>
     <string name="CfMmi">"Transfert d'appel"</string>
     <string name="ClipMmi">"Numéro de l'appelant (entrant)"</string>
@@ -62,20 +62,18 @@
     <string name="accept">Accepter</string>
     <string name="accessibility_binding_label">Accessibilité</string>
     <string name="accessibility_button_instructional_text">"Pour changer des fonctionnalités, appuyez de manière prolongée sur le bouton d'accessibilité."</string>
-    <string name="accessibility_button_prompt_text">"Choisissez une fonctionnalité à utiliser lorsque vous appuyez sur le bouton d'accessibilité :"</string>
+    <string name="accessibility_button_prompt_text">"Choisissez une fonctionnalité à utiliser lorsque vous appuyez sur le bouton d'accessibilité:"</string>
     <string name="accessibility_magnification_chooser_text">Agrandissement</string>
     <string name="accessibility_shortcut_disabling_service">"Le raccourci d'accessibilité a désactivé %1$s"</string>
     <string name="accessibility_shortcut_enabling_service">"Le raccourci d'accessibilité a activé %1$s"</string>
     <string name="accessibility_shortcut_toogle_warning">"Quand le raccourci est activé, appuyez sur les deux boutons de volume pendant trois secondes pour lancer une fonctionnalité d'accessibilité.
 
- Fonctionnalité d'accessibilité utilisée actuellement :
+ Fonctionnalité d'accessibilité utilisée actuellement:
  %1$s
 
  Vous pouvez changer de fonctionnalité dans Paramètres > Accessibilité."</string>
     <string name="accessibility_shortcut_warning_dialog_title">"Utiliser le raccourci d'accessibilité ?"</string>
     <string name="action_bar_home_description">"Retour à l'accueil"</string>
-    <string name="action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="action_bar_up_description">Parcourir vers le haut</string>
     <string name="action_menu_overflow_description">"Plus d'options"</string>
     <string name="action_mode_done">OK</string>
@@ -207,11 +205,11 @@
     <string name="car_mode_disable_notification_title">"L'application de conduite est en cours d'exécution"</string>
     <string name="carrier_app_notification_text">Appuyez ici pour effectuer la configuration.</string>
     <string name="carrier_app_notification_title">Nouvelle carte SIM insérée</string>
-    <string name="cfTemplateForwarded">{0} : {1}</string>
-    <string name="cfTemplateForwardedTime">{0} : {1} au bout de {2} secondes</string>
-    <string name="cfTemplateNotForwarded">{0} : non transféré</string>
-    <string name="cfTemplateRegistered">{0} : non transféré</string>
-    <string name="cfTemplateRegisteredTime">{0} : non transféré</string>
+    <string name="cfTemplateForwarded">{0}: {1}</string>
+    <string name="cfTemplateForwardedTime">{0}: {1} au bout de {2} secondes</string>
+    <string name="cfTemplateNotForwarded">{0}: non transféré</string>
+    <string name="cfTemplateRegistered">{0}: non transféré</string>
+    <string name="cfTemplateRegisteredTime">{0}: non transféré</string>
     <string name="chooseActivity">Sélectionnez une action</string>
     <string name="chooseUsbActivity">Sélectionnez une application pour le périphérique de stockage USB</string>
     <string name="choose_account_label">Sélectionnez un compte</string>
@@ -225,7 +223,7 @@
     <string name="conference_call">Conférence téléphonique</string>
     <string name="contentServiceSync">Synchroniser</string>
     <string name="contentServiceSyncNotificationTitle">Synchronisation impossible</string>
-    <string name="contentServiceTooManyDeletesNotificationDesc">Vous avez dépassé le nombre limite de tentatives de suppression de ce type de contenu : %s.</string>
+    <string name="contentServiceTooManyDeletesNotificationDesc">Vous avez dépassé le nombre limite de tentatives de suppression de ce type de contenu: %s.</string>
     <string name="content_description_sliding_handle">Poignée coulissante. Appuyez de manière prolongée.</string>
     <string name="country_selection_title">Préférences régionales</string>
     <string name="create_contact_using">"Ajouter un contact
@@ -291,13 +289,13 @@ en utilisant %s"</string>
     <string name="display_manager_hdmi_display_name">Écran HDMI</string>
     <string name="display_manager_overlay_display_name">Superposition n° %1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, sécurisé</string>
-    <string name="display_manager_overlay_display_title">%1$s : %2$d x %3$d, %4$d dpi</string>
+    <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d dpi</string>
     <string name="dlg_ok">OK</string>
     <string name="done_label">OK</string>
-    <string name="double_tap_toast">Conseil : Appuyez deux fois pour faire un zoom avant ou arrière.</string>
+    <string name="double_tap_toast">Conseil: Appuyez deux fois pour faire un zoom avant ou arrière.</string>
     <string name="dump_heap_notification">Le processus \"%1$s\" a dépassé la limite de mémoire</string>
     <string name="dump_heap_notification_detail">Une empreinte de la mémoire a bien été générée. Appuyez pour partager.</string>
-    <string name="dump_heap_text">"Le processus \"%1$s\" a dépassé sa limite de mémoire fixée à %2$s. Une empreinte de la mémoire est disponible pour que vous la communiquiez à son développeur. Attention : celle-ci peut contenir des informations personnelles auxquelles l'application a accès."</string>
+    <string name="dump_heap_text">"Le processus \"%1$s\" a dépassé sa limite de mémoire fixée à %2$s. Une empreinte de la mémoire est disponible pour que vous la communiquiez à son développeur. Attention: celle-ci peut contenir des informations personnelles auxquelles l'application a accès."</string>
     <string name="dump_heap_title">"Partager l'empreinte de la mémoire ?"</string>
     <string name="editTextMenuTitle">Actions sur le texte</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
@@ -328,7 +326,7 @@ en utilisant %s"</string>
     <string name="expand_action_accessibility">activer/désactiver le développement</string>
     <string name="expand_button_content_description_collapsed">Développer</string>
     <string name="expand_button_content_description_expanded">Réduire</string>
-    <string name="expires_on">"Date d'expiration :"</string>
+    <string name="expires_on">"Date d'expiration:"</string>
     <string name="ext_media_badremoval_notification_message">Éjectez le périphérique externe avant de le retirer pour éviter toute perte de contenu</string>
     <string name="ext_media_badremoval_notification_title">Retrait inattendu de mémoire \"%s\"</string>
     <string name="ext_media_browse_action">Parcourir</string>
@@ -340,11 +338,11 @@ en utilisant %s"</string>
     <string name="ext_media_move_failure_message">Nouvelle tentative de déplacement du contenu</string>
     <string name="ext_media_move_failure_title">Impossible de déplacer le contenu</string>
     <string name="ext_media_move_specific_title">"Transfert de l'application %s"</string>
-    <string name="ext_media_move_success_message">Contenu déplacé vers : %s</string>
+    <string name="ext_media_move_success_message">Contenu déplacé vers: %s</string>
     <string name="ext_media_move_success_title">Le contenu a bien été déplacé</string>
     <string name="ext_media_move_title">Déplacement des données en cours</string>
     <string name="ext_media_new_notification_message">Appuyer pour configurer</string>
-    <string name="ext_media_new_notification_title">Nouveau périphérique : %s</string>
+    <string name="ext_media_new_notification_title">Nouveau périphérique: %s</string>
     <string name="ext_media_nomedia_notification_message">"Certaines fonctionnalités risquent de ne pas s'exécuter correctement. Insérez un nouveau périphérique de stockage externe."</string>
     <string name="ext_media_nomedia_notification_title">%s supprimé</string>
     <string name="ext_media_ready_notification_message">Pour transférer photos et fichiers</string>
@@ -361,7 +359,7 @@ en utilisant %s"</string>
     <string name="ext_media_status_unsupported">Non compatible</string>
     <string name="ext_media_unmount_action">Éjecter</string>
     <string name="ext_media_unmountable_notification_message">Appuyez sur la notification pour résoudre le problème</string>
-    <string name="ext_media_unmountable_notification_title">Problème avec : %s</string>
+    <string name="ext_media_unmountable_notification_title">Problème avec: %s</string>
     <string name="ext_media_unmounting_notification_message">Ne retirez pas le périphérique</string>
     <string name="ext_media_unmounting_notification_title">Éjection de \"%s\"</string>
     <string name="ext_media_unsupported_notification_message">"Cet appareil n'est pas compatible avec la mémoire de stockage \"%s\". Appuyez ici pour le configurer dans un format accepté."</string>
@@ -403,13 +401,12 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
     <string name="fingerprint_error_user_canceled">"Opération d'authentification par empreinte digitale annulée par l'utilisateur."</string>
     <string name="fingerprint_name_template">Doigt %d</string>
     <string name="fingerprint_not_recognized">Non reconnu</string>
-    <string name="fingerprints">Empreintes :</string>
+    <string name="fingerprints">Empreintes:</string>
     <string name="floating_toolbar_close_overflow_description">"Fermer la barre d'outils en superposition"</string>
     <string name="floating_toolbar_open_overflow_description">"Plus d'options"</string>
     <string name="force_close">OK</string>
     <string name="foreground_service_app_in_background">%1$s utilise la batterie</string>
     <string name="foreground_service_apps_in_background">%1$d applications utilisent la batterie</string>
-    <string name="foreground_service_multiple_separator">%1$s, %2$s</string>
     <string name="foreground_service_tap_for_details">"Appuyer pour obtenir des informations sur l'utilisation de la batterie et des données"</string>
     <string name="forward_intent_to_owner">Vous utilisez cette application en dehors de votre profil professionnel.</string>
     <string name="forward_intent_to_work">Vous utilisez cette application dans votre profil professionnel.</string>
@@ -507,16 +504,16 @@ Si vous avez des questions, contactez l'administrateur de votre organisation."</
     <string name="install_carrier_app_notification_title">Activer le service de données mobiles</string>
     <string name="invalidPin">Le code PIN doit compter de 4 à 8 chiffres.</string>
     <string name="invalidPuk">Saisissez un code PUK comportant au moins huit chiffres.</string>
-    <string name="issued_by">Émis par :</string>
-    <string name="issued_on">"Date d'émission :"</string>
-    <string name="issued_to">Délivré à :</string>
+    <string name="issued_by">Émis par:</string>
+    <string name="issued_on">"Date d'émission:"</string>
+    <string name="issued_to">Délivré à:</string>
     <string name="js_dialog_before_unload">"%s
 
 Voulez-vous vraiment quitter cette page ?"</string>
     <string name="js_dialog_before_unload_negative_button">Rester sur cette page</string>
     <string name="js_dialog_before_unload_positive_button">Quitter cette page</string>
     <string name="js_dialog_before_unload_title">Quitter la page</string>
-    <string name="js_dialog_title">La page \"%s\" indique :</string>
+    <string name="js_dialog_title">La page \"%s\" indique:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Annuler</string>
@@ -604,7 +601,7 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="language_selection_title">Ajouter une langue</string>
     <string name="last_month">Le mois dernier</string>
     <string name="launchBrowserDefault">Lancer le navigateur ?</string>
-    <string name="launch_warning_original">Application lancée initialement : %1$s.</string>
+    <string name="launch_warning_original">Application lancée initialement: %1$s.</string>
     <string name="launch_warning_replace">%1$s est maintenant lancée.</string>
     <string name="launch_warning_title">Application redirigée</string>
     <string name="leave_accessibility_shortcut_on">Utiliser le raccourci</string>
@@ -829,9 +826,9 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="network_available_sign_in">Se connecter au réseau</string>
     <string name="network_logging_notification_text">"Votre organisation gère cet appareil et peut surveiller le trafic réseau. Appuyez ici pour obtenir plus d'informations."</string>
     <string name="network_logging_notification_title">"L'appareil est géré"</string>
-    <string name="network_switch_metered">Nouveau réseau : %1$s</string>
+    <string name="network_switch_metered">Nouveau réseau: %1$s</string>
     <string name="network_switch_metered_detail">"L'appareil utilise %1$s lorsque %2$s n'a pas de connexion Internet. Des frais peuvent s'appliquer."</string>
-    <string name="network_switch_metered_toast">Ancien réseau : %1$s. Nouveau réseau : %2$s</string>
+    <string name="network_switch_metered_toast">Ancien réseau: %1$s. Nouveau réseau: %2$s</string>
     <string name="network_switch_type_name_unknown">type de réseau inconnu</string>
     <string name="new_app_action">Ouvrir %1$s</string>
     <string name="new_app_description">%1$s va se fermer sans enregistrer les données</string>
@@ -894,8 +891,8 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="orgTypeCustom">Personnalisé</string>
     <string name="orgTypeOther">Autre</string>
     <string name="orgTypeWork">Bureau</string>
-    <string name="org_name">Organisation :</string>
-    <string name="org_unit">Unité organisationnelle :</string>
+    <string name="org_name">Organisation:</string>
+    <string name="org_unit">Unité organisationnelle:</string>
     <string name="owner_name">Propriétaire</string>
     <string name="package_deleted_device_owner">Supprimé par votre administrateur</string>
     <string name="package_installed_device_owner">Installé par votre administrateur</string>
@@ -904,10 +901,10 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
-    <string name="peerTtyModeFull">"Mode TTY demandé par l'interlocuteur : COMPLET"</string>
-    <string name="peerTtyModeHco">"Mode TTY demandé par l'interlocuteur : HCO"</string>
-    <string name="peerTtyModeOff">"Mode TTY demandé par l'interlocuteur : DÉSACTIVÉ"</string>
-    <string name="peerTtyModeVco">"Mode TTY demandé par l'interlocuteur : VCO"</string>
+    <string name="peerTtyModeFull">"Mode TTY demandé par l'interlocuteur: COMPLET"</string>
+    <string name="peerTtyModeHco">"Mode TTY demandé par l'interlocuteur: HCO"</string>
+    <string name="peerTtyModeOff">"Mode TTY demandé par l'interlocuteur: DÉSACTIVÉ"</string>
+    <string name="peerTtyModeVco">"Mode TTY demandé par l'interlocuteur: VCO"</string>
     <string name="perm_costs_money">Cela peut engendrer des frais</string>
     <string name="permdesc_acceptHandovers">"Autorise l'application à continuer un appel qui a été démarré dans une autre application."</string>
     <string name="permdesc_accessCoarseLocation">"Cette application peut obtenir votre position via des sources de réseau telles que les antennes-relais et les réseaux Wi-Fi. Ces services de localisation doivent être activés et disponibles sur votre téléphone pour que l'application puisse les utiliser."</string>
@@ -968,7 +965,7 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="permdesc_readCallLog">"Cette application peut lire l'historique de vos appels."</string>
     <string name="permdesc_readCellBroadcasts">"Permet à l'application de lire les messages que votre appareil reçoit via un canal de diffusion cellulaire. Dans certaines zones géographiques, des alertes vous sont envoyées afin de vous prévenir en cas de situation d'urgence. Les applications malveillantes peuvent venir perturber les performances ou le fonctionnement de votre appareil lorsqu'un message est reçu via un canal de diffusion cellulaire."</string>
     <string name="permdesc_readContacts">"Permet à l'application de lire les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d'autres moyens. Cette autorisation permet aux applications d'enregistrer ces données. Les applications malveillantes peuvent les partager à votre insu."</string>
-    <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
+    <string name="permdesc_readHistoryBookmarks">"Permet à l'application d'accéder à l'historique de toutes les URL auxquelles le navigateur a accédé, ainsi qu'à l'ensemble des favoris du navigateur. Remarque: il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
     <string name="permdesc_readInstallSessions">"Permet à une application d'accéder aux sessions d'installation. Cela lui permet de consulter les détails relatifs à l'installation des packages actifs."</string>
     <string name="permdesc_readNetworkUsageHistory">"Permet à l'application de lire l'historique d'utilisation de réseaux et d'applications spécifiques."</string>
     <string name="permdesc_readPhoneNumbers">"Permet à l'application d'accéder aux numéros de téléphone de l'appareil."</string>
@@ -1015,7 +1012,7 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="permdesc_writeCallLog">"Permet à l'application de lire le journal d'appels de votre téléphone, y compris les données relatives aux appels entrants et sortants. Des applications malveillantes peuvent utiliser cette fonctionnalité pour effacer ou modifier votre journal d'appels."</string>
     <string name="permdesc_writeContacts">"Permet à l'application de modifier les données relatives aux contacts stockés sur votre téléphone, y compris la fréquence à laquelle vous avez appelé des personnes spécifiques, leur avez envoyé des e-mails ou avez communiqué avec elles par d'autres moyens. Cette autorisation permet aux applications de supprimer ces données."</string>
     <string name="permdesc_writeGeolocationPermissions">"Permet à l'application de modifier les autorisations de géolocalisation du navigateur. Des applications malveillantes peuvent exploiter cette fonctionnalité pour permettre l'envoi de données de localisation à des sites Web arbitraires."</string>
-    <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque : il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
+    <string name="permdesc_writeHistoryBookmarks">"Permet à l'application de modifier l'historique du navigateur ou les favoris enregistrés sur votre téléphone. Cette autorisation peut lui permettre d'effacer ou de modifier les données du navigateur. Remarque: il est possible que cette autorisation ne soit pas appliquée par les navigateurs tiers ni par d'autres applications permettant de naviguer sur le Web."</string>
     <string name="permdesc_writeSettings">"Permet à l'application de modifier les paramètres du système. Des applications malveillantes peuvent exploiter cette fonctionnalité pour corrompre la configuration de votre système."</string>
     <string name="permdesc_writeSyncSettings">"Permet à une application de modifier les paramètres de synchronisation d'un compte. Cette autorisation peut, par exemple, être utilisée pour activer la synchronisation de l'application Contacts avec un compte."</string>
     <string name="permgroupdesc_calendar">accéder à votre agenda</string>
@@ -1074,7 +1071,7 @@ pour le compte \"%s\""</string>
     <string name="permlab_bind_incall_service">"contrôler l'écran d'appel"</string>
     <string name="permlab_bluetooth">Associer à appareils Bluetooth</string>
     <string name="permlab_bluetoothAdmin">Accéder aux paramètres Bluetooth</string>
-    <string name="permlab_bodySensors">accéder capteurs corp. (ex : cardiofréquencemètres)</string>
+    <string name="permlab_bodySensors">accéder capteurs corp. (ex: cardiofréquencemètres)</string>
     <string name="permlab_broadcastSticky">"Envoi d'une diffusion persistante"</string>
     <string name="permlab_callPhone">appeler directement les numéros de téléphone</string>
     <string name="permlab_camera">prendre des photos et enregistrer des vidéos</string>
@@ -1161,7 +1158,7 @@ pour le compte \"%s\""</string>
     <string name="permlab_writeSettings">modifier les paramètres du système</string>
     <string name="permlab_writeSyncSettings">activer/désactiver la synchronisation</string>
     <string name="perms_description_app">Fourni par %1$s</string>
-    <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NOUVEAU</font> :</string>
+    <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NOUVEAU</font>:</string>
     <string name="petabyteShort">Po</string>
     <string name="phoneTypeAssistant">Assistant</string>
     <string name="phoneTypeCallback">Rappel</string>
@@ -1323,7 +1320,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
     <string name="select_year">Sélectionner une année</string>
     <string name="sendText">Sélectionner une action pour le texte</string>
     <string name="sending">Envoi en cours…</string>
-    <string name="serial_number">Numéro de série :</string>
+    <string name="serial_number">Numéro de série:</string>
     <string name="serviceClassData">Données</string>
     <string name="serviceClassDataAsync">Asynchrones</string>
     <string name="serviceClassDataSync">Synchrones</string>
@@ -1334,13 +1331,13 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
     <string name="serviceClassVoice">Voix</string>
     <string name="serviceDisabled">Ce service a été désactivé.</string>
     <string name="serviceEnabled">Le service a été activé.</string>
-    <string name="serviceEnabledFor">Ce service a été activé pour :</string>
+    <string name="serviceEnabledFor">Ce service a été activé pour:</string>
     <string name="serviceErased">Effacement réussi.</string>
     <string name="serviceNotProvisioned">"Ce service n'est pas pris en charge."</string>
     <string name="serviceRegistered">Enregistrement réussi.</string>
     <string name="setup_autofill">Conf. saisie auto</string>
-    <string name="sha1_fingerprint">Empreinte SHA-1 :</string>
-    <string name="sha256_fingerprint">Empreinte SHA-256 :</string>
+    <string name="sha1_fingerprint">Empreinte SHA-1:</string>
+    <string name="sha256_fingerprint">Empreinte SHA-256:</string>
     <string name="share">Partager</string>
     <string name="share_action_provider_share_with">Partager avec</string>
     <string name="share_remote_bugreport_action">PARTAGER</string>
@@ -1389,7 +1386,7 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
     <string name="sms_short_code_confirm_never_allow">Ne jamais autoriser</string>
     <string name="sms_short_code_details">Ceci <b>peut entraîner des frais</b> sur votre compte de téléphonie mobile.</string>
     <string name="sms_short_code_remember_choice">Mémoriser mon choix</string>
-    <string name="sms_short_code_remember_undo_instruction">Pour modifier : Paramètres > Applications</string>
+    <string name="sms_short_code_remember_undo_instruction">Pour modifier: Paramètres > Applications</string>
     <string name="smv_application">"L'application %1$s (du processus %2$s) a enfreint ses propres règles du mode strict."</string>
     <string name="smv_process">Le processus %1$s a enfreint ses propres règles du mode strict.</string>
     <string name="ssl_ca_cert_noti_by_administrator">"Par l'administrateur de votre profil professionnel"</string>
@@ -1482,9 +1479,9 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
     <string name="user_encrypted_title">Des fonctionnalités peuvent être limitées</string>
     <string name="user_logging_out_message">Déconnexion de %1$s…</string>
     <string name="user_owner_label">Passer au profil personnel</string>
-    <string name="user_switched">Utilisateur actuel : %1$s</string>
+    <string name="user_switched">Utilisateur actuel: %1$s</string>
     <string name="user_switching_message">Chargement du profil de %1$s...</string>
-    <string name="validity_period">Validité :</string>
+    <string name="validity_period">Validité:</string>
     <string name="view_calendar">Afficher</string>
     <string name="view_calendar_desc">"Afficher l'heure sélectionnée dans l'agenda"</string>
     <string name="view_flight">Suivre</string>
@@ -1566,16 +1563,16 @@ Voulez-vous quitter ?"</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_message">Appuyez ici pour accéder aux paramètres.</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct activé</string>
-    <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis :</string>
+    <string name="wifi_p2p_enter_pin_message">Saisissez le code PIN requis:</string>
     <string name="wifi_p2p_failed_message">"Impossible d'activer le Wi-Fi Direct."</string>
     <string name="wifi_p2p_frequency_conflict_message">"Le téléphone sera déconnecté du réseau Wi-Fi tant qu'il sera connecté à l'appareil %1$s."</string>
-    <string name="wifi_p2p_from_message">De :</string>
+    <string name="wifi_p2p_from_message">De:</string>
     <string name="wifi_p2p_invitation_sent_title">Invitation envoyée</string>
     <string name="wifi_p2p_invitation_to_connect_title">Invitation à se connecter</string>
-    <string name="wifi_p2p_show_pin_message">Code PIN :</string>
-    <string name="wifi_p2p_to_message">À :</string>
+    <string name="wifi_p2p_show_pin_message">Code PIN:</string>
+    <string name="wifi_p2p_to_message">À:</string>
     <string name="wifi_p2p_turnon_message">"Lancer le Wi-Fi Direct. Cela désactive le fonctionnement du Wi-Fi client ou via un point d'accès."</string>
-    <string name="wifi_wakeup_enabled_content">"Vous vous trouvez à proximité d'un réseau enregistré : %1$s"</string>
+    <string name="wifi_wakeup_enabled_content">"Vous vous trouvez à proximité d'un réseau enregistré: %1$s"</string>
     <string name="wifi_wakeup_enabled_title">Wi-Fi activé automatiquement</string>
     <string name="wifi_wakeup_onboarding_action_disable">Ne pas réactiver</string>
     <string name="wifi_wakeup_onboarding_subtext">"Lorsque vous êtes à proximité d'un réseau enregistré de haute qualité"</string>
@@ -1607,5 +1604,5 @@ Voulez-vous quitter ?"</string>
     <string name="zen_upgrade_notification_content">Appuyez pour vérifier les contenus bloqués.</string>
     <string name="zen_upgrade_notification_title">Le mode Ne pas déranger a été modifié</string>
     <string name="zen_upgrade_notification_visd_content">Appuyez pour en savoir plus et pour modifier les paramètres.</string>
-    <string name="zen_upgrade_notification_visd_title">Nouveau : Le mode Ne pas déranger masque les notifications</string>
+    <string name="zen_upgrade_notification_visd_title">Nouveau: Le mode Ne pas déranger masque les notifications</string>
 </resources>

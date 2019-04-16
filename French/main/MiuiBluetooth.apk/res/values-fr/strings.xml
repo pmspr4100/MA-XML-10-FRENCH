@@ -84,8 +84,6 @@
     <string name="reset_function_msg">La réinitialisation de cette fonctionnalité peut empêcher %1$s de fonctionner normalement.</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="some_app_taking">(%1$s utilise déjà cette fonctionnalité)</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="unbind_device_alert_cancel">Annuler</string>
     <string name="unbind_device_alert_content">"Connexion perdue avec %1$s. Pour économiser la batterie, dissocier l'appareil maintenant."</string>
     <string name="unbind_device_alert_ok">Dissocier</string>

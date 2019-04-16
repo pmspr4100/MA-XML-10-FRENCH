@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="alert_message_clear_records">Supprimer le(s) enregistrement(s) sélectionné(s) ?</string>
-    <string name="alert_message_delete_local_record">Supprimer cet enregistrement?</string>
+    <string name="alert_message_delete_local_record">Supprimer cet enregistrement ?</string>
     <string name="alert_message_delete_record">Supprimer les enregistrements de votre appareil effacera également cet enregistrement de Mi Cloud. Supprimer maintenant ?</string>
     <string name="alert_message_delete_record_title">"Supprimer l'enregistrement ?"</string>
     <string name="app_name">Magnéto</string>
@@ -120,8 +120,8 @@
     <string name="online_recognize_other_order_upload">Attendez que les téléchargements en cours soient terminés et réessayez.</string>
     <string name="online_recognize_running">Transcription en cours…</string>
     <string name="online_recognize_service_unavailable">Le service nest pas disponible maintenant. Attendez une minute ou deux, puis réessayez.</string>
-    <string name="order_item_duration">Durée : %s</string>
-    <string name="order_item_number">Numéro de commande : %s</string>
+    <string name="order_item_duration">Durée: %s</string>
+    <string name="order_item_number">Numéro de commande: %s</string>
     <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">Applications système/Magnétophone</string>
     <string name="pause">Pause</string>
@@ -193,8 +193,6 @@
     <string name="record_list_fm">Enregistrements FM</string>
     <string name="record_list_item_recognize_text">Texte</string>
     <string name="record_mark_point">Marque %s</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">"Qualité d'enregistrement"</string>
     <string name="record_resotre">Récupérer les enregistrements</string>
     <string name="recording">Enregistrement audio</string>
@@ -248,8 +246,6 @@
     <string name="text_btn_recording">Enregistrer</string>
     <string name="text_btn_wave">Onde</string>
     <string name="text_finish">Confirmer</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s peut enregistrer environ %2$s</string>
     <string name="toast_uninstall_fileexplorer">"Gestionnaire de fichiers n'est pas installé"</string>

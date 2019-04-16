@@ -105,11 +105,11 @@ Vous devez accepter la politique de confidentialité de Kika avant d'utiliser ce
     <string name="accessibility_enabled">Accessibilité activée.</string>
     <string name="continue_to_enable_accessibility">"Continuez à maintenir deux doigts pour permettre l'accessibilité."</string>
     <string name="voice_assist_title">Allumer avec la voix</string>
-    <string name="voice_assist_desp">Dites \"Mi AI\" à votre téléphone. Mi AI reconnaîtra votre voix et sera en mesure de contrôler votre appareil.</string>
-    <string name="voice_assist_condition">"Vous pourrez utiliser Mi AI dans ces cas: 
+    <string name="voice_assist_desp">Dites \"Mi IA\" à votre téléphone. Mi IA reconnaîtra votre voix et sera en mesure de contrôler votre appareil.</string>
+    <string name="voice_assist_condition">"Vous pourrez utiliser Mi IA dans ces cas: 
 1. Lorsque l'écran est allumé.
 2. Lorsque vous écoutez de la musique avec votre écran éteint."</string>
-    <string name="voice_assist_advice">"Le Mi AI vous permet d'utiliser les commandes vocales, mais il consomme plus d'énergie (+ 1% toutes les heures)."</string>
+    <string name="voice_assist_advice">"Le Mi IA vous permet d'utiliser les commandes vocales, mais il consomme plus d'énergie (+ 1% toutes les heures)."</string>
     <string name="ai_button_title">Bouton IA</string>
     <string name="ai_button_desc">Obtenez un accès instantané à votre assistant vocal intelligent</string>
     <string name="ai_button_long_press">Appuyer et maintenir</string>

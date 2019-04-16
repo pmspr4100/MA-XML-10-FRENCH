@@ -16,9 +16,9 @@
     <string name="frequency_mhz_fomart">%s MHz</string>
     <string name="group_favor">Préréglages</string>
     <string name="group_other">Autres</string>
-    <string name="hint_frequency">Fréquence : %1$s ~ %2$s</string>
+    <string name="hint_frequency">Fréquence: %1$s ~ %2$s</string>
     <string name="hint_label">Nom</string>
-    <string name="label_recording">Enregistrement : %s</string>
+    <string name="label_recording">Enregistrement: %s</string>
     <string name="menu_exit">Quitter</string>
     <string name="menu_headset">Basculer vers le casque</string>
     <string name="menu_new_station">Ajouter</string>
@@ -57,7 +57,6 @@
     <string name="toast_sleep_mode">"La radio va s'arrêter dans %s"</string>
     <string name="toast_sleep_mode_exit">Mode veille annulé</string>
     <string name="turn_off_fm">Désactiver la FM</string>
-    <string name="txt_divider">" | "</string>
     <string name="txt_sleep_mode">Mise en veille programmable</string>
     <string name="view_stations_list">Voir la liste des stations</string>
 </resources>

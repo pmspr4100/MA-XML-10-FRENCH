@@ -15,7 +15,7 @@
   <string name="btn_yes">Oui</string>
   <string name="channel_downloading">Progression du téléchargement</string>
   <string name="channel_update">Nouvelle version disponible</string>
-  <string name="check_new_version">Vérification des mises à jour</string>
+  <string name="check_new_version">Mise à jour</string>
   <string name="dialog_3g_desc">"Sachez que l'utilisation des données Mobile pour télécharger des ROM peut demander un quota important de votre forfait."</string>
   <string name="dialog_3g_title">Attention !</string>
   <string name="dialog_btn_3g">Continuer quand même</string>

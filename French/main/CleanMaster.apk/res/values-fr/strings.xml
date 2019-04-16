@@ -92,8 +92,8 @@
     <string name="hints_apk_header_left">Paquets</string>
     <string name="hints_residual_header_left">Résidus</string>
     <string name="hints_memory_header_left">Mémoire</string>
-    <string name="hints_large_file_header_left">Gros fichiers : %d</string>
-    <string name="hints_installed_apps_header_left">Applications installées : %d</string>
+    <string name="hints_large_file_header_left">Gros fichiers: %d</string>
+    <string name="hints_installed_apps_header_left">Applications installées: %d</string>
     <string name="toast_resolve_apk_error">"Résolution de l'erreur de l'apk"</string>
     <string name="hints_apk_version">Version %s</string>
     <string name="apk_status_uninstalled">Non installée</string>
@@ -108,16 +108,16 @@
     <string name="hints_garbage_handle_item_content">%1$d éléments, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Vide</string>
     <string name="hints_latest_garbage_cleanup_never">Jamais nettoyé</string>
-    <string name="hints_latest_garbage_cleanup_today">"Dernier nettoyage : Aujourd'hui"</string>
-    <string name="hints_latest_garbage_cleanup_yesterday">Dernier nettoyage : Hier</string>
-    <string name="hints_latest_garbage_cleanup_date">Dernier nettoyage : il y a %d jours</string>
+    <string name="hints_latest_garbage_cleanup_today">"Dernier nettoyage: Aujourd'hui"</string>
+    <string name="hints_latest_garbage_cleanup_yesterday">Dernier nettoyage: Hier</string>
+    <string name="hints_latest_garbage_cleanup_date">Dernier nettoyage: il y a %d jours</string>
     <string name="hints_loading_text">chargement…</string>
     <string name="toast_removed_from_white_list">Retiré des exceptions avec succès</string>
-    <string name="white_list_cache_header">Fichiers en cache : %d</string>
-    <string name="white_list_ad_header">Fichiers obsolètes : %d</string>
-    <string name="white_list_apk_header">"Paquets d'installation : %d"</string>
-    <string name="white_list_large_file_header">Gros fichiers et vidéos : %d</string>
-    <string name="white_list_residual_header">Résidus : %d</string>
+    <string name="white_list_cache_header">Fichiers en cache: %d</string>
+    <string name="white_list_ad_header">Fichiers obsolètes: %d</string>
+    <string name="white_list_apk_header">"Paquets d'installation: %d"</string>
+    <string name="white_list_large_file_header">Gros fichiers et vidéos: %d</string>
+    <string name="white_list_residual_header">Résidus: %d</string>
     <string name="white_list_title">Exceptions</string>
     <string name="toast_network_eror">Impossible de se connecter au réseau</string>
     <string name="sc_allow_network_dialog_message">Autoriser cette application à se connecter à Internet pour recevoir les mises à jour ?</string>
@@ -130,7 +130,7 @@
     <string name="msg_update_error_code_already_running">Mise à jour…</string>
     <string name="msg_update_error_code_network_error">Impossible de se connecter au réseau</string>
     <string name="msg_update_error_code_unknown_error">Les serveurs sont actuellement occupés. Patientez une minute ou deux puis réessayez.</string>
-    <string name="msg_cleanup_db_update_time_unknown">Dernière mise à jour : Inconnu</string>
+    <string name="msg_cleanup_db_update_time_unknown">Dernière mise à jour: Inconnu</string>
     <string name="item_title_process_mode">Choisir une action</string>
     <string name="clean_content_zero">Vide</string>
     <string name="clean_content_one">1 élément</string>
@@ -143,7 +143,7 @@
     <string name="toast_garbage_list_empty">Tout semble bon !</string>
     <string name="hints_quick_cleanning">Nettoyage…</string>
     <string name="hints_quick_prepare">Préparation…</string>
-    <string name="start_downloading_app">Commencer à télécharger : %1$s</string>
+    <string name="start_downloading_app">Commencer à télécharger: %1$s</string>
     <string name="hints_finish_quick_scan">Analyse terminée</string>
     <string name="hints_finish_quick_cleanup">Terminé</string>
     <string name="hints_finish_quick_cleanup_title">Vider %s de la corbeille</string>
@@ -186,7 +186,7 @@
     <string name="toast_backup_uninstall_failed2">Impossible de sauvegarder</string>
     <string name="toast_backup_uninstall_success">Sauvegarde et désinstallation terminée</string>
     <string name="activity_title_cache_data">"Données d'application"</string>
-    <string name="deepclean_cache_header_left">Fichiers de donnée : %d</string>
+    <string name="deepclean_cache_header_left">Fichiers de donnée: %d</string>
     <string name="notification_title_of_garbage_cleanup">%s des fichiers de la corbeille</string>
     <string name="notification_summary_of_garbage_cleanup">"Appuyer pour libérer de l'espace."</string>
     <string name="notification_summary_after_auto_cleanup">%s nettoyé.</string>
@@ -236,7 +236,7 @@
     <string name="button_text_deselect_all_photos">Tout déselectionner</string>
     <string name="button_text_photo_selected">Sélectionnée</string>
     <string name="label_image_list_none">Aucune</string>
-    <string name="hints_privacy_header_left">Confidentialité : %d</string>
+    <string name="hints_privacy_header_left">Confidentialité: %d</string>
     <string name="privacy_cache_title">Infos personnelles</string>
     <string name="privacy_cache_desc">Compte, mot de passe, historique, paramètres et plus</string>
     <string name="privacy_cache_scaning">Vérification…</string>
@@ -290,7 +290,7 @@
     <string name="there_is_no">Tout semble bon, revenez plus tard</string>
     <string name="no_network">Impossible de se connecter au réseau, réessayez plus tard</string>
     <string name="back">Retour</string>
-    <string name="total_clean">Total nettoyé : %s</string>
+    <string name="total_clean">Total nettoyé: %s</string>
     <string name="toast_network_switch">Cette application peut se connecter à Internet</string>
     <string name="open">Activer</string>
     <string name="close">Fermer</string>
@@ -459,7 +459,7 @@
     <string name="wechat_copy_video_failed_dialog_title">Exportation impossible</string>
     <string name="wechat_copying_video_success">Exporté avec succès</string>
     <string name="wechat_copying_video_dialog_title">Exporter vers la Galerie</string>
-    <string name="wechat_copying_video_dialog_msg">Les fichiers seront sauvegardés dans ce dossier : %s</string>
+    <string name="wechat_copying_video_dialog_msg">Les fichiers seront sauvegardés dans ce dossier: %s</string>
     <string name="wechat_copying_video_dialog_checkbox">"Effacer les fichiers après l'exportation"</string>
     <string name="wechat_copying_video_empty">Aucune vidéo a exporter</string>
     <string name="wechat_content_empty">Aucun fichier a exporter</string>
@@ -516,7 +516,6 @@
     <string name="tips_low_storage_dialog_cancel">Annuler</string>
     <string name="wechat_msg_time_long">dd-MM-yyyy</string>
     <string name="wechat_msg_time_short">dd-MM</string>
-    <string name="wechat_video_time">%1$s:%2$s</string>
     <string name="main_total_garbage">Taille de la corbeille</string>
     <string name="whatsapp_group_image">Images</string>
     <string name="whatsapp_group_video">Vidéos</string>

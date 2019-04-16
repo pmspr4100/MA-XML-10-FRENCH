@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
     <string name="abc_action_mode_done">OK</string>
@@ -278,7 +276,7 @@
     <string name="gesture_pad_sencond_line_tips">"· Appuyez sur et maintenez la zone centrale de l'écran pour afficher le menu. Glisser vers le haut ou vers le bas pour régler le volume."</string>
     <string name="gesture_pad_vol_tips">"Utilisez les boutons de volume du téléphone pour régler le volume sur l'appareil connecté"</string>
     <string name="get_backup_failed">Impossible à réparé, essayez à nouveau</string>
-    <string name="get_backup_succeed">Restauré avec succès. Total : %1$d | Actuel : %2$d | Restauré : %3$d</string>
+    <string name="get_backup_succeed">Restauré avec succès. Total: %1$d | Actuel: %2$d | Restauré: %3$d</string>
     <string name="get_data_fail_tips">"Impossible d'obtenir les données, essayez à nouveau"</string>
     <string name="get_info_failed">"Impossible d'obtenir des infos"</string>
     <string name="get_location_fail_tip">Impossible de définir la localisation, choisissez une ville</string>
@@ -389,7 +387,7 @@
     <string name="key_ud_wind_mode">Oscillation verticale</string>
     <string name="key_voice">Audio</string>
     <string name="laboratory">Expérimental</string>
-    <string name="last_bak_time">Dernière sauvegarde : %1$s</string>
+    <string name="last_bak_time">Dernière sauvegarde: %1$s</string>
     <string name="last_use_frame">Il y a %1$s</string>
     <string name="legal_terms">"Conditions générales d'utilisation"</string>
     <string name="less_than_10m">&lt;10m</string>
@@ -569,10 +567,9 @@ Vérifiez les autorisations ou rédemarrez l'appareil."</string>
     <string name="not_respond">Aucune réponse</string>
     <string name="not_updated_yet">Pas encore mis à jour</string>
     <string name="notification_found_device_text">Essayez de contrôler cet appareil avec votre téléphone !</string>
-    <string name="notification_found_device_title">Nouvel appareil trouvé : %1$s</string>
+    <string name="notification_found_device_title">Nouvel appareil trouvé: %1$s</string>
     <string name="notification_found_shared_remote_text">Appuyez pour le contrôler</string>
     <string name="notification_found_shared_remote_title">Trouvez une %1$s à proximité</string>
-    <string name="notification_str1">\"</string>
     <string name="notification_str2">va démarrer</string>
     <string name="notification_title">Notification du minuteur</string>
     <string name="num_keys">Touches du clavier numérique</string>
@@ -591,7 +588,7 @@ Vérifiez les autorisations ou rédemarrez l'appareil."</string>
     <string name="passport_account_hint_text">E-mail/Téléphone/ID de Compte Mi</string>
     <string name="passport_account_identity_title">Vérifier votre identité</string>
     <string name="passport_account_label">Compte Mi</string>
-    <string name="passport_account_name">Compte : %1$s</string>
+    <string name="passport_account_name">Compte: %1$s</string>
     <string name="passport_account_not_activated">"Votre compte n'a pas été activé "</string>
     <string name="passport_account_not_actived">"Votre compte n'a pas été activé"</string>
     <string name="passport_account_set_password">Définir le mot de passe</string>
@@ -779,7 +776,7 @@ Pour activer votre compte, suivez le
     <string name="passport_wrong_phone_number_format">Le format du numéro de téléphone entré est non valide</string>
     <string name="passport_wrong_vcode">Le code que vous avez entré est incorrect</string>
     <string name="passport_yes">Oui</string>
-    <string name="place_frame">"Localisation :  "</string>
+    <string name="place_frame">"Localisation: "</string>
     <string name="play_in_phone">Regardez sur le téléphone</string>
     <string name="play_on_tv">Jouer à la télé</string>
     <string name="play_tv_video">Lire sur Mi TV</string>
@@ -788,7 +785,6 @@ Pour activer votre compte, suivez le
     <string name="please_input_model_name">"Saisissez le modèle de l'appareil"</string>
     <string name="please_select_stb">Sélectionnez la Box</string>
     <string name="please_select_tv">Sélectionner la TV</string>
-    <string name="pm_2.5">PM2, 5 :</string>
     <string name="pm_2.5_out">Extérieur PM 2,5 :</string>
     <string name="popup_installed_app_no_app">"Obtention de l'application, attendez une minute, puis réessayez"</string>
     <string name="popup_installed_app_title">"Sélectionnez l'application à ouvrir sur la télé"</string>
@@ -811,9 +807,9 @@ Pour activer votre compte, suivez le
     <string name="push_add">Une télécommande que vous partagez a été trouvée</string>
     <string name="push_add_desc">Contrôler les %1$s à proximité avec cette télécommande ?</string>
     <string name="rc">Télécommande</string>
-    <string name="rc_add_distance">%1$dm</string>
-    <string name="rc_add_distance_far">> 1000km</string>
-    <string name="rc_add_distance_km">%1$sKm</string>
+    <string name="rc_add_distance">%1$d m</string>
+    <string name="rc_add_distance_far">> 1000 km</string>
+    <string name="rc_add_distance_km">%1$s Km</string>
     <string name="rc_name">Mi Télécommande</string>
     <string name="recover">Restaurer à partir de Mi Cloud</string>
     <string name="recovering">Restauration…</string>
@@ -1013,7 +1009,7 @@ Rendez-vous à Page d'accueil> \"+\" > Scanneur."</string>
     <string name="unkown_device_sub">Envoyez-nous des détails sur cet appareil afin que nous puissions nous en occuper plus tard</string>
     <string name="unkown_device_title">"Impossible d'obtenir les infos de l'appareil"</string>
     <string name="unset">Non défini</string>
-    <string name="updated_at">Dernière mise à jour : il y a %1$s</string>
+    <string name="updated_at">Dernière mise à jour: il y a %1$s</string>
     <string name="updated_just_now">"Mis à jour à l'instant"</string>
     <string name="upgrade_already_latest">Aucune mise à jour disponible</string>
     <string name="upgrade_current_version">Version actuelle %1s</string>

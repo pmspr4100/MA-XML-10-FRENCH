@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
     <string name="abc_action_mode_done">OK</string>
@@ -33,7 +31,7 @@
     <string name="app_name_downloads">Téléchargements</string>
     <string name="app_name_market">App Store</string>
     <string name="app_name_midrop">Mi Drop</string>
-    <string name="app_name_miui">MIUI </string>
+    <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">Musique</string>
     <string name="app_name_miuiringtone">Sonnerie</string>
     <string name="app_name_miuiwallpaper">"Fonds d'écran"</string>
@@ -137,8 +135,8 @@
     <string name="dialog_type_image">Images</string>
     <string name="dialog_type_text">Documents</string>
     <string name="dialog_type_video">Vidéos</string>
-    <string name="disk_available">Disponible : </string>
-    <string name="disk_total">Total :</string>
+    <string name="disk_available">Disponible:</string>
+    <string name="disk_total">Total:</string>
     <string name="enable_documentsui">"Activer d'abord %s dans Paramètres > Applications installées"</string>
     <string name="enable_sd_card">Insérez une carte SD ou désactivez la fonction USB mass storage.</string>
     <string name="enable_usb">Connecter un appareil en USB</string>
@@ -178,15 +176,15 @@
     <string name="favorite_ringtone">Sonneries</string>
     <string name="favorite_screen_cap">"Captures d'écran"</string>
     <string name="feedback_send_email_body_extra_info">Ne supprimez pas les informations suivantes. Elles nous aident à localiser le problème.</string>
-    <string name="file_info_canread">Lisible : </string>
-    <string name="file_info_canwrite">Modifiable : </string>
-    <string name="file_info_ishidden">Caché : </string>
-    <string name="file_info_location">Emplacement :</string>
-    <string name="file_info_modified">Dernière modification : </string>
-    <string name="file_info_size">Taille : </string>
+    <string name="file_info_canread">Lisible: </string>
+    <string name="file_info_canwrite">Modifiable: </string>
+    <string name="file_info_ishidden">Caché: </string>
+    <string name="file_info_location">Emplacement:</string>
+    <string name="file_info_modified">Dernière modification: </string>
+    <string name="file_info_size">Taille: </string>
     <string name="file_loading">Un instant…</string>
-    <string name="file_name_invalid">Les noms de dossiers ne peuvent contenir ces caractères : /\\:*?&lt;></string>
-    <string name="find_new_version">Une mise à jour est disponible : %1$s</string>
+    <string name="file_name_invalid">Les noms de dossiers ne peuvent contenir ces caractères: /\\:*?&lt;></string>
+    <string name="find_new_version">Une mise à jour est disponible: %1$s</string>
     <string name="folder_name_empty">Le nom de dossier ne peut être vide</string>
     <string name="folder_name_illegal">Nom de dossier incorrect</string>
     <string name="found_router">Routeur connecté</string>
@@ -212,13 +210,13 @@
     <string name="hot_sticker">Autocollants</string>
     <string name="if_cancel">Annuler cette opération ?</string>
     <string name="image_loading_error">Impossible de charger cette image</string>
-    <string name="info_app_package_name">Nom du package :</string>
-    <string name="info_app_version">"Version de l'application :"</string>
-    <string name="info_language">Langue :</string>
+    <string name="info_app_package_name">Nom du package:</string>
+    <string name="info_app_version">"Version de l'application:"</string>
+    <string name="info_language">Langue:</string>
     <string name="info_location">Région :</string>
-    <string name="info_product">Périphérique :</string>
+    <string name="info_product">Périphérique:</string>
     <string name="info_system">Système :</string>
-    <string name="info_system_version">Version du système :</string>
+    <string name="info_system_version">Version du système:</string>
     <string name="just_now">"à l'instant"</string>
     <string name="kilobyteShort">Ko</string>
     <string name="load_more">Afficher plus</string>
@@ -324,7 +322,7 @@
     <string name="phone_storage_cal">Vérification…</string>
     <string name="phone_storage_clean">Nettoyer</string>
     <string name="phone_storage_doc_title">Documents</string>
-    <string name="phone_storage_free_title">Disponible : </string>
+    <string name="phone_storage_free_title">Disponible: </string>
     <string name="phone_storage_image_title">Images</string>
     <string name="phone_storage_info_str">%1$s sur %2$s disponibles</string>
     <string name="phone_storage_other_title">Autres</string>
@@ -347,7 +345,7 @@
     <string name="private_folder_update">Mise à jour des fichiers cachés…</string>
     <string name="private_toast_hint2">Pour masquer un fichier, appuyez et maintenez le, puis ajoutez le à un dossier masqué.</string>
     <string name="promot_enctypt_password">Saisissez le mot de passe utilisé pour déverrouiller votre appareil</string>
-    <string name="qr_code">Code QR</string>
+    <string name="qr_code">QR Code</string>
     <string name="recent_apk_status_install">Installé</string>
     <string name="recommended_content">Recommandations</string>
     <string name="rename_alert">"Si vous changez cette extension de fichier, vous ne pourrez plus l'ouvrir."</string>
@@ -412,7 +410,7 @@
     <string name="sort_size_desc">Du plus grand au plus petit</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="storage_cloned_app">Stockage pour les applications clonées</string>
-    <string name="storage_info_detail">Disponible : %1$s Total : %2$s</string>
+    <string name="storage_info_detail">Disponible: %1$s Total: %2$s</string>
     <string name="storage_internal">Stockage interne</string>
     <string name="storage_sd_card">Carte SD</string>
     <string name="storage_usb">Stockage USB</string>

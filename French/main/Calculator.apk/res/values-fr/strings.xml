@@ -13,7 +13,6 @@
     <string name="cal_copy">Copier</string>
     <string name="cal_edit_mode">"Mode d'édition"</string>
     <string name="cal_paste">Coller</string>
-    <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">Texte copié</string>
     <string name="cancel">Annuler</string>
     <string name="children_education">Éducation des enfants</string>
@@ -186,7 +185,6 @@
     <string name="none">Aucun</string>
     <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
     <string name="ok">OK</string>
-    <string name="percent" />
     <string name="percentDesc">pourcentage</string>
     <string name="piDesc">pi</string>
     <string name="plusDesc">plus</string>
@@ -224,9 +222,7 @@
     <string name="settingsDesc">paramètres</string>
     <string name="sin">sin</string>
     <string name="sinDesc">sinus</string>
-    <string name="social_security" />
     <string name="sqrtDesc">racine carrée</string>
-    <string name="start_calculate" />
     <string name="support_elder">Soutien pour les personnes âgées</string>
     <string name="switchDesc">Basculer</string>
     <string name="tab_title_calculator">Calculatrice</string>
@@ -256,7 +252,6 @@
     <string name="tax_detail_rate">Taux dimposition</string>
     <string name="tax_detail_take_off">Déduction</string>
     <string name="tax_detail_tax_payed">Montant payé</string>
-    <string name="tax_edittext_hint" />
     <string name="tax_endowment">Fond de retraite</string>
     <string name="tax_fixed_salary_hint">Entrez votre revenu avant taxe</string>
     <string name="tax_income_annual_bonus_list">Bonus annuels</string>
@@ -285,12 +280,9 @@
     <string name="tax_thershold_native_new">%s (nouveau)</string>
     <string name="tax_thershold_native_new_description">Les taxes seront calculées selon la nouvelle loi fiscale à partir de 1er octobre 2018</string>
     <string name="tax_threshold">"Taxe d'exonération d'impôt"</string>
-    <string name="tax_title_primary" />
-    <string name="tax_title_secondary" />
     <string name="tax_total_insurance_provident_fund">Assurance &amp; fond de logement</string>
     <string name="tax_unemployment">Chômage</string>
     <string name="tax_update_time_format">Données fournies par HeXun (%s)</string>
-    <string name="times" />
     <string name="unKnow_error">Erreur inconnue</string>
     <string name="unit_data_display_area_acre">Acre</string>
     <string name="unit_data_display_area_are">Aire</string>
@@ -567,7 +559,6 @@
     <string name="unit_data_short_weight_uk.st">st</string>
     <string name="unit_data_short_weight_us.cwt">cwt</string>
     <string name="unit_myriads">×10K</string>
-    <string name="unit_times" />
     <string name="unit_year">A</string>
     <string name="unit_year_format">Année %s</string>
     <string name="unit_yuan">CNY</string>
@@ -584,5 +575,4 @@ Taille %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Présentation de la version %1$s
 Taille de la mise à jour Delta: %2$s"</string>
     <string name="xiaomi_update_dialog_title">%1$s mise à jour!</string>
-    <string name="year" />
 </resources>

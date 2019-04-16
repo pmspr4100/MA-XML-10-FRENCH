@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
     <string name="abc_action_mode_done">OK</string>
@@ -126,7 +124,7 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="description_summary">Résumé</string>
     <string name="description_uploadtime">Mise à jour</string>
     <string name="description_version">Version</string>
-    <string name="description_version_szie">Version : %1$s Taille : %2$s</string>
+    <string name="description_version_szie">Version: %1$s Taille: %2$s</string>
     <string name="desktop_effects">"Effets de l'écran d'accueil"</string>
     <string name="desktop_wallpaper">"Écran d'accueil"</string>
     <string name="detail_recommend_title">Vous aimerez sûrement ceux-là</string>
@@ -170,10 +168,10 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="gift_presented">Envoyé</string>
     <string name="gift_purchase_success_dlg_content">"Vous avez acheté %1$s comme un cadeau. Pour l'envoyer, aller dans la page Compte des thèmes."</string>
     <string name="gift_purchase_success_dlg_title">Cadeau acheté</string>
-    <string name="gift_purchased_endnote">À : %1$s</string>
-    <string name="gift_purchased_list_empty">"Vous n'avez pas offert de cadeau. :("</string>
+    <string name="gift_purchased_endnote">À: %1$s</string>
+    <string name="gift_purchased_list_empty">"Vous n'avez pas offert de cadeau.:("</string>
     <string name="gift_purchased_list_empty_with_received_list_empty">Aucun cadeau.</string>
-    <string name="gift_received_endnote">De : %1$s (reçu %2$s)</string>
+    <string name="gift_received_endnote">De: %1$s (reçu %2$s)</string>
     <string name="gift_received_list_empty">"Vous n'avez pas reçu de cadeau."</string>
     <string name="gift_received_notification_title">%s vous a donné un thème.</string>
     <string name="gift_share">Partager</string>
@@ -216,7 +214,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="loading_resource_detail_fail">Impossible de charger les ressources</string>
     <string name="loading_resource_detail_info">Un instant…</string>
     <string name="local_photos">Photos locales</string>
-    <string name="local_resouce_creator_name">Développeur : %1$s</string>
+    <string name="local_resouce_creator_name">Développeur: %1$s</string>
     <string name="lockscreen_apply_failured">"Impossible d'appliquer le fond d'écran de verrouillage"</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">"Le fond d'écran de l'écran de verrrouillage est appliqué. Impossible d'appliquer celui de l'écran d'accueil."</string>
     <string name="lockscreen_apply_success">"Fond d'écran de l'écran de verrouillage appliqué"</string>
@@ -345,7 +343,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_comment_no_comment">Pas encore de commentaires ici. Vous pouvez être le premier à laisser un commentaire.</string>
     <string name="resource_comment_over_limit">Votre commentaire est trop long. Raccourcissez le et réessayez.</string>
     <string name="resource_comment_publish">Envoyer</string>
-    <string name="resource_comment_rate">Note :</string>
+    <string name="resource_comment_rate">Note:</string>
     <string name="resource_comment_rating_star_tips">Votre classement</string>
     <string name="resource_comment_sending">Envoi du commentaire…</string>
     <string name="resource_comment_title">Commentaires à propos de %1$s</string>
@@ -370,7 +368,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_detail">Détails</string>
     <string name="resource_detail_comment_title">Commentaires</string>
     <string name="resource_detail_description_pic_text">%1$d icônes au total</string>
-    <string name="resource_detail_header_theme_designer_title">Concepteur : %1$s</string>
+    <string name="resource_detail_header_theme_designer_title">Concepteur: %1$s</string>
     <string name="resource_detail_jump_to_online_title">En ligne</string>
     <string name="resource_detail_jump_to_same_author_title">Du même auteur</string>
     <string name="resource_detail_recommend_desiner_other_themes">Thèmes conçus par %1$s</string>
@@ -392,9 +390,9 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_exchange_hint">Entrez votre code cadeau</string>
     <string name="resource_exchange_purchase_unkown_error">"Oups, une erreur inconnue est survenue. Connectez-vous sur http://market.xiaomi.com pour voir l'état du paiement."</string>
     <string name="resource_exchange_share_code_content">"Vous avez reçu un code cadeau (%2$s) pour télécharger le thème \"%1$s\" dans les thèmes MIUI. Appuyez sur %3$s pour l'utiliser maintenant."</string>
-    <string name="resource_exchange_share_code_dlg_content">"Code pour le thème \"%1$s\" : %2$s. Lorsque vous lenverrez à un autre utilisateur MIUI, il pourra l'utiliser pour télécharger ce thème."</string>
+    <string name="resource_exchange_share_code_dlg_content">"Code pour le thème \"%1$s\": %2$s. Lorsque vous lenverrez à un autre utilisateur MIUI, il pourra l'utiliser pour télécharger ce thème."</string>
     <string name="resource_exchange_share_code_dlg_title">Envoi</string>
-    <string name="resource_exchange_success">Profitez ! :)</string>
+    <string name="resource_exchange_success">Profitez !:)</string>
     <string name="resource_exchange_unavailable">"Le thème associé au code que vous avez entré n'est pas disponible."</string>
     <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger des éléments depuis le magasin des thèmes.</string>
     <string name="resource_exchange_universal_goon">"Ce code permet de télécharger n'importe quel thème dans le magasin."</string>
@@ -426,13 +424,13 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_no_network_text">Impossible de se connecter au réseau.</string>
     <string name="resource_no_result">Aucun résultat</string>
     <string name="resource_notification_default">Notifications</string>
-    <string name="resource_on_trial">Essayer : %1$s</string>
+    <string name="resource_on_trial">Essayer: %1$s</string>
     <string name="resource_online">En ligne</string>
     <string name="resource_online_picker">Choisir une sonnerie en ligne</string>
     <string name="resource_pack_confirm">Même si vous avez déjà acheté %1$d éléments de ce thème, le prix du thème complet est plus avantageux.</string>
-    <string name="resource_pack_discount_info">Économisé : %1$s</string>
+    <string name="resource_pack_discount_info">Économisé: %1$s</string>
     <string name="resource_pack_get_auth_has_been_undercarriaged">"Ce thème n'est plus disponible."</string>
-    <string name="resource_pack_price_info">"Prix d'origine : %1$s"</string>
+    <string name="resource_pack_price_info">"Prix d'origine: %1$s"</string>
     <string name="resource_pack_warning">"Attention, vous avez déjà acheté %1$d éléments de ce thème, il sera moins cher d'acheter les éléments restants individuellement."</string>
     <string name="resource_present">Cadeau</string>
     <string name="resource_price_free">Gratuit</string>
@@ -469,8 +467,8 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_send">Envoyer</string>
     <string name="resource_server_alert_dialog_title">Bientôt de retour…</string>
     <string name="resource_server_out_of_service">Malheureusement, notre serveur est indisponible pour le moment.</string>
-    <string name="resource_share_subject">Partager le thème : %1$s</string>
-    <string name="resource_share_text">Voici un thème que vous pourriez aimer : %1$s ! Lien : %2$s</string>
+    <string name="resource_share_subject">Partager le thème: %1$s</string>
+    <string name="resource_share_text">Voici un thème que vous pourriez aimer: %1$s ! Lien: %2$s</string>
     <string name="resource_share_title">Partager</string>
     <string name="resource_system_title">Ressources système</string>
     <string name="resource_tab_to_view">Appuyez pour voir.</string>
@@ -482,8 +480,8 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_title_rank">Top</string>
     <string name="resource_title_select_ringtone">Sélectionnez une sonnerie</string>
     <string name="resource_title_subject">Sélection</string>
-    <string name="resource_trial_days">(Essai : %1$d j)</string>
-    <string name="resource_trial_days_hours">(Essai : %1$d j %2$d h)</string>
+    <string name="resource_trial_days">(Essai: %1$d j)</string>
+    <string name="resource_trial_days_hours">(Essai: %1$d j %2$d h)</string>
     <string name="resource_trial_end_checkbox_hint">Recevoir dabord des crédits Mi</string>
     <string name="resource_trial_end_get_mibi">Recevoir des crédits Mi</string>
     <string name="resource_trial_end_jump_hint">Redirection en cours…</string>
@@ -497,9 +495,9 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_trial_fail_go_settings">Paramètres</string>
     <string name="resource_trial_fail_message">Assurez-vous que votre horloge système est réglée à la bonne heure.</string>
     <string name="resource_trial_fail_title">"Impossible de mettre en place la séance d'essai"</string>
-    <string name="resource_trial_hours">(Essai : %1$d h)</string>
-    <string name="resource_trial_hours_minutes">(Essai : %1$d h %2$d min)</string>
-    <string name="resource_trial_minutes">(Essai : %1$d min)</string>
+    <string name="resource_trial_hours">(Essai: %1$d h)</string>
+    <string name="resource_trial_hours_minutes">(Essai: %1$d h %2$d min)</string>
+    <string name="resource_trial_minutes">(Essai: %1$d min)</string>
     <string name="resource_unknow_error">Une erreur inconnue est survenue</string>
     <string name="resource_update">Mettre à jour</string>
     <string name="resource_user_know">OK</string>
@@ -697,6 +695,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="wifi_check_message">Utiliser les données mobiles pour télécharger les mises à jour?</string>
     <string name="wifi_check_tip">Ne plus afficher</string>
     <string name="xiaoai_speech_not_installed_download">Télécharger</string>
-    <string name="xiaoai_speech_not_installed_message">"Télécharger et installer l'assistant vocal Mi Al pour continuer."</string>
-    <string name="xiaoai_speech_not_installed_title">"L'assistant vocal Mi Al n'est pas installé."</string>
+    <string name="xiaoai_speech_not_installed_message">"Télécharger et installer l'assistant vocal Mi IA pour continuer."</string>
+    <string name="xiaoai_speech_not_installed_title">"L'assistant vocal Mi IA n'est pas installé."</string>
 </resources>

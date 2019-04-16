@@ -79,7 +79,7 @@
     <string name="clear_data">Effacer</string>
 	<string name="close">Quitter</string>
 	<string name="close_ad">Quitter AD</string>
-    <string name="complete_time">Terminé :</string>
+    <string name="complete_time">Terminé:</string>
     <string name="confirm">OK </string>
     <string name="confirm_delete_the_download_item_message">Supprimer ces téléchargements ?</string>
     <string name="continue_download">Continuer</string>
@@ -105,7 +105,7 @@
     <string name="download_error_download_file_not_exists">"Le fichier n'existe pas"</string>
     <string name="download_error_insufficient_space">Stockage insuffisant</string>
     <string name="download_filesize_unknown">Inconnu</string>
-    <string name="download_from">Source :</string>
+    <string name="download_from">Source:</string>
     <string name="download_in_process">Téléchargement</string>
     <string name="download_info_start_deleted_tasks">Supprimer les téléchargements</string>
     <string name="download_list_open_xl_cancel">Annuler</string>
@@ -113,8 +113,8 @@
     <string name="download_no_application">Aucune application ne prend en charge ce format</string>
     <string name="download_paused">Téléchargement en pause</string>
     <string name="download_pending">Téléchargement en attente</string>
-    <string name="download_remain_time">Restant :</string>
-    <string name="download_speed">Vitesse de téléchargement :</string>
+    <string name="download_remain_time">Restant:</string>
+    <string name="download_speed">Vitesse de téléchargement:</string>
     <string name="download_spend_time">Durée</string>
     <string name="download_status_continue">Reprendre</string>
     <string name="download_status_fail">Réessayer</string>
@@ -141,7 +141,7 @@
     <string name="editmode_menu_share">Partager</string>
     <string name="extend">Plus</string>
     <string name="file_exist_hint">Ce fichier existe déjà</string>
-    <string name="file_size">Taille :</string>
+    <string name="file_size">Taille:</string>
     <string name="get_data_failed">"Impossible d'obtenir les informations. Attendez une minute ou deux et réessayez."</string>
     <string name="guess_like">Vous pouvez aussi aimer</string>
     <string name="hint">Attention</string>
@@ -220,7 +220,7 @@
     <string name="retry_after_network_available">Impossible de se connecter au réseau. Vérifiez votre connexion de données mobiles et réessayez.</string>
     <string name="revert_default">Restaurer les paramètres par défaut</string>
     <string name="revert_download_path">"Utiliser l'emplacement des téléchargements par défaut ?"</string>
-    <string name="save_path">"Enregistrer les téléchargements dans : "</string>
+    <string name="save_path">"Enregistrer les téléchargements dans: "</string>
     <string name="save_text">Économiser %1$s￥</string>
     <string name="select_operation_items">Choisir des éléments</string>
     <string name="setting_close_debug">Désactiver le mode Débogage</string>

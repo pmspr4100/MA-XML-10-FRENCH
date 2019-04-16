@@ -2,7 +2,7 @@
 <resources>
     <string name="accept">OK</string>
     <string name="app_name">Mi service framework</string>
-    <string name="error_device_id_message">"Identifiant non valide : %s
+    <string name="error_device_id_message">"Identifiant non valide: %s
 L'identifiant doit être un numéro IMEI ou une adresse MAC valide. Sans l'identifiant de l'appareil, certaines fonctionnalités du compte et le Cloud ne seront pas disponibles."</string>
     <string name="error_device_id_title">"Impossible d'obtenir un numéro d'Identification valide pour cet appareil"</string>
     <string name="explain_send_sms_permission_button">Vérifier</string>

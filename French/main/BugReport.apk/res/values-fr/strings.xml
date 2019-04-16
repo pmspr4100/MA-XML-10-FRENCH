@@ -30,7 +30,7 @@
     <string name="catch_full_log_item_content_need_open">"1. Appuyez sur \"Générer le journal\".
 2. Retournez à la fonctionnalité que vous souhaitez signaler et reproduisez-la.
 3. Revenez à cette page et appuyez sur \"Terminer et mettre en ligne\"."</string>
-    <string name="catch_full_log_item_content_title">Étapes :</string>
+    <string name="catch_full_log_item_content_title">Étapes:</string>
     <string name="catch_full_log_item_title_audio">Audio, enregistrement audio et appel audio</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Décalage</string>

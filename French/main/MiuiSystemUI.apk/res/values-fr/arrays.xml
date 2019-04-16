@@ -17,20 +17,6 @@
         <item>Au moins 3 processus</item>
         <item>Au moins 4 processus</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="battery_options">
         <item>Toujours afficher le pourcentage</item>
         <item>Afficher le pourcentage pendant la charge (par défaut)</item>

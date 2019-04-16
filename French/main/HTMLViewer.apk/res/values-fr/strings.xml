@@ -2,10 +2,10 @@
 <resources>
     <string name="app_label">Visionneuse HTML</string>
     <string name="loading">Un instant…</string>
-    <string name="app_name_which_call">Application : %s</string>
-    <string name="app_version_which_call">Version application : %s</string>
+    <string name="app_name_which_call">Application: %s</string>
+    <string name="app_version_which_call">Version application: %s</string>
     <string name="pre_installed_apps">Applications pré-installées</string>
-    <string name="policy_name">Protocole : %s</string>
+    <string name="policy_name">Protocole: %s</string>
     <string name="mibi_license">"Contrat d'utilisation des Mi Crédits"</string>
     <string name="license_host_unreachable">"Connexion réseau impossible. Pour voir cette information maintenant,
 allez sur %s sur un autre périphérique connecté."</string>

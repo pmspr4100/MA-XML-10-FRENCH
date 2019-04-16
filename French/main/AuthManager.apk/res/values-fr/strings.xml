@@ -39,7 +39,7 @@
     <string name="HIPS_SecurityPrompt_Title">%1$s essaie de %2$s</string>
     <string name="HIPS_SecurityPrompt_Reject">Refuser (%d)</string>
     <string name="Su_Package_Forbidden2">"n'a pas accès au Root."</string>
-    <string name="permisson_reject_notice_toast_text2">"n/'a pas accès à %1$s."</string>
+    <string name="permisson_reject_notice_toast_text2">"n'a pas accès à %1$s."</string>
     <string name="HIPS_Action_Reject_Once">Refuser cette fois</string>
     <string name="HIPS_Action_Accept_Once">Accepter cette fois</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Refuser cette fois (%d)</string>
@@ -65,7 +65,7 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">répondez, surveillez et terminez les appels</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">accède au NFC (Near Field Communication)</string>
-    <string name="HIPS_Perm_install_shortcut">"Raccourcis de l'Écran d'accueil"</string>
+    <string name="HIPS_Perm_install_shortcut">"Raccourcis de l'écran d'accueil"</string>
     <string name="HIPS_Perm_install_shortcut_Desc">"ajoute des raccourcis sur l'écran d'accueil"</string>
     <string name="HIPS_Perm_read_notification_sms">Service SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Lecture du service SMS</string>

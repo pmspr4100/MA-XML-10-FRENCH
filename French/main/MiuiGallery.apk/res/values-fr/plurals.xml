@@ -13,7 +13,7 @@
         <item quantity="one">"%2$d élément ne peut être ajouté à l'album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d éléments ne peuvent pas être ajoutés à l'album masqué : %1$s."</item>
+        <item quantity="other">"%2$d éléments ne peuvent pas être ajoutés à l'album masqué: %1$s."</item>
         <item quantity="one">"%2$d élément ne peut être ajouté à l'album masqué. %1$s."</item>
     </plurals>
     <plurals name="age_day">
@@ -114,7 +114,7 @@
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Supprimer ces %d vidéos de tous les appareils et de Mi Cloud ?</item>
-        <item quantity="one">Supprimer cette Vidéo de tous les appareils et de Mi Cloud ?</item>
+        <item quantity="one">Supprimer cette vidéo de tous les appareils et de Mi Cloud ?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">Supprimez ces %d vidéos ?</item>
@@ -133,8 +133,8 @@
         <item quantity="one">Impossible de télécharger %1$d fichier, vérifiez la connexion réseau puis réessayez</item>
     </plurals>
     <plurals name="face_count">
-        <item quantity="other">Total : %d photos</item>
-        <item quantity="one">Total : %d photo</item>
+        <item quantity="other">Total: %d photos</item>
+        <item quantity="one">Total: %d photo</item>
     </plurals>
     <plurals name="fail_reason_processing_file">
         <item quantity="other">Traitement des photos…</item>
@@ -221,8 +221,8 @@
         <item quantity="one">Une nouvelle photo trouvée</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
-        <item quantity="other">Total : %d photos</item>
-        <item quantity="one">Total : %d photo</item>
+        <item quantity="other">Total: %d photos</item>
+        <item quantity="one">Total: %d photo</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d éléments ne peuvent être retirés de l'album masqué. %1$s."</item>

@@ -19,9 +19,9 @@
     <string name="cloud_backup_detail_title">"Écran d'accueil, applications et paramètres."</string>
     <string name="cloud_backup_detail_state_summary">Créez automatiquement les mises à jour Mi Cloud une fois connecté au Wi-Fi.</string>
     <string name="cloud_backup_detail_frequence">Planifier une sauvegarde</string>
-    <string name="cloud_backup_detail_time">Dernière sauvegarde : %1$s</string>
+    <string name="cloud_backup_detail_time">Dernière sauvegarde: %1$s</string>
     <string name="cloud_backup_detail_manage">Gérer les sauvegardes</string>
-    <string name="cloud_backup_derail_size_summary">Taille : %s</string>
+    <string name="cloud_backup_derail_size_summary">Taille: %s</string>
     <string name="cloud_back_up_opening">Un instant…</string>
     <string name="cloud_back_up_no_network_warn">Impossible de se connecter au Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
@@ -31,12 +31,12 @@
     <string name="cloud_back_up_subscribe_vip_title">Améliorer votre compte</string>
     <string name="cloud_back_up_subscribe_vip_discription">"Obtenez plus d'espace de stockage, des sauvegardes journalières, et plus."</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Mettre à niveau</string>
-    <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Mi Cloud lorsque votre appareil sera connecté à un Wi-Fi : 
+    <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Mi Cloud lorsque votre appareil sera connecté à un Wi-Fi: 
 *  Applications, Écran d'accueil et fonds d'écran 
 *  Alarmes et les paramètres d'Horloge 
 *  Paramètres de notification 
 *  MIUI et les paramètres système 
-\"Note : Les données des applications que vous avez installées ne seront pas sauvegardées dans Mi Cloud.\""</string>
+\"Note: Les données des applications que vous avez installées ne seront pas sauvegardées dans Mi Cloud.\""</string>
     <string name="cloud_app_no_data">Aucune sauvegarde</string>
     <string name="cloud_app_restore_error">Restauration impossible</string>
     <string name="cloud_app_restore_success">Applications restaurées</string>
@@ -66,10 +66,10 @@
     <string name="menu_item_sort_name">Nom</string>
     <string name="menu_item_sort_size">Taille</string>
     <string name="menu_item_managespace">"Gérer l'espace de stockage"</string>
-    <string name="total_space">Espace total : %s</string>
+    <string name="total_space">Espace total: %s</string>
     <string name="managespace_delete_backup">Supprimer</string>
     <string name="error_unknown">Erreur</string>
-    <string name="backup_size">Taille : %s</string>
+    <string name="backup_size">Taille: %s</string>
     <string name="device_delete_prompt">Supprimer la sauvegarde de %s ?</string>
     <string name="desktop_waiting">En attente</string>
     <string name="desktop_downloading">Téléchargement</string>

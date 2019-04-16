@@ -37,11 +37,11 @@
         <item quantity="one">| %1$s personne</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_minute">
-        <item quantity="other">You can submit feedback again in %1$s minutes</item>
-        <item quantity="one">You can submit feedback again in %1$s minute</item>
+        <item quantity="other">Vous pouvez à nouveau soumettre vos commentaires dans %1$s minutes</item>
+        <item quantity="one">Vous pouvez à nouveau soumettre votre commentaire dans %1$s minute</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_second">
-        <item quantity="other">You can submit feedback again in %1$s seconds</item>
-        <item quantity="one">You can submit feedback again in %1$s second</item>
+        <item quantity="other">Vous pouvez soumettre vos commentaires à nouveau dans %1$s secondes</item>
+        <item quantity="one">Vous pouvez soumettre votre commentaire à nouveau dans %1$s seconde</item>
     </plurals>
 </resources>

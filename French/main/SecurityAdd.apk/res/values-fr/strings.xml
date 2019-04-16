@@ -28,11 +28,10 @@
     <string name="fastboot_locked_question_3">"Je suis conscient des risques, mais j'ai toujours besoin de déverrouiller mon appareil. Que dois-je faire ?"</string>
     <string name="fastboot_locked_answer_3">"Vous devriez utiliser l'outil de déverrouillage du site Web de MIUI. Pour déverrouiller un appareil, nous devons nous assurer que l'appareil vous appartient. Raison pour laquelle vous devez vous connecter à votre compte Mi et activer Localiser l'appareil."</string>
     <string name="fastboot_unlock_web_title">Rendez-vous sur le site Web officiel pour obtenir un outil de déverrouillage.</string>
-    <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
     <string name="game_booster">Accélérateur de la vitesse de jeu</string>
     <string name="gb_weixinpay_can_not_complete">Impossible de terminer le paiement. Installer pour continuer.</string>
     <string name="gb_alipays_can_not_complete">Impossible de terminer le paiement. Installer pour continuer.</string>
     <string name="xunyou_pay_webview">Services Xunyou</string>
     <string name="gamebox_no_network_btn">Recharger</string>
-    <string name="ad_downloading">Download…</string>
+    <string name="ad_downloading">Télécharger…</string>
 </resources>

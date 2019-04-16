@@ -92,9 +92,7 @@
     <string name="info_anim_title_0">Une nouvelle manière de travailler</string>
     <string name="info_anim_title_1">Séparez vos données professionnelles de vos données personnelles</string>
     <string name="info_anim_title_2">Désactiver le profil professionnel lorsque vous avez terminé</string>
-    <string name="join_many_items_first">%1$s, %2$s</string>
     <string name="join_many_items_last">%1$s et %2$s</string>
-    <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="join_two_items">%1$s et %2$s</string>
     <string name="launcher_app_cant_be_used_by_work_profile">"Impossible d'utiliser ce lanceur d'applications avec votre profil professionnel"</string>
     <string name="learn_more_label">Bouton \"En savoir plus\"</string>

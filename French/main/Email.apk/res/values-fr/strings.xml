@@ -36,7 +36,7 @@
     <string name="account_settings_incoming_summary">"Nom d'utilisateur, mot de passe et autres paramètres du serveur"</string>
     <string name="account_settings_login_dialog_content_fmt">"Le nom d'utilisateur ou le mot de passe du compte %s est incorrect. 
  Mettre à jour maintenant ?"</string>
-    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Impossible de se connecter à %s. Le serveur dit : %s</string>
+    <string name="account_settings_login_dialog_reason_fmt" formatted="false">Impossible de se connecter à %s. Le serveur dit: %s</string>
     <string name="account_settings_login_dialog_title">Impossible de se connecter</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Vous devez actualiser E-mail manuellement pour synchroniser vos e-mails</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Vous devrez synchroniser Mail manuellement pour être en mesure de synchroniser les messages et les événements du calendrier.</string>
@@ -98,7 +98,7 @@
 (%s)"</string>
     <string name="account_setup_failed_dlg_device_locked">"Votre compte est protégé. Vérifiez cet appareil à l'aide de QQ Security ou supprimer la protection."</string>
     <string name="account_setup_failed_dlg_edit_details_action">Modifier les détails</string>
-    <string name="account_setup_failed_dlg_error_code">"Code d'erreur : %s"</string>
+    <string name="account_setup_failed_dlg_error_code">"Code d'erreur: %s"</string>
     <string name="account_setup_failed_dlg_server_message">Impossible de se connecter au serveur.</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Impossible de se connecter au serveur. 
 (%s)"</string>
@@ -247,7 +247,7 @@
     <string name="cant_move_or_change_labels">Impossible de déplacer des messages depuis plusieurs comptes.</string>
     <string name="cc">Cc</string>
     <string name="cc_bcc">Cc/Cci</string>
-    <string name="cc_heading">"Cc : "</string>
+    <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">Changement de dossier</string>
     <string name="change_sync_settings">Modifier les paramètres de synchronisation</string>
     <string name="changepw_dialog_tips">Entrez à nouveau le mot de passe de %s</string>
@@ -335,9 +335,8 @@
     <string name="create_action">Nouveau</string>
     <string name="credit_limit_text">Limite de crédit</string>
     <string name="cur_debt">Solde du compte</string>
-    <string name="custom_from_account_label">"Envoyer comme : "</string>
-    <string name="date_heading">"Date : "</string>
-    <string name="date_message_received">%1$s %2$s</string>
+    <string name="custom_from_account_label">"Envoyer comme: "</string>
+    <string name="date_heading">"Date: "</string>
     <string name="date_message_received_today">"Aujourd'hui, %1$s"</string>
     <string name="debug_mode_preferencecategory">Définir une sortie de journal</string>
     <string name="debug_mode_settings">Paramètres du mode Débogage</string>
@@ -362,7 +361,7 @@
     <string name="dialog_insufficient_space_on_internal">Espace disque insuffisant sur le stockage interne.</string>
     <string name="dialog_system_auto_sync_account_no_open">Activer la synchronisation du compte pour recevoir automatiquement les e-mails</string>
     <string name="dialog_system_auto_sync_master_no_open">Activer la synchronisation pour recevoir automatiquement les e-mails</string>
-    <string name="disable_admin_warning">"AVERTISSEMENT : désactiver l'autorisation de l'application E-mail pour administrer votre appareil supprimera tous les comptes E-mail qui l'exigent, tout avec leurs E-mails, contacts, évènements d'agenda et autres données."</string>
+    <string name="disable_admin_warning">"AVERTISSEMENT: désactiver l'autorisation de l'application E-mail pour administrer votre appareil supprimera tous les comptes E-mail qui l'exigent, tout avec leurs E-mails, contacts, évènements d'agenda et autres données."</string>
     <string name="discard">Effacer</string>
     <string name="discard_drafts">Effacer les brouillons</string>
     <string name="dismiss_tip_hover_text">"Désactiver l'astuce"</string>
@@ -412,9 +411,9 @@
     <string name="error">Erreur</string>
     <string name="exception_cancel">"
         Cet événement a été annulé
-        pour le :
+        pour le:
 %s "</string>
-    <string name="exception_updated">Les détails de cet évènement ont été modifiés pour :%s</string>
+    <string name="exception_updated">Les détails de cet évènement ont été modifiés pour:%s</string>
     <string name="exchange_name">Entreprise</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">Afficher les détails du destinataire</string>
@@ -452,12 +451,12 @@
     <string name="forever">Toujours</string>
     <string name="forward">Transférer</string>
     <string name="forward_attachment">Transférer</string>
-    <string name="forward_attribution">---------- Message transféré ----------&lt;br>De : %1$s&lt;br>Date : %2$s&lt;br>Objet : %3$s&lt;br>À : %4$s&lt;br></string>
+    <string name="forward_attribution">---------- Message transféré ----------&lt;br>De: %1$s&lt;br>Date: %2$s&lt;br>Objet: %3$s&lt;br>À: %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- Message transféré ----------</string>
     <string name="forward_download_failed_ticker">Impossible de transférer une ou plusieurs pièces jointes.</string>
     <string name="forward_download_failed_title">Pièce jointe non transférée</string>
     <string name="free_period_text">Période sans intérêt</string>
-    <string name="from_heading">"De : "</string>
+    <string name="from_heading">"De: "</string>
     <string name="general_preference_confirm_delete_label">Confirmer avant suppression</string>
     <string name="general_preference_confirm_send_label">Confirmer avant envoi</string>
     <string name="general_preference_str_auto_translation">Traduction rapide</string>
@@ -549,38 +548,38 @@
     <string name="me_object_pronun">moi</string>
     <string name="me_subject_pronun">moi</string>
     <string name="meeting_accepted">"
-        Accepté :
+        Accepté:
 %s "</string>
     <string name="meeting_allday">"
-        Quand :
+        Quand:
 %s (toute la journée)
     "</string>
     <string name="meeting_allday_recurring">"
-        Quand :
+        Quand:
 %s (toute la journée, récurrent)
     "</string>
     <string name="meeting_canceled">"
-        Annulé :
+        Annulé:
 %s "</string>
     <string name="meeting_declined">"
-        Refusé :
+        Refusé:
 %s "</string>
     <string name="meeting_recurring">"
-        Quand :
+        Quand:
 %s (récurrent)
     "</string>
     <string name="meeting_responded_failed">Pas de réponse</string>
     <string name="meeting_tentative">"
-        Tentative :
+        Tentative:
 %s "</string>
     <string name="meeting_updated">"
-        Mis à jour :
+        Mis à jour:
 %s "</string>
     <string name="meeting_when">"
-        Quand :
+        Quand:
 %s "</string>
     <string name="meeting_where">"
-        Où :
+        Où:
 %s "</string>
     <string name="megabytes">%s Mo</string>
     <string name="menu_att_mgr">Pièces jointes</string>
@@ -857,7 +856,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="recognize_ticket_air_notification_title">Le vol %3$s (%2$s/%1$s) va bientôt décoller. Vérifiez bien vos informations de vol.</string>
     <string name="recognize_ticket_air_state_stopover">Escale</string>
     <string name="recognize_ticket_air_state_transfer">Transfert</string>
-    <string name="recognize_ticket_air_user_name">Passager : %1$s</string>
+    <string name="recognize_ticket_air_user_name">Passager: %1$s</string>
     <string name="recognize_ticket_title">"Billets d'avion &amp; de train"</string>
     <string name="recognize_ticket_train_alter">Changé</string>
     <string name="recognize_ticket_train_depart_date">Départ à %3$s:%4$s le %2$s/%1$s</string>
@@ -879,7 +878,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="reply">Répondre</string>
     <string name="reply_add_bodycontent">Ajouter la réponse au corps du message ?</string>
     <string name="reply_all">Répondre à tous</string>
-    <string name="reply_attribution" formatted="false">"Le %s, %s a écrit : "</string>
+    <string name="reply_attribution" formatted="false">"Le %s, %s a écrit: "</string>
     <string name="report_phishing">Signaler un hameçonnage</string>
     <string name="report_spam">Signaler un spam</string>
     <string name="request_copy_db_to_disk">E-Mail demande à copier votre base de données dans un fichier</string>
@@ -1028,7 +1027,7 @@ Supprimer le compte ?"</string>
     <string name="unread_string">Conversation non lue</string>
     <string name="unzip_file_failed">Impossible de décompresser le fichier</string>
     <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
-    <string name="updated_at">Dernière mise à jour : %1$s</string>
+    <string name="updated_at">Dernière mise à jour: %1$s</string>
     <string name="upload_log">Envoyer</string>
     <string name="upload_log_failed">"Impossible d'envoyer les journaux"</string>
     <string name="upload_log_no">Annuler</string>
@@ -1044,7 +1043,7 @@ Supprimer le compte ?"</string>
     <string name="veiled_alternate_text_unknown_person" />
     <string name="veiled_summary_unknown_person" />
     <string name="verify_code">Code de vérification</string>
-    <string name="version_string">Version : %s</string>
+    <string name="version_string">Version: %s</string>
     <string name="via_domain">via %1$s</string>
     <string name="view_more_conversations">Voir plus de conversations</string>
     <string name="wait_for_manual_sync_body">"\"Ce compte n'est pas configuré pour synchroniser automatiquement.

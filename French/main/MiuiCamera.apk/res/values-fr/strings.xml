@@ -382,9 +382,9 @@
     <string name="pref_camera_delay_capture_title">Minuteur</string>
     <string name="simple_mode_button_text_delay_capture">Désactiver le minuteur</string>
     <string name="pref_camera_delay_capture_entry_audio">Audio</string>
-    <string name="pref_camera_delay_capture_entry_3s">Délai 3 s</string>
-    <string name="pref_camera_delay_capture_entry_5s">Délai 5 s</string>
-    <string name="pref_camera_delay_capture_entry_10s">Délai 10 s</string>
+    <string name="pref_camera_delay_capture_entry_3s">Délai 3s</string>
+    <string name="pref_camera_delay_capture_entry_5s">Délai 5s</string>
+    <string name="pref_camera_delay_capture_entry_10s">Délai 10s</string>
     <string name="pref_ai_detect">Détection IA</string>
     <string name="pref_google_lens">Google Lens</string>
     <string name="pref_camera_beauty">Embellir</string>

@@ -65,7 +65,7 @@
     <string name="bluetooth_active_battery_level">Actif, %1$s de batterie</string>
     <string name="bluetooth_active_no_battery_level">Actif</string>
     <string name="bluetooth_battery_level">%1$s de batterie</string>
-    <string name="bluetooth_connected">Connecté%1$s</string>
+    <string name="bluetooth_connected">Connecté %1$s</string>
     <string name="bluetooth_connected_battery_level">Connecté, batterie à %1$s%2$s</string>
     <string name="bluetooth_connected_no_a2dp">Connecté (aucun contenu mutimédia)%1$s</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Connecté (aucun contenu multimédia), batterie à %1$s%2$s</string>
@@ -107,7 +107,7 @@
     <string name="bluetooth_pan_profile_summary_use_for">"Utiliser pour l'accès à Internet"</string>
     <string name="bluetooth_pan_user_profile_summary_connected">"Connecté à l'appareil pour accès Internet"</string>
     <string name="bluetooth_profile_a2dp">Multimédia</string>
-    <string name="bluetooth_profile_a2dp_high_quality">Audio HD : %1$s</string>
+    <string name="bluetooth_profile_a2dp_high_quality">Audio HD: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Audio HD</string>
     <string name="bluetooth_profile_headset">Appels téléphoniques</string>
     <string name="bluetooth_profile_hearing_aid">Assistance auditive</string>
@@ -123,17 +123,17 @@
     <string name="bluetooth_sap_profile_summary_use_for">"Utiliser pour l'accès à la carte SIM"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">"Nombre de bits par échantillon pour l'audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Critère de sélection du codec audio
-Bluetooth : nombre de bits par échantillon"</string>
+Bluetooth: nombre de bits par échantillon"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">"Mode de chaîne de l'audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Critère de sélection du codec audio
-Bluetooth : mode de chaîne"</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC : qualité de lecture</string>
+Bluetooth: mode de chaîne"</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Codec audio Bluetooth LDAC: qualité de lecture</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Critère de sélection du codec audio
-LDAC : qualité de lecture"</string>
+LDAC: qualité de lecture"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillonnage audio Bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Critère de sélection du codec audio
-Bluetooth : taux d'échantillonnage"</string>
-    <string name="bluetooth_select_a2dp_codec_streaming_label">Diffusion : %1$s</string>
+Bluetooth: taux d'échantillonnage"</string>
+    <string name="bluetooth_select_a2dp_codec_streaming_label">Diffusion: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Critère pour déclencher la sélection du codec audio
 Bluetooth"</string>
@@ -164,7 +164,7 @@ Bluetooth"</string>
     <string name="clear_adb_keys">Annuler autorisations pour débog. USB</string>
     <string name="clear_saved_traces">Effacer les traces enregistrées</string>
     <string name="clear_saved_traces_question">Effacer les traces enregistrées ?</string>
-    <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT : Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>
+    <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: Les fonctionnalités de protection de l'appareil sont désactivées tant que ce paramètre est activé."</string>
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
     <string name="connected_via_carrier">Connecté via %1$s</string>
     <string name="connected_via_network_scorer">Connecté automatiquement via %1$s</string>
@@ -188,7 +188,7 @@ Bluetooth"</string>
     <string name="data_usage_uninstalled_apps_users">Applications et utilisateurs supprimés</string>
     <string name="debug_app">Sélectionner une application à déboguer</string>
     <string name="debug_app_not_set">Aucune application à déboguer définie</string>
-    <string name="debug_app_set">Application à déboguer : %1$s</string>
+    <string name="debug_app_set">Application à déboguer: %1$s</string>
     <string name="debug_applications_category">Applications</string>
     <string name="debug_debugging_category">Débogage</string>
     <string name="debug_drawing_category">Tracé</string>
@@ -209,7 +209,7 @@ Bluetooth"</string>
     <string name="development_settings_not_available">Les options proposées aux développeurs ne sont pas disponibles pour cet utilisateur.</string>
     <string name="development_settings_summary">"Définir les options pour le développement de l'application"</string>
     <string name="development_settings_title">Options pour les développeurs</string>
-    <string name="direct_boot_unaware_dialog_message">"Remarque : Après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n'avez pas déverrouillé votre téléphone."</string>
+    <string name="direct_boot_unaware_dialog_message">"Remarque: Après un redémarrage, vous ne pouvez pas lancer cette application tant que vous n'avez pas déverrouillé votre téléphone."</string>
     <string name="disable_overlays">Désactiver superpos. matér.</string>
     <string name="disable_overlays_summary">Toujours utiliser le GPU pour la composition écran</string>
     <string name="disabled">Désactivée</string>
@@ -291,7 +291,6 @@ Bluetooth"</string>
     <string name="lb_playback_controls_thumb_down_outline">"Sélectionner Je n'aime pas"</string>
     <string name="lb_playback_controls_thumb_up">"Annuler J'aime"</string>
     <string name="lb_playback_controls_thumb_up_outline">"Sélectionner J'aime"</string>
-    <string name="lb_playback_time_separator">/</string>
     <string name="lb_search_bar_hint">Rechercher</string>
     <string name="lb_search_bar_hint_speech">Énoncez votre recherche</string>
     <string name="lb_search_bar_hint_with_title">Rechercher dans %1$s</string>
@@ -308,7 +307,7 @@ Bluetooth"</string>
     <string name="mobile_data_always_on_summary">"Maintenir les données mobiles à l'état actif, même lorsque le Wi‑Fi est actif (pour changer rapidement de réseau)"</string>
     <string name="mock_location_app">"Sélectionner l'application de position fictive"</string>
     <string name="mock_location_app_not_set">Aucune application de position fictive définie</string>
-    <string name="mock_location_app_set">Application de position fictive : \"%1$s\"</string>
+    <string name="mock_location_app_set">Application de position fictive: \"%1$s\"</string>
     <string name="no_application">Aucune</string>
     <string name="no_debuggable_apps">"Aucune application pouvant être déboguée n'est disponible"</string>
     <string name="oem_unlock_enable">Déverrouillage OEM</string>
@@ -325,17 +324,15 @@ Bluetooth"</string>
     <string name="power_discharge_by_only">"Devrait durer jusqu'à environ %1$s"</string>
     <string name="power_discharge_by_only_enhanced">"Devrait durer jusqu'à environ %1$s en fonction de l'utilisation"</string>
     <string name="power_remaining_charging_duration_only">%1$s avant charge complète</string>
-    <string name="power_remaining_duration_only">Temps restant : environ %1$s</string>
-    <string name="power_remaining_duration_only_enhanced">Temps restant en fonction de votre utilisation : environ %1$s</string>
-    <string name="power_remaining_duration_only_short">Temps restant : %1$s</string>
+    <string name="power_remaining_duration_only">Temps restant: environ %1$s</string>
+    <string name="power_remaining_duration_only_enhanced">Temps restant en fonction de votre utilisation: environ %1$s</string>
+    <string name="power_remaining_duration_only_short">Temps restant: %1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">"Il est possible que le téléphone s'éteigne bientôt"</string>
     <string name="power_remaining_duration_shutdown_imminent">"Il est possible que le téléphone s'éteigne bientôt (%1$s)"</string>
     <string name="power_remaining_less_than_duration">Il reste moins de %1$s (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Il reste moins de %1$s</string>
     <string name="power_remaining_more_than_subtext">Il reste plus de %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Il reste plus de %1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
-    <string name="preference_summary_default_combination">%1$s/%2$s</string>
     <string name="private_dns_mode_off">Désactivé</string>
     <string name="private_dns_mode_opportunistic">Automatique</string>
     <string name="private_dns_mode_provider">"Nom d'hôte du fournisseur DNS privé"</string>
@@ -349,7 +346,7 @@ Bluetooth"</string>
     <string name="retail_demo_reset_message">"Saisir mot de passe pour rétablir conf. d'usine en mode démo."</string>
     <string name="retail_demo_reset_next">Suivant</string>
     <string name="retail_demo_reset_title">Veuillez saisir le mot de passe</string>
-    <string name="running_process_item_user_label">Utilisateur : %1$s</string>
+    <string name="running_process_item_user_label">Utilisateur: %1$s</string>
     <string name="runningservices_settings_summary">"Afficher et contrôler les services en cours d'exécution"</string>
     <string name="runningservices_settings_title">"Services en cours d'exécution"</string>
     <string name="saved_network">Enregistré lors de : %1$s</string>
@@ -394,7 +391,7 @@ Bluetooth"</string>
     <string name="speed_label_slow">Lente</string>
     <string name="speed_label_very_fast">Très élevée</string>
     <string name="speed_label_very_slow">Très lente</string>
-    <string name="standby_bucket_summary">"État de mise en veille de l'application :  %s"</string>
+    <string name="standby_bucket_summary">"État de mise en veille de l'application: %s"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unavailable">Non disponible</string>
     <string name="stop_tracing">Arrêter le traçage</string>
@@ -417,7 +414,7 @@ Bluetooth"</string>
     <string name="trace_debuggable_applications">Tracer les applications pouvant être déboguées</string>
     <string name="trace_is_being_recorded">"L'enregistrement de la trace est en cours"</string>
     <string name="trace_saved">Trace enregistrée</string>
-    <string name="tracing_categories_unavailable">Certaines catégories de traçage ne sont pas disponibles :</string>
+    <string name="tracing_categories_unavailable">Certaines catégories de traçage ne sont pas disponibles:</string>
     <string name="track_frame_time">Rendu GPU du profil</string>
     <string name="transition_animation_scale_title">Échelle anim. transitions</string>
     <string name="tts_default_lang_summary">Définir la langue utilisée par la synthèse vocale</string>
@@ -491,7 +488,6 @@ Bluetooth"</string>
     <string name="zen_alarm_warning">"Vous n'entendrez pas votre prochaine alarme %1$s"</string>
     <string name="zen_alarm_warning_indef">"Vous n'entendrez pas votre prochaine alarme %1$s, sauf si vous désactivez cette option avant"</string>
     <string name="zen_interruption_level_priority">Prioritaires uniquement</string>
-    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Toujours demander</string>
     <string name="zen_mode_duration_settings_title">Durée</string>
     <string name="zen_mode_enable_dialog_turn_on">Activer</string>

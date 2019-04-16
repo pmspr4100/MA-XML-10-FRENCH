@@ -107,8 +107,6 @@
     <string name="disable_wallpaper_scroll">Désactiver le défilement</string>
 	<string name="double_tap_to_lock_title">"Appuyez deux fois pour verrouiller l'écran"</string>
     <string name="download_action">Télécharger</string>
-    <string name="drag_multiple_item_name" />
-    <string name="drag_single_item_name" />
     <string name="dual_app">Applications clônées</string>
     <string name="edit_folder_title">Éditer le nom du dossier</string>
     <string name="edit_mode_group">Groupe</string>
