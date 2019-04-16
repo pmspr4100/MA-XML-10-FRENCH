@@ -634,8 +634,8 @@ en mode Portrait"</string>
     <string name="live_edit_share_title">Partager</string>
     <string name="beauty_reset_toast">Réinitialiser les effets de figure avec succès</string>
     <string name="pref_camera_ultra_wide_mode_title">Mode ultra grand angle</string>
-    <string name="ultra_wide_mode_use_hint_text">"Utilisez ce mode pour inclure davantage de scènes dans votre photo.
-Le mode ultra grand angle vient en aide lorsque vous ne pouvez pas vous éloigner de la scène."</string>
+    <string name="ultra_wide_mode_use_hint_text_sat">"Essayez le mode ultra grand angle 0.6X pour inclure d'avantage de scènes dans votre photo.
+Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloigner de la scène."</string>
     <string name="live_reverse_message">Supprimer lélément précédemment capturé?</string>
     <string name="live_reverse_confirm">Supprimer</string>
     <string name="live_error_title">"L'heure du système n'est pas correcte"</string>
@@ -657,12 +657,12 @@ Le mode ultra grand angle vient en aide lorsque vous ne pouvez pas vous éloigne
     <string name="accessibility_ultra_pixel_photography_32mp_on">32MP est activé</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">32MP est désactivé</string>
 	<string name="wideselfie_press_shoot_key_to_start">"Appuyez sur le bouton de l'obturateur"</string>
-	<string name="wideselfie_result_image_lossless">"Impossible de sauvegarder le panorama"</string>
-	<string name="wideselfie_rotate_slowly">Faites pivoter le téléphone lentement</string>
+	<string name="wideselfie_result_image_lossless">"Impossible de créer une prise de vue panoramique"</string>
+	<string name="wideselfie_rotate_slowly">Faire pivoter le téléphone sur le côté</string>
 	<string name="wideselfie_rotate_to_back">Inclinez le téléphone en arrière</string>
 	<string name="wideselfie_rotate_to_front">"Inclinez le téléphone vers l'avant"</string>
-	<string name="wideselfie_rotate_to_left_slowly">Faites pivoter le téléphone lentement vers la gauche</string>
-	<string name="wideselfie_rotate_to_right_slowly">Faites pivoter le téléphone lentement vers la droite</string>
+	<string name="wideselfie_rotate_to_left_slowly">Faites pivoter le téléphone vers la gauche</string>
+	<string name="wideselfie_rotate_to_right_slowly">Faites pivoter le téléphone vers la droite</string>
     <string name="zoom_no_support_tip_48M">Le zoom ne fonctionne pas en mode 48MP</string>
     <string name="hand_gesture_open_tip">Montrez votre paume de main à la caméra pour commencer le minuteur</string>
     <string name="hand_gesture_tip">Minuteur avec la paulme de main</string>
