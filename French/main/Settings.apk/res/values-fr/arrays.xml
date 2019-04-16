@@ -927,7 +927,7 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Graphique</item>
-		<item>"Pourcentage (dans l'icône)"</item>
+        <item>"Pourcentage (dans l'icône)"</item>
         <item>"Pourcentage (à côté de l'icône)"</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">

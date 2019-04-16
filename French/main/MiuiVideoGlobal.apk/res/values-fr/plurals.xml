@@ -37,7 +37,7 @@
         <item quantity="one">Voir %d commentaire</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other"> abonnées</item>
+        <item quantity="other"> abonnés</item>
         <item quantity="one"> abonné</item>
     </plurals>
 </resources>
