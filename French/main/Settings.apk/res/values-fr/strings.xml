@@ -443,7 +443,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="application_size_label">"Taille d'application"</string>
     <string name="applications_settings">Gérer les applications</string>
     <string name="applications_settings_header">Paramètres des applications</string>
-    <string name="applications_settings_summary">Gérer les applications, configurer des raccourcis de lancement rapide</string>
+    <string name="applications_settings_summary">Gérer les applications</string>
     <string name="apply">Appliquer</string>
     <string name="apply_fingerprint_to_category_title">"Appliquer l'empreinte digitale à…"</string>
     <string name="apply_now_button_text">Mise à jour</string>
@@ -3733,13 +3733,6 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
 	<string name="page_layout_confirm_title">Valider les changements</string>
     <string name="page_layout_confirm_title_enlarge">Articles plus gros</string>
 	<string name="page_layout_confirm_title_narrow">Articles plus petits</string>
-	<string name="page_layout_godzilla_title">XXL</string>
-    <string name="page_layout_huge_title">XL</string>
-    <string name="page_layout_large_title">L</string>
-    <string name="page_layout_medium_title">M</string>
-    <string name="page_layout_normal_title">S</string>
-    <string name="page_layout_page2_godzilla_summary">XXL</string>
-    <string name="page_layout_page2_godzilla_title">XXL</string>
     <string name="page_layout_page2_huge_summary">Très grande</string>
     <string name="page_layout_page2_huge_title">Très grande</string>
     <string name="page_layout_page2_large_summary">Grande</string>
@@ -3751,7 +3744,6 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="page_layout_page2_small_summary">Très petite</string>
     <string name="page_layout_page2_small_title">Très petite</string>
     <string name="page_layout_page2_title">Aperçu</string>
-    <string name="page_layout_small_title">XS</string>
     <string name="page_tab_title_summary">Tous</string>
     <string name="page_tab_title_support">Aide et conseils</string>
     <string name="paper_mode_auto_twilight_summary">Basculez automatiquement vers le mode lecture au crépuscule</string>
