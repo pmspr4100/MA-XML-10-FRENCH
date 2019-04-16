@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="allow_network_hint">Turn on \"Update info automatically\" or check your network connection</string>
