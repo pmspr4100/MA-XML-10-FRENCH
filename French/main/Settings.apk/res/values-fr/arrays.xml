@@ -902,12 +902,12 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
-        <item>"Outils d'installation : sudo aptitude install mtpfs libfuse-dev libmad0-dev"</item>
+        <item>"Outils d'installation: sudo aptitude install mtpfs libfuse-dev libmad0-dev"</item>
         <item>Créez un dossier \"mkdir\" /media/mtp</item>
         <item>"Confirmer les autorisations du groupe d'utilisateur dans le groupe d'utilisateurs actuels"</item>
         <item>Connectez-vous à nouveau</item>
-        <item>Accéder au périphérique monté : mtpfs/media/mtp via Explorateur de fichiers ; pareil que le dossier local.</item>
-        <item>"Désinstaller le périphérique : fusermount -u/media/mtp
+        <item>Accéder au périphérique monté: mtpfs/media/mtp via Explorateur de fichiers; pareil que le dossier local.</item>
+        <item>"Désinstaller le périphérique: fusermount -u/media/mtp
 Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
@@ -927,7 +927,8 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Graphique</item>
-        <item>Pourcentage</item>
+		<item>"Pourcentage (dans l'icône)"</item>
+        <item>"Pourcentage (à côté de l'icône)"</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
         <item>Rechercher</item>
@@ -936,54 +937,6 @@ Note : seulement pour Ubuntu 8.04 !"</item>
     <string-array name="notification_style_entries">
         <item>MIUI </item>
         <item>Android</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>dz</item>
-        <item>ao</item>
-        <item>bh</item>
-        <item>bw</item>
-        <item>br</item>
-        <item>cm</item>
-        <item>cd</item>
-        <item>ci</item>
-        <item>eg</item>
-        <item>gq</item>
-        <item>et</item>
-        <item>fr</item>
-        <item>gh</item>
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>ir</item>
-        <item>ke</item>
-        <item>ls</item>
-        <item>mw</item>
-        <item>my</item>
-        <item>mx</item>
-        <item>ma</item>
-        <item>mz</item>
-        <item>mm</item>
-        <item>na</item>
-        <item>ng</item>
-        <item>ph</item>
-        <item>qa</item>
-        <item>ru</item>
-        <item>rw</item>
-        <item>sn</item>
-        <item>sg</item>
-        <item>za</item>
-        <item>kr</item>
-        <item>sz</item>
-        <item>tw</item>
-        <item>tz</item>
-        <item>th</item>
-        <item>tr</item>
-        <item>ug</item>
-        <item>ua</item>
-        <item>ae</item>
-        <item>vn</item>
-        <item>zm</item>
-        <item>zw</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Aucun</item>
@@ -1120,7 +1073,7 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>64K par tampon journal</item>
         <item>256K par tampon journal</item>
         <item>1M par tampon de journal</item>
@@ -1142,13 +1095,13 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Seulement tampons de journal de kernel</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>Tout</item>
         <item>Tout sauf radio</item>
         <item>Kernel seulement</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>Dessiner une région de clip non rectangulaire en bleu</item>
         <item>Surligner les commandes de dessin testées en vert</item>
     </string-array>
@@ -1164,9 +1117,9 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Refuser</item>
     </string-array>
     <string-array name="time_format_entries">
-        <item>12-hour 1:00 PM</item>
-        <item>24-hour 13:00</item>
-        <item>Auto (based on system language)</item>
+        <item>12-heures 1:00 PM</item>
+        <item>24-heures 13:00</item>
+        <item>Auto (basé sur la langue du système)</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Amérique</item>
