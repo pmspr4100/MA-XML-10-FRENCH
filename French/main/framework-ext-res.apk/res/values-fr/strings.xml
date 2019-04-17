@@ -93,7 +93,6 @@
 	<string name="popup_camera_calibrate_now">Calibrer</string>
 	<string name="popup_camera_calibrate_success">"Calibré avec succès. Vous pouvez ouvrir l'appareil photo frontale maintenant."</string>
 	<string name="popup_camera_front_failed">"Impossible d'ouvrir l'appareil photo frontale. Réessayer."</string>
-	<string name="popup_camera_front_falied_times">"Impossible d'ouvrir l'appareil photo frontale plusieurs fois. Apportez votre appareil dans un Mi Store près de chez vous pour diagnostiquer le problème."</string>
 	<string name="popup_camera_front_when_use">"L'appareil photo frontale est occupée maintenant. Ouvrir quand même ?"</string>
 	<string name="popup_camera_popup_falied_times_calibrate">"Impossible d'ouvrir l'appareil photo frontale plusieurs fois. Essayez de calibrer l'appareil photo."</string>
 	<string name="popup_camera_sure">Got it</string>

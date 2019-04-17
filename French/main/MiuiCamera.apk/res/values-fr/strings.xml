@@ -532,7 +532,8 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="user_agree">Accepter</string>
     <string name="do_not_remind_me">Ne plus afficher</string>
     <string name="user_notice_identify_summary_format">"En utilisant ce service, vous acceptez les conditions de Xiaomi %1$s et %2$s Acceptez-vous de vous connecter à Internet ?"</string>
-    <string name="user_notice_title">"Conditions générales d'utilisation"</string>
+    <string name="user_notice_title">Termes et conditions</string>
+    <string name="video_beauty_tip">Embellir pour les vidéos</string>
     <string name="network_access_user_notice_title">Connexion à Internet</string>
     <string name="install_confirmed">Installer</string>
     <string name="confirm_install_scanner_title">Installer Scanner</string>
@@ -604,6 +605,7 @@ en mode Portrait"</string>
     <string name="beauty_body_legged">Jambes</string>
     <string name="beauty_body_reset_tip">Effet de figure supprimé avec succès</string>
     <string name="ultra_wide_open_tip">Mode ultra grand angle</string>
+    <string name="ultra_wide_open_tip_sat">"0.6X Ultra grand angle"</string>
     <string name="ultra_wide_close_tip">Mode ultra grand angle est désactivé</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ULTRA GRAND</string>
     <string name="ultra_wide_recommend_tip_hint">Essayez le mode ultra grand angle</string>
