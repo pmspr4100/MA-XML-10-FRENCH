@@ -61,7 +61,7 @@
     <string name="lockscreen_access_pattern_cleared">Schéma effacé</string>
     <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée</string>
     <string name="lockscreen_access_pattern_detected">Schéma terminé</string>
-    <string name="memory_clear_result">%1$sB effacés</string>
+    <string name="memory_clear_result">%1$so effacés</string>
     <string name="memory_clear_nothing_result">Rien à effacer dans le cache</string>
     <string name="shutdown_confirm_title">"Éteindre l'appareil maintenant ?"</string>
     <string name="shutdown_progress">Extinction…</string>
