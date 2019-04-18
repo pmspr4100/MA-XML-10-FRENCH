@@ -3377,7 +3377,7 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="navigation_guide_recent_summary">"Balayer du bas vers le haut de l'écran et mettre en pause"</string>
     <string name="navigation_guide_recent_title">Ouvrir Récents</string>
     <string name="navigation_guide_settings">Démos de gestes</string>
-    <string name="navigation_type_radio_text_full_screen">Gestes en plein écran</string>
+    <string name="navigation_type_radio_text_full_screen">Gestes</string>
     <string name="navigation_type_radio_text_virtual_key">Boutons</string>
     <string name="navigation_type_settings">Navigation du système</string>
     <string name="nearby_wifi">Réseaux disponibles</string>
@@ -5326,8 +5326,8 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="switch_access_service_on">"Changer d'accès"</string>
     <string name="switch_off_text">Désactivé</string>
     <string name="switch_on_text">Activé</string>
-    <string name="switch_screen_button_order">Boutons miroir</string>
-    <string name="switch_screen_button_order_desc">Boutons Miroir retour et Menu</string>
+    <string name="switch_screen_button_order">Inversion des boutons</string>
+    <string name="switch_screen_button_order_desc">"Inverser 'Retour et Menu'"</string>
     <string name="switch_select_to_speak_on">Sélectionnez pour parler</string>
     <string name="symbols_not_allowed_for_password">Le mot de passe ne peut contenir de symbole</string>
     <string name="sync_active">Synchronisation activée</string>
