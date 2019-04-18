@@ -1,14 +1,13 @@
-## TRADUCTION FRANÇAISE MIUI V10
-
 ## Introduction:
-* Ce référentiel contient la Traduction Française.
+* Le référentiel contient la Traduction Française.
 * Support de la ROM Stable pour [xiaomi.eu].
 * Support de la ROM Bêta pour [xiaomi.eu].
 
 ## Traducteur:
-* Pseudo: pms.pr4100
+* Pseudo: pmspr4100
 * Téléphone: Redmi Note 7
-* Version MIUI: Xiaomi.eu Weekly
+* MIUI 10: Xiaomi.eu [Bêta]
+* Contact: (pms.pr4100@gmail.com)
 
 ## Améliorations:
 * Des mises à jour quotidiennes sont effectuées.
@@ -17,4 +16,4 @@
 * Correction orthographique.
 
 ## Pour tous problèmes:
-* Contact: (pms.pr4100@gmail.com)
+* https://github.com/pmspr4100/MA-XML-10-FRENCH/issues
