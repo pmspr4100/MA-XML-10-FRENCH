@@ -519,8 +519,8 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="cannot_connect_camera_volte_call">Appel vidéo en cours, réessayez plus tard.</string>
     <string name="pref_camera_groupshot_mode_title">Selfie en groupe</string>
     <string name="simple_mode_button_text_groupshot">Désactiver le Selfie en groupe</string>
-	<string name="pref_google_lens_summary">"Pointez votre caméra sur les informations de contact, les URL et les QR codes pour afficher les options disponibles."</string>
-	<string name="pref_google_lens_title">Suggestion Lens</string>
+    <string name="pref_google_lens_summary">"Pointez votre caméra sur les informations de contact, les URL et les QR codes pour afficher les options disponibles."</string>
+    <string name="pref_google_lens_title">Suggestion Lens</string>
     <string name="pref_groupshot_with_primitive_title">"Enregistrer les photos d'origine également"</string>
     <string name="hint_groupshot_beauty">"Impossible d'utiliser Embellir dans les captures de groupe"</string>
     <string name="hint_groupshot">"L'app. photo prendra plusieurs photos
