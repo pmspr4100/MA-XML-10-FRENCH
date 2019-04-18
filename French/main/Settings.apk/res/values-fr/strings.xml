@@ -1468,8 +1468,8 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="current_use_uicc_se">Utilisation des éléments sécurisés sur la carte SIM</string>
     <string name="current_use_uicc_wallet">Vous utilisez le portefeuille de la carte SIM %1$s</string>
     <string name="current_zone">(actuel)</string>
-    <string name="custom_carrier_title">"Éditer le nom de l'opérateur"</string>
-    <string name="custom_wifi_name_title">Éditer le nom du Wi-Fi</string>
+    <string name="custom_carrier_title">"Modifier le nom de l'opérateur"</string>
+    <string name="custom_wifi_name_title">Modifier le nom du Wi-Fi</string>
     <string name="cutout_mode_always">"Toujours montrer l'encoche"</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">"Certaines applications risquent de ne pas s'afficher correctement si vous personnalisez le mode d'affichage de l'encoche."</string>
@@ -1717,7 +1717,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_cpu4_info">Quad-core</string>
     <string name="device_cpu6_info">Hexa-core</string>
     <string name="device_cpu8_info">Octa-core</string>
-    <string name="device_description_battery">Capacité de la batterie</string>
+    <string name="device_description_battery">Batterie</string>
     <string name="device_description_camera">Caméra arrière</string>
     <string name="device_description_cpu">Processeur</string>
     <string name="device_description_ram">Mémoire vive</string>
@@ -4358,7 +4358,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="screen_paper_mode_off_apps_title">Ne pas utiliser le mode lecture</string>
     <string name="screen_paper_mode_range_title">Paramètres</string>
     <string name="screen_paper_mode_set_apps_title">Applications de mode de lecture</string>
-    <string name="screen_paper_mode_summary">Le mode Lecture rend les couleurs de votre écran plus chaudes et permet à vos yeux de se détendre.</string>
+    <string name="screen_paper_mode_summary">Le mode lecture rend les couleurs de votre écran plus chaudes et permet à vos yeux de se détendre.</string>
     <string name="screen_paper_mode_time_summary">"Définissez l'heure d'activation et de désactivation du mode lecture"</string>
     <string name="screen_paper_mode_time_title">Planifier</string>
     <string name="screen_paper_mode_title">Mode lecture</string>
@@ -4602,7 +4602,7 @@ Pour épingler l'écran:
     <string name="search_sound_effects_enable_title">Sons des touches;Activer les sons des touches</string>
     <string name="search_sound_settings">Sons;Volume;Vibration;Supprimer le bruit;Supression du bruit</string>
     <string name="search_status_bar_settings">"Notifications &amp; barre d'état;Notifications;Barre d'état"</string>
-    <string name="search_status_bar_settings_custom_carrier">"Éditer le nom de l'opérateur;Nom de l'opérateur"</string>
+    <string name="search_status_bar_settings_custom_carrier">"Modifier le nom de l'opérateur;Nom de l'opérateur"</string>
     <string name="search_status_bar_settings_expandable_under_keyguard">"Afficher à l'écran de verrouillage;afficher à l'écran de verrouillage"</string>
     <string name="search_status_bar_settings_manage_notification">Notifications des applications;Notifications</string>
     <string name="search_status_bar_settings_show_carrier">"Afficher le nom de l'opérateur;Nom de l'opérateur"</string>
@@ -4828,7 +4828,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
     <string name="show_all_anrs_summary">"Afficher le dialogue \" L'application ne répond pas \" pour les applications en arrière-plan"</string>
     <string name="show_all_apps">"Afficher l'utilisation de l'appareil chargé"</string>
     <string name="show_background_processes">Afficher processus en cache</string>
-    <string name="show_carrier_under_keyguard_title">"Afficher le nom de l'opérateur quand l'appareil est verrouillé"</string>
+    <string name="show_carrier_under_keyguard_title">"Afficher le nom de l'opérateur"</string>
     <string name="show_connected_devices_summary">Afficher les appareils connectés</string>
     <string name="show_connected_devices_title">Appareils connectés</string>
     <string name="show_dev_already">Inutile, vous êtes déjà un développeur.</string>
