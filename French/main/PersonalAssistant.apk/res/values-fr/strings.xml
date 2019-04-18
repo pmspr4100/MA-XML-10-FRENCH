@@ -82,9 +82,9 @@
     <string name="ball_football_quarter_finals">Quart de finale</string>
     <string name="ball_football_rank_team">Équipes</string>
     <string name="ball_football_recent_finished">FINI</string>
-    <string name="ball_football_recent_next_game">Prochain match : %s</string>
+    <string name="ball_football_recent_next_game">Prochain match: %s</string>
     <string name="ball_football_recent_playing">DIRECT</string>
-    <string name="ball_football_recent_starting_time">Débute à : %s</string>
+    <string name="ball_football_recent_starting_time">Débute à: %s</string>
     <string name="ball_football_recent_time">dd/MM HH:mm</string>
     <string name="ball_football_round_of_16">Huitièmes de finale</string>
     <string name="ball_football_round_one">Phase de groupes (1er tour)</string>
@@ -129,6 +129,16 @@
     <string name="cleanup_garbage">Nettoyeur</string>
     <string name="cleanup_memory">Vider le cache</string>
     <string name="cleanup_power">Nettoyage en profondeur</string>
+    <string name="clear">Nettoyer</string>
+    <string name="clock_alarm">Alarme</string>
+    <string name="clock_parent">Horloge</string>
+    <string name="closed">Désactivé</string>
+    <string name="commute">Suggestions de carte</string>
+    <string name="commute_open">Afficher des suggestions de carte</string>
+    <string name="commute_setting_brief">"Obtenez des suggestions d'itinéraire et de trafic avant votre départ".</string>
+    <string name="corpus_description_apps">Applications installées</string>
+    <string name="corpus_hint_apps">Rechercher des applications</string>
+    <string name="corpus_label_apps">Applications</string>
     <string name="company">Lieu de travail</string>
     <string name="company_or_school">Bureau ou école</string>
     <string name="cricket_content_provider">Fournisseur de contenu</string>
@@ -266,7 +276,7 @@
     <string name="scan_code">Code QR</string>
     <string name="scan_doc">Document</string>
     <string name="scan_parent">Scanneur</string>
-    <string name="search_card_view_date">EE d/M/y</string>
+    <string name="search_card_view_date">EEEE dd/MM/yy</string>
     <string name="search_tip">Recherche en cours…</string>
     <string name="security">Sécurité</string>
     <string name="security_brief">Protégez votre appareil et nettoyez le stockage</string>
@@ -292,7 +302,7 @@
     <string name="setting_football_edit">Éditer</string>
     <string name="setting_football_fav">Équipes</string>
     <string name="setting_football_fav_null">Vous ne suivez aucune équipe</string>
-    <string name="setting_football_hupu">Sportskeeda</string>
+    <string name="setting_football_hupu">HuPu</string>
     <string name="setting_football_loading">Un instant…</string>
     <string name="setting_football_select_title" formatted="false">Sélectionner une équipe à suivre (%d/%d)</string>
     <string name="setting_football_toast_max">"Vous pouvez sélectionner jusqu'à 4 équipes"</string>
