@@ -93,6 +93,7 @@
     <string name="feedback_description">Description</string>
     <string name="feedback_description_bugreport_hint">Dans certains cas (…) mon téléphone se comporte de façon étrange (…).</string>
     <string name="feedback_description_hint">Décrivez le problème que vous avez rencontré</string>
+    <string name="feedback_description_hint_suggestion">"Dites-nous comment vous souhaitez améliorer MIUI."</string>
     <string name="feedback_description_label">Description</string>
     <string name="feedback_description_suggest_hint">"J'aimerais ajouter une nouvelle fonctionnalité () parce que je voudrais ()."</string>
     <string name="feedback_detail_tile">Progression</string>
@@ -101,6 +102,7 @@
     <string name="feedback_history_remind_login_desc">Connectez-vous avec votre Compte Mi pour voir les détails et la progression de vos commentaires</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Clé JIRA: %s</string>
+    <string name="feedback_jira_key_place_holder">Créer une Jira…</string>
     <string name="feedback_package_log_failed">Impossible de compresser les journaux</string>
     <string name="feedback_phone_model_label">Modèle du téléphone</string>
     <string name="feedback_probability_label">Probabilité</string>
