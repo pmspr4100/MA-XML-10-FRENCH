@@ -5638,51 +5638,52 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_access_description">"L'accès aux données d'utilisation permet à une application d'effectuer le suivi des applications que vous utilisez, de la fréquence d'utilisation, de l'opérateur, des paramètres de langue et d'autres détails."</string>
     <string name="usage_access_title">Applis avec accès données util.</string>
     <string name="usage_log">"Statistiques d'utilisation des apps"</string>
-    <string name="usage_state_app_timer">"Temps d'écran"</string>
-    <string name="usage_state_app_usage_detail_title">"Détails d'utilisation de l'application"</string>
-    <string name="usage_state_app_usage_list_title">"Temps d'écran des applications aujourd'hui"</string>
-    <string name="usage_state_app_usage_list_week_title">"Durée de l'écran des applications (7 derniers jours)"</string>
-    <string name="usage_state_app_usage_tip_title" formatted="false">"Temps d'écran entre %d:00 et %d:00"</string>
-    <string name="usage_state_app_use_time">"Temps d'écran de l'application"</string>
-    <string name="usage_state_channel_mouth">Les 30 derniers jours</string>
-    <string name="usage_state_channel_week">Les 7 derniers jours</string>
-    <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifications entre %d:00 et %d:00</string>
-    <string name="usage_state_device_unlock_today_tip_title" formatted="false">Appareil déverrouillé entre %d:00 et %d:00</string>
-    <string name="usage_state_friday">Ven</string>
-    <string name="usage_state_go_more">"Plus d'applications"</string>
-    <string name="usage_state_less_one_minute">Moins de 1 minute</string>
-    <string name="usage_state_monday">Lun</string>
-    <string name="usage_state_mourth_day">"'Temps d'écran le' d MMM"</string>
-    <string name="usage_state_noti_mourth_day">"'Notifications le' d MMM "</string>
-    <string name="usage_state_notification">Gérer les notifications</string>
-    <string name="usage_state_notification_manager">"Gérer les notifications d'applications"</string>
-    <string name="usage_state_remind_summary">"Activer pour recevoir des alertes de temps d'écran. Vous pouvez définir des délais différents pour les jours de semaine et les week-ends."</string>
-    <string name="usage_state_remind_title">"Alerte de temps d'écran"</string>
-    <string name="usage_state_rest_day">Week-end</string>
-    <string name="usage_state_saturday">Sam</string>
-    <string name="usage_state_set_invalid_time_toast">"Impossible de définir des délais inférieurs à 1 minute"</string>
-    <string name="usage_state_sunday">Dim</string>
-    <string name="usage_state_thursday">Jeu</string>
-    <string name="usage_state_today">"Aujourd'hui"</string>
-    <string name="usage_state_today_total_text">"Temps d'écran aujourd'hui"</string>
-    <string name="usage_state_tuesday">Mar</string>
-    <string name="usage_state_unlock_mourth_day">"'Déverrouillé le' d MMM"</string>
-    <string name="usage_state_usage_time">"Temps d'écran"</string>
-    <string name="usage_state_usage_time_remind">"Alerte de temps d'écran"</string>
-    <string name="usage_state_use_time_remind_title">"Alerte de temps d'écran"</string>
-    <string name="usage_state_wednesday">Mer</string>
-    <string name="usage_state_week_day_hour_minute" formatted="false">Week-end: %d h %d m</string>
-    <string name="usage_state_week_total_text">"Temps d'écran (7 derniers jours)"</string>
+    <string name="usage_state_app_timer">Screen time</string>
+    <string name="usage_state_app_usage_detail_title">App usage details</string>
+    <string name="usage_state_app_usage_list_title">"Apps' screen time today"</string>
+    <string name="usage_state_app_usage_list_week_title">"Apps' screen time (last 7 days)"</string>
+    <string name="usage_state_app_usage_tip_title" formatted="false">Screen time between %d:00 and %d:00</string>
+    <string name="usage_state_app_use_time">App screen time</string>
+    <string name="usage_state_channel_mouth">Last 30 days</string>
+    <string name="usage_state_channel_week">Last 7 days</string>
+    <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifications between %d:00 and %d:00</string>
+    <string name="usage_state_device_unlock_today_tip_title" formatted="false">Unlocked device between %d:00 and %d:00</string>
+    <string name="usage_state_friday">Fri</string>
+    <string name="usage_state_go_more">More apps</string>
+    <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
+    <string name="usage_state_less_one_minute">Less than 1 minute</string>
+    <string name="usage_state_monday">Mon</string>
+    <string name="usage_state_mourth_day">"'Screen time on' MMM d"</string>
+    <string name="usage_state_noti_mourth_day">"'Notifications on' MMM d"</string>
+    <string name="usage_state_notification">Manage notifications</string>
+    <string name="usage_state_notification_manager">Manage app notifications</string>
+    <string name="usage_state_remind_summary">Turn on to receive screen time alerts. You can set different time limits for weekdays and weekends.</string>
+    <string name="usage_state_remind_title">Screen time alert</string>
+    <string name="usage_state_rest_day">Weekends</string>
+    <string name="usage_state_saturday">Sat</string>
+    <string name="usage_state_set_invalid_time_toast">"Can't set time limits shorter than 1 minute"</string>
+    <string name="usage_state_sunday">Sun</string>
+    <string name="usage_state_thursday">Thu</string>
+    <string name="usage_state_today">Today</string>
+    <string name="usage_state_today_total_text">Screen time today</string>
+    <string name="usage_state_tuesday">Tue</string>
+    <string name="usage_state_unlock_mourth_day">"'Unlocked on' MMM d"</string>
+    <string name="usage_state_usage_time">Screen time</string>
+    <string name="usage_state_usage_time_remind">Screen time alert</string>
+    <string name="usage_state_use_time_remind_title">Screen time alert</string>
+    <string name="usage_state_wednesday">Wed</string>
+    <string name="usage_state_week_day_hour_minute" formatted="false">Weekends: %dh %dm</string>
+    <string name="usage_state_week_total_text">Screen time (last 7 days)</string>
     <string name="usage_state_which_mouth">MMM</string>
-    <string name="usage_state_work_day">Week-end</string>
-    <string name="usage_state_work_day_hour_minute" formatted="false">Jours de la semaine: %d h %d m</string>
+    <string name="usage_state_work_day">Weekdays</string>
+    <string name="usage_state_work_day_hour_minute" formatted="false">Weekdays: %dh %dm</string>
     <string name="usage_stats_label">Données statistiques</string>
     <string name="usage_stats_normal_day">Jours de la semaine</string>
     <string name="usage_stats_week_day">Week-end</string>
     <string name="usage_time_label">"Temps d'utilisation"</string>
     <string name="usage_type_actual_power">Consommation observée</string>
     <string name="usage_type_audio">Audio</string>
-    <string name="usage_type_camera">Caméra</string>
+    <string name="usage_type_camera">Appareil photo</string>
     <string name="usage_type_computed_power">Consommation calculée</string>
     <string name="usage_type_cpu">Processeur - Durée totale</string>
     <string name="usage_type_cpu_foreground">Processeur - Premier plan</string>
@@ -5933,7 +5934,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="virus_scan_app_uninstall">Retirer %d</string>
     <string name="virus_scan_app_waiting">En attente…</string>
     <string name="virus_scanner_auto_update">Mise à jour auto</string>
-    <string name="virus_scanner_date_formater">d MMM yyyy</string>
+    <string name="virus_scanner_date_formater">dd MM yyyy</string>
     <string name="virus_scanner_lib_already_latest">Définitions déjà à jour</string>
     <string name="virus_scanner_lib_update_failed">Impossible de mettre à jour</string>
     <string name="virus_scanner_lib_updating">Mise à jour de la base de données…</string>
