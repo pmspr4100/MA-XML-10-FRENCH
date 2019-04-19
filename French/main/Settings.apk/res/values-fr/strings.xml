@@ -3000,7 +3000,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="make_sure_cancel_update">Annuler la mise à jour ?</string>
     <string name="man_add_application">Ajouter des applications au démarrage automatique</string>
     <string name="manage_device_admin">"Applis d'administration des appareils"</string>
-    <string name="manage_facerecoginition_text">Gérer les données d visage</string>
+    <string name="manage_facerecoginition_text">Gérer les données de visage</string>
     <string name="manage_fakecell_settings">Protection contre les fausses stations de base</string>
     <string name="manage_fingerprint_text">Gérer les empreintes digitales</string>
     <string name="manage_mobile_plan_title">Forfait mobile</string>
