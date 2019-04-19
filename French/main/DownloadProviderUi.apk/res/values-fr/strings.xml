@@ -56,7 +56,6 @@
     <string name="s7">Annonce test</string>
     <string name="select_all">Tout sélectionner</string>
     <string name="selected_count">%1$d sélectionné(s) sur %2$d</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="DOWNLOAD_UNIT_BIT">b</string>
     <string name="DOWNLOAD_UNIT_GB">Go</string>
     <string name="DOWNLOAD_UNIT_KB">ko</string>
@@ -203,6 +202,7 @@
     <string name="pref_summary_no_limit_popup">Illimité</string>
     <string name="pref_title_enable_max_bytes_popup">"Afficher l'invite d'utilisation des données"</string>
     <string name="preferences_title">Paramètres</string>
+    <string name="new_add">Nouveau téléchargement</string>
     <string name="privacy_tip_cancel">Annuler</string>
     <string name="privacy_tip_ok">OK </string>
     <string name="rank">Classements</string>

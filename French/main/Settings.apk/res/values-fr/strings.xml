@@ -52,7 +52,7 @@
     <string name="ac_set_apps_title">Choisir une application à bloquer</string>
     <string name="accelerometer_summary_off">"Changer automatiquement d'orientation lors de la rotation du téléphone"</string>
     <string name="accelerometer_summary_on">"Changer automatiquement d'orientation lors de la rotation du téléphone"</string>
-    <string name="accelerometer_title">"Rotation auto de l'écran"</string>
+    <string name="accelerometer_title">"Rotation automatique de l'écran"</string>
     <string name="access_control_app_entry_multiple">Ouvrir %s</string>
     <string name="access_control_app_entry_single">"Ouvrir l'application"</string>
     <string name="access_control_need_password">"%s a été protégé
@@ -2374,7 +2374,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gesture_prevent_ringing_title">Appuyer simultanément sur les boutons \"Marche/Arrêt\" et \"Volume +\"</string>
     <string name="gesture_setting_off">Désactivé</string>
     <string name="gesture_setting_on">Activé</string>
-    <string name="gesture_wakeup_title">Appui double sur l’écran pour réveiller</string>
+    <string name="gesture_wakeup_title">"Appui double pour réveiller l'écran"</string>
     <string name="giga_hertz">GHz</string>
     <string name="gigabyteShort">Go</string>
     <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs sur ce téléphone.</string>
@@ -3010,7 +3010,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="manage_space_text">"Gérer l'espace"</string>
     <string name="manage_trust_agents">Agents de confiance</string>
     <string name="manage_trust_agents_summary">Aucun</string>
-    <string name="manage_xiaomi_router">Paramètres de Mi Router</string>
+    <string name="manage_xiaomi_router">Paramètres du Mi Router</string>
     <string name="manage_zen_access_title">Accès \"Ne pas déranger\"</string>
     <string name="manageapplications_settings_summary">Gérer et supprimer les applications installées</string>
     <string name="manageapplications_settings_title">Applications installées</string>
@@ -3791,7 +3791,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="phone_info_label">Informations sur le téléphone</string>
     <string name="phone_language">Langues</string>
     <string name="physical_keyboard_title">Clavier physique</string>
-    <string name="pick_up_gesture_wakeup_title">Soulever pour allumer</string>
+    <string name="pick_up_gesture_wakeup_title">"Soulever pour allumer l'écran"</string>
     <string name="picture_color_mode">Mode image couleur</string>
     <string name="picture_color_mode_desc">Utiliser sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Autorisez cette application à créer une fenêtre Picture-in-picture lorsqu'elle est ouverte ou après l'avoir quittée (par exemple, pour continuer de regarder une vidéo). Cette fenêtre se superpose aux autres applications en cours d'utilisation."</string>
@@ -6322,7 +6322,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_ip_settings_invalid_network_prefix_length">Le préfixe réseau doit être compris entre 0 et 32.</string>
     <string name="wifi_ip_settings_menu_cancel">Annuler</string>
     <string name="wifi_ip_settings_menu_save">Enregistrer</string>
-    <string name="wifi_limit_optimizations_summary">Limiter batterie util. par Wi‑Fi</string>
+    <string name="wifi_limit_optimizations_summary">Limiter batterie util. par Wi-Fi</string>
     <string name="wifi_menu_advanced">Options avancées</string>
     <string name="wifi_menu_configure">Configurer</string>
     <string name="wifi_menu_connect">Se connecter au réseau</string>
@@ -6337,7 +6337,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_menu_write_to_nfc">Modifier le tag NFC</string>
     <string name="wifi_metered_label">Mesuré</string>
     <string name="wifi_modify">Modifier</string>
-    <string name="wifi_more">Plus</string>
+    <string name="wifi_more">Additionnel</string>
     <string name="wifi_multiple_cert_added">(Plusieurs certificats ajoutés)</string>
     <string name="wifi_network_optimization">Connexion au réseau intelligent</string>
     <string name="wifi_network_prefix_length">Longueur du préfixe réseau</string>
