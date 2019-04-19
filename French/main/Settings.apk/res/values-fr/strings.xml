@@ -435,7 +435,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="application_item_already_permission">Autorisé</string>
     <string name="application_item_disable">Refuser</string>
     <string name="application_item_permission">Autoriser</string>
-    <string name="application_lock_name">"Verrouillage d'application"</string>
+    <string name="application_lock_name">"Verrouillage d'applications"</string>
     <string name="application_manager_section_title">Applications</string>
     <string name="application_permission_manager">Autorisation des applications</string>
     <string name="application_permissions">Autorisation des applications</string>
@@ -1678,7 +1678,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Supprimer cette empreinte digitale ?</string>
     <string name="delete_rule">Retirer des règles</string>
     <string name="delete_saved_network">Supprimer les réseaux enregistrés</string>
-    <string name="delete_sound_effect">Le son de «Supprimer»</string>
+    <string name="delete_sound_effect">Son de «Supprimer»</string>
     <string name="deleted_apps">Applications supprimées</string>
     <string name="deletion_helper_automatic_title">Automatique</string>
     <string name="deletion_helper_manual_title">Manuels</string>
@@ -1937,7 +1937,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="doze_summary">"Activer l'écran lors de la réception de notifications"</string>
     <string name="doze_title">Nouvelles notifications</string>
     <string name="draw_overlay">Superposer aux autres applis</string>
-    <string name="dtmf_tone_enable_title">Son du clavier</string>
+    <string name="dtmf_tone_enable_title">Tonalité du clavier</string>
     <string name="dual_clock">Double horloge</string>
     <string name="dual_clock_aod_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes: 1. Pour l'écran éteitn, autoriser d'afficher les éléments dans Paramètres > Afficher; 2. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres > Thèmes; 3. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
     <string name="dual_clock_aod_open_message">Dual Clock will be displayed on the Lock screen, Home screen, and turned off screen.</string>
@@ -3179,7 +3179,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_settings">Laboratoire MIUI</string>
     <string name="miui_lab_slogan">Apprendre. Explorer. Découvrir.</string>
     <string name="miui_master_clear_summary">Efface toutes les données sur le téléphone</string>
-    <string name="miui_more_special_feature">Explorer de nouvelles fonctionnalités</string>
+    <string name="miui_more_special_feature">Nouvelles fonctionnalités</string>
     <string name="miui_optimization_disabled">"Désactiver l'optimisation de MIUI"</string>
     <string name="miui_sos_audio_summary">"Jouer le message SOS après que le contact d'urgence ait répondu"</string>
     <string name="miui_sos_audio_title">Message vocal SOS</string>
@@ -3983,7 +3983,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_mode_enable_sum">Masquer les messages, notes, photos, paramètres et appels entrants</string>
     <string name="privacy_mode_enable_title">Activer le mode invité</string>
     <string name="privacy_notes">Notes</string>
-    <string name="privacy_password">Mot de passe de protection de confidentialité</string>
+    <string name="privacy_password">Mot de passe de confidentialité</string>
     <string name="privacy_password_add_account">Ajouter</string>
     <string name="privacy_password_add_account_info">"Ajoutez votre compte Mi pour pourvoir réinitialiser votre mot de passe au cas où vous l'oubliez"</string>
     <string name="privacy_password_add_account_setting">Compte &amp; confidentialité</string>
@@ -4009,7 +4009,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_password_settings_titles">Le mot de passe de protection de la vie privée protège vos messages, photos, fichiers et notes.</string>
     <string name="privacy_password_settings_titles_elder_mode">Mot de passe de protection de confidentialité protège vos photos, fichiers et notes.</string>
     <string name="privacy_password_settings_titles_second_space">Mot de passe de protection de confidentialité protège vos messages, photos et notes.</string>
-    <string name="privacy_password_title">Mot de passe de protection de confidentialité</string>
+    <string name="privacy_password_title">Mot de passe de confidentialité</string>
     <string name="privacy_password_toggle_summary">Exigez un mot de passe chaque fois que des éléments privés sont accédés.</string>
     <string name="privacy_password_use_finger_dialog_mess">Vous pouvez également utiliser votre empreinte digitale avec le mot de passe de protection de confidentialité.</string>
     <string name="privacy_password_use_finger_dialog_open">Paramètres</string>
@@ -4481,7 +4481,7 @@ Pour épingler l'écran:
     <string name="search_apn_settings">"APN;Noms des points d'accès"</string>
     <string name="search_app_invisible">Application invisible;Applications invisibles</string>
     <string name="search_app_switch_key">Récents;Récent;Menu;Bouton Menu;Gestionnaire de tâche</string>
-    <string name="search_application_lock_name">"Verrouillage d'application"</string>
+    <string name="search_application_lock_name">"Verrouillage d'applications"</string>
     <string name="search_applications_settings">Applications installées</string>
     <string name="search_back_key">Retour;Bouton de retour;Touche de retour</string>
     <string name="search_battery_indicator">Indicateur de batterie</string>
@@ -4632,7 +4632,7 @@ Pour épingler l'écran:
     <string name="search_vpn_enable">Activer VPN;VPN</string>
     <string name="search_vpn_settings_password">Mot de passe du VPN;Protéger le VPN</string>
     <string name="search_vpn_settings_title">VPN;Ajouter VPN;Activer VPN</string>
-    <string name="search_wakeup_for_keyguard_notification_title">"Allumer l'écran de verrouillage pour les notifications;allumer l'écran;allumer l'appareil;allumer le téléphone"</string>
+    <string name="search_wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications;allumer l'écran;allumer l'appareil;allumer le téléphone"</string>
     <string name="search_wallpaper_settings_title">"Fond d'écran;Écran d'accueil;Écran de verrouillage"</string>
     <string name="search_wfd_settings_title">"Affichage sans fil; Activer l'affichage sans fil; WiDi; Distribution; Affichage Wi-Fi; Affichage à distance; Affichage"</string>
     <string name="search_wifi_advanced_ip_address_title">Adresse IP;IP</string>
@@ -5025,7 +5025,7 @@ Cette fonctionnalité nécessite des autorisations pour accéder à votre locali
     <string name="sound_category_sound_title">Paramètres généraux</string>
     <string name="sound_category_system_title">Système</string>
     <string name="sound_dashboard_summary">Volume, vibreur, Ne pas déranger</string>
-    <string name="sound_effects_enable_title">Son des touches</string>
+    <string name="sound_effects_enable_title">Tonalité des touches</string>
     <string name="sound_settings">Son</string>
     <string name="sound_settings_example_summary">Volume de sonnerie à 80 %</string>
     <string name="sound_settings_summary">Volume de sonnerie à %1$s</string>
@@ -6064,7 +6064,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="vt_provisioned_switch_string">Appel vidéo géré</string>
     <string name="wait_for_debugger">Attendre le débogage</string>
     <string name="wait_for_debugger_summary">"Application déboguéeen attente d'un débogueur pour joindre avant l'exécution"</string>
-    <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran de verrouillage pour les notifications"</string>
+    <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications"</string>
     <string name="wallpaper_attributions">"Fonds d'écran"</string>
     <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite:
 © 2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>

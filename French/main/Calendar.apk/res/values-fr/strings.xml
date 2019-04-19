@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
     <string name="abc_action_mode_done">OK</string>
@@ -40,7 +38,6 @@
     <string name="copy_email">"Copier l'adresse e-mail"</string>
     <string name="copy_number">Copier le numéro de téléphone</string>
     <string name="done">Entrée</string>
-    <string name="more_string">+ %1$s</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="accessibility_add_attendee">Ajouter un participant</string>
     <string name="accessibility_all_day">"Événement d'une journée"</string>
@@ -457,21 +454,20 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="user_notice_message">En utilisant ce produit, vous acceptez les %1$s et %2$s de Xiaomi. Certaines fonctionnalités nécessitent une connexion Internet, la localisation, un accès aux contacts et SMS pour fonctionner normalement.</string>
     <string name="user_notice_title">Attention</string>
     <string name="view_details">Afficher les détails</string>
-    <string name="view_event_calendar_label">Agenda:</string>
+    <string name="view_event_calendar_label">Calendrier:</string>
     <string name="view_event_organizer_label">Organisateur:</string>
     <string name="view_event_response_label">Participer ?</string>
-    <string name="view_in_month_view">Voir le mois</string>
+    <string name="view_in_month_view">Afficher le mois</string>
     <string name="weekly">Hebdomadaire (chaque %s)</string>
     <string name="when_label">Quand</string>
     <string name="widget_events">Événement suivant</string>
     <string name="widget_get_weather_info">Obtenir les informations de la météo</string>
     <string name="widget_no_events">Aucun événement</string>
     <string name="widget_select_style">Sélectionnez le style</string>
-    <string name="work_day_indication">: (</string>
-    <string name="xiaomi_calendar_display_name">Agenda</string>
+    <string name="xiaomi_calendar_display_name">Calendrier</string>
     <string name="yearly">Annuel (le %s)</string>
     <string name="yearly_plain">Tous les ans</string>
-    <string name="global_joke_collapse_text">Show less</string>
-    <string name="global_joke_copy_toast_message">Copied text successfully</string>
-    <string name="global_joke_expand_text">Show more</string>
+    <string name="global_joke_collapse_text">Afficher moins</string>
+    <string name="global_joke_copy_toast_message">Texte copié avec succès</string>
+    <string name="global_joke_expand_text">Afficher plus</string>
 </resources>
