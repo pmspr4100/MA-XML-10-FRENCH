@@ -49,7 +49,7 @@
     <string name="category">Catégories</string>
     <string name="category_album">Albums</string>
     <string name="category_all">Tout</string>
-    <string name="category_apk">APK</string>
+    <string name="category_apk">Applications</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_document">Documents</string>
     <string name="category_download">Téléchargements</string>
@@ -414,7 +414,7 @@
     <string name="storage_internal">Stockage interne</string>
     <string name="storage_sd_card">Carte SD</string>
     <string name="storage_usb">Stockage USB</string>
-    <string name="tab_common_app">Applis &amp; dossiers</string>
+    <string name="tab_common_app">Applications &amp; dossiers</string>
     <string name="tab_more">Plus</string>
     <string name="terabyteShort">à</string>
     <string name="time_am">AM</string>
