@@ -188,7 +188,6 @@
     <string name="llks_pop_top_title">New wallpapers</string>
     <string name="llks_pop_top_title_backup">Fresh images</string>
     <string name="load_hdpicture_complete">Loaded original image successfully</string>
-    <string name="loading">&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="lock_screen_date">EEEE dd MMMM</string>
     <string name="lock_screen_date_12">EEEE dd MMMM</string>
     <string name="lockscreen_h5_back_tv">Retour</string>
@@ -265,9 +264,6 @@
     <string name="platform_unavailable_wechat">Installer WeChat</string>
     <string name="platform_unavailable_wechatmoment">Installer WeChat</string>
     <string name="platform_unavailable_weibo">Installer Weibo</string>
-    <string name="prv_end">&lt;CDATA&gt;"That's all for now."&lt;/CDATA&gt;</string>
-    <string name="prv_loading">&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;</string>
-    <string name="prv_nodata">&lt;CDATA&gt;No data&lt;/CDATA&gt;</string>
     <string name="psw_hint">Mot de passe</string>
     <string name="psw_sign_in">Se connecter avec un mot de passe</string>
     <string name="pull_to_refresh_pull_down_label">Pull down to refresh</string>
@@ -279,7 +275,6 @@
     <string name="resource_apply">Appliquer</string>
     <string name="resource_no_network_text">Check your network connection and try again</string>
     <string name="rv_with_footer_empty">Nothing here yet.</string>
-    <string name="rv_with_footer_loading">&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="rv_with_footer_pull_load_more">Pull down to view more</string>
     <string name="save_hdpicture_in_favor">View HD images in \"Favorites\"</string>
     <string name="save_picture_success">Saved successfully</string>
