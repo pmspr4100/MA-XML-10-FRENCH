@@ -1124,7 +1124,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="bt_trace_log">Activer le suivi du journal Bluetooth</string>
     <string name="bt_trace_log_summary">Log Bluetooth trace</string>
     <string name="btn_back">Retour</string>
-    <string name="bug_report_settings">"Retour d'information"</string>
+    <string name="bug_report_settings">"Retour d'informations"</string>
     <string name="bugreport_in_power">Raccourci de rapport de bogues</string>
     <string name="bugreport_in_power_summary">"Afficher un bouton dans le menu d'énergie pour effectuer un rapport de bogue"</string>
     <string name="build_number">Numéro de build</string>
@@ -1710,7 +1710,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_build_id">Numéro de version</string>
     <string name="device_camera">Appareil photo</string>
     <string name="device_cellular_network">Recherche de réseaux mobiles</string>
-    <string name="device_complete_parameters">Caractèristiques</string>
+    <string name="device_complete_parameters">Caractéristiques</string>
     <string name="device_cpu">Version processeur</string>
     <string name="device_cpu10_info">Deca-core</string>
     <string name="device_cpu2_info">Dual-core</string>
@@ -2150,7 +2150,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fallback_home_title">Un instant…</string>
     <string name="fcc_equipment_id">"ID de l'équipement"</string>
     <string name="feature_flags_dashboard_title">Drapeaux de fonctionnalité</string>
-    <string name="feedback">"Retour d'information"</string>
+    <string name="feedback">"Retour d'informations"</string>
     <string name="file_privacy_password_role_instruction">Vos fichiers privés seront stockés ici.</string>
     <string name="filter">Filtrer</string>
     <string name="filter_all_apps">Toutes les applis</string>
