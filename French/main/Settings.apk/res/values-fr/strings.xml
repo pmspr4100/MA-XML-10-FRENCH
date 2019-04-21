@@ -3000,7 +3000,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="make_sure_cancel_update">Annuler la mise à jour ?</string>
     <string name="man_add_application">Ajouter des applications au démarrage automatique</string>
     <string name="manage_device_admin">"Applis d'administration des appareils"</string>
-    <string name="manage_facerecoginition_text">Gérer les données de visage</string>
+    <string name="manage_facerecoginition_text">Gérer la reconnaissance faciale</string>
     <string name="manage_fakecell_settings">Protection contre les fausses stations de base</string>
     <string name="manage_fingerprint_text">Gérer les empreintes digitales</string>
     <string name="manage_mobile_plan_title">Forfait mobile</string>
@@ -4260,7 +4260,7 @@ Interface UT: %5$s"</string>
     <string name="retail_demo_reset_next">Suivant</string>
     <string name="retail_demo_reset_title">Mot de passe requis</string>
     <string name="retry">Réessayer</string>
-    <string name="rgb_manage_facerecoginition_text">Gérer les données du visage en 2D</string>
+    <string name="rgb_manage_facerecoginition_text">Gérer la reconnaissance faciale 2D</string>
     <string name="ring_volume_option_title">Volume de la sonnerie</string>
     <string name="ring_volume_title">Volume de la sonnerie</string>
     <string name="ringtone_slot_setting_title">Paramètres SIM</string>
@@ -5296,7 +5296,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">"Impossible d'utiliser cette fonctionnalité en raison du niveau faible de la batterie"</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">La batterie doit être chargée à 5% au moins pour démarrer un enregistrement.</string>
-    <string name="structure_manage_facerecoginition_text">Gérer les données du visage en 3D</string>
+    <string name="structure_manage_facerecoginition_text">Gérer la reconnaissance faciale 3D</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">Ces applications fonctionnent parfaitement en mode plein écran</string>
     <string name="suggested_fingerprint_lock_settings_title">Ajouter empreinte digitale pour déverrouiller</string>
     <string name="suggested_lock_settings_summary">Définissez verrouillage écran pour protéger téléphone</string>
