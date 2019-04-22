@@ -3967,7 +3967,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_close_dlg_button_ok">Désactiver</string>
     <string name="privacy_close_dlg_msg">Lorsque le mot de passe de protection de confidentialité est désactivé, vos éléments ne seront plus protégés.</string>
     <string name="privacy_close_dlg_title">Attention</string>
-    <string name="privacy_delete_space_dlg_message">Pour changer le mot de passe du second espace, vous devriez supprimer votre deuxième espace actuel et en créer un nouveau.</string>
+    <string name="privacy_delete_space_dlg_message">Pour changer le mot de passe du deuxième espace, vous devriez supprimer votre deuxième espace actuel et en créer un nouveau.</string>
     <string name="privacy_dlg_button_cancel">Annuler</string>
     <string name="privacy_factory_reset_dlg_button_text">Réinitialiser</string>
     <string name="privacy_factory_reset_dlg_message">"Si vous oubliez votre mot de passe, vous devrez effectuer une réinitialisation d'usine afin d'en définir un nouveau."</string>
@@ -4217,7 +4217,7 @@ Interface UT: %5$s"</string>
 "&lt;li&gt;Données mobile&lt;/li&gt;"
 "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
     <string name="reset_network_final_button_text">Réinitialiser les paramètres</string>
-    <string name="reset_network_final_desc">Réinitialiser tous les paramètres réseau ? Cette action est irréversible.</string>
+    <string name="reset_network_final_desc">"Réinitialiser tous les paramètres réseau maintenant ? Cela peut prendre plusieurs secondes. Vous ne pourrez pas inverser cette action"</string>
     <string name="reset_network_title">Réinitialiser le Wi-Fi, les données mobiles et le Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_second_space_passwd">Réinitialiser le mot de passe du second espace</string>
@@ -6384,8 +6384,8 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_priority_type_title">"Définir la priorité des points d'accès manuellement"</string>
     <string name="wifi_property">Propriété Wi-Fi</string>
     <string name="wifi_protection_on">Activé</string>
-    <string name="wifi_protection_settings_title">Protection de la sonde Wi-Fi</string>
-    <string name="wifi_protection_tip">"MIUI active automatiquement la fonction de protection de la sonde Wi-Fi. Lorsque le téléphone mobile analyse le réseau WLAN, il adresse l'adresse MAC de manière aléatoire pour empêcher le boîtier de sonde Wi-Fi de voler la confidentialité de l'utilisateur et de protéger le téléphone mobile."</string>
+    <string name="wifi_protection_settings_title">Protection contre les requêtes de sonde WLAN</string>
+    <string name="wifi_protection_tip">"MIUI protégera vos données personnelles contre les demandes de sonde WLAN provenant d'adresses MAC aléatoires et de renifleurs de sonde WLAN lorsque votre appareil recherche des réseaux WLAN."</string>
     <string name="wifi_quick_toggle_summary">Activer le Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Sauvegardé</string>

@@ -2,7 +2,8 @@
 <resources>
     <string name="app_name">Composants de sécurité MIUI</string>
     <string name="hello_world">Bienvenue !</string>
-    <string name="menu_settings">Réglages</string>
+    <string name="common_ids_permission_label">Avast common ids permission</string>
+    <string name="menu_settings">Paramètres</string>
     <string name="Tencent">Tencent</string>
     <string name="AVL">AVL</string>
     <string name="Mi">Mi</string>

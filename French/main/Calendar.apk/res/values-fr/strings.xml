@@ -203,7 +203,8 @@
     <string name="festival_detail_title">Festival</string>
     <string name="file_exception">"Une erreur s'est produite"</string>
     <string name="fixtures">Rencontres</string>
-    <string name="from_google_group_calendar">Agenda de Google</string>
+    <string name="free_day_default_banner_title">Profite de tes vacances !</string>
+    <string name="from_google_group_calendar">Agenda Google</string>
     <string name="gadget_no_events">"Aucun événement d'agenda à venir"</string>
     <string name="gadget_title">Agenda</string>
     <string name="global_action_text_card_manager">Personnaliser votre agenda</string>
@@ -281,7 +282,7 @@
     <string name="month_view">Mois</string>
     <string name="monthly">Tous les mois</string>
     <string name="monthly_on_day">Mensuel (même date)</string>
-    <string name="monthly_on_day_count">Mensuel (%1$s %2$s)</string>
+    <string name="monthly_on_day_count">Mensuel (%1$s de chaque mois)</string>
     <string name="network_not_available">Impossible de se connecter au réseau</string>
     <string name="new_event_description">Nouveau</string>
     <string name="news">Actualités</string>
@@ -464,6 +465,7 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="widget_get_weather_info">Obtenir les informations de la météo</string>
     <string name="widget_no_events">Aucun événement</string>
     <string name="widget_select_style">Sélectionnez le style</string>
+    <string name="work_day_default_banner_title">Passez une journée productive au travail!</string>
     <string name="xiaomi_calendar_display_name">Calendrier</string>
     <string name="yearly">Annuel (le %s)</string>
     <string name="yearly_plain">Tous les ans</string>

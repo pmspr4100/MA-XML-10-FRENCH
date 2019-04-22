@@ -326,11 +326,15 @@
     <string name="battery_info_status_full">Pleine</string>
     <string name="battery_info_status_not_charging">Pas en charge</string>
     <string name="battery_info_status_unknown">Inconnu</string>
+    <string name="battery_low_button_not_open_power_save">Pas maintenant</string>
+    <string name="battery_low_button_open_power_save">Activé</string>
     <string name="battery_low_percent_format">%d%% restant</string>
+    <string name="battery_low_percent_format_save_mode_closed">Moins de %d%% de la batterie restante. Chargez votre appareil.</string>
+    <string name="battery_low_percent_format_save_mode_open">"Moins de %d%% de la batterie restante. Activer l'économiseur de batterie pour économiser de l'énergie."</string>
     <string name="battery_low_percent_format_saver_started">%s restant. Économiseur de batterie activé.</string>
     <string name="battery_low_title">Batterie faible</string>
+    <string name="battery_low_title_power_save">Économiseur de batterie</string>
     <string name="battery_low_why">Paramètres</string>
-    <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">Utilisation de la batterie</string>
     <string name="battery_profiles">Utiliser les profils</string>
     <string name="battery_saver_confirmation_ok">Activer</string>
@@ -656,6 +660,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="face_data_manage_delete_msg">Supprimer les données de visage</string>
     <string name="face_data_manage_delete_sure">Vous ne serez plus en mesure de déverrouiller votre appareil en utilisant vos données de visage une fois que vous les supprimez.</string>
     <string name="face_data_manage_delete_title">Données de visage</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">"Une fois que l'écran est allumé, faites glisser votre doigt pour déverrouiller l'appareil à l'aide des données du visage."</string>
     <string name="face_data_manage_unlock_msg">"Déverrouiller l'appareil avec vos données de visage"</string>
     <string name="face_data_manage_unlock_slide_msg">Remplacer les raccourcis du curseur par le déverrouillage par reconnaissance faciale</string>
     <string name="face_data_manage_unlock_title">Déverrouiller avec les données de visage</string>
@@ -671,7 +676,8 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="face_unlock_close_screen">"Rapprochez-vous de l'écran"</string>
     <string name="face_unlock_down">Levez votre tête</string>
     <string name="face_unlock_fail">Impossible de vérifier le visage</string>
-    <string name="face_unlock_fail_retry">"Impossible de vérifier votre visage. Appuyez sur l'icône pour réessayer."</string>
+    <string name="face_unlock_fail_retry">"Impossible de vérifier votre visage. Appuyez ci-dessus pour réessayer."</string>
+    <string name="face_unlock_fail_retry_global">Appuyez ci-dessus pour utiliser la reconnaissance faciale</string>
     <string name="face_unlock_identify_error">"Une erreur de reconnaissance s'est produite"</string>
     <string name="face_unlock_not_found">Impossible de vous reconnaître</string>
     <string name="face_unlock_not_roi">Gardez votre visage dans le cadre</string>
@@ -1271,6 +1277,10 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="power_remaining_duration_only">Environ %1$s min restantes</string>
     <string name="power_remaining_duration_only_enhanced">Environ %1$s restant relativement à votre utilisation</string>
     <string name="power_remaining_duration_only_short">%1$s restantes</string>
+    <string name="power_save_ps_clean">Effacer le cache chaque fois que le périphérique est verrouillé</string>
+    <string name="power_save_ps_close_setting">"Désactiver les services d'arrière-plan (Synchro, GPS) pour économiser la batterie"</string>
+    <string name="power_save_ps_freeze">Geler les applications en arrière-plan</string>
+    <string name="power_save_ps_limit">"Restreindre l'activité des applications système"</string>
     <string name="power_remaining_duration_only_shutdown_imminent">"Le téléphone peut s'éteindre bientôt"</string>
     <string name="power_remaining_duration_shutdown_imminent">"Le téléphone peut s'éteindre bientôt (%1$s)"</string>
     <string name="power_remaining_less_than_duration">Moins de %1$s restant (%2$s)</string>

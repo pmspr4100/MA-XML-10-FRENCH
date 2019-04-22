@@ -523,6 +523,10 @@ de l'opérateur"</string>
     <string name="free_time_traffic">"Limite d'utilisation de données en heures creuses"</string>
     <string name="power_save_on_time_start_time_summary_na">De</string>
     <string name="power_save_on_time_end_time_summary_na">À</string>
+    <string name="power_save_ps_clean">Effacer le cache chaque fois que le périphérique est verrouillé</string>
+    <string name="power_save_ps_close_setting">Désactiver les services d'arrière-plan (Synchro, GPS) pour économiser la batterie</string>
+    <string name="power_save_ps_freeze">Geler les applications en arrière-plan</string>
+    <string name="power_save_ps_limit">"Restreindre l'activité des applications système"</string>
     <string name="manual_input_traffic">"Ajuster l'utilisation des données"</string>
     <string name="manual_input_free_traffic">Définir la limite des données en heure creuse</string>
     <string name="declaration_dialog_msg">"Cette option vous permet de gérer au mieux l'utilisation de vos données, mais ne constitue pas une garantie fiable afin d'éviter d'éventuels surcoûts. Par conséquent, il est conseillé de garder une marge."</string>

@@ -63,13 +63,6 @@
         <item>Celui-ci et les événements futurs</item>
         <item>Tous les événements</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>première</item>
-        <item>deuxième</item>
-        <item>troisième</item>
-        <item>quatrième</item>
-        <item>dernière</item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Toujours</item>
         <item>Seulement quand la sonnerie est désactivée</item>
@@ -164,6 +157,43 @@
         <item>semaine</item>
         <item>mois</item>
         <item>année</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>premier Lundi</item>
+        <item>premier Mardi</item>
+        <item>premier Mercredi</item>
+        <item>premier Jeudi</item>
+        <item>premier Friday</item>
+        <item>premier Samedi</item>
+        <item>premier Dimanche</item>
+        <item>deuxième Lundi</item>
+        <item>deuxième Mardi</item>
+        <item>deuxième Mercredi</item>
+        <item>deuxième Jeudi</item>
+        <item>deuxième Friday</item>
+        <item>deuxième Samedi</item>
+        <item>deuxième Dimanche</item>
+        <item>troisième Lundi</item>
+        <item>troisième Mardi</item>
+        <item>troisième Mercredi</item>
+        <item>troisième Jeudi</item>
+        <item>troisième Friday</item>
+        <item>troisième Samedi</item>
+        <item>troisième Dimanche</item>
+        <item>quatrième Lundi</item>
+        <item>quatrième Mardi</item>
+        <item>quatrième Mercredi</item>
+        <item>quatrième Jeudi</item>
+        <item>quatrième Friday</item>
+        <item>quatrième Samedi</item>
+        <item>quatrième Dimanche</item>
+        <item>dernier Lundi</item>
+        <item>dernier Mardi</item>
+        <item>dernier Mercredi</item>
+        <item>dernier Jeudi</item>
+        <item>dernier Friday</item>
+        <item>dernier Samedi</item>
+        <item>dernier Dimanche</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Aucune réponse</item>
