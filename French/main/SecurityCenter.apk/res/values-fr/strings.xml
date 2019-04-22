@@ -524,7 +524,7 @@ de l'opérateur"</string>
     <string name="power_save_on_time_start_time_summary_na">De</string>
     <string name="power_save_on_time_end_time_summary_na">À</string>
     <string name="power_save_ps_clean">Effacer le cache chaque fois que le périphérique est verrouillé</string>
-    <string name="power_save_ps_close_setting">Désactiver les services d'arrière-plan (Synchro, GPS) pour économiser la batterie</string>
+    <string name="power_save_ps_close_setting">"Désactiver les services d'arrière-plan (Synchro, GPS) pour économiser la batterie"</string>
     <string name="power_save_ps_freeze">Geler les applications en arrière-plan</string>
     <string name="power_save_ps_limit">"Restreindre l'activité des applications système"</string>
     <string name="manual_input_traffic">"Ajuster l'utilisation des données"</string>
@@ -715,7 +715,6 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="roaming_limit_warning_notification_body">"Appuyez pour voir l'utilisation des données."</string>
     <string name="roaming_limit_network_notification_body">Appuyez pour voir les réseaux de données disponibles</string>
     <string name="roaming_limit_dialog_message">"Limite de données d'itinérance journalière atteinte."</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="roaming_allow_network_dialog_title">"Autoriser l'itinérance des données ?"</string>
     <string name="dialog_roaming_warning_message">"L'opérateur vous facturera des frais après avoir activé l'itinérance internationale des données. Activer quand même ?"</string>
     <string name="dialog_roaming_warning_checkbox">Ne plus afficher</string>
@@ -1072,7 +1071,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="btn_text_optimize_now">Optimiser</string>
     <string name="btn_text_optimize_manually">Optimiser manuellement</string>
     <string name="battery_history_activity_title">Historique</string>
-    <string name="btn_text_goto_power_rank">Voir le classement de la batterie</string>
+    <string name="btn_text_goto_power_rank">Afficher le classement de la batterie</string>
     <string name="btn_text_goto_setup">Accéder aux paramètres</string>
     <string name="power_save_title_text">Économiseur de batterie</string>
     <string name="power_save_summary_text">"Activer l'Économiseur de batterie pour réduire les activités à l'arrière-plan, arrêter les synchronisations et minimiser les animations système."</string>
@@ -2607,9 +2606,7 @@ Toutes les données sur votre appareil seront supprimées et le mot de passe de 
     <string name="power_save_on_time_title">Planifier le changement de profil</string>
     <string name="power_save_on_time_auto_save_title">Planifier le changement de profil</string>
     <string name="power_save_on_time_start_time_summary">Démarrer</string>
-    <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_end_time_summary">Fin</string>
-    <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">Durant cette période basculer vers</string>
     <string name="power_save_on_time_option_summary">"A la fin de cette période l'appareil reviendra au dernier profil utilisé"</string>
     <string name="power_save_on_time_default_time">00:00</string>
