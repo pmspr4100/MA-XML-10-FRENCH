@@ -35,7 +35,6 @@
     <string name="exo_download_failed">Échec du téléchargement</string>
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Automatique</string>
     <string name="exo_track_selection_none">Aucun</string>
@@ -455,7 +454,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_search_color_hint_red">Rouge</string>
     <string name="resource_search_color_hint_yellow">Jaune</string>
     <string name="resource_search_list_empty">Aucun résultat.</string>
-    <string name="resource_see_more">Voir plus</string>
+    <string name="resource_see_more">Afficher plus</string>
     <string name="resource_select">Sélectionnez</string>
     <string name="resource_select_alarm_audio_confirm">Sélectionner ce son de notification ?</string>
     <string name="resource_select_audio_confirm_picker">Sélectionner ce son ?</string>
