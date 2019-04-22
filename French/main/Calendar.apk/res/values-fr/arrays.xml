@@ -127,11 +127,11 @@
         <item>Déc</item>
     </string-array>
     <string-array name="repeat_choose_week_left">
-        <item>première</item>
+        <item>premier</item>
         <item>deuxième</item>
         <item>troisième</item>
         <item>quatrième</item>
-        <item>Dernier</item>
+        <item>dernier</item>
     </string-array>
     <string-array name="repeat_choose_week_right">
         <item>Lun - Ven</item>
@@ -159,41 +159,41 @@
         <item>année</item>
     </string-array>
     <string-array name="repeat_monthly_on_day_count_values">
-        <item>premier Lundi</item>
-        <item>premier Mardi</item>
-        <item>premier Mercredi</item>
-        <item>premier Jeudi</item>
-        <item>premier Friday</item>
-        <item>premier Samedi</item>
-        <item>premier Dimanche</item>
-        <item>deuxième Lundi</item>
-        <item>deuxième Mardi</item>
-        <item>deuxième Mercredi</item>
-        <item>deuxième Jeudi</item>
-        <item>deuxième Friday</item>
-        <item>deuxième Samedi</item>
-        <item>deuxième Dimanche</item>
-        <item>troisième Lundi</item>
-        <item>troisième Mardi</item>
-        <item>troisième Mercredi</item>
-        <item>troisième Jeudi</item>
-        <item>troisième Friday</item>
-        <item>troisième Samedi</item>
-        <item>troisième Dimanche</item>
-        <item>quatrième Lundi</item>
-        <item>quatrième Mardi</item>
-        <item>quatrième Mercredi</item>
-        <item>quatrième Jeudi</item>
-        <item>quatrième Friday</item>
-        <item>quatrième Samedi</item>
-        <item>quatrième Dimanche</item>
-        <item>dernier Lundi</item>
-        <item>dernier Mardi</item>
-        <item>dernier Mercredi</item>
-        <item>dernier Jeudi</item>
-        <item>dernier Friday</item>
-        <item>dernier Samedi</item>
-        <item>dernier Dimanche</item>
+        <item>premier lundi</item>
+        <item>premier mardi</item>
+        <item>premier mercredi</item>
+        <item>premier jeudi</item>
+        <item>premier vendredi</item>
+        <item>premier samedi</item>
+        <item>premier dimanche</item>
+        <item>deuxième lundi</item>
+        <item>deuxième mardi</item>
+        <item>deuxième mercredi</item>
+        <item>deuxième jeudi</item>
+        <item>deuxième vendredi</item>
+        <item>deuxième samedi</item>
+        <item>deuxième dimanche</item>
+        <item>troisième lundi</item>
+        <item>troisième mardi</item>
+        <item>troisième mercredi</item>
+        <item>troisième jeudi</item>
+        <item>troisième vendredi</item>
+        <item>troisième samedi</item>
+        <item>troisième dimanche</item>
+        <item>quatrième lundi</item>
+        <item>quatrième mardi</item>
+        <item>quatrième mercredi</item>
+        <item>quatrième jeudi</item>
+        <item>quatrième vendredi</item>
+        <item>quatrième samedi</item>
+        <item>quatrième dimanche</item>
+        <item>dernier lundi</item>
+        <item>dernier mardi</item>
+        <item>dernier mercredi</item>
+        <item>dernier jeudi</item>
+        <item>dernier vendredi</item>
+        <item>dernier samedi</item>
+        <item>dernier dimanche</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Aucune réponse</item>

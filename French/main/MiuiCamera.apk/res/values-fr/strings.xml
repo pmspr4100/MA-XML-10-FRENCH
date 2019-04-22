@@ -659,7 +659,7 @@ en mode Portrait"</string>
     <string name="beauty_body_legged">Jambes</string>
     <string name="beauty_body_reset_tip">Effet de figure supprimé avec succès</string>
     <string name="ultra_wide_open_tip">Mode ultra grand angle</string>
-    <string name="ultra_wide_open_tip_sat">"0.6X ultre grand angle"</string>
+    <string name="ultra_wide_open_tip_sat">"0.6X ultra grand angle"</string>
     <string name="ultra_wide_close_tip">Mode ultra grand angle est désactivé</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ULTRA GRAND</string>
     <string name="ultra_wide_recommend_tip_hint">Essayez le mode ultra grand angle</string>
