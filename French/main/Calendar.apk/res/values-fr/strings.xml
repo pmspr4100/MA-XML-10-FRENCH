@@ -282,7 +282,6 @@
     <string name="month_view">Mois</string>
     <string name="monthly">Tous les mois</string>
     <string name="monthly_on_day">Mensuel (même date)</string>
-    <string name="monthly_on_day_count">Mensuel (%1$s de chaque mois)</string>
     <string name="network_not_available">Impossible de se connecter au réseau</string>
     <string name="new_event_description">Nouveau</string>
     <string name="news">Actualités</string>
