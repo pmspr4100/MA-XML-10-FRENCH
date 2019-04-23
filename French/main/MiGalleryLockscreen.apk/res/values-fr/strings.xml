@@ -185,9 +185,10 @@
     <string name="llks_pop_i_know">Got it</string>
     <string name="llks_pop_top_des">Receive fresh images regularly</string>
     <string name="llks_pop_top_des_backup">Delivered to your screen daily</string>
-    <string name="llks_pop_top_title">New wallpapers</string>
-    <string name="llks_pop_top_title_backup">Fresh images</string>
-    <string name="load_hdpicture_complete">Loaded original image successfully</string>
+    <string name="llks_pop_top_title">"Nouveaux fonds d'écran"</string>
+    <string name="llks_pop_top_title_backup">Images fraîches</string>
+    <string name="load_hdpicture_complete">"Image d'origine chargée avec succès"</string>
+    <string name="loading">Chargement…</string>
     <string name="lock_screen_date">EEEE dd MMMM</string>
     <string name="lock_screen_date_12">EEEE dd MMMM</string>
     <string name="lockscreen_h5_back_tv">Retour</string>
@@ -201,7 +202,7 @@
     <string name="main_fragment_title_discover">Discover</string>
     <string name="main_fragment_title_home">Recommend</string>
     <string name="main_fragment_title_search">Top</string>
-    <string name="main_fragment_title_user">Settings</string>
+    <string name="main_fragment_title_user">Paramètres</string>
     <string name="minutes_15">Toutes les 15 minutes</string>
     <string name="mode_des">Wallpaper Carousel is showing recommendations now. Switch to the slideshow to be able to view your custom items.</string>
     <string name="mode_ok">Switch to slideshow</string>
