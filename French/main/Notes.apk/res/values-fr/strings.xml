@@ -123,7 +123,7 @@
     <string name="note_link_select">Sélectionner le texte</string>
     <string name="note_link_tel">Appeler</string>
     <string name="note_link_web">Afficher dans le navigateur</string>
-    <string name="note_sort_way">Sélectionner le mode de tri de vos notes</string>
+    <string name="note_sort_way">Mode de tri de vos notes</string>
     <string name="notealert_enter">Ouvrir une note</string>
     <string name="notealert_ok">Ignorer</string>
     <string name="notify_alarm_title">Rappel de note</string>

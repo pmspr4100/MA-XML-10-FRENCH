@@ -582,6 +582,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="dlg_summary_nfc">Désactiver NFC</string>
     <string name="dlg_summary_title">"L'économiseur de batterie extrême arrête toute activité en arrière-plan après avoir quitté une application et retourne à l'écran d'accueil. Si vous souhaitez qu'une application s'exécute en arrière-plan, ajoutez-la à des exceptions d'arrière-plan."</string>
     <string name="dnd_is_off">NPD désactivé</string>
+    <string name="dnd_notification_warnings_title">"Les appels et les notifications seront réduits au silence jusqu'à ce que vous désactiviez le mode ne pas déranger."</string>
     <string name="do_disclosure_generic">Cet appareil est géré par votre organisation</string>
     <string name="do_disclosure_with_name">Cet appareil est géré par %s</string>
     <string name="do_not_silence">Ne pas mettre sur silence</string>
@@ -1139,7 +1140,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="no_notification_tips">Aucune notification</string>
     <string name="no_weather_description">Obtenir les informations de la météo ></string>
     <string name="not_support_multi_window">Les applications actuelles ne prennent pas en charge le mode Écran divisé</string>
-    <string name="notch_sos_status_bar_title">SOS</string>
+    <string name="notch_sos_status_bar_title">S.O.S</string>
     <string name="notification_all_categories">Toutes les catégories</string>
     <string name="notification_app_settings">Personnaliser: %1$s</string>
     <string name="notification_channel_alerts">Alertes</string>
@@ -1147,6 +1148,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_channel_controls_closed_accessibility">Contrôle des notifications pour %1$s fermé</string>
     <string name="notification_channel_controls_opened_accessibility">Contrôle des notifications pour %1$s ouvert</string>
     <string name="notification_channel_disabled">Vous ne recevrez plus ces notifications.</string>
+    <string name="notification_channel_dnd">Ne pas déranger</string>
     <string name="notification_channel_general">Messages généraux</string>
     <string name="notification_channel_location">Localisation</string>
     <string name="notification_channel_screenbutton">Boutons</string>

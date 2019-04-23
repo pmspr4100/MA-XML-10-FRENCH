@@ -316,6 +316,8 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="invalid_qr_code">Code QR non valide</string>
     <string name="need_network_when_create">Connectez-vous au réseau avant de créer un Espace de travail</string>
     <string name="downloading_space">Téléchargement…</string>
+    <string name="dual_animation">"Lancer l'animation"</string>
+    <string name="dual_animation_description">"Afficher l'animation lors du lancement de deux applications"</string>
     <string name="air_space_deleted">Espace de travail supprimé avec succès</string>
     <string name="need_reset_passwd">"Réinitialiser le mot de passe de l'Espace de travail avant d'y accéder"</string>
     <string name="reset_passwd_success">Mot de passe réinitialisé avec succès</string>
