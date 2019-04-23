@@ -5396,7 +5396,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tether_over_limit_dialog_title">"Alerte d'utilisation des données"</string>
     <string name="tether_over_limit_warning_notify_message">"Désactiver le point d'accès mobile."</string>
     <string name="tether_over_limit_warning_notify_title">"Limite de données du point d'accès mobile atteinte"</string>
-    <string name="tether_settings_disabled">"Le point d'accès mobile est désactivé"</string>
+    <string name="tether_settings_disabled">"Point d'accès mobile est désactivé"</string>
     <string name="tether_settings_disabled_on_data_saver">"Impossible de partager la connexion ou d'utiliser des points d'accès mobiles lorsque la sauvegarde des données est activée"</string>
     <string name="tether_settings_summary_hotspot_off_tether_on">Partage de connexion</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">"Point d'accès activé"</string>
@@ -5404,7 +5404,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tether_settings_title_all">"Partage &amp; point d'accès mobile"</string>
     <string name="tether_settings_title_bluetooth">Partage de connexion via bluetooth</string>
     <string name="tether_settings_title_usb">Partage de connexion via USB</string>
-    <string name="tether_settings_title_usb_bluetooth">Partage de connexion</string>
+    <string name="tether_settings_title_usb_bluetooth">"Point d'accès Wi-Fi"</string>
     <string name="tether_settings_title_wifi">"Point d'accès Wi-Fi mobile"</string>
     <string name="tether_share_qrcode_title">Partager un QR code</string>
     <string name="tethering_footer_info">"Utilisez un point d'accès et le partage de connexion pour fournir un accès à Internet à d'autres appareils via votre connexion de données mobiles. Les applications peuvent également créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
