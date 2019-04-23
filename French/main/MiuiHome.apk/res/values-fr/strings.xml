@@ -279,7 +279,7 @@
     <string name="recents_config_title">Récents</string>
     <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
     <string name="recommend_apps_default_title">Vide</string>
-    <string name="recommend_apps_no_data">Aucune donnée</string>
+    <string name="recommend_apps_no_data">Aucune données</string>
     <string name="recommend_apps_no_data_toast">"Aucune recommandation pour l'instant."</string>
     <string name="recommend_apps_notice">Applications recommandées</string>
     <string name="recommend_apps_notice_nodata">Applications recommandées (Aucune donnée)</string>

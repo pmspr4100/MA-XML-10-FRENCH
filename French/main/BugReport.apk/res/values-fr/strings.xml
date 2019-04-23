@@ -4,7 +4,7 @@
     <string name="action_submit">Envoyer</string>
     <string name="announcement">Attention</string>
     <string name="app_empty">Impossible de trouver des applications.</string>
-    <string name="app_label">Commentaire</string>
+    <string name="app_label">Commentaires</string>
     <string name="app_name">Commentaires</string>
     <string name="app_search">Rechercher des applications</string>
     <string name="btn_send">Envoyer</string>
@@ -51,7 +51,7 @@
     <string name="customer_service_apply">Demander le Service clientèle</string>
     <string name="customer_service_complain">Signaler le Service clientèle</string>
     <string name="customer_service_station">Localisations des services</string>
-    <string name="default_text_view">TextView</string>
+    <string name="default_text_view">Affichage</string>
     <string name="description">"Décrivez l'erreur"</string>
     <string name="dialog_ask_delete">Supprimer</string>
     <string name="dialog_ask_quit">Quitter</string>
@@ -297,7 +297,6 @@
     <string name="network_unavailable_dialog_content">Votre rapport sera envoyé quand vous aurez une connexion.</string>
     <string name="network_unavailable_dialog_title">Impossible de se connecter au réseau</string>
     <string name="non_system_app_select">Applications téléchargées</string>
-    <string name="nothing">--</string>
     <string name="open_feedback_main">Plus</string>
     <string name="packaging_dialog_content">Création du rapport…</string>
     <string name="passport_access_denied">Accès refusé</string>
@@ -474,7 +473,6 @@ Pour activer votre compte, suivez le
     <string name="save_pic_fail">"Impossible de sauvegarder l'image, vérifiez votre carte SD"</string>
     <string name="save_pic_success">Image sauvegardée dans %s</string>
     <string name="screen_lock">"Verrouillage d'écran"</string>
-    <string name="second_position">3#</string>
     <string name="section_description">Description</string>
     <string name="section_err_type">"Type d'erreur"</string>
     <string name="section_screenshot">"Capture d'écran"</string>
@@ -488,7 +486,7 @@ Pour activer votre compte, suivez le
     <string name="suggestion_description">Ajoutez la description ici</string>
     <string name="system_app_select">Applications système</string>
     <string name="systemui">Notifications</string>
-    <string name="tab_title_chat">FAQ</string>
+    <string name="tab_title_chat">F.A.Q</string>
     <string name="tab_title_my_reports">Mes commentaires</string>
     <string name="tab_title_preferences">Paramètres</string>
     <string name="tab_title_report">Commentaires</string>
@@ -496,7 +494,7 @@ Pour activer votre compte, suivez le
     <string name="title_catch_full_log">Journaux</string>
     <string name="title_customer_service">Service clientèle</string>
     <string name="title_first_aid">Premiers secours</string>
-    <string name="title_frequent_question_feedback_main">FAQ</string>
+    <string name="title_frequent_question_feedback_main">F.A.Q</string>
     <string name="title_mi_family">Mi Home à proximité</string>
     <string name="title_nonsystem_app">Autres applications</string>
     <string name="title_same_question_feedback_main">Des problèmes similaires sur le forum MIUI</string>
