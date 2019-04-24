@@ -246,7 +246,7 @@ Pour activer votre compte, suivez le
     <string name="bind_weibo_description">Ajouter vos amis depuis Sina Weibo</string>
     <string name="bind_sns_description">Connectez-vous avec %s</string>
     <string name="add_account">Ajouter un compte</string>
-    <string name="agreement_and_privacy">"Accord d'utilisateur et politique de confidentialité"</string>
+    <string name="agreement_and_privacy">"Politique de confidentialité et accord d'utilisation"</string>
     <string name="qq">QQ</string>
     <string name="bind_qq">QQ</string>
     <string name="facebook">Facebook</string>
@@ -424,7 +424,7 @@ Pour activer votre compte, suivez le
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
     <string name="same_new_and_old_pwd">Ne peut pas être identique au mot de passe actuel</string>
-    <string name="scan_barcode">Scannez le QR code</string>
+    <string name="scan_barcode">Scannez le code QR pour vous connecter</string>
     <string name="account_security_info_pref_title">Informations de sécurité</string>
     <string name="account_bind_settings">Comptes</string>
     <string name="account_bind_devices">Appareils</string>
