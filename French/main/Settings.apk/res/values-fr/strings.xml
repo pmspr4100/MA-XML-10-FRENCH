@@ -1307,7 +1307,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="color_white">Blanc</string>
     <string name="color_yellow">Jaune</string>
     <string name="common_settings">Accès rapides</string>
-    <string name="complete_parameters">Toutes les spécifications</string>
+    <string name="complete_parameters">Caractéristiques</string>
     <string name="complete_settings">Paramètres</string>
     <string name="computing_size">Traitement...</string>
     <string name="condition_airplane_summary">Lorsque le mode Avion est activé, le Wi-Fi, le Bluetooth et le réseau mobile sont désactivés. Vous pouvez toutefois réactiver le Wi-Fi et le Bluetooth.</string>
@@ -4110,7 +4110,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="radioInfo_service_out">Hors-service</string>
     <string name="radioInfo_unknown">Inconnu</string>
     <string name="radio_controls_summary">Gérer le Wi-Fi, Bluetooth, Mode avion, Réseaux mobiles, &amp; VPN</string>
-    <string name="radio_controls_title">Plus</string>
+    <string name="radio_controls_title">Additionnel</string>
     <string name="radio_info_asdiv_switch_label">État ASDiv:</string>
     <string name="radio_info_band_mode_label">Sélectionner une bande radio</string>
     <string name="radio_info_call_redirect_label">Redirection des appels:</string>
@@ -6525,7 +6525,7 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="wifi_tether_enabled_summary">%1$s est actif</string>
     <string name="wifi_tether_failed_subtext">Erreur sur le partage de connexion</string>
     <string name="wifi_tether_setting_title">Paramètres</string>
-    <string name="wifi_tether_settings_title">"Point d'accès Wi-Fi mobile"</string>
+    <string name="wifi_tether_settings_title">Partage de connexion</string>
     <string name="wifi_tether_starting">"Activation du point d'accès Wi-Fi en cours…"</string>
     <string name="wifi_tether_stopping">"Désactivation du point d'accès Wi-Fi en cours…"</string>
     <string name="wifi_traffic_priority">Mode trafic</string>

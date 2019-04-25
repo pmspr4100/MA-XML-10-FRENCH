@@ -230,6 +230,7 @@
     <string name="make_private_msg_3">Tous les fichiers dans ce dossier seront cachés.</string>
     <string name="megabyteShort">Mo</string>
     <string name="menu_item_deep_clean">Nettoyage en profondeur</string>
+    <string name="menu_item_cleanup">Nettoyer</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_midrop">Mi Drop</string>
     <string name="menu_item_router">Routeur</string>
