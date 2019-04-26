@@ -2989,7 +2989,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="long_press_home_key">Appui prolongé sur bouton Accueil</string>
     <string name="long_press_menu_key">Appui prolongé sur bouton Menu</string>
     <string name="long_press_menu_key_when_lock">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
-    <string name="long_press_power_key_half_of_second">Appuyez et maintenez le bouton d’alimentation pour 0.5s pour activer Google Assistant</string>
+    <string name="long_press_power_key_half_of_second">Appuyez et maintenez le bouton d’alimentation pendant 0.5s pour activer Google Assistant</string>
     <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
     <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
     <string name="lost_internet_access_persist">Ne plus afficher</string>
@@ -3159,7 +3159,7 @@ D'autres personnes utilisent cet appareil.
     <string name="misc_files_selected_count">%1$d fichiers sélectionnés sur %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s sur %2$s</string>
     <string name="miui_allow_alarm">Alarmes</string>
-    <string name="miui_allow_light">Voyant de notifications</string>
+    <string name="miui_allow_light">LED de notifications</string>
     <string name="miui_allow_music">Média</string>
     <string name="miui_allow_vibrate">Vibrations</string>
     <string name="miui_data_usage_menu_metered">"Points d'accès mobiles"</string>
@@ -5051,7 +5051,7 @@ Cette fonctionnalité nécessite des autorisations pour accéder à votre locali
     <string name="spellchecker_security_warning">"Ce correcteur orthographique peut recueillir l'ensemble du texte saisi, y compris des données personnelles comme des mots de passe et des numéros de carte de paiement. Il provient de l'application %1$s. Utiliser ce correcteur orthographique ?"</string>
     <string name="spellchecker_switch_title">"Activer le correcteur d'orthographe"</string>
     <string name="spellcheckers_settings_title">Correcteur orthographique</string>
-    <string name="split_screen">Passer en mode Écran divisé</string>
+    <string name="split_screen">Passer en mode écran divisé</string>
     <string name="ssl_ca_cert_warning">Il est possible que le réseau soit surveillé.</string>
     <string name="ssl_ca_cert_warning_message">"Des tiers ont la possibilité de surveiller votre activité sur le réseau, y compris en ce qui concerne les e-mails, les applications et les sites Web sécurisés.
 
