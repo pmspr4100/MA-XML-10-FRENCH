@@ -171,8 +171,8 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
     <string name="account_other">Autre</string>
     <string name="account_settings">Comptes</string>
     <string name="account_settings_menu_auto_sync">Synchro automatique des données</string>
-    <string name="account_settings_menu_auto_sync_personal">Synchro auto des données perso</string>
-    <string name="account_settings_menu_auto_sync_work">Synchro auto des données pro</string>
+    <string name="account_settings_menu_auto_sync_personal">Synchro automatiques des données perso</string>
+    <string name="account_settings_menu_auto_sync_work">Synchro automatiques des données pro</string>
     <string name="account_settings_title">Comptes</string>
     <string name="account_sync_settings_title">Synchronisation</string>
     <string name="account_sync_summary_all_off">Synchronisation désactivée pour tous les éléments</string>
@@ -1007,7 +1007,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bluetooth_talkback_imaging">"Périphérique d'acquisition d'images"</string>
     <string name="bluetooth_talkback_input_peripheral">"Périphérique d'entrée"</string>
     <string name="bluetooth_talkback_phone">Téléphone</string>
-    <string name="bluetooth_tether_checkbox_text">Par Bluetooth</string>
+    <string name="bluetooth_tether_checkbox_text">Bluetooth</string>
     <string name="bluetooth_tethering_available_subtext">Partager la connexion Internet de ce téléphone par Bluetooth</string>
     <string name="bluetooth_tethering_device_connected_subtext">Partager la connexion Internet de ce téléphone avec 1 appareil par Bluetooth</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Partager la connexion Internet de ce téléphone avec %1$d appareils par Bluetooth</string>
@@ -1148,8 +1148,8 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="cache_header_label">Cache</string>
     <string name="cache_size_label">Cache</string>
     <string name="cached">"Processus d'arrière-plan en cache"</string>
-    <string name="calendar_sound_dialog_title">"Choisir le son d'agenda"</string>
-    <string name="calendar_sound_title">"Son de l'agenda"</string>
+    <string name="calendar_sound_dialog_title">Choisir le son du calendrier</string>
+    <string name="calendar_sound_title">Son du calendrier</string>
     <string name="call_manager_enable_summary">Autoriser ce service à gérer comment vous passez vos appels</string>
     <string name="call_manager_enable_title">"Activer le gestionnaire d'appels"</string>
     <string name="call_manager_title">"Gestionnaire d'appels"</string>
@@ -1214,7 +1214,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="carrier">Opérateur</string>
     <string name="carrier_and_update_now_text">"Mis à jour par ^1 à l'instant"</string>
     <string name="carrier_and_update_text">Mis à jour par ^1 il y a ^2</string>
-    <string name="carrier_enabled">"Activer/Désactiver l'APN"</string>
+    <string name="carrier_enabled">"Activer / Désactiver l'APN"</string>
     <string name="carrier_enabled_summaryOff">APN désactivé</string>
     <string name="carrier_enabled_summaryOn">APN activé</string>
     <string name="carrier_provisioning">Informations de gestion des comptes opérateur</string>
@@ -5069,7 +5069,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_app_enable_keyguard">Écran de vérrouillage</string>
     <string name="status_bar_app_enable_message">Badges</string>
     <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
-    <string name="status_bar_settings">"Notifications &amp; barre d'état"</string>
+    <string name="status_bar_settings">"Notifications &amp; barre de statut</string>
     <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
     <string name="status_bar_settings_expand_top_notification">Développer la notification supérieure</string>	
     <string name="status_bar_settings_manage_notification">"Notifications d'applications"</string>
@@ -5660,8 +5660,8 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_notification">Gérer les notifications</string>
     <string name="usage_state_notification_manager">"Gérer les notifications d'applications"</string>
     <string name="usage_state_remind_summary">"Activer pour recevoir des alertes de temps d'utilisation. Vous pouvez définir des délais différents pour les jours de semaine et les week-ends."</string>
-    <string name="usage_state_remind_title">"Alerte de temps d'utilisation"</string>
-    <string name="usage_state_rest_day">Weekends</string>
+    <string name="usage_state_remind_title">"Alerte du temps d'utilisation"</string>
+    <string name="usage_state_rest_day">Semaine</string>
     <string name="usage_state_saturday">Sam</string>
     <string name="usage_state_set_invalid_time_toast">"Impossible de définir des délais inférieurs à 1 minute"</string>
     <string name="usage_state_sunday">Dim</string>
@@ -5671,14 +5671,14 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_tuesday">Mar</string>
     <string name="usage_state_unlock_mourth_day">"'Déverrouillé le' dd/MM"</string>
     <string name="usage_state_usage_time">Screen time</string>
-    <string name="usage_state_usage_time_remind">Screen time alert</string>
-    <string name="usage_state_use_time_remind_title">Screen time alert</string>
+    <string name="usage_state_usage_time_remind">"Alerte du temps d'utilisation"</string>
+    <string name="usage_state_use_time_remind_title">"Alerte du temps d'utilisation"</string>
     <string name="usage_state_wednesday">Mer</string>
-    <string name="usage_state_week_day_hour_minute" formatted="false">Weekends: %dh %dm</string>
+    <string name="usage_state_week_day_hour_minute" formatted="false">Weekend: %d h %d m</string>
     <string name="usage_state_week_total_text">Screen time (last 7 days)</string>
     <string name="usage_state_which_mouth">MMMM</string>
-    <string name="usage_state_work_day">Weekdays</string>
-    <string name="usage_state_work_day_hour_minute" formatted="false">Weekdays: %dh %dm</string>
+    <string name="usage_state_work_day">Semaine</string>
+    <string name="usage_state_work_day_hour_minute" formatted="false">Semaine: %d h %d m</string>
     <string name="usage_stats_label">Données statistiques</string>
     <string name="usage_stats_normal_day">Jours de la semaine</string>
     <string name="usage_stats_week_day">Week-end</string>
@@ -5770,7 +5770,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usb_switching_failed">Échec du changement</string>
     <string name="usb_tethering_active_subtext">Partagé</string>
     <string name="usb_tethering_available_subtext">USB connecté, vérifier pour partager</string>
-    <string name="usb_tethering_button_text">Par USB</string>
+    <string name="usb_tethering_button_text">USB</string>
     <string name="usb_tethering_errored_subtext">Erreur de partage USB</string>
     <string name="usb_tethering_storage_active_subtext">"Impossible de partager la connexion lorsque le stockage USB est en cours d'utilisation"</string>
     <string name="usb_tethering_subtext">Partager la connexion Internet du téléphone via un câble USB</string>

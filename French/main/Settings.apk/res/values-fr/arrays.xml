@@ -1342,4 +1342,17 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>"Échelle d'animation 5x"</item>
         <item>"Échelle d'animation 10x"</item>
     </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Défaut</item>
+        <item>Compact</item>
+    </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Sonnerie</item>
+        <item>Média</item>
+    </string-array>
+    <string-array name="aod_clock_style_entries">
+        <item>Horizontal</item>
+        <item>Vertical</item>
+        <item>Linéaire</item>
+    </string-array>
 </resources>
