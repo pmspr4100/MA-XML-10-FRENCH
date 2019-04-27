@@ -2378,7 +2378,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gesture_setting_off">Désactivé</string>
     <string name="gesture_setting_on">Activé</string>
     <string name="gesture_wakeup_title">"Double tap pour réveiller l'écran"</string>
-    <string name="giga_hertz">GHz</string>
+    <string name="giga_hertz">" GHz"</string>
     <string name="gigabyteShort">Go</string>
     <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs sur ce téléphone.</string>
     <string name="global_locale_change_title">Changer de langue</string>
@@ -3069,11 +3069,11 @@ D'autres personnes utilisent cet appareil.
     <string name="master_clear_short_title">"Effacer données (rétablir config. d'usine)"</string>
     <string name="master_clear_title">"Effacer toutes les données (rétablir la configuration d'usine)"</string>
     <string name="max_aspect_settings_all_app_display_loading">Juste un instant…</string>
-    <string name="max_cpu10_info">"Deca-core Max "</string>
-    <string name="max_cpu2_info">Dual-core Max</string>
-    <string name="max_cpu4_info">"Quad-core Max "</string>
-    <string name="max_cpu6_info">"Hexa-core Max "</string>
-    <string name="max_cpu8_info">"Octa-core Max "</string>
+    <string name="max_cpu10_info">"Deca-Core Max "</string>
+    <string name="max_cpu2_info">Dual-Core Max</string>
+    <string name="max_cpu4_info">"Quad-Core Max "</string>
+    <string name="max_cpu6_info">"Hexa-Core Max "</string>
+    <string name="max_cpu8_info">"Octa-Core Max "</string>
     <string name="max_fingerprint_number_reached">"Impossible d'ajouter plus de 5 empreintes digitales. Pour en ajouter une, supprimez d'abord une existante."</string>
     <string name="maximum_memory_use">Utilisation mémoire (maximale)</string>
     <string name="media_button">Touches multimédias</string>

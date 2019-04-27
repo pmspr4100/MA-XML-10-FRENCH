@@ -99,7 +99,6 @@
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Outils</string>
     <string name="default_screen_preview_title">Définir lécran par défaut</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Supprimer</string>
     <string name="delete_screen">Supprimer un écran</string>
     <string name="delete_wallpaper_message">"Supprimer %1$d fond d'écran ?"</string>
