@@ -145,7 +145,7 @@
     <string name="free_style_exit_tip">"Pour revenir à l'écran d'accueil, glissez vers le haut à partir du bas de l'écran avec deux doigts"</string>
     <string name="free_style_londing_text">Un instant…</string>
     <string name="gadget_calculator_label">Calculatrice</string>
-    <string name="gadget_calendar_label">Agenda</string>
+    <string name="gadget_calendar_label">Calendrier</string>
     <string name="gadget_clear_button_label">Nettoyeur</string>
     <string name="gadget_clock_12_label">Horloge 1x2</string>
     <string name="gadget_clock_14_label">Horloge 4x1</string>

@@ -1025,7 +1025,7 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="permgroupdesc_sensors">accéder aux données des capteurs relatives à vos signes vitaux</string>
     <string name="permgroupdesc_sms">envoyer et consulter des SMS</string>
     <string name="permgroupdesc_storage">accéder à des photos, à des contenus multimédias et à des fichiers sur votre appareil</string>
-    <string name="permgrouplab_calendar">Agenda</string>
+    <string name="permgrouplab_calendar">Calendrier</string>
     <string name="permgrouplab_calllog">"Journaux d'appels"</string>
     <string name="permgrouplab_camera">Appareil photo</string>
     <string name="permgrouplab_contacts">Contacts</string>

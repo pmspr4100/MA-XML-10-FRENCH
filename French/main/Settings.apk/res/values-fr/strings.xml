@@ -5333,7 +5333,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="symbols_not_allowed_for_password">Le mot de passe ne peut contenir de symbole</string>
     <string name="sync_active">Synchronisation activée</string>
     <string name="sync_automatically">Synchro auto</string>
-    <string name="sync_calendar">Agenda</string>
+    <string name="sync_calendar">Calendrier</string>
     <string name="sync_contacts">Contacts</string>
     <string name="sync_disabled">Synchronisation désactivée</string>
     <string name="sync_enable">Synchroniser</string>

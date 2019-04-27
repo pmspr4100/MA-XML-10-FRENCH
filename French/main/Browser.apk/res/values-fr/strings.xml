@@ -1301,8 +1301,8 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="suggest_access_item_app_size">%.2f Mo</string>
   <string name="suggest_access_item_app_update">Mise à jour: %s</string>
   <string name="suggest_access_item_book_mark">LIVRES</string>
-  <string name="suggest_access_item_mina_mark">QUICK APPS</string>
-  <string name="suggest_access_item_music_mark">MUIQUE</string>
+  <string name="suggest_access_item_mina_mark">APPS RAPIDE</string>
+  <string name="suggest_access_item_music_mark">MUSIQUE</string>
   <string name="suggest_access_item_singer_albums">%d albums</string>
   <string name="suggest_access_item_singer_pop">%d popular songs</string>
   <string name="suggest_access_item_site_mark">SITES</string>
