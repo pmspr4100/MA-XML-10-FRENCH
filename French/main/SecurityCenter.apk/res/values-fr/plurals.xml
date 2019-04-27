@@ -150,7 +150,11 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d vues</item>
+        <item quantity="zero">%1$d vues</item>
         <item quantity="one">%1$d vue</item>
+        <item quantity="two">%1$d vues</item>
+        <item quantity="few">%1$d vues</item>
+        <item quantity="many">%1$d vues</item>
     </plurals>
     <plurals name="result_virus_header">
         <item quantity="other">%d virus et applications non sécurisées trouvés</item>
@@ -213,8 +217,8 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">"%d application n'est pas autorisée à démarrer automatiquement"</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
-        <item quantity="other">%d autorisations</item>
-        <item quantity="one">%d autorisation</item>
+        <item quantity="other">%d permissions</item>
+        <item quantity="one">%d permission</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
         <item quantity="other">%d applications</item>
@@ -257,12 +261,12 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">%d cheval de Troie</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
-        <item quantity="other">Applis dangereuses : %d</item>
-        <item quantity="one">Appli dangereuse : %d</item>
+        <item quantity="other">Applis dangereuses: %d</item>
+        <item quantity="one">Appli dangereuse: %d</item>
     </plurals>
     <plurals name="white_list_trojan_header">
-        <item quantity="other">Chevaux de Troie : %d</item>
-        <item quantity="one">Cheval de Troie : %d</item>
+        <item quantity="other">Chevaux de Troie: %d</item>
+        <item quantity="one">Cheval de Troie: %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Patientez %d secondes et réessayez. "</item>
@@ -306,6 +310,7 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">%d applications trouvées</item>
+        <item quantity="zero">0 application trouvé</item>
         <item quantity="one">%d application trouvée</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
@@ -319,10 +324,6 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">%d virus supprimés</item>
         <item quantity="one">%d virus supprimé</item>
-    </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d jeux ajoutés</item>
@@ -383,13 +384,5 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problèmes nécessitent une optimisation</item>
         <item quantity="one">%1$d problème nécessite une optimisation</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
     </plurals>
 </resources>

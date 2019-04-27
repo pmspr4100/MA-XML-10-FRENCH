@@ -91,6 +91,8 @@
     <string name="dialog_btn_ok_disabled_net">Paramètres réseau</string>
     <string name="dialog_confirm_delete_checkbox_message">Supprimer aussi les fichiers locaux</string>
     <string name="dialog_confirm_delete_the_download_item_message">Supprimer ces tâches</string>
+    <string name="dialog_content_limit0">Restreindre les téléchargements</string>
+    <string name="dialog_content_limit_max">Illimité</string>	
     <string name="dialog_file_missing_title">"Impossible d'ouvrir le fichier"</string>
     <string name="dialog_msg_disabled_net">"%1$s a restreint les téléchargements pour le réseau actuel. Appuyer sur les paramètres de réseaux pour ouvrir l'application Sécurité."</string>
     <string name="dialog_msg_recommend">Vous ne serez plus en mesure de voir les sources recommandées une fois désactivé.</string>
@@ -140,6 +142,7 @@
     <string name="editmode_menu_share">Partager</string>
     <string name="extend">Plus</string>
     <string name="file_exist_hint">Ce fichier existe déjà</string>
+    <string name="file_picker">Choisissez un emplacement</string>
     <string name="file_size">Taille:</string>
     <string name="get_data_failed">"Impossible d'obtenir les informations. Attendez une minute ou deux et réessayez."</string>
     <string name="guess_like">Vous pouvez aussi aimer</string>
@@ -159,7 +162,7 @@
     <string name="korean_privacy_btn_exit">Quitter</string>
     <string name="korean_privacy_item_title">Privacy Policy (mandatory)</string>
     <string name="korean_privacy_tv_summary">Lisez attentivement tous les éléments suivants et indiquez si vous les acceptez.</string>
-    <string name="korean_user_agreement_item_title">User Agreement (mandatory)</string>
+    <string name="korean_user_agreement_item_title">"Accord d'utilisateur (obligatoire)"</string>
     <string name="load_finish_hint">"C'est tout pour l'instant."</string>
     <string name="loading">Un instant…</string>
     <string name="media_filter">Média</string>
@@ -196,12 +199,14 @@
     <string name="paused_waiting_for_network">En attente du réseau</string>
     <string name="paused_waiting_to_retry">En attente pour réessayer</string>
     <string name="pref_download_settings_title">Taille limite de téléchargement</string>
+    <string name="pref_download_storage_path">Enregistrer dans un emplacement personnalisé</string>
     <string name="pref_summary_any_bytes_popup">Toujours attendre une connexion Wi-Fi pour télécharger des fichiers</string>
     <string name="pref_summary_enable_max_bytes_popup">Afficher une notification contextuelle lorsque vous devez utiliser les données mobiles pour télécharger du contenu</string>
     <string name="pref_summary_max_bytes_limit_format">Attendre de se connecter au Wi-Fi si le fichier dépasse %s</string>
     <string name="pref_summary_no_limit_popup">Illimité</string>
     <string name="pref_title_enable_max_bytes_popup">"Afficher l'invite d'utilisation des données"</string>
     <string name="preferences_title">Paramètres</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
     <string name="new_add">Nouveau téléchargement</string>
     <string name="privacy_tip_cancel">Annuler</string>
     <string name="privacy_tip_ok">OK </string>

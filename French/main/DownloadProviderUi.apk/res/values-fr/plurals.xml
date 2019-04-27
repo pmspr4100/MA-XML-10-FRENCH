@@ -2,15 +2,15 @@
 <resources>
     <plurals name="confirm_delete_downloads_message">
         <item quantity="other">%d éléments seront supprimés.</item>
-        <item quantity="one">%d téléchargement sera supprimé.</item>
+        <item quantity="one">%d élément sera supprimé.</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Supprimer %d tâches ?</item>
-        <item quantity="one">Supprimer %d tâche ?</item>
+        <item quantity="other">Supprimer %d fichiers ?</item>
+        <item quantity="one">Supprimer %d fichier ?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%1$d téléchargements retirés</item>
-        <item quantity="one">%1$d téléchargement retiré</item>
+        <item quantity="other">%1$d fichiers supprimées</item>
+        <item quantity="one">%1$d fichier supprimé</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d jours</item>

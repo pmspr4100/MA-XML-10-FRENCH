@@ -400,7 +400,6 @@ Les cartes de contact ont été désactivées"</string>
     <string name="dialer_menu_description">Afficher le menu</string>
     <string name="dialer_menu_title">Options menu</string>
     <string name="dialer_returnToInCallScreen">"Retourner à l'appel en cours"</string>
-    <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">Utilisez le clavier à touches</string>
     <string name="dialog_import">Importer les contacts</string>
     <string name="dialog_import_export">Importer/Exporter les contacts</string>
@@ -423,7 +422,7 @@ Pour éviter les requêtes fréquentes, nous mettons à jour l'information de la
     <string name="display_options_sort_list_by">Trier par</string>
     <string name="display_options_view_family_name_first">Nom de famille en premier</string>
     <string name="display_options_view_given_name_first">Prénom en premier</string>
-    <string name="display_options_view_names_as">Afficher les noms de contact</string>
+    <string name="display_options_view_names_as">Afficher les noms</string>
     <string name="display_sim_contacts">Afficher les contacts de la carte SIM</string>
     <string name="display_ungrouped">Tous les autres contacts</string>
     <string name="display_warn_remove_ungrouped">Supprimer \"%s\" de la synchronisation supprimera également tous les contacts non groupés de la synchronisation.</string>
@@ -1031,7 +1030,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="simContacts_emptyLoading">Chargement depuis la carte SIM...</string>
     <string name="simContacts_title">Contacts de la carte SIM</string>
     <string name="sim_account_name">SIM</string>
-    <string name="sim_capacity">"Voir l'espace de la carte SIM"</string>
+    <string name="sim_capacity">"Afficher l'espace de la carte SIM"</string>
     <string name="sim_capacity_content" formatted="false">%d au total | %d utilisés</string>
     <string name="sim_card_no_free_space_message">"Pas assez d'espace"</string>
     <string name="sim_card_no_free_space_title">Carte SIM pleine</string>
