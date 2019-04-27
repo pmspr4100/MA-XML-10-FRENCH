@@ -997,7 +997,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">"Gérer les connexions, configurer le nom et l'identification de l'appareil"</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
-    <string name="bluetooth_show_devices_without_names">Montrer les périphériques Bluetooth sans nom</string>
+    <string name="bluetooth_show_devices_without_names">Afficher les périphériques Bluetooth sans nom</string>
     <string name="bluetooth_show_devices_without_names_summary">Les périphériques Bluetooth sans nom (adresses MAC uniquement) seront affichés</string>
     <string name="bluetooth_show_received_files">Fichiers reçus</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
@@ -1157,8 +1157,8 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="call_records_name_2">Jason Lee</string>
     <string name="call_records_name_3">Tom Fowles</string>
     <string name="call_records_summary_1">9:35 | 26 secondes | China Unicom</string>
-    <string name="call_records_summary_2">16 Août | 1m 16s | China Mobile</string>
-    <string name="call_records_summary_3">16 Août | 2m 24s | China Unicom</string>
+    <string name="call_records_summary_2">16 Août | 1 min 16 sec | China Mobile</string>
+    <string name="call_records_summary_3">16 Août | 2 min 24 sec | China Unicom</string>
     <string name="call_settings_primary_user_only">"Changer les paramètres d'appel dans le Premier Espace"</string>
     <string name="call_settings_summary">"Messagerie vocale, transferts d'appel, mise en attente, numéro de l'appelant"</string>
     <string name="call_settings_title">"Paramètres d'appel"</string>
@@ -1257,7 +1257,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="cleaner">Nettoyeur</string>
     <string name="clear_activities">Effacer les actions par défaut</string>
     <string name="clear_activities_summary">Utiliser cette application pour certaines opérations par défaut</string>
-    <string name="clear_adb_keys">Révoquer les autorisations du débogage USB</string>
+    <string name="clear_adb_keys">Révoquer les permissions du débogage USB</string>
     <string name="clear_cache_btn_text">Vider le cache</string>
     <string name="clear_data_dlg_text">Les données de cette application (fichiers, paramètres, comptes, bases de données, etc.) vont être définitivement supprimées.</string>
     <string name="clear_data_dlg_title">"Supprimer les données de l'application ?"</string>
@@ -1715,11 +1715,11 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_cellular_network">Recherche de réseaux mobiles</string>
     <string name="device_complete_parameters">Caractéristiques</string>
     <string name="device_cpu">Version processeur</string>
-    <string name="device_cpu10_info">Deca-core</string>
-    <string name="device_cpu2_info">Dual-core</string>
-    <string name="device_cpu4_info">Quad-core</string>
-    <string name="device_cpu6_info">Hexa-core</string>
-    <string name="device_cpu8_info">Octa-core</string>
+    <string name="device_cpu10_info">Deca-Core</string>
+    <string name="device_cpu2_info">Dual-Core</string>
+    <string name="device_cpu4_info">Quad-Core</string>
+    <string name="device_cpu6_info">Hexa-Core</string>
+    <string name="device_cpu8_info">Octa-Core</string>
     <string name="device_description_battery">Batterie</string>
     <string name="device_description_camera">Appareil photo</string>
     <string name="device_description_cpu">Processeur</string>
@@ -2551,7 +2551,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="join_many_items_last">%1$s et %2$s</string>
     <string name="join_two_items">%1$s et %2$s</string>
     <string name="keep_legacy_fingerprint">Garder</string>
-    <string name="keep_screen_on">Laisser allumé</string>
+    <string name="keep_screen_on">"Laisser l'écran allumé"</string>
     <string name="keep_screen_on_summary">"L'écran ne se mettra pas en veille pendant le chargement"</string>
     <string name="kernel_version">Version du noyau</string>
     <string name="key_combination_power_back">Boutons Alimentation + Retour</string>
@@ -2735,7 +2735,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="local_auto_backup_on">Activé</string>
     <string name="local_auto_backup_section_title">Sauvegardes automatiques</string>
     <string name="local_backup_password_summary_change">"Appuyez pour changer ou supprimer le mot de passe pour les sauvegardes complètes de l'écran d'accueil"</string>
-    <string name="local_backup_password_summary_none">"Les sauvegardes complètes de l'écran d'accueil ne sont’ pas actuellement protégées"</string>
+    <string name="local_backup_password_summary_none">"Les sauvegardes complètes de l'écran d'accueil ne sont pas actuellement protégées"</string>
     <string name="local_backup_password_title">"Mot de passe de sauvegarde de l'écran d'accueil"</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne’ correspondent pas</string>
     <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>
@@ -4221,9 +4221,9 @@ Interface UT: %5$s"</string>
 "&lt;li&gt;Bluetooth&lt;/li&gt;</string>
     <string name="reset_network_final_button_text">Réinitialiser les paramètres</string>
     <string name="reset_network_final_desc">"Réinitialiser tous les paramètres réseau maintenant ? Cela peut prendre plusieurs secondes. Vous ne pourrez pas inverser cette action"</string>
-    <string name="reset_network_title">Réinitialiser le Wi-Fi, les données mobiles et le Bluetooth</string>
+    <string name="reset_network_title">Réinitialisation</string>
     <string name="reset_network_wifi">Wi-Fi</string>
-    <string name="reset_second_space_passwd">Réinitialiser le mot de passe du second espace</string>
+    <string name="reset_second_space_passwd">Réinitialiser le mot de passe du deuxième espace</string>
     <string name="reset_second_space_passwd_cancel">Annuler</string>
     <string name="reset_second_space_passwd_confirm">Continuer</string>
     <string name="reset_second_space_passwd_detail">Saisir le mot de passe de votre compte Mi utilisé dans le premier espace</string>
