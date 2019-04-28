@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="feature_desc">
-        <item>Salutations du matin: Abonnez-vous pour recevoir vos salutations chaque matin.</item>
-        <item>"Combinez l'écran de verrouillage par défaut avec des thèmes personnalisés pour pouvoir utiliser les fond d'écran Mi Carrousel."</item>
+        <item>"Nouvelle interface avec l'interface coulissante à droite, une expérience de navigation plus fluide"</item>
+        <item>"Verrouiller la glissière à droite de l'écran pour prendre en charge le "mini mode", utilisation simple de gadgets"</item>
     </string-array>
 </resources>

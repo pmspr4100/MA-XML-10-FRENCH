@@ -4,6 +4,14 @@
         <item quantity="other">%d articles sur ce sujet</item>
         <item quantity="one">%d article sur ce sujet</item>
     </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%d éléments</item>
+        <item quantity="one">%d élément</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%d appareils</item>
+        <item quantity="one">%d appareil</item>
+    </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s personnes abonnées</item>
         <item quantity="one">%1$s personne abonnée</item>
