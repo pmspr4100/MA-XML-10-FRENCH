@@ -1581,7 +1581,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
     <string name="data_usage_restrict_denied_dialog">La consommation des données en arrière-plan ne peut être restreinte que si vous avez défini une limite de données mobiles.</string>
     <string name="data_usage_summary_format">Volume des données utilisées: %1$s</string>
-    <string name="data_usage_summary_title">Conso des données</string>
+    <string name="data_usage_summary_title">Utilisation des données</string>
     <string name="data_usage_sweep_limit"><font size="18">^1</font><font size="9">^2</font>"
 "<font size="12">plafond</font></string>
     <string name="data_usage_sweep_warning"><font size="18">^1</font><font size="9">^2</font>"
@@ -1715,11 +1715,11 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_cellular_network">Recherche de réseaux mobiles</string>
     <string name="device_complete_parameters">Caractéristiques</string>
     <string name="device_cpu">Version processeur</string>
-    <string name="device_cpu10_info">Deca-Core</string>
-    <string name="device_cpu2_info">Dual-Core</string>
-    <string name="device_cpu4_info">Quad-Core</string>
-    <string name="device_cpu6_info">Hexa-Core</string>
-    <string name="device_cpu8_info">Octa-Core</string>
+    <string name="device_cpu10_info">"Deca-Core "</string>
+    <string name="device_cpu2_info">"Dual-Core "</string>
+    <string name="device_cpu4_info">"Quad-Core "</string>
+    <string name="device_cpu6_info">"Hexa-Core "</string>
+    <string name="device_cpu8_info">"Octa-Core "</string>
     <string name="device_description_battery">Batterie</string>
     <string name="device_description_camera">Appareil photo</string>
     <string name="device_description_cpu">Processeur</string>
@@ -1729,7 +1729,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_details_title">"Détails de l'appareil"</string>
     <string name="device_display_layout_title">Fonctionnalités du Mi 5</string>
     <string name="device_edit_title">Renommer le téléphone</string>
-    <string name="device_feedback">Envoyer commentaires sur appareil</string>
+    <string name="device_feedback">"Envoyer commentaires sur l'appareil"</string>
     <string name="device_id">"ID de l'appareil"</string>
     <string name="device_info_default">Inconnu</string>
     <string name="device_info_label">"Informations sur l'appareil"</string>
@@ -1754,8 +1754,8 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_screen_usage">"Utilisation de l'écran depuis la dernière charge complète"</string>
     <string name="device_sd_memory">Carte SD</string>
     <string name="device_share_loading">"Création de l'image"</string>
-    <string name="device_status">État</string>
-    <string name="device_status_activity_title">État</string>
+    <string name="device_status">Informations</string>
+    <string name="device_status_activity_title">Informations</string>
     <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
     <string name="device_theme">"Thème de l'appareil"</string>
     <string name="device_total_memory">Stockage total</string>
@@ -2594,7 +2594,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="keywords_all_apps">applis, télécharger, applications, système</string>
     <string name="keywords_ambient_display">notification reçue</string>
     <string name="keywords_ambient_display_screen">"affichage en mode veille, affichage de l'écran de verrouillage"</string>
-    <string name="keywords_android_version">Patch de sécurité android, version du modem, version de noyau</string>
+    <string name="keywords_android_version">Patch de sécurité, version du modem, version de noyau</string>
     <string name="keywords_app">Mémoire vive</string>
     <string name="keywords_app_permissions">applications, autorisations, sécurité</string>
     <string name="keywords_assist_gesture_launch">geste</string>
@@ -3070,7 +3070,7 @@ D'autres personnes utilisent cet appareil.
     <string name="master_clear_title">"Effacer toutes les données (rétablir la configuration d'usine)"</string>
     <string name="max_aspect_settings_all_app_display_loading">Juste un instant…</string>
     <string name="max_cpu10_info">"Deca-Core Max "</string>
-    <string name="max_cpu2_info">Dual-Core Max</string>
+    <string name="max_cpu2_info">"Dual-Core Max "</string>
     <string name="max_cpu4_info">"Quad-Core Max "</string>
     <string name="max_cpu6_info">"Hexa-Core Max "</string>
     <string name="max_cpu8_info">"Octa-Core Max "</string>
@@ -4110,7 +4110,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="radioInfo_service_out">Hors-service</string>
     <string name="radioInfo_unknown">Inconnu</string>
     <string name="radio_controls_summary">Gérer le Wi-Fi, Bluetooth, Mode avion, Réseaux mobiles, &amp; VPN</string>
-    <string name="radio_controls_title">Additionnel</string>
+    <string name="radio_controls_title">Supplémentaires</string>
     <string name="radio_info_asdiv_switch_label">État ASDiv:</string>
     <string name="radio_info_band_mode_label">Sélectionner une bande radio</string>
     <string name="radio_info_call_redirect_label">Redirection des appels:</string>
@@ -4687,7 +4687,7 @@ Pour épingler l'écran:
     <string name="security_keyguard_category_name">Écran de verrouillage</string>
     <string name="security_password_category_name">"Verrouillage de l'écran"</string>
     <string name="security_passwords_title">Confidentialité</string>
-    <string name="security_patch">Patch de sécurité android</string>
+    <string name="security_patch">Patch de sécurité</string>
     <string name="security_privacy_settings_title">Confidentialité</string>
     <string name="security_relative">Sécurité</string>
     <string name="security_settings_billing_desc">Cette application peut engendrer des frais:</string>
@@ -6339,7 +6339,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_menu_write_to_nfc">Modifier le tag NFC</string>
     <string name="wifi_metered_label">Mesuré</string>
     <string name="wifi_modify">Modifier</string>
-    <string name="wifi_more">Additionnel</string>
+    <string name="wifi_more">Supplémentaires</string>
     <string name="wifi_multiple_cert_added">(Plusieurs certificats ajoutés)</string>
     <string name="wifi_network_optimization">Connexion au réseau intelligent</string>
     <string name="wifi_network_prefix_length">Longueur du préfixe réseau</string>
