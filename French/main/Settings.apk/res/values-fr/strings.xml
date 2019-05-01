@@ -6124,7 +6124,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="wfd_available_devices">Appareils disponibles</string>
     <string name="wfd_disconnect_diag_msg">Déconnecter de %1$s ?</string>
     <string name="wfd_disconnect_diag_title">"Déconnecter l'affichage ?"</string>
-    <string name="wfd_disconnect_multiple_diag_message">Déconnecter de %1$setCompter%2$sautres appareils ?</string>
+    <string name="wfd_disconnect_multiple_diag_message">Déconnecter de %1$s et %2$s autres appareils ?</string>
     <string name="wfd_enable_wifi_diag_title">Activer le Wi-Fi ?</string>
     <string name="wfd_enabler_title">Affichage sans-fil</string>
     <string name="wfd_menu_search">"Recherche d'appareils"</string>
@@ -6331,7 +6331,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_ip_settings_invalid_network_prefix_length">Le préfixe réseau doit être compris entre 0 et 32.</string>
     <string name="wifi_ip_settings_menu_cancel">Annuler</string>
     <string name="wifi_ip_settings_menu_save">Enregistrer</string>
-    <string name="wifi_limit_optimizations_summary">Limiter batterie util. par Wi-Fi</string>
+    <string name="wifi_limit_optimizations_summary">Limiter la batterie util. par Wi-Fi</string>
     <string name="wifi_menu_advanced">Options avancées</string>
     <string name="wifi_menu_configure">Configurer</string>
     <string name="wifi_menu_connect">Se connecter au réseau</string>
@@ -6394,8 +6394,8 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_priority_type_title">"Définir la priorité des points d'accès manuellement"</string>
     <string name="wifi_property">Propriété Wi-Fi</string>
     <string name="wifi_protection_on">Activé</string>
-    <string name="wifi_protection_settings_title">Protection contre les requêtes de sonde WLAN</string>
-    <string name="wifi_protection_tip">"MIUI protégera vos données personnelles contre les demandes de sonde WLAN provenant d'adresses MAC aléatoires et de renifleurs de sonde WLAN lorsque votre appareil recherche des réseaux WLAN."</string>
+    <string name="wifi_protection_settings_title">Protection contre les requêtes de sonde Wi-Fi</string>
+    <string name="wifi_protection_tip">"MIUI protégera vos données personnelles contre les demandes de sonde Wi-Fi provenant d'adresses MAC aléatoires et de renifleurs de sonde Wi-Fi lorsque votre appareil recherche des réseaux Wi-Fi."</string>
     <string name="wifi_quick_toggle_summary">Activer le Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Sauvegardé</string>
@@ -6507,7 +6507,7 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="wifi_ssid">Réseau SSID</string>
     <string name="wifi_ssid_hint">Saisissez le SSID</string>
     <string name="wifi_ssid_is_empty">SSID ne peut pas être laissé vide</string>
-    <string name="wifi_ssid_length_is_max">SSID peut contenir jusqu’à 32 caractères</string>
+    <string name="wifi_ssid_length_is_max">"SSID peut contenir jusqu'à 32 caractères"</string>
     <string name="wifi_ssid_too_long">Le nom du réseau est trop long.</string>
     <string name="wifi_starting">Activation…</string>
     <string name="wifi_status">État</string>
@@ -6577,10 +6577,10 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="wifi_wapi_cert_uninstall">Désinstaller le certificat WAPI</string>
     <string name="wifi_wapi_cert_uninstall_button">Désinstaller</string>
     <string name="wifi_wapi_certification_dont_exist">Le mot de passe du réseau que vous avez entré est incorrect.</string>
-    <string name="wifi_wapi_fail_to_auth">"Impossible de terminer l’authentification WAPI. 
+    <string name="wifi_wapi_fail_to_auth">"Impossible de terminer l'authentification WAPI. 
 Assurez-vous que vos certificats sont valides."</string>
-    <string name="wifi_wapi_fail_to_init">"Impossible d’ouvrir le certificat WAPI. 
-On dirait que le stockage des certificats n’est pas activé."</string>
+    <string name="wifi_wapi_fail_to_init">"Impossible d'ouvrir le certificat WAPI. 
+On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="wifi_wapi_psk_type">Type de mot de passe</string>
     <string name="wifi_wapi_user_cert">Certificat Utilisateur</string>
     <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
@@ -6591,11 +6591,11 @@ On dirait que le stockage des certificats n’est pas activé."</string>
     <string name="wifi_wps_onstart_pbc">Appuyez sur le bouton WPS de votre routeur.</string>
     <string name="wifi_wps_onstart_pin">Saisir le PIN %1$s sur votre routeur Wi-Fi. La configuration peut prendre plusieurs minutes.</string>
     <string name="wifi_wps_overlap_error">Une autre session Wi-Fi a été détectée. Patientez 1 ou 2 minutes et réessayer.</string>
-    <string name="wifi_wps_setup_title">Wi-Fi Protected Setup</string>
+    <string name="wifi_wps_setup_title">Configuration Wi-Fi protégé</string>
     <string name="window_animation_scale_title">"Échelle d'animation de fenêtre"</string>
     <string name="winscope_trace_quick_settings_title">Trace Winscope</string>
     <string name="wireless_connected">Connecté</string>
-    <string name="wireless_networks_settings_title">Sans fil et réseaux</string>
+    <string name="wireless_networks_settings_title">Sans-fil et réseaux</string>
     <string name="wireless_off">Désactivé</string>
     <string name="wireless_on">Activé</string>
     <string name="wizard_back">Retour</string>
@@ -6813,7 +6813,7 @@ Les notifications nécessaires pour l'activité du téléphone et son état sont
     <string name="zen_mode_summary_alarms_only_indefinite">Ne recevoir que les alarmes sans limite de temps</string>
     <string name="zen_mode_summary_always">Toujours interrompre</string>
     <string name="zen_mode_system">Sons des touches</string>
-    <string name="zen_mode_unknown_app_set_behavior">Vous ne pouvez pas modifier ces paramètres pour le moment. Une application a activé le mode Ne pas déranger automatiquement avec un comportement personnalisé.</string>
+    <string name="zen_mode_unknown_app_set_behavior">Vous ne pouvez pas modifier ces paramètres pour le moment. Une application a activé le mode ne pas déranger automatiquement avec un comportement personnalisé.</string>
     <string name="zen_mode_use_automatic_rule">Utiliser la règle</string>
     <string name="zen_mode_visual_interruptions_settings_title">Bloquer nuisances visuelles</string>
     <string name="zen_mode_visual_signals_settings_subtitle">Autoriser les signaux visuels</string>
@@ -6822,11 +6822,11 @@ Les notifications nécessaires pour l'activité du téléphone et son état sont
     <string name="zen_mode_when_every_night">Tous les soirs</string>
     <string name="zen_mode_when_never">Jamais</string>
     <string name="zen_mode_when_weeknights">Les soirs de semaine</string>
-    <string name="zen_msg_event_reminder_footer">"Lorsque le mode Ne pas déranger est activé, le son des messages, des rappels et des événements est coupé, sauf pour les éléments autorisés ci-dessus. Vous pouvez ajuster les paramètres des messages pour que vos proches ou d'autres contacts puissent quand même vous joindre."</string>
+    <string name="zen_msg_event_reminder_footer">"Lorsque le mode ne pas déranger est activé, le son des messages, des rappels et des événements est coupé, sauf pour les éléments autorisés ci-dessus. Vous pouvez ajuster les paramètres des messages pour que vos proches ou d'autres contacts puissent quand même vous joindre."</string>
     <string name="zen_msg_event_reminder_title">Messages, événements et rappels</string>
     <string name="zen_onboarding_current_setting_summary">(Paramètre actuel)</string>
     <string name="zen_onboarding_current_setting_title">Aucune notification sonore</string>
-    <string name="zen_onboarding_dnd_visual_disturbances_header">Modifier les paramètres de notification du mode Ne pas déranger ?</string>
+    <string name="zen_onboarding_dnd_visual_disturbances_header">Modifier les paramètres de notification du mode ne pas déranger ?</string>
     <string name="zen_onboarding_new_setting_summary">Vous ne recevrez aucune notification visuelle ni sonore. Les appels de vos contacts favoris et des appelants fréquents seront autorisés.</string>
     <string name="zen_onboarding_new_setting_title">Aucune notification visuelle ni sonore</string>
     <string name="zen_onboarding_ok">OK</string>
