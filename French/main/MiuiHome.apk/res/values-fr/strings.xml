@@ -193,7 +193,6 @@
     <string name="launcher_pull_down_title">"Glisser vers le bas sur l'écran d'accueil"</string>
     <string name="launcher_slide_up_title">"Glisser vers le haut sur l'écran d'accueil"</string>
     <string name="home_screen">"Écran d'accueil"</string>
-    <string name="home_slide_up_action">"Glissez vers le haut sur l'écran d'accueil"</string>
     <string name="icon_reorganize_channel">Organiser les icônes</string>
     <string name="image_too_small_message">"L'image originale nest pas assez grande."</string>
     <string name="install">Installer</string>
