@@ -613,6 +613,7 @@ Les données qui n'ont pas été importées doivent être importées encore."</s
     <string name="perm_read_call_log">"Voir l'historique des appels"</string>
     <string name="perm_read_sms">Lire les SMS</string>
     <string name="perm_storage">Lire et écrire sur un support de stockage externe</string>
+    <string name="phone_title">Paramètres du téléphone</string>
     <string name="lack_perm_title">Autorisation requise</string>
     <string name="lack_perm_msg">Mi Mover a besoin des autorisations suivantes: &lt;b>%s&lt;/b>.</string>
     <string name="flash_drive_backup_restore">Sauvegardes USB</string>

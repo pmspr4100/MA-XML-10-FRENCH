@@ -152,6 +152,8 @@
     <string name="edit_event_confirm_message">Annuler les modifications ?</string>
     <string name="edit_event_countdown_name_empty_hint">"Saisir un nom pour l'événement"</string>
     <string name="edit_event_countdown_name_hint">Événement</string>
+    <string name="edit_event_custom_reminder_time_dup">Rappel personnalisé: %1$s</string>
+    <string name="edit_event_custom_reminder_title">Définir un rappel personnalisé</string>
     <string name="edit_event_from_label">De</string>
     <string name="edit_event_input_year">Saisir une année</string>
     <string name="edit_event_label">Détails</string>
@@ -191,9 +193,10 @@
     <string name="event_info_when">Quand</string>
     <string name="event_info_where">Où</string>
     <string name="event_reminder_allday_day_zero">Ce jour à %2$s</string>
-    <string name="event_reminder_value_zero">"Avant l'événement"</string>
+    <string name="event_reminder_custom">Personnaliser</string>
+    <string name="event_reminder_value_zero">"Quand l'événement commence"</string>
     <string name="event_title">Titre</string>
-    <string name="event_view">"Voir l'événement"</string>
+    <string name="event_view">"Afficher l'événement"</string>
     <string name="every_weekday">Lundi au vendredi</string>
     <string name="fb_birthday_failure">"Impossible d'importer les anniversaires depuis Facebook. Veuillez réessayez."</string>
     <string name="fb_birthday_success">Importation des anniversaire depuis Facebook réussie</string>

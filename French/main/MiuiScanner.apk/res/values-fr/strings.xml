@@ -36,6 +36,7 @@
     <string name="business_card">Carte de visite</string>
     <string name="business_card_result_title">Carte de visite</string>
     <string name="business_card_title">Placez la carte de visite dans le cadre</string>
+    <string name="business_card_with_qr_code">Placez la carte de visite ou le QR code dans le cadre</string>
     <string name="business_copy">Copier</string>
     <string name="business_new_contacts">Créer un contact</string>
     <string name="business_no_result">Impossible de reconnaître la carte de visite, essayez à nouveau.</string>
@@ -44,7 +45,7 @@
     <string name="camera_error_title">"Erreur de l'appareil photo"</string>
     <string name="cancel">Annuler</string>
     <string name="choose_pay_title">Sélectionner une méthode de remboursement</string>
-    <string name="choose_picture">"Sélectionner l'image du code QR"</string>
+    <string name="choose_picture">"Sélectionner l'image du QR code"</string>
     <string name="common_retake_picture">Reprendre</string>
     <string name="common_retry">Veuillez réessayer</string>
     <string name="common_save">Sauvegarder</string>

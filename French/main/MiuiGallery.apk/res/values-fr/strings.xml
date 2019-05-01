@@ -39,6 +39,7 @@
     <string name="agreement_summary">Documents légaux</string>
     <string name="ai_album_open_switch_button_title">"Démarrer l'analyse des photos"</string>
     <string name="ai_album_requesting_title">"L'algorithme IA traite toujours vos photos. Revenez dans un moment."</string>
+    <string name="ai_album_setting_key_word">Rechercher des photos</string>
     <string name="ai_album_setting_sub_title">"Autorisez l'algorithme IA à identifier les personnes, les lieux et les objets sur vos photos afin de les retrouver plus rapidement."</string>
     <string name="ai_album_setting_title">Identifier des objets sur les photos</string>
     <string name="album_already_exists_check">Voir</string>
@@ -188,6 +189,8 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="backuped_title">Sauvegardé avec succès</string>
     <string name="backuping_title_gprs">"Sauvegarder à l'aide de données mobiles…"</string>
     <string name="backuping_title_normal">Sauvegarde en cours…</string>
+    <string name="base_btn_cancel">Annuler</string>
+    <string name="base_btn_download">Télécharger</string>
     <string name="begin_share">Album de Bébé \"%s\" créé , vous pouvez le partager maintenant</string>
     <string name="begin_share_toast">Créer un album distinct pour cet enfant avant de le partager ?</string>
     <string name="browse_category_title">Parcourir</string>
@@ -527,6 +530,7 @@ sont disponibles"</string>
     <string name="filter_category_master">Original</string>
     <string name="filter_category_portrait">Portrait</string>
     <string name="filter_category_scene">Paysage</string>
+    <string name="filter_category_sky">Ciel</string>
     <string name="filter_film_blackwhite">N&amp;B</string>
     <string name="filter_film_dew">Rosée</string>
     <string name="filter_film_fade">Fondu</string>
@@ -569,6 +573,17 @@ sont disponibles"</string>
     <string name="filter_scene_series">Ombres</string>
     <string name="filter_scene_vivid">Vif</string>
     <string name="filter_scene_warm">Soleil</string>
+    <string name="filter_sky_cloudy">Nuageux</string>
+    <string name="filter_sky_detect_forbidden_tips">"Impossible de détecter le ciel"</string>
+    <string name="filter_sky_download_failed">"Impossible de télécharger le plug-in. Vérifiez vos paramètres réseau et réessayez.."</string>
+    <string name="filter_sky_download_finish">Plug-in téléchargé avec succès</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">"Si vous n'êtes pas connecté au Wi-Fi, vous pouvez utiliser les données mobiles pour télécharger le plug-in (%1$d Mo) qui vous permet de remplacer le ciel sur vos photos."</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">Télécharger le plug-in</string>
+    <string name="filter_sky_dusk">Crépuscule</string>
+    <string name="filter_sky_glow">Lueur</string>
+    <string name="filter_sky_rainbow">Arc en ciel</string>
+    <string name="filter_sky_sunny">Ensoleillé</string>
+    <string name="filter_sky_sunset">Coucher du soleil</string>
     <string name="finish_create_baby_album_toast">Album de \"%s\" créé dans Mi Cloud</string>
     <string name="finish_fill_baby">Créer</string>
     <string name="flash_off">Flash désactivé</string>
@@ -1244,6 +1259,7 @@ pour personnaliser Galerie"</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="too_many_recipients">Vous ne pouvez pas ajouter plus de %2$s destinataires (Vous avez déjà ajouté %1$s destinataires).</string>
     <string name="trash_bin">Corbeille</string>
+    <string name="trash_bin_key_word">Photos supprimées</string>
     <string name="trash_bin_summary">Parcourir les photos sauvegardées qui ont été supprimées récemment</string>
     <string name="try_again_later">Réessayez plus tard.</string>
     <string name="try_to_send">Envoyer</string>

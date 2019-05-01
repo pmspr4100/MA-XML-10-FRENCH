@@ -462,15 +462,16 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="message_snap_double_confirm">Appuyez longuement sur le bouton de volume pour déclencher le NFC. Remplacer cette fonctionnalité ?</string>
     <string name="mimoji_back">Retour</string>
     <string name="mimoji_cancle">Annuler</string>
-    <string name="mimoji_check_beyond_20_degrees">"Placez vous face à l'écran pour identifier les traits du visage"</string>
-    <string name="mimoji_check_face_occlusion">Veuillez organiser le masque pour identifier les traits du visage</string>
-    <string name="mimoji_check_face_too_close">"Vérifiez que votre visage n'est pas trop grand, déplacez votre téléphone plus loin"</string>
-    <string name="mimoji_check_face_too_far">"Pour détecter que votre visage n'est pas trop petit, rapprochez votre téléphone"</string>
-    <string name="mimoji_check_low_light">Veuillez vous déplacer dans un endroit lumineux pour reconnaître facilement le visage</string>
-    <string name="mimoji_check_multi_face">Gardez une personne dans le cadre</string>
+    <string name="mimoji_check_beyond_20_degrees">请保持正面</string>
+    <string name="mimoji_check_face_occlusion">请勿遮挡人脸</string>
+    <string name="mimoji_check_face_too_close">人脸过大</string>
+    <string name="mimoji_check_face_too_far">人脸过小</string>
+    <string name="mimoji_check_low_light">光线过暗</string>
+    <string name="mimoji_check_multi_face">请保持一人</string>
     <string name="mimoji_check_no_face">Visage non reconnu</string>
     <string name="mimoji_check_normal">"Appuyez sur le bouton de l'appareil photo"</string>
     <string name="mimoji_confirm">Confirmer</string>
+    <string name="mimoji_create_tips">拍摄正面人脸，为您建立Mimoji</string>
     <string name="mimoji_delete_mimoji">Supprimer mon expression</string>
     <string name="mimoji_delete_success">Supprimé avec succès</string>
     <string name="mimoji_detect_faceshape_failed">Échec de la détection du visage</string>
@@ -493,15 +494,14 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="mimoji_eyebrow">Sourcil</string>
     <string name="mimoji_eyebrow_shape">Sourcil</string>
     <string name="mimoji_eyeglass">Lunettes</string>
-    <string name="mimoji_eyelash">Cils</string>
+    <string name="mimoji_eyelash">睫毛</string>
     <string name="mimoji_featured_face">Type de visage</string>
     <string name="mimoji_fragment_tab_name">Mimoji</string>
     <string name="mimoji_freckle">Taches de rousseur</string>
     <string name="mimoji_hairstyle">Style de cheveux</string>
     <string name="mimoji_headwear">Couvre-chef</string>
     <string name="mimoji_mole">Taupe</string>
-    <string name="mimoji_mole_freckle">"+ Taches de rousseur"</string>
-    <string name="mimoji_mouth_type">Type de bouche</string>
+    <string name="mimoji_mouth_type">嘴巴</string>
     <string name="mimoji_mustache">Moustache</string>
     <string name="mimoji_nose">Nez</string>
     <string name="mimoji_nose_lisps">Nasolabial</string>
@@ -512,7 +512,7 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="mimoji_save">Enregistrer</string>
     <string name="mimoji_save_success">Enregistré avec succès</string>
     <string name="mimoji_selected">Choisir</string>
-    <string name="mimoji_start_create">"Créer votre propre expression, s'il vous plaît soyez patient..."</string>
+    <string name="mimoji_start_create">Mimoji创建中...</string>
     <string name="mimoji_tips">Appuyez sur la photo et maintenez la vidéo enfoncée.</string>
     <string name="snap_confirmed">Remplacer</string>
     <string name="snap_cancel">Annuler</string>
@@ -557,6 +557,8 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="config_name_magic">Magique</string>
     <string name="config_name_super_resolution">Super résolution</string>
     <string name="beauty_body_whole">Corps</string>
+    <string name="beauty_clear">Effacer</string>
+    <string name="beauty_clear_toast">Effacement des effets beauté avec succès</string>
     <string name="beauty_fragment_tab_name_beauty">Beauté</string>
     <string name="beauty_fragment_tab_name_makeup">Avancé</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Beauté</string>
@@ -566,6 +568,7 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="edit_skin_smooth">Lisse</string>
     <string name="edit_eye_large">Grands yeux</string>
     <string name="edit_face_slender">Élancé</string>
+    <string name="edit_hairline">Hairline</string>
     <string name="edit_face_ruddy">Rougeâtre</string>
     <string name="edit_nose">Nez</string>
     <string name="edit_risorius">Sourire</string>
@@ -689,7 +692,7 @@ en mode Portrait"</string>
     <string name="live_edit_exit_message">Arrêter la séance photo maintenant ?</string>
     <string name="live_edit_exit_confirm">Arrêter</string>
     <string name="live_edit_share_title">Partager</string>
-    <string name="beauty_reset_toast">Réinitialiser les effets de figure avec succès</string>
+    <string name="beauty_reset_toast">Réinitialiser les effets beauté avec succès</string>
     <string name="pref_camera_ultra_wide_mode_title">Mode ultra grand angle</string>
     <string name="ultra_wide_mode_use_hint_text_sat">"Essayez le mode ultra grand angle 0.6X pour inclure d'avantage de scènes dans votre photo.
 Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloigner de la scène."</string>

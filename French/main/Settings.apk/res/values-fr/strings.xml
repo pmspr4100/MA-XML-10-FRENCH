@@ -1249,10 +1249,14 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="checking_find_device_status">"Vérification de l'état de Localiser l'appareil…"</string>
     <string name="checking_for_updates">Vérification des mises à jour…</string>
     <string name="choose_a_card_to_reset">Sélectionner la carte SIM à réinitialiser</string>
+    <string name="choose_keyguard_clock_style">"Verrouiller le format de l'horloge"</string>
+    <string name="choose_keyguard_clock_summary">"Ce paramètre ne fonctionne pas avec les thèmes tiers"</string>
     <string name="choose_profile">Sélectionnez un profil</string>
     <string name="choose_smartcover_type">"Choisir le type d'étui"</string>
     <string name="choose_spell_checker">Sélectionner correcteur ortho</string>
     <string name="choose_timezone">Sélectionner le fuseau horaire</string>
+    <string name="choose_unlock_face_msg">"Définissez un verrouillage de l'écran avant d'enregistrer les données de reconnaissance faciale."</string>
+    <string name="choose_unlock_fingerprint_msg">"Définissez le verrouillage de l'écran avant d'ajouter votre empreinte digitale."</string>
     <string name="choose_voice_input_title">Sélectionner la saisie vocale</string>
     <string name="cleaner">Nettoyeur</string>
     <string name="clear_activities">Effacer les actions par défaut</string>
@@ -2403,7 +2407,6 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_add_fingerprint_put_finger_title">Appuyer et retirer après vibration</string>
     <string name="gxzw_add_fingerprint_title">Ajouter votre empreinte digitale</string>
     <string name="gxzw_anim_light">Néon</string>
-    <string name="gxzw_anim_metal">Métal</string>
     <string name="gxzw_anim_pulse">Pouls</string>
     <string name="gxzw_anim_rhythm">Rythme</string>
     <string name="gxzw_anim_star">Lumière des étoiles</string>
@@ -2480,7 +2483,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="ignore_optimizations_on">Ne pas optimiser</string>
     <string name="ignore_optimizations_on_desc">"Risque de décharger la batterie plus rapidement. L'utilisation de la batterie en arrière-plan ne sera plus bloquée pour l'application."</string>
     <string name="ignore_optimizations_title">Autoriser %s à ignorer les optimisations de batterie ?</string>
-    <string name="ime_security_warning">%1$s peut enregistrer tout ce que vous tapez, y compris les mots de passe, numéros de carte de crédit et autres données personnelles.</string>
+    <string name="ime_security_warning">"%1$s peut enregistrer tout ce que vous tapez, y compris les mots de passe, numéros de carte de crédit et autres données personnelles"</string>
     <string name="imei_information_summary">Informations relatives au code IMEI</string>
     <string name="imei_information_title">Informations sur le code IMEI</string>
     <string name="imei_multi_sim">Code IMEI (SIM %1$d)</string>
@@ -3176,6 +3179,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_features">Fonctionnalités lab MIUI</string>
     <string name="miui_lab_gallery_search_desc">"Recherche d'image améliorée"</string>
     <string name="miui_lab_gallery_search_title">Trouver des photos dans Galerie</string>
+    <string name="miui_lab_gesture_desc">Désactiver les boutons physiques et profiter des gestes en plein écran</string>
+    <string name="miui_lab_gesture_title">Geste plein écran</string>
     <string name="miui_lab_install_drive_mode_error">Installation impossible, réessayez.</string>
     <string name="miui_lab_install_drive_mode_summary">"Le mode voiture est une application système. L'installation ne requiert pas de connexion internet."</string>
     <string name="miui_lab_install_drive_mode_title">Installer le mode voiture</string>
@@ -3761,7 +3766,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="passpoint_content">Identifiants de \"%1$s\"</string>
     <string name="passpoint_label">Enregistré via</string>
     <string name="passwordIncorrect">Mot de passe incorrect</string>
-    <string name="password_entrance_title">"Verrouillage de l'écran"</string>
+    <string name="password_entrance_title">"Définir le verrouillage de l'écran"</string>
     <string name="password_guard">Mot de passe</string>
     <string name="password_turned_off_text">Le mot de passe a été désactivé</string>
     <string name="password_turned_on_text">Le mot de passe a été activé</string>
@@ -4478,6 +4483,7 @@ Pour épingler l'écran:
     <string name="search_advanced_settings">Paramètres avancés;Wifi;Paramètres Wifi;Paramètres WLAN</string>
     <string name="search_airplane_mode">Mode Avion;Mode aéroplane;Mode Vol;Avion;Aéroplane;Vol</string>
     <string name="search_alarm_sound_title">"Son alarme;sonnerie d'alarme;alarme"</string>
+    <string name="search_ambient_display_screen_title">Affichage ambiant</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
     <string name="search_apn_settings">"APN;Noms des points d'accès"</string>
     <string name="search_app_invisible">Application invisible;Applications invisibles</string>
@@ -4515,6 +4521,7 @@ Pour épingler l'écran:
     <string name="search_dndm_vip_call_setting_title">VIP;Exceptions</string>
     <string name="search_dndm_wristband">Activer avec le Mi Fit;Mi Fit</string>
     <string name="search_do_not_disturb_mode">Ne pas déranger</string>
+    <string name="search_doze_always_on_title">Always on</string>
     <string name="search_dtmf_tone_enable_title">Activer la tonalité des touches du pavé numérique;Touches du pavé numérique;tonalité des touches;sons des touches;sons du pavé numérique</string>
     <string name="search_empty">Aucun résultat</string>
     <string name="search_enable_adb">Débogage USB</string>
@@ -4797,7 +4804,6 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
     <string name="settings_safetylegal_activity_unreachable">"Vous n'avez pas de connexion de données. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet."</string>
     <string name="settings_safetylegal_title">Informations de sécurité</string>
     <string name="settings_shortcut">Raccourci vers les paramètres</string>
-    <string name="setup_choose_unlock_fingerprint_msg">"Définissez l'écran de verrouillage avant d'ajouter votre empreinte digitale."</string>
     <string name="setup_choose_unlock_mixed_password">Mot de passe</string>
     <string name="setup_choose_unlock_mixpassword_title">Définir le mot de passe</string>
     <string name="setup_choose_unlock_password">Code PIN</string>
@@ -5642,12 +5648,13 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_log">"Statistiques d'utilisation des apps"</string>
     <string name="usage_state_app_timer">"Temps d'utilisation"</string>
     <string name="usage_state_app_usage_detail_title">App usage details</string>
-    <string name="usage_state_app_usage_list_title">"Apps' screen time today"</string>
-    <string name="usage_state_app_usage_list_week_title">"Apps' screen time (last 7 days)"</string>
+    <string name="usage_state_app_usage_list_title">"Apps' screen time"</string>
+    <string name="usage_state_app_usage_list_week_title">"Apps' screen time"</string>
     <string name="usage_state_app_usage_tip_title" formatted="false">Screen time between %d:00 and %d:00</string>
     <string name="usage_state_app_use_time">Utilisation des applications</string>
     <string name="usage_state_channel_mouth">30 derniers jours</string>
     <string name="usage_state_channel_week">7 derniers jours</string>
+    <string name="usage_state_date">d MMM</string>
     <string name="usage_state_device_noti_today_tip_title" formatted="false">Notifications entre %d:00 et %d:00</string>
     <string name="usage_state_device_unlock_today_tip_title" formatted="false">Déverrouillé entre %d:00 et %d:00</string>
     <string name="usage_state_friday">Ven</string>
@@ -5655,8 +5662,8 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_hour_minute" formatted="false">%d h %d m</string>
     <string name="usage_state_less_one_minute">Moins de 1 minute</string>
     <string name="usage_state_monday">Lun</string>
-    <string name="usage_state_mourth_day">"'Screen time on' dd/MM"</string>
-    <string name="usage_state_noti_mourth_day">"'Notifications sur' dd/MM"</string>
+    <string name="usage_state_mourth_day">"Screen time on %s"</string>
+    <string name="usage_state_noti_mourth_day">"Notifications sur %s"</string>
     <string name="usage_state_notification">Gérer les notifications</string>
     <string name="usage_state_notification_manager">"Gérer les notifications d'applications"</string>
     <string name="usage_state_remind_summary">"Activer pour recevoir des alertes de temps d'utilisation. Vous pouvez définir des délais différents pour les jours de semaine et les week-ends."</string>
@@ -5669,7 +5676,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_today">"Aujourd'hui"</string>
     <string name="usage_state_today_total_text">Screen time today</string>
     <string name="usage_state_tuesday">Mar</string>
-    <string name="usage_state_unlock_mourth_day">"'Déverrouillé le' dd/MM"</string>
+    <string name="usage_state_unlock_mourth_day">"Déverrouillé le %s"</string>
     <string name="usage_state_usage_time">Screen time</string>
     <string name="usage_state_usage_time_remind">"Alerte du temps d'utilisation"</string>
     <string name="usage_state_use_time_remind_title">"Alerte du temps d'utilisation"</string>
@@ -5716,7 +5723,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usagestats_app_category_miui_video_etc">Musique et vidéo</string>
     <string name="usagestats_device_notification_des">"Limite de temps d'écran pour aujourd'hui: %s"</string>
     <string name="usagestats_device_notification_des_over">"Vous avez déjà atteint votre limite de temps d'écran aujourd'hui."</string>
-    <string name="usagestats_device_notification_des_reset" formatted="false">"Limite de temps d'écran pour aujourd'hui: %s | %s restantes"</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">"Limite d'aujourd'hui: %s | %s restant"</string>
     <string name="usagestats_device_notification_title">"Alerte de temps d'écran"</string>
     <string name="usagestats_device_timeout_des" formatted="false">"Vous utilisez votre appareil depuis %d h %d m aujourd'hui. Reposez-vous !"</string>
     <string name="usagestats_device_timeout_negative">Rappeler dans 1 heure</string>

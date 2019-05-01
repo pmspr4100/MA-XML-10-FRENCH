@@ -333,20 +333,20 @@ Pour en savoir plus sur ce certificat, contactez votre administrateur."</item>
         <item quantity="one">%d élément</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">"Déverrouillé %d fois aujourd'hui"</item>
-        <item quantity="one">"Déverrouillé %d fois aujourd'hui"</item>
+        <item quantity="other">"Déverrouillé %d fois"</item>
+        <item quantity="one">"Déverrouillé %d fois"</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Déverrouillé %d fois au cours des 7 derniers jours</item>
-        <item quantity="one">Déverrouillé %d fois au cours des 7 derniers jours</item>
+        <item quantity="other">Déverrouillé %d fois</item>
+        <item quantity="one">Déverrouillé %d fois</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">"%d notifications reçues aujourd'hui"</item>
-        <item quantity="one">"%d notification reçu aujourd'hui"</item>
+        <item quantity="other">"%d notifications reçues"</item>
+        <item quantity="one">"%d notification reçu"</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">%d notifications reçues au cours des 7 derniers jours</item>
-        <item quantity="one">%d notifications reçues au cours des 7 derniers jours</item>
+        <item quantity="other">%d notifications reçues</item>
+        <item quantity="one">%d notifications reçues</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d heures</item>

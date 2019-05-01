@@ -172,6 +172,8 @@
     <string name="dialog_message_mx">"Mi Message vous permet d'envoyer des messages à d'autres utilisateurs MIUI sans encourir de frais. Un message SMS sortant est requis pour activer Mi Message. Votre opérateur vous facturera ce message. Vous devez accepter nos \"%1$s\" et \"%2$s\" avant d'utiliser Mi Message."</string>
     <string name="dialog_message_networking">"La messagerie doit utiliser les pages jaunes pour être en mesure de fournir une reconnaissance de l'ID de l'expéditeur. Les messages et les pages jaunes doivent se connecter à Internet et accéder à votre localisation pour fonctionner normalement. Autoriser?"</string>
     <string name="dialog_message_rcs">"China Mobile Messaging vous permet d'envoyer des messages à d'autres utilisateurs de China Mobile en Chine Continentale sans frais. Vous devez accepter \"%1$s\" avant d'utiliser la messagerie de China Mobile."</string>
+    <string name="dialog_sim_locked_confirm">OK</string>
+    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
     <string name="dialog_title_fake_cell_detect_error">Correction</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">"Conditions générales d'utilisation"</string>

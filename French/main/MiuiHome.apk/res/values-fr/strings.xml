@@ -184,7 +184,13 @@
     <string name="guide_install_app_msg">"Cette application n'est pas installée sur votre appareil. Retrouvez et installez l'application maintenant ?"</string>
     <string name="guide_install_app_title">"Trouver et installer l'application ?"</string>
     <string name="guide_tips_editing_mode">Appuyez &amp; maintenez pour prendre un widget</string>
+    <string name="home_gesture_content_center">Centre de contenu</string>
+    <string name="home_gesture_global_search">Recherche</string>
+    <string name="home_gesture_no_action">Aucun</string>
+    <string name="home_gesture_notification_bar">Notifications</string>
+    <string name="home_pull_down_action">"Glissez vers le bas sur l'écran d'accueil"</string>
     <string name="home_screen">"Écran d'accueil"</string>
+    <string name="home_slide_up_action">"Glissez vers le haut sur l'écran d'accueil"</string>
     <string name="icon_reorganize_channel">Organiser les icônes</string>
     <string name="image_too_small_message">"L'image originale nest pas assez grande."</string>
     <string name="install">Installer</string>
@@ -193,6 +199,8 @@
     <string name="is_system_wallpaper_message">Impossible de supprimer les ressources système</string>
     <string name="launcher_auto_fill_empty_title">Remplir les cellules vides</string>
     <string name="launcher_not_exist">"Une erreur s'est produite, retournez à l'écran d'accueil et réessayez."</string>
+    <string name="launcher_pull_down_title">"Glissez vers le haut sur l'écran d'accueil"</string>
+    <string name="launcher_slide_up_title">"Glissez vers le bas sur l'écran d'accueil"</string>
     <string name="launcher_title">"Écran d'accueil &amp; Récents"</string>
     <string name="like">Ajouter aux favoris</string>
     <string name="liked">Ajouté aux favoris</string>
