@@ -2227,7 +2227,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fingerprint_unlock_skip_fingerprint">Continuer sans empreinte digitale</string>
     <string name="fingerprint_unlock_title">"Vous pouvez déverrouiller votre téléphone à l'aide de votre empreinte digitale. Pour plus de sécurité, cette option doit être associée à un autre mode de verrouillage de l'écran."</string>
     <string name="fingerprint_usage_category_title">Utiliser les empreintes digitales pour</string>
-    <string name="fingerprint_wakeup_title">"Appuyez sur le capteur d'empreinte digitale pour vous réveiller"</string>
+    <string name="fingerprint_wakeup_summary">Wake screen when no fingerprints have been enrolled.</string>
+    <string name="fingerprint_wakeup_title">Tap fingerprint sensor to wake</string>
     <string name="finish_application">"Forcer l'arrêt"</string>
     <string name="finish_button">Terminer</string>
     <string name="finish_button_label">Terminer</string>
