@@ -1491,10 +1491,10 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="dangerous_option_hint">\"%1$s\" est activé. Appuyez pour modifier les paramètres.</string>
     <string name="dangerous_option_hint_title">Fonction à haut risque activée</string>
     <string name="dangerous_option_switch_title">Avertir des fonctionnalités à haut risque</string>
-    <string name="dark_color_mode">Mode nuit</string>
+    <string name="dark_color_mode">Mode sombre</string>
     <string name="dark_color_summary">Utiliser une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles</string>
-    <string name="dark_ui_mode">Mode nuit</string>
-    <string name="dark_ui_mode_title">Activer le mode nuit</string>
+    <string name="dark_ui_mode">Mode sombre</string>
+    <string name="dark_ui_mode_title">Activer le mode sombre</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Réduire</string>
     <string name="dashboard_title">Paramètres</string>
     <string name="data_limit">Limite de données</string>
@@ -3480,7 +3480,7 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="night_display_temperature_title">Intensité</string>
     <string name="night_display_text">"L'éclairage nocturne colore votre écran en rouge ambré. Cela vous permet de le regarder ou de lire plus facilement lorsque l'éclairage est faible, et peut vous aider à vous endormir."</string>
     <string name="night_display_title">Éclairage nocturne</string>
-    <string name="night_light">Mode nuit</string>
+    <string name="night_light">Mode sombre</string>
     <string name="night_light_brightness">Luminosité du mode Nuit</string>
     <string name="night_light_color">Température des couleurs en mode nuit</string>
     <string name="night_light_color_tip">Les modifications prendront effet lorsque le mode Lecture sera activé</string>
