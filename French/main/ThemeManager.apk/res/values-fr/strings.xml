@@ -86,6 +86,7 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="apply_theme_with_ringtones">Appliquer le thème avec la sonnerie</string>
     <string name="audio_duration_minutes_format">%1$d minutes</string>
     <string name="audio_duration_seconds_format">%1$d secondes</string>
+    <string name="audition_ringtone">Jouer</string>
     <string name="automatically_update_using_theme_tips">Mettre à jour automatiquement la prochaine fois</string>
     <string name="backup_theme_dialog_message">Sauvegarder votre thème actuel ?</string>
     <string name="backup_theme_dialog_ok">Sauvegarder</string>
@@ -112,6 +113,7 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="component_title_settings_video_wallpaper">"Fonds d'écran avec effets spéciaux"</string>
     <string name="component_title_video_wallpaper">"Films pour fond d'écran"</string>
     <string name="component_title_wallpaper">"Fonds d'écran"</string>
+    <string name="count_down_tip">%ds restant</string>
     <string name="current_using_desktop_wallpaper_text">"Écran d'accueil"</string>
     <string name="current_using_lockscreen_wallpaper_text">Écran de verrouillage</string>
     <string name="current_version_incompatible">Non compatible</string>
@@ -207,7 +209,8 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="item_resource_audio_optional_color_ring">Tonalité de sonnerie</string>
     <string name="item_resource_audio_optional_notification_ring">Notifications</string>
     <string name="item_resource_audio_optional_phone_ring">Sonnerie</string>
-    <string name="lab">Laboratoire thématique</string>
+    <string name="lab">Laboratoire</string>
+    <string name="like_list">"Articles que j'ai aimé"</string>
     <string name="live_wallpaper">Animé</string>
     <string name="loading">Un instant…</string>
     <string name="loading_resource_detail_fail">Impossible de charger les ressources</string>
@@ -274,6 +277,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="online_precust_plant">Plante</string>
     <string name="online_precust_scenery">Paysage</string>
     <string name="online_search_hint">Chercher des ressources en ligne</string>
+    <string name="playing_ringtone">Playing</string>
     <string name="pref_privacy_policy">Politique de Confidentialité</string>
     <string name="present_local_fonts">Mes polices</string>
     <string name="present_local_themes">Mes thèmes</string>
@@ -306,7 +310,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_alarm_default">Alarme</string>
     <string name="resource_app_name">Voir les ressources</string>
     <string name="resource_apply">Appliquer</string>
-    <string name="resource_apply_trial">Essayer maintenant</string>
     <string name="resource_back">Retour</string>
     <string name="resource_buy">Acheter</string>
     <string name="resource_can_not_selected">%1$s ne peut pas être sélectionnée</string>
@@ -377,7 +380,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_download">Télécharger</string>
     <string name="resource_download_notification_title_many">%1$s thèmes téléchargés</string>
     <string name="resource_download_notification_title_one">Thème téléchargé</string>
-    <string name="resource_download_trial">Essai gratuit</string>
     <string name="resource_downloaded_title">Ressources téléchargées</string>
     <string name="resource_downloading">Téléchargement</string>
     <string name="resource_exchange">Rembourser</string>
@@ -537,8 +539,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="theme_changed_failed_message">"Impossible d'appliquer le thème"</string>
     <string name="theme_changed_message">Thème appliqué</string>
     <string name="theme_changing_dialog_title">"Application "</string>
-    <string name="theme_comment_dialog_message">Notez cette application et dites-nous ce que vous pensez.</string>
-    <string name="theme_comment_dialog_ok">Évaluer</string>
     <string name="theme_component_title_alarm">Alarmes</string>
     <string name="theme_component_title_alarmstyle">"Style d'alarme"</string>
     <string name="theme_component_title_all">Thèmes</string>
@@ -588,7 +588,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="theme_select_others">Parcourir</string>
     <string name="theme_setting">Paramètres</string>
     <string name="theme_staggered_item_text">Recevoir des crédits Mi</string>
-    <string name="theme_to_comment">Pas mal !</string>
     <string name="theme_user_agreement_allow">Accepter</string>
     <string name="theme_user_agreement_content1">"En utilisant ce programme, vous acceptez notre "</string>
     <string name="theme_user_agreement_content2">Accord Utilisateur</string>
@@ -631,6 +630,13 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="transparent_wallpaper_white_wallpaper_failed">"Impossible de rendre le fond blanc"</string>
     <string name="transparent_wallpaper_white_wallpaper_success">La couleur de fond est blanche maintenant</string>
     <string name="transparent_wallpaper_white_wallpaper_tip">Le papier peint transparent semble le meilleur sur fond blanc</string>
+	<string name="trial_count_empty">No more free items left for today. Come back tomorrow!</string>
+    <string name="trial_count_tip">Trial period ends in %1$s:%2$s:%3$s</string>
+    <string name="trial_for_free">Free trial</string>
+    <string name="trial_get_failed_tip">Finish watching the video to get the theme.</string>
+    <string name="trial_get_success_tip">"Congrats! You've got a 3-day free trial."</string>
+    <string name="trial_now">Try now</string>
+    <string name="try_5_min">Try for 5 minutes</string>
     <string name="uid_change_dialog_message">"Vous avez supprimé les mises à jour. Redémarrez l'appareil pour pouvoir utiliser les thèmes."</string>
     <string name="uid_change_dialog_ok">"C'est compris"</string>
     <string name="uid_change_dialog_title">"Redémarrer l'appareil"</string>
@@ -648,6 +654,11 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="using_theme_next_automatic_update">Mises à jour automatiques</string>
     <string name="using_theme_next_automatic_update_summary">Mettre à jour les thèmes téléchargés via Wi-Fi automatiquement lorsque lécran est verrouillé</string>
     <string name="using_theme_show_ad">Recommandations</string>
+    <string name="video_ad_click">Try now</string>
+    <string name="video_ad_try_for_free">Free trial</string>
+    <string name="video_ad_uncomplete_tip">Finish watching the video to get the theme.</string>
+    <string name="video_ad_uncomplete_tip_cancel">Cancel</string>
+    <string name="video_ad_uncomplete_tip_continue">Keep watching</string>
     <string name="video_audio_apply_success">Configuration de la vidéo avec son est un succès</string>
     <string name="video_data_tips_message">Utiliser les données mobiles peut engendrer des frais additionels. Continuer quand même?</string>
     <string name="video_data_tips_title">"Alerte d'utilisation des données"</string>

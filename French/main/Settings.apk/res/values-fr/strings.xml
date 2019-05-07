@@ -579,6 +579,19 @@ Activez optimisation batterie."</string>
     <string name="backup_pw_cancel_button_text">Annuler</string>
     <string name="backup_pw_set_button_text">Définir le mot de passe de sauvegarde</string>
     <string name="backup_section_title">Sauvegarde et restauration</string>
+    <string name="backup_set_clear_success">Désactiver le mot de passe de sauvegarde avec succès</string>
+    <string name="backup_set_clear_title">Désactiver le mot de passe de sauvegarde</string>
+    <string name="backup_set_confirm">OK</string>
+    <string name="backup_set_confirm_clear">Désactiveé</string>
+    <string name="backup_set_enter_new_pw">Entrez le nouveau mot de passe de sauvegarde</string>
+    <string name="backup_set_enter_new_pw_again">Confirmer le nouveau mot de passe de sauvegarde</string>
+    <string name="backup_set_enter_old_pw">"Entrez l'ancien mot de passe de sauvegarde"</string>
+    <string name="backup_set_enter_pw_title">Entrez le mot de passe de sauvegarde</string>
+    <string name="backup_set_error_pw">Le mot de passe que vous avez entrée est incorrect</string>
+    <string name="backup_set_modify_title">Changer le mot de passe de sauvegarde</string>
+    <string name="backup_set_new_pw_title">Entrez le nouveau mot de passe de sauvegarde</string>
+    <string name="backup_set_null_pw">Entrez le mot de passe en premier</string>
+    <string name="backup_set_pw_confirm_title">Confirmer le nouveau mot de passe de sauvegarde</string>
     <string name="badge_title">"Bulle sur l'icône de l'application"</string>
     <string name="band_mode_failed">Échec</string>
     <string name="band_mode_loading">Chargement de la liste de bandes…</string>
@@ -2413,7 +2426,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gxzw_anim_rhythm">Rythme</string>
     <string name="gxzw_anim_star">Lumière des étoiles</string>
     <string name="gxzw_anim_title">"Animation d'empreinte"</string>
-    <string name="gxzw_aod_show_summary">"L'icône d'empreinte digitale sera affichée lorsque l'écran est éteint. Cette fonctionnalité augmente la consommation d'énergie du système."</string>
+    <string name="gxzw_aod_show_summary">"Soulevez l'appareil ou appuyez sur l'écran pour faire apparaître l'icône d'empreinte digitale. Cette fonctionnalité augmente la consommation d'énergie du système."</string>
     <string name="gxzw_aod_show_tittle">"Afficher l'icône d'empreinte digitale lorsque l'écran est éteint"</string>
     <string name="gxzw_dialog_message">"Pour pouvoir utiliser le capteur d'empreinte digitale intégré à l'écran, n'utilisez pas de protecteur d'écran. Si vous pensez qu'un protecteur d'écran est toujours nécessaire, choisissez parmi les options compatibles autorisées."</string>
     <string name="gxzw_dialog_not_show_again">Ne pas afficher à nouveau</string>
@@ -2593,7 +2606,6 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="keyguard_notification_status_title">Quand les notifications arrivent et que l’écran est éteint</string>
     <string name="keyguard_security_setting_others">Autres</string>
     <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>
-    <string name="keyguard_vertical_clock_title">"Afficher l'horloge verticale"</string>
     <string name="keywords_accounts">compte</string>
     <string name="keywords_airplane">Avion;Mode avion;Aéroplane;Mode aéroplane;Vol;Mode vol</string>
     <string name="keywords_all_apps">applis, télécharger, applications, système</string>

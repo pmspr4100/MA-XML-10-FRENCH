@@ -37,10 +37,6 @@
     <plurals name="mins_ago">
         <item quantity="other">il y a %1$d min</item>
     </plurals>
-    <plurals name="miot_device_camera_size">
-        <item quantity="other">%d caméras intelligentes</item>
-        <item quantity="one">%d caméra intelligente</item>
-    </plurals>
     <plurals name="payment_record_dialog_delete_message">
         <item quantity="other">Supprimer %s articles du paiement ?</item>
         <item quantity="one">Supprimer %s article du paiement?</item>
