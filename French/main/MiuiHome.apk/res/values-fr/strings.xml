@@ -108,9 +108,12 @@
     <string name="download_action">Télécharger</string>
     <string name="dual_app">Applications clônées</string>
     <string name="edit_folder_title">Éditer le nom du dossier</string>
+    <string name="edit_mode_dual_app">Créer une application clonée</string>
     <string name="edit_mode_group">Groupe</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">"Impossible de désinstaller les applications système"</string>
     <string name="edit_mode_group_error_full">Espace insuffisant</string>
     <string name="edit_mode_group_error_in_folder">Fermer le dossier avant de regrouper les icônes</string>
+    <string name="edit_mode_group_error_nothing_be_selected">"Sélectionnez d'abord une application"</string>
     <string name="edit_mode_group_error_one_folder">Impossible de dupliquer un dossier avec les icônes sélectionnées</string>
     <string name="edit_mode_top_menu_finish">Terminé</string>
     <string name="edit_mode_uninstall">Désinstaller</string>
@@ -199,7 +202,6 @@
     <string name="invalid_contact_shortcut">Contact non valide</string>
     <string name="is_setting_wallpaper_message">Définition comme fond décran…</string>
     <string name="is_system_wallpaper_message">Impossible de supprimer les ressources système</string>
-    <string name="launcher_auto_fill_empty_title">Remplir les cellules vides</string>
     <string name="launcher_not_exist">"Une erreur s'est produite, retournez à l'écran d'accueil et réessayez."</string>
     <string name="launcher_title">"Écran d'accueil &amp; Récents"</string>
     <string name="like">Ajouter aux favoris</string>
@@ -215,7 +217,7 @@
     <string name="memory_clear_nothing_result">Rien à effacer dans le cache</string>
     <string name="memory_clear_result">%1$s o effacés</string>
     <string name="menu_add">Ajouter</string>
-    <string name="menu_auto_fill">Remplir les cellules vides</string>
+    <string name="menu_auto_fill_of_uninstall">Remplir les cellules des applications désinstallées</string>
     <string name="menu_back_desktop">"Retour à l'écran d'accueil"</string>
     <string name="menu_cell_setting">"Disposition de l'écran d'accueil"</string>
     <string name="menu_customize">paramètres</string>

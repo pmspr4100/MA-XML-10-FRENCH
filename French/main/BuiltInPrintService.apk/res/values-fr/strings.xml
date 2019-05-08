@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="add_named">Ajouter %1$s</string>
+    <string name="add_printer_by_ip">Ajouter une imprimante par adresse IP</string>
     <string name="app_name">"Service d'impression par défaut"</string>
     <string name="printer_busy">Occupée</string>
     <string name="printer_out_of_paper">À court de papier</string>
@@ -20,6 +22,14 @@
     <string name="media_size_4x6in">10 x 15 cm</string>
     <string name="title_activity_add_printer">Ajouter une imprimante</string>
     <string name="add_printer_by_ip">"Ajouter une imprimante au moyen de l'adresse IP"</string>
+    <string name="connect_hint_text">Vous devrez peut-être approuver cette connexion sur le panneau avant de votre imprimante</string>
+    <string name="connecting_to">"Connexion à %1$s"</string>
+    <string name="connects_via_network">"Se connecte via le réseau actuel à l'adresse %1$s"</string>
+    <string name="connects_via_wifi_direct">Se connecte via Wi-Fi Direct</string>
+    <string name="failed_connection">"Impossible de se connecter à l'imprimante %1$s"</string>
+    <string name="failed_printer_connection">"Impossible de se connecter à l'imprimante"</string>
+    <string name="find_wifi_direct">Find WLAN Direct printers</string>
+    <string name="forget">Supprimer</string>
     <string name="hostname_or_ip">"Nom d'hôte ou adresse IP"</string>
     <string name="add">Ajouter</string>
     <string name="add_named">"Ajouter l'imprimante %1$s"</string>
@@ -29,12 +39,5 @@
     <string name="find_wifi_direct">Rechercher des imprimantes Wi-Fi Direct</string>
     <string name="wifi_direct_printers">Imprimantes Wi-Fi Direct</string>
     <string name="searching">Recherche…</string>
-    <string name="connect_hint_text">Vous devrez peut-être approuver cette connexion sur le panneau avant de votre imprimante</string>
-    <string name="connecting_to">"Connexion à l'imprimante %1$s"</string>
-    <string name="failed_printer_connection">"Impossible de se connecter à l'imprimante"</string>
-    <string name="failed_connection">"Impossible de se connecter à l'imprimante %1$s"</string>
     <string name="saved_printers">Imprimantes enregistrées</string>
-    <string name="forget">Supprimer</string>
-    <string name="connects_via_wifi_direct">Se connecte via Wi-Fi Direct</string>
-    <string name="connects_via_network">"Se connecte via le réseau actuel à l'adresse %1$s"</string>
 </resources>

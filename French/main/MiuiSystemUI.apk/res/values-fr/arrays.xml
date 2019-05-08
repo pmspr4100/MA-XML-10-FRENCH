@@ -23,7 +23,7 @@
         <item>Ne pas afficher cette icône</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utiliser sélection du système (par défaut)</item>
+        <item>Utiliser la sélection du système (par défaut)</item>
         <item>16 bits/échantillon</item>
         <item>24 bits/échantillon</item>
         <item>32 bits/échantillon</item>

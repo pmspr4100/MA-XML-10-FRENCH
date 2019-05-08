@@ -9,6 +9,7 @@
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Calculer la taille…</string>
     <string name="retry">Réessayer</string>
+    <string name="selected">Sélectionné</string>
     <string name="cloud_app_current_device">Appareil actuel</string>
     <string name="cloud_app_other_devices">Autres appareils</string>
     <string name="cloud_app_restore_app_and_data">Paramétrer votre appareil</string>
@@ -162,6 +163,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
     <string name="hint_restore_cross_space">"La disposition de l'écran d'accueil peut ne pas s'afficher correctement si vous transférez des éléments entre des espaces."</string>
     <string name="unsupported_home">Mettez à jour MIUI avec la dernière version.</string>
+    <string name="unselected">Non séléctionné</string>
     <string name="error_retry_later">"Impossible de terminer l'action. Attendez une minute ou deux et essayez à nouveau…"</string>
     <string name="try_continue">Appuyez pour continuer</string>
     <string name="download_home_data">"Téléchargement de la disposition de l'écran d'accueil…"</string>

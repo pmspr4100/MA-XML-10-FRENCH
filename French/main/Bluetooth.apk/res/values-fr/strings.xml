@@ -9,6 +9,8 @@
     <string name="auth_notif_message">Entrer la clé de session de %1$s</string>
     <string name="auth_notif_ticker">"Demande d'authentification Obex"</string>
     <string name="auth_notif_title">Clé de session</string>
+    <string name="avrcp_notification_name">BT FONCTION AVANCÉE AVRCP</string>
+    <string name="bluetooth_advanced_feat_description">Fonction de navigation avancée Bluetooth</string>
     <string name="bluetooth_connected">Audio Bluetooth connecté</string>
     <string name="bluetooth_disconnected">Audio Bluetooth déconnecté</string>
     <string name="bluetooth_map_settings_app_icon">"Icône de l'application"</string>
@@ -19,6 +21,9 @@
     <string name="bluetooth_map_settings_save">Enregistrer</string>
     <string name="bluetooth_map_settings_title">Paramètres de partage de la messagerie via le Bluetooth</string>
     <string name="bluetooth_opp_file_limit_exceeded">Impossible de transférer les fichiers supérieurs à 4 Go</string>
+    <string name="bluetooth_rc_feat_content">Peer supports advanced feature</string>
+    <string name="bluetooth_rc_feat_subtext">Re-pair from peer to enable it</string>
+    <string name="bluetooth_rc_feat_title">Bluetooth Media Browsing</string>
     <string name="bluetooth_sap_notif_disconnect_button">Déconnecter</string>
     <string name="bluetooth_sap_notif_disconnecting">En attente de déconnexion du client…</string>
     <string name="bluetooth_sap_notif_force_disconnect_button">Forcer la déconnexion</string>
