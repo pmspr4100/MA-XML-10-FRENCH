@@ -252,6 +252,8 @@
     <string name="accessibility_focus_status">%1$sX zoom</string>
     <string name="accessibility_filter_pad_close">Menu filtre caché</string>
     <string name="accessibility_camera_picker_finish">"Changement d'appareil effectué réussi"</string>
+    <string name="accessibility_camera_record_start">Commencé à enregistrer une vidéo</string>
+    <string name="accessibility_camera_record_stop">"Arrêt de l'enregistrement vidéo"</string>
     <string name="accessibility_camera_shutter_finish">Prise de la photo réussie</string>
     <string name="accessibility_bokeh_level">Ouverture F%1$s</string>
     <string name="accessibility_bokeh_adjust">Réglage du flou darrière-plan</string>
@@ -307,6 +309,14 @@
     <string name="pref_scan_qrcode_summary">"Seul l'appareil photo arrière à peut lire les QR codes en mode \"Photo\"."</string>
     <string name="pref_manual_exposure_title">S</string>
     <string name="pref_camera_exposuretime_entry_auto">AUTO</string>
+    <string name="eye_light">Éclat des yeux</string>
+    <string name="eye_light_angel">Ange</string>
+    <string name="eye_light_comic">Manga</string>
+    <string name="eye_light_crescent">Crescent</string>
+    <string name="eye_light_nature">Nature</string>
+    <string name="eye_light_rainbow">Arc-en-ciel</string>
+    <string name="eye_light_star">Stars</string>
+    <string name="eye_light_window">Window</string>
     <string name="face_age_info">Âge: %d</string>
     <string name="face_score_info">Score: %.1f</string>
     <string name="face_analyze_info_male">Homme</string>
@@ -314,12 +324,12 @@
     <string name="face_beauty_intelligent_level_0">Désactivé</string>
     <string name="face_beauty_intelligent_level_2">Moyenne</string>
     <string name="pref_camera_show_gender_age_config_title">Âge &amp; sexe</string>
-    <string name="pref_camera_show_gender_age_title">Age &amp; sexe</string>
+    <string name="pref_camera_show_gender_age_title">Âge &amp; sexe</string>
     <string name="pref_camera_show_gender_age_entry_off">Désactivé</string>
-    <string name="pref_camera_show_gender_age_entry_on">"Afficher l'age et le sexe quand l'embellissement est activé"</string>
-    <string name="pref_camera_show_gender_age_entry_alias">"Afficher l'age quand l'embellissement est activé"</string>
-    <string name="pref_camera_show_gender_age_label_on">Age &amp; sexe</string>
-    <string name="pref_camera_show_gender_age_label_alias">Age</string>
+    <string name="pref_camera_show_gender_age_entry_on">"Afficher l'âge et le sexe quand l'embellissement est activé"</string>
+    <string name="pref_camera_show_gender_age_entry_alias">"Afficher l'âge quand l'embellissement est activé"</string>
+    <string name="pref_camera_show_gender_age_label_on">Âge &amp; sexe</string>
+    <string name="pref_camera_show_gender_age_label_alias">Âge</string>
     <string name="face_beauty_age_alias_male_0_7">Homme 0-7</string>
     <string name="face_beauty_age_alias_male_8_17">Homme 8-17</string>
     <string name="face_beauty_age_alias_male_18_30">Homme 18-30</string>
@@ -459,6 +469,7 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="button_normal_video_title">Enregistrer une vidéo</string>
     <string name="button_fisheye_camera_title">Fisheye</string>
     <string name="title_snap_double_confirm">Confirmer</string>
+    <string name="makeup_reset_toast">Effet de maquillage effacé avec succès</string>
     <string name="message_snap_double_confirm">Appuyez longuement sur le bouton de volume pour déclencher le NFC. Remplacer cette fonctionnalité ?</string>
     <string name="mimoji_back">Retour</string>
     <string name="mimoji_cancle">Annuler</string>
@@ -528,6 +539,7 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
 et créera une pause sur laquelle tout le monde sera beau."</string>
     <string name="hine_hht">"En cas de faible luminosité, l'appareil photo prendra plusieurs photos
 puis créera une photo avec une quantité minimale de bruit."</string>
+    <string name="hint_eye_light">"Les effets d'étincelle oculaire fonctionnent mieux lorsque le flash est activé"</string>
     <string name="hint_fast_motion">La vidéo que vous enregistrer sera lue rapidement.</string>
     <string name="hint_slow_motion">La vidéo que vous enregistrez sera lue lentement.</string>
     <string name="hunt_dual_water_mark">Le filigrane du double app. photo sera ajouté automatiquement.</string>
@@ -630,12 +642,13 @@ en mode Portrait"</string>
     <string name="lighting_pattern_nature">Naturel</string>
     <string name="lighting_pattern_stage">Stage</string>
     <string name="lighting_pattern_movie">Film</string>
+    <string name="lighting_pattern_null">Aucun</string>
     <string name="lighting_pattern_rainbow">Arc-en-ciel</string>
     <string name="lighting_pattern_leaf">Feuilles</string>
     <string name="lighting_pattern_dot">Points</string>
     <string name="lighting_pattern_shutter">Stores</string>
     <string name="lighting_pattern_holi">Holi</string>
-    <string name="view_privacy_policy">Voir la Politique de Confidentialité</string>
+    <string name="view_privacy_policy">Afficher la Politique de Confidentialité</string>
     <string name="fps960_toast">La capture au ralenti commence au dernier quart de lenregistrement</string>
     <string name="portrait_bokeh_text">Mode portrait</string>
     <string name="portrait_bokeh_first_tips">"Utilisez le mode Portrait pour rendre flou
@@ -661,7 +674,7 @@ en mode Portrait"</string>
     <string name="beauty_body_body">Élancé</string>
     <string name="beauty_body_shoulder">Épaules</string>
     <string name="beauty_body_legged">Jambes</string>
-    <string name="beauty_body_reset_tip">Effet de figure supprimé avec succès</string>
+    <string name="beauty_body_reset_tip">Effet de figure effacé avec succès</string>
     <string name="ultra_wide_open_tip">Mode ultra grand angle</string>
     <string name="ultra_wide_open_tip_sat">"0.6X ultra grand angle"</string>
     <string name="ultra_wide_close_tip">Mode ultra grand angle est désactivé</string>
@@ -669,12 +682,17 @@ en mode Portrait"</string>
     <string name="ultra_wide_recommend_tip_hint">Essayez le mode ultra grand angle</string>
     <string name="camera_liveshot_on_tip">Clichés dynamiques</string>
     <string name="camera_liveshot_off_tip">Clichés dynamiques désactivés</string>
+    <string name="accessibility_camera_lighting_close_panel">"Menu des effets d'éclairage fermés"</string>
+    <string name="accessibility_camera_lighting_open_panel">"Menu des effets d'éclairage ouvert"</string>
     <string name="accessibility_camera_liveshot_on">Clichés dynamiques activés</string>
     <string name="accessibility_camera_liveshot_off">Clichés dynamiques désactivés</string>
     <string name="beauty_tab_name_live_filter">Filtres</string>
     <string name="beauty_tab_name_live_beauty">Embellir</string>
     <string name="accessibility_ultra_wide_on">Mode ultra grand angle activé</string>
     <string name="accessibility_ultra_wide_off">Mode ultra grand angle désactivé</string>
+    <string name="accessibility_video_capture_button">Bouton pour prendre des photos tout en prenant des vidéos</string>
+    <string name="accessibility_video_pause_button">Enregistrement vidéo en pause</string>
+    <string name="accessibility_video_resume_button">"Reprise de l'enregistrement vidéo"</string>
     <string name="ai_scene_top_tip">Mode Lune</string>
     <string name="pref_camera_ultra_wide_ldc_title">Correction de la distorsion dans les plans ultra larges</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corriger automatiquement les objets déformés</string>
@@ -692,6 +710,8 @@ en mode Portrait"</string>
     <string name="live_edit_exit_message">Arrêter la séance photo maintenant ?</string>
     <string name="live_edit_exit_confirm">Arrêter</string>
     <string name="live_edit_share_title">Partager</string>
+    <string name="beauty_mode_reset_toast">Effet de remodelage effacé avec succès</string>
+    <string name="beauty_reset">Réinitialiser</string>
     <string name="beauty_reset_toast">Réinitialiser les effets beauté avec succès</string>
     <string name="pref_camera_ultra_wide_mode_title">Mode ultra grand angle</string>
     <string name="ultra_wide_mode_use_hint_text_sat">"Essayez le mode ultra grand angle 0.6X pour inclure d'avantage de scènes dans votre photo.
