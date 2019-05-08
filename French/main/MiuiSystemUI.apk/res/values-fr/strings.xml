@@ -1187,7 +1187,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_low_battery_action_btn">Activer</string>
     <string name="notification_low_battery_need_charge">La batterie est faible. Chargez votre appareil.</string>
     <string name="notification_low_battery_open_save_mode">"Activer l'économiseur de batterie"</string>
-    <string name="notification_low_battery_title">Batterie faible: %d%%</string>
+    <string name="notification_low_battery_title">Moins de %d%% de batterie</string>
     <string name="notification_manager">Gérer les notifications</string>
     <string name="notification_manager_des">Filtrer et gérer les notifications</string>
     <string name="notification_menu_filter_description">Notifications sans importance</string>
