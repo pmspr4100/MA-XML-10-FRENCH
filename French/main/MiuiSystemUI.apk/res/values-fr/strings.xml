@@ -503,7 +503,7 @@
  Cette fonctionnalité est en cours de développement et peut ne pas fonctionner correctement.
  Appuyer sur 'Nettoyer et convertir…' pour continuer."</string>
     <string name="convert_to_file_encryption">Convertir en chiffrement de fichier</string>
-    <string name="convert_to_file_encryption_done">Les fichiers sont chiffrés</string>
+    <string name="convert_to_file_encryption_done">Fichier déjà chiffré</string>
     <string name="convert_to_file_encryption_enabled">Conversion…</string>
     <string name="daltonizer_mode_deuteranomaly">Deutéranomalie (rouge-vert)</string>
     <string name="daltonizer_mode_disabled">Désactivé</string>
