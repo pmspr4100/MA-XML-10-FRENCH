@@ -609,14 +609,13 @@ Check tracking number."</string>
 Check your tracking number."</string>
     <string name="express_inquiry_provider_info">"Powered by "</string>
     <string name="express_inquiry_serial_number_indication">Tracking number</string>
-    <string name="express_install_open_locker">Open</string>
+    <string name="express_install_open_locker">Ouvrir</string>
     <string name="express_install_order_detail">View order details</string>
     <string name="express_install_provider_app_description">%1$s requires installing the %2$s app. Install now?</string>
-    <string name="express_install_provider_app_hidden">&lt;u&gt;"Don't show again"&lt;/u&gt;</string>
-    <string name="express_install_provider_app_ok">Install</string>
-    <string name="express_install_provider_app_title">Install %s</string>
+    <string name="express_install_provider_app_hidden">Ne plus afficher</string>
+    <string name="express_install_provider_app_ok">Installer</string>
+    <string name="express_install_provider_app_title">Installé %s</string>
     <string name="express_install_schedule_delivery">Order delivery service</string>
-    <string name="express_jd">JD</string>
     <string name="express_mi_shop">Mi Store</string>
     <string name="express_more_service">More services</string>
     <string name="express_no_address">Empty</string>
@@ -627,7 +626,7 @@ Check your tracking number."</string>
     <string name="express_num_setting_title">Access order info</string>
     <string name="express_open">Show delivery tracking cards</string>
     <string name="express_open_locker">一键开柜</string>
-    <string name="express_open_txt">Open</string>
+    <string name="express_open_txt">Ouvrir</string>
     <string name="express_order_confirmation">Order confirmation</string>
     <string name="express_order_failed">Failed</string>
     <string name="express_order_ongoing">Ordering…</string>
