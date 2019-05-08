@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="feature_desc">
-        <item>"Nouvelle interface avec l'interface coulissante à droite, une expérience de navigation plus fluide"</item>
-        <item>"Verrouiller la glissière à droite de l'écran pour prendre en charge le "mini mode", utilisation simple de gadgets"</item>
+        <item>Correction de quelques problèmes connus</item>
     </string-array>
 </resources>
