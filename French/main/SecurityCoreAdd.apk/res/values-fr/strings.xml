@@ -10,7 +10,7 @@
     <string name="not_support_multiple_users">Plusieurs utilisateurs ne sont pas pris en charge</string>
     <string name="title_choose_app_status">"Sélectionner le type d'application"</string>
     <string name="normal_app">Premier espace</string>
-    <string name="hidden_app">deuxième espace</string>
+    <string name="hidden_app">Deuxième espace</string>
     <string name="public_app">Les deux espaces</string>
     <string name="current_space">Espace actuel</string>
     <string name="switch_in_hidden_space">"Importer vers l'espace actuel"</string>
@@ -100,7 +100,7 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
     <string name="startSet">Définir</string>
     <string name="needSetKeyguardFirst">Définir le mot de passe du Premier espace</string>
     <string name="needSetKeyguardFirstDes">Définir le mot de passe du Premier espace avant de définir celui du deuxième espace</string>
-    <string name="confirm">OK </string>
+    <string name="confirm">Confirmer</string>
     <string name="setSecondSpacePassword">Définir le mot de passe du deuxième espace</string>
     <string name="setSecondSpacePasswordGuide">Définir le mot de passe du deuxième espace</string>
     <string name="setSecondSpacePasswordGuideDes">"Utiliser ce mot de passe pour accéder au deuxième espace à partir de l'écran de verrouillage"</string>
@@ -121,7 +121,7 @@ Certaines applications clônées nécessitent la prise en charge des Framework d
     <string name="privacyContactsTitle">Messages privés et contacts</string>
     <string name="privacyContactsSummary">Afficher des éléments privés dans le deuxième espace</string>
     <string name="switchDataSummary">Déplacer des éléments entre les espaces</string>
-    <string name="serNameSummary">deuxième espace</string>
+    <string name="serNameSummary">Deuxième espace</string>
     <string name="closeSecondSpaceSummary">Supprimer le deuxième espace avec ses données</string>
     <string name="notificationSetPassword">Définir un mot de passe</string>
     <string name="notificationSetPasswordDes">Protéger les données du deuxième espace</string>
@@ -189,11 +189,11 @@ cette fonctionnalité sera automatiquement ajoutée dans le deuxième espace."</
     <string name="reset_password_dialog_title">Impossible de masquer le raccourci du deuxième espace</string>
     <string name="reset_password_dialog_message">Vous utilisez différents types de mot de passe pour le premier et le deuxième espaces. Le deuxième espace doit utiliser le même type de mot de passe que le premier espace pour que le raccourci soit masqué.</string>
     <string name="reset_password_dialog_positve_btn_title">Modifier</string>
-    <string name="entrance_reopen_toast_msg">Lffichage du raccourci du deuxième espace dépend des différents types de mots de passe</string>
+    <string name="entrance_reopen_toast_msg">"L'affichage du raccourci du deuxième espace dépend des différents types de mots de passe"</string>
     <string name="settings_cross_notification_title">Notifications</string>
     <string name="settings_cross_notification_summary">"Recevoir des notifications à partir de l'autre espace"</string>
     <string name="settings_switch_shortcut_summary">"Afficher le raccourci de l'Écran d'accueil dans le premier espace"</string>
-    <string name="settings_space_data">Donnée</string>
+    <string name="settings_space_data">Données</string>
     <string name="settings_status_icon_title">Icône du deuxième espace</string>
     <string name="settings_status_icon_summary">"Afficher l'icône du deu espace dans la barre d'état"</string>
     <string name="settings_msg_add_shortcut_to_owner_space">Raccourci ajouté dans au premier espace</string>
@@ -287,7 +287,6 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="xspace_guide_title">Créer une application clônée</string>
     <string name="xspace_guide_des">Utiliser 2 comptes sans basculer</string>
     <string name="xpsace_guide_button">Créer</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Impossible de trouver une application</string>
     <string name="confirm_close_password_title">Désactivation du mot de passe</string>
     <string name="confirm_close_password_desc">"Vous ne serez plus en mesure d'accéder au deuxième espace à partir de l'écran de verrouillage lorsque vous désactivez le mot de passe. Désactiver de toute manière?"</string>
@@ -309,7 +308,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="xspace_default_guide_notification_xspace_title">"Utiliser l'application clônée"</string>
     <string name="space_name_default">Espace de travail</string>
     <string name="space_des_default">Espace isolé avec des données chiffrées</string>
-    <string name="create_work_space">Créer un Espace de travail</string>
+    <string name="create_work_space">Créer un espace de travail</string>
     <string name="switch_download_space">"Changer d'Espace de travail"</string>
     <string name="confirm_airspace_password">Confirmer le mot de passe %s</string>
     <string name="air_space_created">Espace de travail créé avec succès</string>
@@ -369,32 +368,32 @@ Deux espaces. Un appareil."</string>
     <string name="privacy_password_fingerprint_dialog_message">Placez votre doigt sur le capteur</string>
     <string name="optimize_now">Optimiser</string>
     <string name="dialog_title">Attention</string>
-    <string name="remove_user_click_message">"*Si vous n'avez pas d'éléments importants dans le second espace, %s"</string>
-    <string name="remove_user_click_message_action">vous pouvez supprimer le second espace et redémarrer votre appareil.</string>
+    <string name="remove_user_click_message">"*Si vous n'avez pas d'éléments importants dans le deuxième espace, %s"</string>
+    <string name="remove_user_click_message_action">vous pouvez supprimer le deuxième espace et redémarrer votre appareil.</string>
     <string name="sdcradfs_dialog_in_owner_title">deuxième espace</string>
     <string name="sdcradfs_dialog_in_owner_message">"Un nouveau système de fichiers est introduit dans cette mise à jour. Les anciennes données peuvent être incompatibles avec cela. Pour mettre à jour, déplacez les éléments dans le second espace, redémarrez votre appareil et créez à nouveau un second espace.
 Si vous ne mettez pas à jour, les applications doubles ne peuvent pas fonctionner correctement."</string>
     <string name="sdcradfs_dialog_in_sec_title">Mise à jour importante</string>
-    <string name="sdcradfs_dialog_in_sec_message">"Pour mettre à jour, vous devez supprimer votre second espace, puis le créer à nouveau. Déplacez les données depuis le deuxième espace vers le premier et redémarrez votre appareil pour terminer la mise à jour.
+    <string name="sdcradfs_dialog_in_sec_message">"Pour mettre à jour, vous devez supprimer votre deuxième espace, puis le créer à nouveau. Déplacez les données depuis le deuxième espace vers le premier et redémarrez votre appareil pour terminer la mise à jour.
 Si vous n'effectuez pas la mise à jour, les applications clônées peuvent ne pas fonctionner correctement également."</string>
     <string name="space_created_success">deuxième espace créé avec succès</string>
     <string name="encrypt_space_delete_dialog_title">Attention</string>
     <string name="encrypt_space_delete_dialog_message">"Vous êtes sur le point d'effectuer une mise à jour du système. Après la mise à jour, les données du deuxième espace deviendront incompatibles. Pour éviter cela, placez toutes les données dans le Premier espace, supprimez le deuxième espace et créez-le à nouveau."</string>
     <string name="encrypt_space_delete_dialog_click_message">"*Si vous n'avez pas besoin de déplacer des données, %s"</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">supprimer et créer un second espace maintenant.</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">supprimer et créer un deuxième espace maintenant.</string>
     <string name="encrypt_space_delete_dialog_positive_text">Déplacer les données</string>
     <string name="encrypt_space_delete_notification_title">deuxième espace</string>
-    <string name="encrypt_space_delete_notification_message">Supprimez votre second espace et créez en un nouveau afin de mettre à jour votre appareil avec succès.</string>
+    <string name="encrypt_space_delete_notification_message">Supprimez votre deuxième espace et créez en un nouveau afin de mettre à jour votre appareil avec succès.</string>
     <string name="space_create_guide_title_1">Protégez votre confidentialité</string>
     <string name="space_create_guide_desc_1">Stocker applications et photos en toute sécurité</string>
     <string name="space_create_guide_title_2">Créer à tout moment</string>
     <string name="space_create_guide_desc_2">"Espace complètement séparé prêt à l'emploi"</string>
     <string name="space_create_guide_title_3">Absolument sans risque</string>
-    <string name="space_create_guide_desc_3">"Le second espace n'affecte aucun autre élément de votre appareil"</string>
+    <string name="space_create_guide_desc_3">"Le deuxième espace n'affecte aucun autre élément de votre appareil"</string>
     <string name="space_create_guide_switchmode_title">Basculer entre deux espaces</string>
     <string name="second_space_desktop_tips_dialog_title">Mise à jour importante</string>
     <string name="second_space_desktop_tips_dialog_positive_text">"C'est compris"</string>
-    <string name="second_space_desktop_tips_dialog_message">"Après cette mise à jour, les icônes pour déplacer les données et gérer le second espace ne seront plus affiché à l'écran d'accueil. Vous serez en mesure d'accéder à leurs fonctionnalités correspondantes dans Paramètres."</string>
+    <string name="second_space_desktop_tips_dialog_message">"Après cette mise à jour, les icônes pour déplacer les données et gérer le deuxième espace ne seront plus affiché à l'écran d'accueil. Vous serez en mesure d'accéder à leurs fonctionnalités correspondantes dans Paramètres."</string>
     <string name="green_guard">Contrôle parental</string>
     <string name="bind_device">Ajouter des appareils</string>
     <string name="green_guard_des1">Ajoutez des appareils afin de les gérer à distance</string>
@@ -403,11 +402,11 @@ Si vous n'effectuez pas la mise à jour, les applications clônées peuvent ne p
     <string name="green_guard_title3">Gérer les applications</string>
     <string name="green_guard_des3">Contrôle les applications installées et restreint leur utilisation</string>
     <string name="experience_more_features">Ajouter un appareil afin de voir toutes les fonctionnalités</string>
-    <string name="can_not_switch_when_green_kid_active">Le basculement vers le second espace est restreint par le contrôle parental</string>
+    <string name="can_not_switch_when_green_kid_active">Le basculement vers le deuxième espace est restreint par le contrôle parental</string>
     <string name="need_network_when_bind">"Connectez-vous au réseau avant d'ajouter des appareils"</string>
     <string name="this_function_can_not_use_in_second_space">Cette fonctionnalité peut être seulement utilisée dans le premier espace</string>
     <string name="enterprise_mode">Mode Entreprise</string>
-    <string name="ent_app_verified">"On dirait qu'il y a des applications d'entreprise installées sur votre appareil. Activer le mode Entreprise ?"</string>
+    <string name="ent_app_verified">"On dirait qu'il y a des applications d'entreprise installées sur votre appareil. Activer le mode entreprise ?"</string>
     <string name="activate_ent_mode">Activer le mode Entreprise</string>
     <string name="about_ent_mode">À propos du mode Entreprise</string>
     <string name="ent_mode_activated">Le mode Entreprise est activé</string>
@@ -427,12 +426,12 @@ Assurez-vous que le nom de votre société est correct. Lisez et acceptez les po
     <string name="ent_activating">Activation…</string>
     <string name="ent_installing">Installation en cours…</string>
     <string name="ent_network_error">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
-    <string name="ent_invalid_qr">Code QR non valide.</string>
+    <string name="ent_invalid_qr">QR Code non valide.</string>
     <string name="ent_invalid_agency">"Le code entreprise n'est pas valide."</string>
     <string name="ent_privacy_policy_notice">* Les données personnelles dans ce mode sont collectées conformément aux politiques établies par votre société. Xiaomi ne collecte pas de données personnelles dans ce mode.</string>
     <string name="ent_confirm_dialog_content">"Vous ne pourrez pas revenir à l'état actuel de votre système après avoir activé le mode Entreprise. Cependant, toutes vos données seront stockées sur cet appareil. Vous devrez redémarrer votre appareil pour activer le mode Entreprise. Activer maintenant ?"</string>
     <string name="ent_error_dialog_content">Au moins un des codes que vous avez entrés est incorrect. Vérifiez vos codes de compagnie et de licence puis saisissez-les à nouveau.</string>
-    <string name="ent_download_install_dialog_content">"Vous devez installer les applications d'entreprise pour activer le mode Entreprise. Installer maintenant ?"</string>
+    <string name="ent_download_install_dialog_content">"Vous devez installer les applications d'entreprise pour activer le mode entreprise. Installer maintenant ?"</string>
     <string name="ent_download_install_dialog_title">"Télécharger des applications d'entreprise"</string>
     <string name="ent_downloading_message">Téléchargement %d%%</string>
     <string name="install">Installer</string>

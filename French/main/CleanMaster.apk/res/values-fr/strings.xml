@@ -87,7 +87,7 @@
     <string name="deepclean_title_uninstall_apps">Applications rarement utilisées</string>
     <string name="toast_garbage_cleanup_success">Nettoyage terminé</string>
     <string name="toast_add_white_list_success">Ajouté aux exceptions avec succès</string>
-    <string name="hints_cache_header_left">Fichiers de cache</string>
+    <string name="hints_cache_header_left">Fichiers caches</string>
     <string name="hints_ad_header_left">Fichiers obsolètes</string>
     <string name="hints_apk_header_left">Paquets</string>
     <string name="hints_residual_header_left">Résidus</string>
@@ -186,14 +186,14 @@
     <string name="toast_backup_uninstall_failed2">Impossible de sauvegarder</string>
     <string name="toast_backup_uninstall_success">Sauvegarde et désinstallation terminée</string>
     <string name="activity_title_cache_data">"Données d'application"</string>
-    <string name="deepclean_cache_header_left">Fichiers de donnée: %d</string>
+    <string name="deepclean_cache_header_left">Fichiers de données: %d</string>
     <string name="notification_title_of_garbage_cleanup">%s des fichiers de la corbeille</string>
     <string name="notification_summary_of_garbage_cleanup">"Appuyer pour libérer de l'espace."</string>
     <string name="notification_summary_after_auto_cleanup">%s nettoyé.</string>
     <string name="toast_uninstall_success">Désinstallation terminée</string>
     <string name="toast_app_no_residual_on_sdcard">"L'application n'a aucune donnée stockée sur votre carte SD"</string>
     <string name="last_check_canceled">Analyse précédente annulée</string>
-    <string name="default_cache_type">Fichiers de donnée</string>
+    <string name="default_cache_type">Fichiers de données</string>
     <string name="deepclean_normal_title">Nettoyer automatiquement</string>
     <string name="deepclean_normal_item_desc1">Fichiers de la corbeille</string>
     <string name="deepclean_normal_item_desc2">"L'activité du nettoyeur n'influencera pas la performance du système"</string>
@@ -553,7 +553,7 @@
     <string name="facebook_group_image">Images</string>
     <string name="facebook_group_video">Vidéos</string>
     <string name="facebook_group_gif">GIFs</string>
-    <string name="facebook_group_cache">Fichiers de cache</string>
+    <string name="facebook_group_cache">Fichiers caches</string>
     <string name="app_clean_group_image_send">Images envoyées</string>
     <string name="app_clean_group_image_recv">Images reçues</string>
     <string name="app_clean_group_document_send">Fichiers envoyés</string>
