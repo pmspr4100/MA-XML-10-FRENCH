@@ -260,8 +260,6 @@
   <string name="data_monitor_dialog_message">Looks like something is draining your mobile data. Open the start page to stop this.</string>
   <string name="data_traffic_continue">Continuer</string>
   <string name="data_traffic_download_cancel">Annuler</string>
-  <string name="data_traffic_download_confirm">Utiliser votre connexion de données mobile</string>
-  <string name="data_traffic_download_ok">Ok</string>
   <string name="data_traffic_download_prompt">"La vidéo actuelle ne peut être téléchargée qu'en environnement Wi-Fi"</string>
   <string name="data_traffic_download_setting">Paramètres</string>
   <string name="data_traffic_goto">Trafic de données gratuit</string>
