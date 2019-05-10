@@ -239,11 +239,11 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="admin_profile_owner_message">"Votre administrateur peut contrôler et gérer les applications et les données associées à votre profil professionnel, y compris les paramètres, les permissions, l'accès aux contenus de l'entreprise, l'activité réseau et les informations de localisation de l'appareil."</string>
     <string name="admin_profile_owner_user_message">"Votre administrateur peut contrôler et gérer les applications et les données associées à ce profil utilisateur, y compris les paramètres, les permissions, l'accès aux contenus de l'entreprise, l'activité réseau et les informations de localisation de l'appareil."</string>
     <string name="admin_support_more_info">"Plus d'informations"</string>
-    <string name="advanced_apps">Paramètres avancés</string>
+    <string name="advanced_apps">Paramètres additionnels</string>
     <string name="advanced_battery_graph_subtext">"L'estimation de l'autonomie restante est basée sur l'utilisation de l'appareil"</string>
     <string name="advanced_battery_title">Utilisation de la batterie</string>
-    <string name="advanced_section_header">Paramètres avancés</string>
-    <string name="advanced_security_title">Paramètres avancés</string>
+    <string name="advanced_section_header">Paramètres additionnels</string>
+    <string name="advanced_security_title">Paramètres additionnels</string>
     <string name="advanced_settings">Paramètres supplémentaires</string>
     <string name="advanced_settings_summary">"Activer d'autres paramètres"</string>
     <string name="agps_roaming">"A-GPS pendant l'itinérance"</string>
@@ -903,7 +903,7 @@ Applications:
     <string name="bluetooth_map_request">"Demande d'accès aux messages"</string>
     <string name="bluetooth_max_connected_audio_devices_dialog_title">"Sélectionner le nombre maximal d'appareils audio Bluetooth connectés"</string>
     <string name="bluetooth_max_connected_audio_devices_string">"Nombre maximal d'appareils audio Bluetooth connectés"</string>
-    <string name="bluetooth_menu_advanced">Paramètres avancés</string>
+    <string name="bluetooth_menu_advanced">Paramètres additionnels</string>
     <string name="bluetooth_name_not_set">"Aucun nom n'a été défini. Utilisation du nom du compte..."</string>
     <string name="bluetooth_no_devices_found">Aucun appareil Bluetooth détecté.</string>
     <string name="bluetooth_not_visible_to_other_devices">"Non visible par d'autres appareils Bluetooth"</string>
@@ -1049,7 +1049,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bluetooth_unlock_state_label">"État: "</string>
     <string name="bluetooth_unlock_state_ok">Débloqué</string>
     <string name="bluetooth_unlock_state_too_far">Pas assez proche</string>
-    <string name="bluetooth_unlock_title">Déverr. avec un périphérique Bluetooth</string>
+    <string name="bluetooth_unlock_title">Déverrouillé avec un périphérique Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Désactivé</string>
     <string name="bluetooth_unlock_turned_on">Activé</string>
     <string name="bluetooth_unpair_dialog_body">Votre téléphone ne sera plus associé à \"%1$s\"</string>
@@ -1262,7 +1262,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="checking_find_device_status">"Vérification de l'état de Localiser l'appareil…"</string>
     <string name="checking_for_updates">Vérification des mises à jour…</string>
     <string name="choose_a_card_to_reset">Sélectionner la carte SIM à réinitialiser</string>
-    <string name="choose_keyguard_clock_style">"Verrouiller le format de l'horloge"</string>
+    <string name="choose_keyguard_clock_style">"Sélectionner le format de l'horloge"</string>
     <string name="choose_keyguard_clock_summary">"Ce paramètre ne fonctionne pas avec les thèmes tiers"</string>
     <string name="choose_profile">Sélectionnez un profil</string>
     <string name="choose_smartcover_type">"Choisir le type d'étui"</string>
@@ -2222,7 +2222,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fingerprint_last_delete_title">Supprimer les empreintes digitales ?</string>
     <string name="fingerprint_list_title">Empreinte digitale</string>
     <string name="fingerprint_lock_first">Déverrouiller le premier espace</string>
-    <string name="fingerprint_lock_second">Déverrouiller le second espace</string>
+    <string name="fingerprint_lock_second">Déverrouiller le deuxième espace</string>
     <string name="fingerprint_manage">Gestion des empreintes digitales</string>
     <string name="fingerprint_manage_category_title">Gérer empreintes num.</string>
     <string name="fingerprint_manage_tittle">Empreinte digitale</string>
@@ -2240,8 +2240,8 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fingerprint_unlock_skip_fingerprint">Continuer sans empreinte digitale</string>
     <string name="fingerprint_unlock_title">"Vous pouvez déverrouiller votre téléphone à l'aide de votre empreinte digitale. Pour plus de sécurité, cette option doit être associée à un autre mode de verrouillage de l'écran."</string>
     <string name="fingerprint_usage_category_title">Utiliser les empreintes digitales pour</string>
-    <string name="fingerprint_wakeup_summary">Wake screen when no fingerprints have been enrolled.</string>
-    <string name="fingerprint_wakeup_title">Tap fingerprint sensor to wake</string>
+    <string name="fingerprint_wakeup_summary">"Réveillez l'écran lorsque aucune empreinte digitale n'a été enregistrée."</string>
+    <string name="fingerprint_wakeup_title">"Appuyez sur le capteur d'empreinte pour réveiller l'écran"</string>
     <string name="finish_application">"Forcer l'arrêt"</string>
     <string name="finish_button">Terminer</string>
     <string name="finish_button_label">Terminer</string>
@@ -2601,7 +2601,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="keyboard_settings_title">Clavier Android</string>
     <string name="keyboard_shortcuts_helper">"Outil d'aide pour raccourcis clavier"</string>
     <string name="keyboard_shortcuts_helper_summary">Afficher les raccourcis disponibles</string>
-    <string name="keyguard_advance_setting_title">Paramètres avancés</string>
+    <string name="keyguard_advance_setting_title">Paramètres additionnels</string>
     <string name="keyguard_double_tap_to_sleep_title">Double tap pour mettre en veille</string>
     <string name="keyguard_notification_status_title">Quand les notifications arrivent et que l’écran est éteint</string>
     <string name="keyguard_security_setting_others">Autres</string>
@@ -4129,7 +4129,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="radioInfo_service_out">Hors-service</string>
     <string name="radioInfo_unknown">Inconnu</string>
     <string name="radio_controls_summary">Gérer le Wi-Fi, Bluetooth, Mode avion, Réseaux mobiles, &amp; VPN</string>
-    <string name="radio_controls_title">Supplémentaires</string>
+    <string name="radio_controls_title">Additionnels</string>
     <string name="radio_info_asdiv_switch_label">État ASDiv:</string>
     <string name="radio_info_band_mode_label">Sélectionner une bande radio</string>
     <string name="radio_info_call_redirect_label">Redirection des appels:</string>
@@ -4494,7 +4494,7 @@ Pour épingler l'écran:
     <string name="search_accessibility_screen_magnification_title">"Gestes d'agrandissement;Agrandissement"</string>
     <string name="search_accessibility_settings">Accessibilité</string>
     <string name="search_account_list">Autres comptes;Compte;Comptes</string>
-    <string name="search_advanced_settings">Paramètres avancés;Wifi;Paramètres Wifi;Paramètres WLAN</string>
+    <string name="search_advanced_settings">Paramètres additionnels;Wi-Fi;Paramètres Wi-Fi;Paramètres WLAN</string>
     <string name="search_airplane_mode">Mode Avion;Mode aéroplane;Mode Vol;Avion;Aéroplane;Vol</string>
     <string name="search_alarm_sound_title">"Son alarme;sonnerie d'alarme;alarme"</string>
     <string name="search_ambient_display_screen_title">Affichage ambiant</string>
@@ -4666,7 +4666,7 @@ Pour épingler l'écran:
     <string name="search_wifi_scan_always_available">Recherche toujours disponible;Rechercher des réseaux;Rechercher Wifi;Rechercher WLAN</string>
     <string name="search_wifi_setting_frequency_band_title">Bande de fréquence Wi-Fi;Fréquence WIFI;Fréquence Wi-Fi;Fréquence WLAN;Bande de fréquence</string>
     <string name="search_wifi_setting_sleep_policy_title">Garder le Wi-Fi activé en mode veille;Garder le WiFi activé en mode veille;Garder le WLAN activé en mode veille;Wi-Fi activé pendant le mode veille;WiFi activé pendant le mode veille;WLAN activé pendant le mode veille</string>
-    <string name="search_wifi_settings_title">Wifi;Wi-Fi;Paramètres avancés;WLAN;Réseaux sans-fil;Sans fil</string>
+    <string name="search_wifi_settings_title">Wifi;Wi-Fi;Paramètres additionnels;WLAN;Réseaux sans-fil;Sans fil</string>
     <string name="search_wifi_tether_checkbox">"Point d'accès mobile;Point d'accès;mobile"</string>
     <string name="search_wifi_tether_configure_ap_text">"Configurer le point d'accès mobile;Définir un point d'accès;Ajouter un point d'accès;Configurer un point d'accès"</string>
     <string name="search_wifi_tether_settings_title">"Partage de connexion &amp; point d'accès mobile;partager Internet;Point d'accès Réseau local sans-fil;Point d'accès WiFi;Point d'accès Wi-Fi"</string>
@@ -5428,7 +5428,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tether_settings_title_bluetooth">Partage de connexion via bluetooth</string>
     <string name="tether_settings_title_usb">Partage de connexion via USB</string>
     <string name="tether_settings_title_usb_bluetooth">"Point d'accès Wi-Fi"</string>
-    <string name="tether_settings_title_wifi">"Point d'accès Wi-Fi mobile"</string>
+    <string name="tether_settings_title_wifi">"Partage de connexion Wi-Fi"</string>
     <string name="tether_share_qrcode_title">Partager un QR code</string>
     <string name="tethering_footer_info">"Utilisez un point d'accès et le partage de connexion pour fournir un accès à Internet à d'autres appareils via votre connexion de données mobiles. Les applications peuvent également créer un point d'accès pour partager du contenu avec des appareils à proximité."</string>
     <string name="tethering_hardware_offload">Accélération matérielle pour le partage</string>
@@ -5661,10 +5661,10 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_access_title">Applis avec accès données util.</string>
     <string name="usage_log">"Statistiques d'utilisation des apps"</string>
     <string name="usage_state_app_timer">"Temps d'utilisation"</string>
-    <string name="usage_state_app_usage_detail_title">App usage details</string>
-    <string name="usage_state_app_usage_list_title">"Apps' screen time"</string>
-    <string name="usage_state_app_usage_list_week_title">"Apps' screen time"</string>
-    <string name="usage_state_app_usage_tip_title" formatted="false">Screen time between %d:00 and %d:00</string>
+    <string name="usage_state_app_usage_detail_title">"Détails d'utilisation de l'application"</string>
+    <string name="usage_state_app_usage_list_title">"Apps' temps d'utilisation"</string>
+    <string name="usage_state_app_usage_list_week_title">"Apps' temps d'utilisation"</string>
+    <string name="usage_state_app_usage_tip_title" formatted="false">"Temps d'utilisation entre %d:00 et %d:00"</string>
     <string name="usage_state_app_use_time">Utilisation des applications</string>
     <string name="usage_state_channel_mouth">30 derniers jours</string>
     <string name="usage_state_channel_week">7 derniers jours</string>
@@ -6360,7 +6360,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_menu_write_to_nfc">Modifier le tag NFC</string>
     <string name="wifi_metered_label">Mesuré</string>
     <string name="wifi_modify">Modifier</string>
-    <string name="wifi_more">Supplémentaires</string>
+    <string name="wifi_more">Additionnels</string>
     <string name="wifi_multiple_cert_added">(Plusieurs certificats ajoutés)</string>
     <string name="wifi_network_optimization">Connexion au réseau intelligent</string>
     <string name="wifi_network_prefix_length">Longueur du préfixe réseau</string>
@@ -6423,7 +6423,7 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_scan_always_available_summary">"Autoriser le service de localisation de Google et d'autres applications à rechercher des réseaux, même lorsque le Wi-Fi est désactivé"</string>
     <string name="wifi_scan_always_confirm_allow">Autoriser</string>
     <string name="wifi_scan_always_confirm_deny">Refuser</string>
-    <string name="wifi_scan_always_turnoff_message">Pour désactiver cette option, sélectionnez \"Paramètres avancés\" dans le menu à développer.</string>
+    <string name="wifi_scan_always_turnoff_message">Pour désactiver cette option, sélectionnez \"Paramètres additionnels\" dans le menu à développer.</string>
     <string name="wifi_scan_always_turnon_message">"Pour améliorer la précision de la localisation, entre autres, %1$s souhaite activer la recherche de réseaux même lorsque le Wi-Fi est désactivé.
 
 Donner cette autorisation à toutes les applications souhaitant activer la recherche de réseaux ?"</string>
