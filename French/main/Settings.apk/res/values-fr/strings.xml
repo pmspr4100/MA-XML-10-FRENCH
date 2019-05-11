@@ -2396,7 +2396,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gesture_prevent_ringing_title">Appuyer simultanément sur les boutons \"Marche/Arrêt\" et \"Volume +\"</string>
     <string name="gesture_setting_off">Désactivé</string>
     <string name="gesture_setting_on">Activé</string>
-    <string name="gesture_wakeup_title">"Double tap pour réveiller l'écran"</string>
+    <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller l'écran"</string>
     <string name="giga_hertz">" GHz"</string>
     <string name="gigabyteShort">Go</string>
     <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs sur ce téléphone.</string>
@@ -2602,7 +2602,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="keyboard_shortcuts_helper">"Outil d'aide pour raccourcis clavier"</string>
     <string name="keyboard_shortcuts_helper_summary">Afficher les raccourcis disponibles</string>
     <string name="keyguard_advance_setting_title">Paramètres additionnels</string>
-    <string name="keyguard_double_tap_to_sleep_title">Double tap pour mettre en veille</string>
+    <string name="keyguard_double_tap_to_sleep_title">Appuyez deux fois pour mettre en veille</string>
     <string name="keyguard_notification_status_title">Quand les notifications arrivent et que l’écran est éteint</string>
     <string name="keyguard_security_setting_others">Autres</string>
     <string name="keyguard_security_setting_privacy_policy">Politique de confidentialité</string>

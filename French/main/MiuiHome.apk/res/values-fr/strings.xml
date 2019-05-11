@@ -197,7 +197,7 @@
     <string name="launcher_slide_up_title">"Glisser vers le haut sur l'écran d'accueil"</string>
     <string name="home_screen">"Écran d'accueil"</string>
     <string name="icon_reorganize_channel">Organiser les icônes</string>
-    <string name="image_too_small_message">"L'image originale nest pas assez grande."</string>
+    <string name="image_too_small_message">"L'image originale n'est pas assez grande."</string>
     <string name="install">Installer</string>
     <string name="invalid_contact_shortcut">Contact non valide</string>
     <string name="is_setting_wallpaper_message">Définition comme fond décran…</string>
@@ -364,5 +364,5 @@
     <string name="widget_quick_function">Fonctions rapides</string>
     <string name="widgets_preview_title">Ajouter un widget</string>
     <string name="launcher_sliding_up_gesture">"Balayez vers le haut pour lancer la recherche"</string>
-    <string name="minus_one_screen">"Coffre d'applications"</string>
+    <string name="minus_one_screen">"Afficher le coffre des applications</string>
 </resources>

@@ -32,7 +32,7 @@
     <string name="scenario_policies_warmcontrol">Contrôle de température</string>
     <string name="warm_configure">Paramètres du contrôle de température</string>
     <string name="important_warning">Attention</string>
-    <string name="confirm">OK </string>
+    <string name="confirm">Confirmer</string>
     <string name="warm_performance_tip">Votre appareil chauffera plus lorsque plusieurs traitements seront en cours.</string>
     <string name="vip_feedback">Commentaire VIP</string>
     <string name="vip_feedback_enable">Activer les commentaires VIP</string>
@@ -75,24 +75,23 @@ L'économiseur de batterie traitera les applications importantes de manière sé
     <string name="power_checker_background_cpu_multi_apps_title">%1$s ne ne fonctionne pas normalement</string>
     <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s se lance fréquemment</string>
     <string name="power_checker_mobile_radio_multi_apps_title">%1$s accède fréquemment au réseau</string>
-    <string name="power_checker_multi_apps_title">Applications qui déchargent la batterie : %2$s</string>
+    <string name="power_checker_multi_apps_title">Applications qui déchargent la batterie: %2$s</string>
     <string name="power_checker_notify_summary">Optimiser les applications qui déchargent la batterie</string>
     <string name="cloud_china_addr">Mettre à jour les données du serveur de Chine</string>
     <string name="cloud_staging_addr">Mettre à jour les données serveur intermédiaire</string>
     <string name="cloud_international_addr">Mettre à jour les données du serveur international</string>
-    <string name="current_cloud_addr_is">"L'adresse du serveur de contrôle du Cloud est :"</string>
+    <string name="current_cloud_addr_is">"L'adresse du serveur de contrôle du Cloud est:"</string>
     <string name="update_profile_sucess">Mis à jour depuis le serveur avec succès</string>
     <string name="update_profile_failture_not_connect_wifi">Suppression impossible ! Connecte-vous à un réseau Wi-Fi puis réessayez.</string>
     <string name="sucess">Terminé</string>
     <string name="failure">Erreur</string>
     <string name="cloud_addr_info">Info sur Cloud</string>
-    <string name="lasttime_feature_cloud">Fonctionnalités mises à jour :</string>
-    <string name="lasttime_applist_cloud">Applications mises à jour :</string>
+    <string name="lasttime_feature_cloud">Fonctionnalités mises à jour:</string>
+    <string name="lasttime_applist_cloud">Applications mises à jour:</string>
     <string name="base_info">Infos de base</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Impossible de trouver une application</string>
     <string name="power_consume_abnormal_night">La batterie est déchargée la nuit</string>
-    <string name="enable_sleep_mode">"Activez le mode Veille pour optimiser l'utilisation de la batterie pendant la nuit"</string>
+    <string name="enable_sleep_mode">"Activez le mode veille pour optimiser l'utilisation de la batterie pendant la nuit"</string>
     <string name="sleepmode_privacy_title">Mode Veille</string>
     <string name="sleepmode_privacy_link">Apprendre plus à propos de la confidentialité et de la sécurité</string>
     <string name="sleepmode_disclaimer_cancel">Annuler</string>
@@ -108,5 +107,5 @@ L'économiseur de batterie traitera les applications importantes de manière sé
     <string name="atrace_saving">Sauvegarde en cours du journal atrace…</string>
     <string name="atrace_saved">Enregistré avec succès</string>
     <string name="adaptive_battery_title">Utiliser une batterie adaptative</string>
-    <string name="adaptive_battery_summary">Limiter la batterie aux applications que vous nutilisez pas souvent</string>
+    <string name="adaptive_battery_summary">"Limiter la batterie aux applications que vous n'utilisez pas souvent"</string>
 </resources>
