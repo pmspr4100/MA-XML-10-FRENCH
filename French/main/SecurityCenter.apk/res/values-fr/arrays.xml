@@ -75,7 +75,7 @@
         <item>Heure de la dernière mise à jour</item>
     </string-array>
     <string-array name="sms_report_type">
-        <item>Utilisation de données</item>
+        <item>Utilisation des données</item>
         <item>Solde du téléphone</item>
     </string-array>
     <string-array name="luckymoney_sound">

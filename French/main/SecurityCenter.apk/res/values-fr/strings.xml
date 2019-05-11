@@ -435,7 +435,7 @@ de l'opérateur"</string>
     <string name="dialog_restrict_all_mobile_summary">La connexion aux données mobiles de %s sera restreinte pour toutes les applications une fois cela activé.</string>
     <string name="dialog_restrict_positive">Annuler</string>
     <string name="dialog_restrict_negative">Restreindre</string>
-    <string name="usage_sorted_activity_lable">Utilisation de données</string>
+    <string name="usage_sorted_activity_lable">Utilisation des données</string>
     <string name="usage_sorted_loading_text">Un instant…</string>
     <string name="usage_sorted_empty_text">Vide</string>
     <string name="person_hotpot">Partage de connexion</string>
@@ -458,8 +458,8 @@ de l'opérateur"</string>
     <string name="managed_user_title">Toutes les applis fonctionnelles</string>
     <string name="not_limited_brand">Illimité</string>
     <string name="pref_about_traffic_title">"Paramètres d'utilisation des données"</string>
-    <string name="pref_traffic_manage_title">Utilisation de données</string>
-    <string name="pref_package_traffic_settings">Forfait de donnée</string>
+    <string name="pref_traffic_manage_title">Utilisation des données</string>
+    <string name="pref_package_traffic_settings">Forfait de données</string>
     <string name="pref_adjust_traffic_data">"Définir l'utilisation des données"</string>
     <string name="pref_category_title_other">Paramètres supplémentaires</string>
     <string name="pref_title_update_notification">"Notifications de l'utilisation de données"</string>
@@ -2034,7 +2034,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="app_manager_powerkeeper_restrict_bg">Restreindre les applications en arrière-plan</string>
     <string name="app_manager_powerkeeper_no_bg">"Restreindre l'activité en arrière-plan"</string>
     <string name="app_manager_app_storage">"Stockage: "</string>
-    <string name="app_manager_app_traffic">"Utilisation de données: "</string>
+    <string name="app_manager_app_traffic">"Utilisation des données: "</string>
     <string name="app_manager_app_power">"Utilisation de la batterie: "</string>
     <string name="app_manager_net_control_title">"Restreindre l'utilisation des données"</string>
     <string name="app_manager_net_mobile">Données Mobiles</string>
@@ -2491,11 +2491,11 @@ Toutes les données sur votre appareil seront supprimées et le mot de passe de 
     <string name="resource_antispam">Liste noire</string>
     <string name="keywords_antispam">"Liste noire;Bloquer;Liste noire;Liste noire intelligente;Fraude;Ventes;Agents;Liste noire d'appel;Liste noire de message;Liste noire de messagerie;Liste noire de SMS;listenoire;liste noire;bloquer une liste;fraude;bloquer un contact;bloquer des contacts"</string>
     <string name="path_antispam">Applications système/Sécurité/Liste noire</string>
-    <string name="resource_networkassistant_1">Utilisation de données</string>
-    <string name="keywords_networkassistant_1">Donnée;Trafic</string>
+    <string name="resource_networkassistant_1">Utilisation des données</string>
+    <string name="keywords_networkassistant_1">Données;Trafic</string>
     <string name="path_networkassistant_1">Applications système/Sécurité/Utilisation des données</string>
     <string name="resource_networkassistant_2">Calibrer le forfait de données</string>
-    <string name="keywords_networkassistant_2">Donnée;Calibrer</string>
+    <string name="keywords_networkassistant_2">Données;Calibrer</string>
     <string name="path_networkassistant_2">Applications système/Sécurité/Utilisation des données</string>
     <string name="resource_networkassistant_4">Tester le réseau</string>
     <string name="keywords_networkassistant_4">Connexion;Internet;Analyser</string>
