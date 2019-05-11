@@ -186,8 +186,6 @@
     <string name="error_invalid_path">"Chemin d'accès non valide"</string>
     <string name="error_not_support">Non pris en charge</string>
     <string name="error_open_file_failed_no_app_found">Aucune application trouvée pour effectuer cette action.</string>
-    <string name="error_not_support">Not supported</string>
-    <string name="error_open_file_failed_no_app_found">No app was found to handle this action.</string>
     <string name="extended_storage_file_can_not_open">"Impossible d'ouvrir le fichier. Veuillez d'abord le copier sur la mémoire interne."</string>
     <string name="extract">Décompresser</string>
     <string name="fail_to_create_folder_unknown">"Impossible de créer un dossier en raison d'une erreur inconnue."</string>
