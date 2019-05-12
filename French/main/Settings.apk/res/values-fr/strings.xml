@@ -1775,7 +1775,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_status_activity_title">Informations</string>
     <string name="device_status_summary">Numéro de téléphone, signal, etc.</string>
     <string name="device_theme">"Thème de l'appareil"</string>
-    <string name="device_total_memory">Stockage total</string>
+    <string name="device_total_memory">Stockage interne</string>
     <string name="device_usage_list_summary">"Utilisation de l'appareil depuis la charge complète"</string>
     <string name="devices_title">Appareils</string>
     <string name="dial_application_title">Composeur</string>
@@ -2100,10 +2100,10 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="eq_cancel">Annuler</string>
     <string name="eq_classical">Classique</string>
     <string name="eq_country">Country</string>
-    <string name="eq_dance">Dance</string>
+    <string name="eq_dance">Danse</string>
     <string name="eq_delete">Supprimer</string>
     <string name="eq_delete_success">Terminé</string>
-    <string name="eq_electronic">Electronic</string>
+    <string name="eq_electronic">Électronique</string>
     <string name="eq_flat">Par défaut</string>
     <string name="eq_hiphop">Hip Hop</string>
     <string name="eq_jazz">Jazz</string>

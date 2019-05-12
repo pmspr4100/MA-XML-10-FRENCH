@@ -210,7 +210,7 @@
     <string name="loading_wallpaper">Un instant…</string>
     <string name="local_wallpaper">Téléchargé</string>
     <string name="lock_screen">Écran de verrouillage</string>
-    <string name="lock_screen_cells_title">"Verrouillage de l'écran d'accueil"</string>
+    <string name="lock_screen_cells_title">"Activer le verrouillage de l'écran d'accueil"</string>
     <string name="lock_screen_failed_message">"Impossible de définir le fond d'écran de l'écran de verrouillage"</string>
     <string name="lock_screen_success_message">"Appliqué à l'écran de verrouillage"</string>
     <string name="lock_screen_wallpaper">"Fond d'écran de verrouillage"</string>
@@ -253,7 +253,7 @@
     <string name="open_personal_assistant_dialog_desc">"Vous ne pourrez plus utiliser Coffre d'applications et recevoir ses mises à jour. Désactiver maintenant ?"</string>
     <string name="open_personal_assistant_dialog_desc_international">"Vous ne pourrez pas utiliser les cartes de Coffre d'applications (Stocks, Raccourcis, etc.) et recevoir des mises à jour après avoir désactivé cette fonctionnalité."</string>
     <string name="open_personal_assistant_dialog_title">"Désactiver le Coffre d'applications"</string>
-    <string name="open_personal_assistant_title">"Coffre d'applications"</string>
+    <string name="open_personal_assistant_title">"Activer le coffre d'applications"</string>
     <string name="out_of_space">Plus despace sur ce bureau</string>
     <string name="permdesc_install_shortcut">"Permet à une application d'ajouter des raccourcis sans l'intervention de l'utilisateur."</string>
     <string name="permdesc_install_widget">"Permet à une application d'ajouter des widgets sans votre intervention."</string>
@@ -302,7 +302,7 @@
     <string name="reset_fail">Impossible de restaurer</string>
     <string name="reset_scene_prompt">"L'écran sera réinitialisé à la disposition par défaut."</string>
     <string name="reset_title">Restaurer</string>
-    <string name="screen_cells_config_title">"Disposition de l'écran d'accueil"</string>
+    <string name="screen_cells_config_title">"Modifier la disposition de l'écran d'accueil"</string>
     <string name="screen_locked_toast">"La disposition de l'écran d'accueil est verrouillée."</string>
     <string name="screen_number">%d écran</string>
     <string name="select_all">Tout sélectionner</string>
@@ -363,6 +363,6 @@
     <string name="widget_global_search">Recherche</string>
     <string name="widget_quick_function">Fonctions rapides</string>
     <string name="widgets_preview_title">Ajouter un widget</string>
-    <string name="launcher_sliding_up_gesture">"Balayez vers le haut pour lancer la recherche"</string>
+    <string name="launcher_sliding_up_gesture">"Glissez vers le haut pour lancer la recherche"</string>
     <string name="minus_one_screen">"Afficher le coffre des applications</string>
 </resources>

@@ -85,7 +85,7 @@
     <string name="answer_state_setting_summary">Paramètres supplémentaires pour les appels entrants</string>
     <string name="answer_state_setting_title">Paramètres des appels entrants</string>
     <string name="antispam_notification_title">Numéro inconnu</string>
-    <string name="antispam_setting">Liste noire</string>
+    <string name="antispam_setting">Paramètres liste noire</string>
     <string name="apn_settings">"Noms des points d'accès"</string>
     <string name="apn_settings_not_available">"Les paramètres de point d'accès ne sont pas disponibles pour cet utilisateur."</string>
     <string name="app_process_limit_title">Limite processus arr.-plan</string>
@@ -326,13 +326,12 @@ Bluetooth"</string>
     <string name="call_recording_notification_title_error">"Impossible d'enregistrer l'appel"</string>
     <string name="call_recording_notification_toggle_title">"Notification d'enregistrement des appels"</string>
     <string name="call_recording_setting">"Enregistrement d'appel"</string>
-    <string name="call_settings">Paramétrages des appels</string>
+    <string name="call_settings">"Paramètres d'appel"</string>
     <string name="call_settings_admin_user_only">"Les paramètres d'appel ne peuvent être modifiés que par l'administrateur."</string>
     <string name="call_settings_primary_user_only">"Les paramètres d'appel ne peuvent être modifiés que par l'utilisateur principal."</string>
-    <string name="call_settings_title_font_family">sans-serif-light</string>
     <string name="call_settings_with_label">Paramètres (%s)</string>
     <string name="call_waiting_summary">Pendant un appel, me notifier les appels entrants</string>
-    <string name="call_waiting_title">Appel en attente</string>
+    <string name="call_waiting_title">Paramètres des appels en attente</string>
     <string name="call_waiting_tone_continuously">Jouer le son de notification en continu</string>
     <string name="call_waiting_tone_title">"Notification d'appel en attente"</string>
     <string name="call_waiting_tone_twice_and_vibrate">Jouer le son de notification et vibrer 2 fois</string>
