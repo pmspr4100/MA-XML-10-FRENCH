@@ -1645,7 +1645,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="date_time_set_timezone">Définir le fuseau horaire</string>
     <string name="date_time_set_timezone_in_region">Fuseaux horaires dans la région suivante: %1$s</string>
     <string name="date_time_set_timezone_title">Fuseau horaire</string>
-    <string name="date_time_settings">Date &amp; heure</string>
+    <string name="date_time_settings">Date et heure</string>
     <string name="day_of_week">Jour de la semaine</string>
     <string name="dc_light_dialog_summary">"La qualité de l'image peut être affectée lorsque le mode anti-scintillement est activé. Allumer quand même ?"</string>
     <string name="dc_light_summary">Apply DC dimming to reduce eye strain</string>
@@ -1873,10 +1873,10 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dndm_alarm_content">Sons</string>
     <string name="dndm_alarm_content_all">Tout autoriser</string>
     <string name="dndm_alarm_content_call">Appels</string>
-    <string name="dndm_alarm_content_call_sms">Appels &amp; messages</string>
+    <string name="dndm_alarm_content_call_sms">Appels et messages</string>
     <string name="dndm_alarm_content_event">Notifications</string>
-    <string name="dndm_alarm_content_event_and_call">Notifications &amp; appels</string>
-    <string name="dndm_alarm_content_event_and_sms">Notifications &amp; messages</string>
+    <string name="dndm_alarm_content_event_and_call">Notifications et appels</string>
+    <string name="dndm_alarm_content_event_and_sms">Notifications et messages</string>
     <string name="dndm_alarm_content_not_all">Tout mettre en silence</string>
     <string name="dndm_alarm_content_sms">Messages</string>
     <string name="dndm_auto_button_title">Programmer le mode Ne pas déranger</string>
@@ -2199,7 +2199,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="find_my_device_enable">Activé</string>
     <string name="fingerprint_add_max">"Vous pouvez ajouter jusqu'à %d empreintes digitales."</string>
     <string name="fingerprint_add_title">Ajouter une empreinte digitale</string>
-    <string name="fingerprint_and_password_entrance_title">"Verrouillage de l'écran &amp; empreinte digitale"</string>
+    <string name="fingerprint_and_password_entrance_title">"Verrouillage de l'écran et empreinte digitale"</string>
     <string name="fingerprint_apply_to_privacy_password">Mot de passe de confidentialité</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">Le mot de passe de protection de la vie privée protège vos messages, photos, fichiers, notes et applications.</string>
     <string name="fingerprint_delete_message">Souhaitez-vous supprimer cette empreinte digitale ?</string>
@@ -2404,8 +2404,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="go_back_button_label">Retour</string>
     <string name="go_to_sleep">"Éteindre l'écran"</string>
     <string name="google_backup_enable">Activer les sauvegardes</string>
-    <string name="google_backup_section_title">Sauvegarde Google &amp; restauration</string>
-    <string name="google_title">Google</string>
+    <string name="google_backup_section_title">Sauvegarde Google et restauration</string>
+    <string name="google_title">Paramètres Google</string>
     <string name="got_it">"C'est compris"</string>
     <string name="gsm_to_wifi_connect_type_title">Cellulaire par Wi-Fi</string>
     <string name="gxzw_add_fingerprint_continue">Continuer</string>
@@ -2470,7 +2470,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="header_category_wireless_networks">Paramètres réseaux</string>
     <string name="header_data_and_synchronization">Données et synchronisation</string>
     <string name="heavy_weight_stop_description">"Impossible d'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
-    <string name="help_feedback_label">Aide &amp; commentaires</string>
+    <string name="help_feedback_label">Aide et commentaires</string>
     <string name="help_label">Aide et commentaires</string>
     <string name="hide_extra_apps">Afficher utilisation appli</string>
     <string name="high_performance_notif_summary">"L'appareil peut chauffer pendant une utilisation intensive."</string>
@@ -2587,8 +2587,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="key_none">Aucun</string>
     <string name="key_operation_diagram">"Diagramme d'opérations"</string>
     <string name="key_position_cat">Emplacement des boutons</string>
-    <string name="key_settings">Raccourcis des boutons et gestes</string>
-    <string name="key_settings_title">Raccourcis des boutons et gestes</string>
+    <string name="key_settings">Raccourcis et gestes</string>
+    <string name="key_settings_title">Raccourcis et gestes</string>
     <string name="key_system_control">Contrôle du système</string>
     <string name="keyboard_and_input_methods_category">Clavier</string>
     <string name="keyboard_assistance_category">Assistance relative au clavier</string>
@@ -2710,7 +2710,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="launch_recents">Lancer les applications récentes</string>
     <string name="launch_voice_assistant">"Lancer l'assistant vocal"</string>
     <string name="launch_wifi_text">Afficher les détails</string>
-    <string name="launcher_title">"Écran d'accueil &amp; récents"</string>
+    <string name="launcher_title">"Écran d'accueil et récents"</string>
     <string name="launching_cit">Démarrage du CIT</string>
     <string name="launching_pho">Lancement des infos du téléphone…</string>
     <string name="launching_rep">Rapport…</string>
@@ -2802,7 +2802,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="location_mode_sensors_only_title">Appareil uniquement</string>
     <string name="location_neighborhood_level">Laisser les applications utiliser les données comme le Wi-Fi et les données réseaux pour déterminer votre position</string>
     <string name="location_neighborhood_level_wifi">Localisation déterminée par Wi-Fi</string>
-    <string name="location_network_based">Wi-Fi &amp; réseau mobile</string>
+    <string name="location_network_based">Wi-Fi et réseau mobile</string>
     <string name="location_no_recent_apps">"Aucune demande d'accès à votre position n'a récemment été envoyée pour une application."</string>
     <string name="location_off_summary">Désactivé</string>
     <string name="location_on_summary">Activé</string>
@@ -2857,7 +2857,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lock_screen_unlock_show">"Ignorer l'écran de verrouillage"</string>
     <string name="lock_screen_unlock_show_summary">"Ouvrez l'écran d'accueil ou saisissez directement le mot de passe"</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Appuyer pour changer</string>
-    <string name="lock_settings">Écran de verrouillage &amp; mot de passe</string>
+    <string name="lock_settings">Écran de verrouillage et mot de passe</string>
     <string name="lock_settings_common_title">Paramètres de verrouillage</string>
     <string name="lock_settings_picker_fingerprint_added_security_message">"Pour plus de sécurité, définissez un mode de verrouillage de l'écran supplémentaire."</string>
     <string name="lock_settings_picker_fingerprint_message">"Choisissez une méthode supplémentaire pour verrouiller l'écran."</string>
@@ -2875,7 +2875,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lock_settings_profile_unification_title">Utiliser un seul dispositif de verrouillage</string>
     <string name="lock_settings_profile_unified_summary">"Identique au verrouillage de l'écran de l'appareil"</string>
     <string name="lock_settings_title">Sécurité de l’appareil</string>
-    <string name="lock_settings_with_fingerprint">Écran de verrouillage &amp; mot de passe</string>
+    <string name="lock_settings_with_fingerprint">Écran de verrouillage et mot de passe</string>
     <string name="lock_setup">La configuration est terminée.</string>
     <string name="lock_sounds_enable_title">Son de verrouillage</string>
     <string name="lockdown_settings_summary">"Afficher l'option du bouton Marche/Arrêt, qui désactive la fonctionnalité Smart Lock, le déverrouillage à l'aide d'une empreinte numérique et les notifications sur l'écran de verrouillage"</string>
@@ -3185,7 +3185,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_ai_cloud_closed">"Le préchargement IA n'est pas actuellement disponible."</string>
     <string name="miui_lab_ai_preload_desc">Le préchargement IA augmente la vitesse de lancement des applications</string>
     <string name="miui_lab_ai_preload_title">Préchargement IA</string>
-    <string name="miui_lab_drive_mode_desc">Utilisez les contrôles vocaux &amp; écoutez les messages WeChat</string>
+    <string name="miui_lab_drive_mode_desc">Utilisez les contrôles vocaux et écoutez les messages WeChat</string>
     <string name="miui_lab_drive_mode_title">Mode Voiture</string>
     <string name="miui_lab_feature_applied">Appliqué</string>
     <string name="miui_lab_feature_off">Désactivé</string>
@@ -3362,7 +3362,7 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="music_headset_mode_settings">Boutons des écouteurs</string>
     <string name="music_headset_mode_volume">Contrôle du volume</string>
     <string name="music_headset_no_contected">"Pas d'écouteurs détectés"</string>
-    <string name="music_headset_settings">Écouteurs &amp; effets audio</string>
+    <string name="music_headset_settings">Écouteurs et effets audio</string>
     <string name="music_hifi_summary">Réduire le bruit et la distorsion et augmenter la qualité audio</string>
     <string name="music_hifi_title">Audio Hi-Fi</string>
     <string name="music_mi_effect_summary">"Utiliser l'amplificateur de son Mi lorsque vous utilisez des écouteurs"</string>
@@ -3876,11 +3876,10 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="power_settings_title">Performances du système</string>
     <string name="power_unaccounted">Autres utilisations</string>
     <string name="power_usage_history">"Historique d'utilisation"</string>
-    <string name="power_usage_level_and_status">%1$s – %2$s</string>
     <string name="power_usage_list_summary">Utilisation de la batterie depuis la dernière charge complète</string>
     <string name="power_usage_not_available">"Infos d'utilisation batterie indisponibles"</string>
     <string name="power_usage_summary">"Répartition de l'utilisation de la batterie"</string>
-    <string name="power_usage_summary_title">Batterie &amp; performance</string>
+    <string name="power_usage_summary_title">Batterie et performance</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Applications pré-installées</string>
     <string name="pref_bg_network_title">Connexion en arrière-plan</string>
@@ -3979,7 +3978,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_authorize_revoke_failed">"Impossible de révoquer l'autorisation"</string>
     <string name="privacy_authorize_revoke_success">Autorisation révoquée avec succès</string>
     <string name="privacy_authorize_revoke_time">Révoquer (%1$d s)</string>
-    <string name="privacy_authorize_revoke_title">Autorisation &amp; révocation</string>
+    <string name="privacy_authorize_revoke_title">Autorisation et révocation</string>
     <string name="privacy_authorize_revoking">"Lorsque la fonction de recommandation est désactivée, la quantité d'annonces affichée reste la même que lorsqu'elle est activée, mais pas en fonction de vos données de comportement ou de vos informations personnelles."</string>
     <string name="privacy_authorize_success">Autorisation accordée avec succès</string>
     <string name="privacy_authorize_title">"Accord d'autorisation"</string>
@@ -4003,7 +4002,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_password">Mot de passe de confidentialité</string>
     <string name="privacy_password_add_account">Ajouter</string>
     <string name="privacy_password_add_account_info">"Ajoutez votre compte Mi pour pourvoir réinitialiser votre mot de passe au cas où vous l'oubliez"</string>
-    <string name="privacy_password_add_account_setting">Compte &amp; confidentialité</string>
+    <string name="privacy_password_add_account_setting">Compte et confidentialité</string>
     <string name="privacy_password_bind_account">Ajouter un compte Mi</string>
     <string name="privacy_password_bind_account_immediate">Ajouter</string>
     <string name="privacy_password_confirm_SecondSpace_Password">Confirmer le mot de passe du second espace</string>
@@ -4015,7 +4014,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_password_fingerprint_dialog_error_title">"Impossible de scanner l'empreinte digitale, réessayer"</string>
     <string name="privacy_password_fingerprint_dialog_message">Placez votre doigt sur le capteur</string>
     <string name="privacy_password_fingerprint_dialog_title">Scannez votre empreinte digitale</string>
-    <string name="privacy_password_login_and_add_account">Se connecter &amp; ajouter</string>
+    <string name="privacy_password_login_and_add_account">Se connecter et ajouter</string>
     <string name="privacy_password_never_remind">Ne plus demander</string>
     <string name="privacy_password_not_add_account">Pas maintenant</string>
     <string name="privacy_password_not_login_account">"Vous n'êtes pas connecté"</string>
@@ -4035,7 +4034,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_password_visible_pattern">Afficher le schéma</string>
     <string name="privacy_protect_title">Protection des données</string>
     <string name="privacy_relative">Confidentialité</string>
-    <string name="privacy_settings">Sauvegarder &amp; réinitialiser</string>
+    <string name="privacy_settings">Sauvegarder et réinitialiser</string>
     <string name="privacy_settings_title">Sauvegarde</string>
     <string name="private_dns_help_message"><annotation id="url">En savoir plus</annotation> sur les fonctionnalités de DNS privé</string>
     <string name="private_dns_mode_off">Désactivé</string>
@@ -4125,7 +4124,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="radioInfo_service_off">Signal radio désactivé</string>
     <string name="radioInfo_service_out">Hors-service</string>
     <string name="radioInfo_unknown">Inconnu</string>
-    <string name="radio_controls_summary">Gérer le Wi-Fi, Bluetooth, Mode avion, Réseaux mobiles, &amp; VPN</string>
+    <string name="radio_controls_summary">Gérer le Wi-Fi, Bluetooth, Mode avion, Réseaux mobiles, et VPN</string>
     <string name="radio_controls_title">Paramètres additionnels</string>
     <string name="radio_info_asdiv_switch_label">État ASDiv:</string>
     <string name="radio_info_band_mode_label">Sélectionner une bande radio</string>
@@ -4331,14 +4330,14 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="saved_wifi_delete">Retirer</string>
     <string name="screen">Écran</string>
     <string name="screen_cancel">Annuler</string>
-    <string name="screen_color_and_optimize">Couleurs &amp; contraste</string>
+    <string name="screen_color_and_optimize">Couleurs et contraste</string>
     <string name="screen_color_and_optimize_disabled">Impossible de régler la température de couleur en mode lecture</string>
     <string name="screen_color_temperature">Couleurs</string>
-    <string name="screen_color_temperature_and_saturation">Couleurs &amp; saturation</string>
+    <string name="screen_color_temperature_and_saturation">Couleurs et saturation</string>
     <string name="screen_compatibility_label">"Compatibilité de l'écran"</string>
     <string name="screen_compatibility_text">"Cette application n'est peut-être pas adaptée à votre écran. Vous pouvez modifier les paramètres d'ajustement ici."</string>
     <string name="screen_confirm">Activer</string>
-    <string name="screen_effect">Contraste &amp; couleurs</string>
+    <string name="screen_effect">Contraste et couleurs</string>
     <string name="screen_key_long_press">Appui prolongé des boutons de navigation</string>
     <string name="screen_key_long_press_action">Fonction de déclenchement</string>
     <string name="screen_key_long_press_timeout">"Définir la durée d'un appui prolongé"</string>
@@ -4487,7 +4486,7 @@ Pour épingler l'écran:
     <string name="search_accessibility_captioning_title">Sous-titre</string>
     <string name="search_accessibility_display_daltonizer_preference_title">Correction de couleur;Couleur;Couleurs</string>
     <string name="search_accessibility_global_gesture_preference_title">"Widgets d'acessibilité;Accessibilité"</string>
-    <string name="search_accessibility_long_press_timeout_preference_title">Délai de \"appuyer &amp; maintenir\";Délai de \"appuyer et maintenir\";Appuyer et maintenir;Délai</string>
+    <string name="search_accessibility_long_press_timeout_preference_title">Délai de \"appuyer et maintenir\";Délai de \"appuyer et maintenir\";Appuyer et maintenir;Délai</string>
     <string name="search_accessibility_screen_magnification_title">"Gestes d'agrandissement;Agrandissement"</string>
     <string name="search_accessibility_settings">Accessibilité</string>
     <string name="search_account_list">Autres comptes;Compte;Comptes</string>
@@ -4518,7 +4517,7 @@ Pour épingler l'écran:
     <string name="search_cloud_restore_section_title">Restaurer à partir de Mi Cloud;Mi Cloud;Sauvegardes Mi Cloud</string>
     <string name="search_copyright_title">"Droits d'auteur"</string>
     <string name="search_credentials_install">"Installer depuis le stockage;Installation directe;Installer l'application"</string>
-    <string name="search_date_and_time_settings_title">Date &amp; heure;Date et heure;Date;Heure</string>
+    <string name="search_date_and_time_settings_title">Date et heure;Date et heure;Date;Heure</string>
     <string name="search_description">Recherche dans les paramètres</string>
     <string name="search_development_settings_title">Developer options;Assist;Developer;Developers;Developing;Development;Troubleshooting;Debug;Debugging;USB debugging;USB debug</string>
     <string name="search_device_name">"Nom de l'appareil"</string>
@@ -4545,17 +4544,16 @@ Pour épingler l'écran:
     <string name="search_hint">Recherche dans les paramètres</string>
     <string name="search_home_key">"Accueil;Bouton d'accueil;Touche d'accueil"</string>
     <string name="search_input_hint">Paramètres de recherche</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_key_settings_title">Boutons;Touches</string>
     <string name="search_lab_functions_title">Fonction bêta;fonction laboratoire</string>
     <string name="search_label">Paramètres</string>
-    <string name="search_language_settings">Langue &amp; méthode de saisie;Langue;Langue et méthode de saisie;Méthode de saisie;Clavier</string>
+    <string name="search_language_settings">Langue et méthode de saisie;Langue;Langue et méthode de saisie;Méthode de saisie;Clavier</string>
     <string name="search_led_settings">Voyant;Voyant de notification;Voyant lumineux</string>
     <string name="search_legal_information">Informations légales</string>
     <string name="search_local_auto_backup_section_title">Sauvegarde automatique;Sauvegardes automatiques;Sauvegarder automatiquement</string>
     <string name="search_local_backup_section_title">Sauvegardes locales</string>
     <string name="search_location_settings_title">Localisation;Services de localisation;GPS</string>
-    <string name="search_lock_settings">"Écran de verrouillage &amp; mot de passe;Déverrouillage Bluetooth;code d'accès;Déverrouiller avec un appareil Bluetooth"</string>
+    <string name="search_lock_settings">"Écran de verrouillage et mot de passe;Déverrouillage Bluetooth;code d'accès;Déverrouiller avec un appareil Bluetooth"</string>
     <string name="search_lock_sounds_enable_title">"Verrouillage d'écran;Activer le son du verrouillage d'écran"</string>
     <string name="search_manage_device_admin">"Administrateurs de l'appareil;Admin;Administrateur"</string>
     <string name="search_manage_notification_access_title">Accès aux notifications;Notifications;Permissions de notification</string>
@@ -4567,7 +4565,7 @@ Pour épingler l'écran:
     <string name="search_music_equalizer">Égaliseur</string>
     <string name="search_music_headset_calibrate">Attribuer les boutons;boutons</string>
     <string name="search_music_headset_mode_settings">"Boutons de télécommande d'écouteur;boutons de télécommande"</string>
-    <string name="search_music_headset_settings">Écouteurs &amp; effets audio;Écouteurs et effets audio;Écouteurs;Casques;Effets audio</string>
+    <string name="search_music_headset_settings">Écouteurs et effets audio;Écouteurs et effets audio;Écouteurs;Casques;Effets audio</string>
     <string name="search_music_mi_effect_title">Amélioration audio Mi;Améliorer le son</string>
     <string name="search_my_device">"À propos du téléphone;À propos de l'appareil;Mon téléphone;Mon appareil;Téléphone;Appareil"</string>
     <string name="search_networks_title">Réseaux mobiles;Opérateur;Opérateur mobile</string>
@@ -4589,17 +4587,17 @@ Pour épingler l'écran:
     <string name="search_power_hide_mode_title">"Gérer l'utilisation de la batterie par les applications;Utilisation de la batterie par une application;Utilisation de la batterie;Statistiques de la batterie"</string>
     <string name="search_power_mode">Paramètres de puissance;Puissance</string>
     <string name="search_power_optimize">Économiseur de batterie;Économiser la batterie</string>
-    <string name="search_power_usage_summary_title">Batterie &amp; performance;Batterie et performance;Batterie;performance;performance;Économiseur de batterie;Économiser la batterie</string>
+    <string name="search_power_usage_summary_title">Batterie et performance;Batterie et performance;Batterie;performance;performance;Économiseur de batterie;Économiser la batterie</string>
     <string name="search_pref_edge_handgrip">Contrôles des bords</string>
     <string name="search_pref_volume_wake_title">Allumer avec les boutons de volume;boutons de volume</string>
     <string name="search_preferred_network_type_title">Type de réseau préféré;Réseau préféré;Type de réseau</string>
     <string name="search_privacy_policy">Politique de Confidentialité</string>
-    <string name="search_privacy_settings">Sauvegarde &amp;réinitialisation;Sauvegarde et réinitialisation;réinitialisation;Sauvegarde</string>
+    <string name="search_privacy_settings">Sauvegarde et réinitialisation;Sauvegarde et réinitialisation;réinitialisation;Sauvegarde</string>
     <string name="search_radio_controls_title">Plus;Sans fil</string>
     <string name="search_results_title">Paramètres</string>
-    <string name="search_ring_volume_option_title">Volume;volume;Sonnerie &amp; notifications;sonnerie;sonneries;Alarme;Musique</string>
+    <string name="search_ring_volume_option_title">Volume;volume;Sonnerie et notifications;sonnerie;sonneries;Alarme;Musique</string>
     <string name="search_ringtone_title">Sonnerie du téléphone;sonnerie;sonneries</string>
-    <string name="search_screen_effect">Couleurs &amp; saturation,Couleur &amp; contraste;couleur;saturation de couleur;contraste</string>
+    <string name="search_screen_effect">Couleurs et saturation,Couleur et contraste;couleur;saturation de couleur;contraste</string>
     <string name="search_screen_key_long_press_timeout">"Définir la durée d'un appui prolongé;Appui prolongé;Appuyer et maintenir"</string>
     <string name="search_screen_on_proximity_sensor_title">Prévenir les compositions dans la poche;poche;composition dans la poche;compositions dans la poche</string>
     <string name="search_screen_paper_mode_title">Mode de lecture;mode de lecture;lecture;lumière bleue;lumière jaune;mode nuit;flux;décalage de nuit;décalage de nuit;nuit</string>
@@ -4620,7 +4618,7 @@ Pour épingler l'écran:
     <string name="search_sms_received_sound_title">Message reçu;son de message;message reçu;sonnerie de message</string>
     <string name="search_sound_effects_enable_title">Sons des touches;Activer les sons des touches</string>
     <string name="search_sound_settings">Sons;Volume;Vibration;Supprimer le bruit;Supression du bruit</string>
-    <string name="search_status_bar_settings">"Notifications &amp; barre d'état;Notifications;Barre d'état"</string>
+    <string name="search_status_bar_settings">"Notifications et barre d'état;Notifications;Barre d'état"</string>
     <string name="search_status_bar_settings_custom_carrier">"Modifier le nom de l'opérateur;Nom de l'opérateur"</string>
     <string name="search_status_bar_settings_expandable_under_keyguard">"Afficher à l'écran de verrouillage;afficher à l'écran de verrouillage"</string>
     <string name="search_status_bar_settings_manage_notification">Notifications des applications;Notifications</string>
@@ -4628,7 +4626,7 @@ Pour épingler l'écran:
     <string name="search_status_bar_settings_show_network_speed">Afficher la vitesse de connexion;vitesse de connexion</string>
     <string name="search_status_bar_settings_show_notification_icon">Afficher les icônes de notification;icône de notification;afficher les icônes de notification</string>
     <string name="search_status_bar_settings_show_screenshot_notification">"Afficher les notifications de capture d'écran;Notification de capture d'écran;Capture d'écran"</string>
-    <string name="search_status_bar_settings_style">Notifications &amp;Mise en page des boutons;mise en page du bouton;séparer les boutons;combiné;séparer;combiner</string>
+    <string name="search_status_bar_settings_style">Notifications et Mise en page des boutons;mise en page du bouton;séparer les boutons;combiné;séparer;combiner</string>
     <string name="search_status_bar_settings_toggle_collapse_after_clicked">Toucher pour réduire;Réduire;Masquer</string>
     <string name="search_status_bar_settings_toggle_position">Positions des raccourcis;Raccourcis;raccourcis;changer raccourcis</string>
     <string name="search_storage_settings">Stockage;Mémoire</string>
@@ -4666,7 +4664,7 @@ Pour épingler l'écran:
     <string name="search_wifi_settings_title">Wi-Fi;Wi-Fi;Paramètres additionnels;WLAN;Réseaux sans-fil;Sans-fil</string>
     <string name="search_wifi_tether_checkbox">"Point d'accès mobile;Point d'accès;mobile"</string>
     <string name="search_wifi_tether_configure_ap_text">"Configurer le point d'accès mobile;Définir un point d'accès;Ajouter un point d'accès;Configurer un point d'accès"</string>
-    <string name="search_wifi_tether_settings_title">"Partage de connexion &amp; point d'accès mobile;partager Internet;Point d'accès Réseau local sans-fil;Point d'accès WiFi;Point d'accès Wi-Fi"</string>
+    <string name="search_wifi_tether_settings_title">"Partage de connexion et point d'accès mobile;partager Internet;Point d'accès Réseau local sans-fil;Point d'accès WiFi;Point d'accès Wi-Fi"</string>
     <string name="search_wifi_wapi_cert_install">Installer le certificatWAPI;Certificats WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">Désinstaller le certificat WAPI;Certificats WAPI;WAPI</string>
     <string name="search_wps_connect_title">Bouton WPS push;Connecter WPS;WPS</string>
@@ -4741,7 +4739,7 @@ Remarque: Votre empreinte digitale peut être moins sécurisée qu'un schéma ou
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Utilisez votre empreinte digitale pour déverrouiller votre téléphone ou approuver des achats.
 
 Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouiller cet appareil. Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title">Déverrouillage avec empreinte</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">"Déverrouillage avec l'empreinte"</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Utiliser votre empreinte digitale</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Relevez le doigt, puis appuyez à nouveau sur le capteur.</string>
     <string name="security_settings_fingerprint_enroll_repeat_message">Effectuez cette opération plusieurs fois pour ajouter les différentes parties de votre empreinte digitale.</string>
@@ -4791,7 +4789,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
     <string name="services_subtitle">Services</string>
     <string name="set_data_limit">Définir une limite</string>
     <string name="set_data_warning">Activer une alerte</string>
-    <string name="set_jeejen_prompt_message">Jeejen sera défini comme lanceur par défaut. Vous pouvez modifier le lanceur par défaut dans Paramètres > Paramètres du système > Écran d’accueil &amp; Récents > Lanceur par défaut.</string>
+    <string name="set_jeejen_prompt_message">Jeejen sera défini comme lanceur par défaut. Vous pouvez modifier le lanceur par défaut dans Paramètres > Paramètres du système > Écran d’accueil et Récents > Lanceur par défaut.</string>
     <string name="set_jeejen_prompt_title">Confirmer les changements</string>
     <string name="setting_privacy_password">Définissez un mot de passe de protection de confidentialité</string>
     <string name="settings_ad_loading">Chargement…</string>
@@ -5039,7 +5037,7 @@ Le code PIN est peut-être incorrect."</string>
     <string name="sos_privacy_dialog_message">"Lisez et acceptez notre %s avant d’utiliser cette fonctionnalité.
 Cette fonctionnalité nécessite des autorisations pour accéder à votre localisation, utiliser les réseaux mobiles et lire vos contacts. Accepter?"</string>
     <string name="sos_privacy_dialog_title">"Conditions Générales d'Utilisation"</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Sonnerie &amp; notifications</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Sonnerie et notifications</string>
     <string name="sound_category_sound_title">Paramètres généraux</string>
     <string name="sound_category_system_title">Système</string>
     <string name="sound_dashboard_summary">Volume, vibreur, Ne pas déranger</string>
@@ -5052,7 +5050,7 @@ Cette fonctionnalité nécessite des autorisations pour accéder à votre locali
     <string name="sound_stereo_mode_summary">Uniquement disponible lorsque vous jouez un son avec le haut-parleur</string>
     <string name="sound_stereo_mode_title">Son stéréo</string>
     <string name="sound_title">Son</string>
-    <string name="sound_vibrate_settings">Sons &amp; vibrations</string>
+    <string name="sound_vibrate_settings">Sonnerie</string>
     <string name="sound_work_settings">Sons du profil professionnel</string>
     <string name="special_access">Applications: accès spécial</string>
     <string name="speed_label_fast">Rapide</string>
@@ -5086,7 +5084,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_app_enable_keyguard">Écran de vérrouillage</string>
     <string name="status_bar_app_enable_message">Badges</string>
     <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
-    <string name="status_bar_settings">"Notifications &amp; barre de statut</string>
+    <string name="status_bar_settings">"Notifications et barre de statut</string>
     <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
     <string name="status_bar_settings_expand_top_notification">Développer la notification supérieure</string>	
     <string name="status_bar_settings_manage_notification">"Notifications d'applications"</string>
@@ -5401,7 +5399,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="testing">Test</string>
     <string name="testing_phone_info">Informations sur le téléphone</string>
     <string name="testing_usage_stats">Données statistiques</string>
-    <string name="tether_and_hotspot_title">"Partage de connexion &amp; point d'accès mobile"</string>
+    <string name="tether_and_hotspot_title">"Partage de connexion et point d'accès mobile"</string>
     <string name="tether_auto_disable_summary">"Désactiver automatiquement le point d'accès lorsqu'aucun appareil n'est connecté"</string>
     <string name="tether_auto_disable_title">Désactiver automatiquement les données mobiles</string>
     <string name="tether_custom_dialog_title">Limite de données mobiles</string>
@@ -5421,7 +5419,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tether_settings_summary_hotspot_off_tether_on">Partage de connexion</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">"Point d'accès activé"</string>
     <string name="tether_settings_summary_hotspot_on_tether_on">"Point d'accès activé, partage de connexion"</string>
-    <string name="tether_settings_title_all">"Partage &amp; point d'accès mobile"</string>
+    <string name="tether_settings_title_all">"Partage et point d'accès mobile"</string>
     <string name="tether_settings_title_bluetooth">Partage de connexion via bluetooth</string>
     <string name="tether_settings_title_usb">Partage de connexion via USB</string>
     <string name="tether_settings_title_usb_bluetooth">"Point d'accès Wi-Fi"</string>
@@ -5533,7 +5531,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="tts_status_ok">%1$s est complètement pris en charge</string>
     <string name="tts_status_requires_network">%1$s nécessite une connexion réseau</string>
     <string name="tts_status_title">État de la langue par défaut</string>
-    <string name="turn_off_common_password_confirm_msg">Le verrouillage écran sera également désactivé.</string>
+    <string name="turn_off_common_password_confirm_msg">"Le verrouillage de l'écran sera également désactivé."</string>
     <string name="turn_off_keyguard_password_alert_title">Désactiver</string>
     <string name="turn_off_keyguard_password_confirm_msg">Certaines fonctionnalités de sécurité ne fonctionneront pas sans votre mot de passe.</string>
     <string name="turn_off_keyguard_password_wait_dialog">Désactivation du mot de passe…</string>
@@ -5657,7 +5655,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_access_description">"L'accès aux données d'utilisation permet à une application d'effectuer le suivi des applications que vous utilisez, de la fréquence d'utilisation, de l'opérateur, des paramètres de langue et d'autres détails."</string>
     <string name="usage_access_title">Applis avec accès données util.</string>
     <string name="usage_log">"Statistiques d'utilisation des apps"</string>
-    <string name="usage_state_app_timer">"Temps d'utilisation"</string>
+    <string name="usage_state_app_timer">"Gestionnaire d'utilisation"</string>
     <string name="usage_state_app_usage_detail_title">"Détails d'utilisation de l'application"</string>
     <string name="usage_state_app_usage_list_title">"Apps' temps d'utilisation"</string>
     <string name="usage_state_app_usage_list_week_title">"Apps' temps d'utilisation"</string>
@@ -5673,7 +5671,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_hour_minute" formatted="false">%d h %d m</string>
     <string name="usage_state_less_one_minute">Moins de 1 minute</string>
     <string name="usage_state_monday">Lun</string>
-    <string name="usage_state_mourth_day">"Screen time on %s"</string>
+    <string name="usage_state_mourth_day">"Utilisé le %s"</string>
     <string name="usage_state_noti_mourth_day">"Notifications sur %s"</string>
     <string name="usage_state_notification">Gérer les notifications</string>
     <string name="usage_state_notification_manager">"Gérer les notifications d'applications"</string>
@@ -5700,7 +5698,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_stats_label">Données statistiques</string>
     <string name="usage_stats_normal_day">Jours de la semaine</string>
     <string name="usage_stats_week_day">Week-end</string>
-    <string name="usage_time_label">"Temps d'utilisation"</string>
+    <string name="usage_time_label">"Gestionnaire d'utilisation"</string>
     <string name="usage_type_actual_power">Consommation observée</string>
     <string name="usage_type_audio">Audio</string>
     <string name="usage_type_camera">Appareil photo</string>
@@ -5902,7 +5900,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="user_rename">RENOMMER</string>
     <string name="user_restrictions_controlled_by">Contrôlées par %1$s</string>
     <string name="user_restrictions_title">Accès aux applis et au contenu</string>
-    <string name="user_set_lock_button">Définir verrouillage écran</string>
+    <string name="user_set_lock_button">"Définir verrouillage de l'écran"</string>
     <string name="user_settings_forbidden">"Impossible de modifier les paramètres administrateur dans l'espace actuel. Retournez au premier espace."</string>
     <string name="user_settings_title">Utilisateurs multiples</string>
     <string name="user_setup_button_setup_later">Pas maintenant</string>
@@ -5998,7 +5996,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="volume_notification_mute">Couper le son des notifications</string>
     <string name="volume_restore">Restaurer le volume</string>
     <string name="volume_restore_alert">Réinitialiser tous les niveaux de volume à leurs paramètres par défaut ?</string>
-    <string name="volume_ring_description">Sonnerie &amp; notifications</string>
+    <string name="volume_ring_description">Sonnerie et notifications</string>
     <string name="volume_ring_mute">Couper la sonnerie et le son des notifications</string>
     <string name="volume_system_description">"Appareil photo, verrouillage de l'écran et d'autres notifications système"</string>
     <string name="volume_voice_description">"Volume lors d'appel"</string>
