@@ -220,11 +220,6 @@
         <item>"Pourcentage (à côté de l'icône)"</item>
         <item>Barre du haut</item>
     </string-array>
-    <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>Non spécifié</item>
         <item>LTE</item>
@@ -335,11 +330,6 @@
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>Utiliser la valeur par défaut du système: %1$d</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>Deux minutes</item>
@@ -369,12 +359,6 @@
         <item>Normale</item>
         <item>Grande</item>
         <item>Très grande</item>
-    </string-array>
-    <string-array name="captioning_opacity_selector_titles">
-        <item>25 %</item>
-        <item>50 %</item>
-        <item>75 %</item>
-        <item>100 %</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>"Paramètres par défaut de l'appli"</item>
@@ -694,7 +678,7 @@
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Couleurs améliorées</item>
-        <item>"Couleurs naturelles comme vues par l'œil"</item>
+        <item>"Couleurs naturelles comme vues par l'oeil"</item>
         <item>Couleurs optimisées pour un contenu numérique</item>
     </string-array>
     <string-array name="color_mode_names">
@@ -732,7 +716,7 @@
         <item>Définir cycle conso...</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>Désactivé</item>
         <item>Afficher les zones de superposition</item>
         <item>Montrer les zones de deutéranomalie</item>
     </string-array>
@@ -861,12 +845,6 @@
         <item>Raccourcis de transports publics</item>
     </string-array>
     <string-array name="max_number_titles">
-        <item>6</item>
-        <item>5</item>
-        <item>4</item>
-        <item>3</item>
-        <item>2</item>
-        <item>1</item>
         <item>Illimité</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
@@ -898,13 +876,9 @@
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>Le stockage USB sera ouvert automatiquement quand vous connecterez votre appareil à un PC.</item>
-        <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
         <item>"2. Suivez les instructions affichées à l'écran"</item>
-        <item></item>
-        <item></item>
-        <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>"Outils d'installation: sudo aptitude install mtpfs libfuse-dev libmad0-dev"</item>
@@ -940,7 +914,7 @@ Note : seulement pour Ubuntu 8.04 !"</item>
         <item>Paramètres</item>
     </string-array>
     <string-array name="notification_style_entries">
-        <item>MIUI </item>
+        <item>MIUI</item>
         <item>Android</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
