@@ -2100,7 +2100,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="eq_cancel">Annuler</string>
     <string name="eq_classical">Classique</string>
     <string name="eq_country">Country</string>
-    <string name="eq_dance">Danse</string>
+    <string name="eq_dance">Dance</string>
     <string name="eq_delete">Supprimer</string>
     <string name="eq_delete_success">Terminé</string>
     <string name="eq_electronic">Électronique</string>
@@ -3656,7 +3656,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="now">Maintenant</string>
     <string name="number_of_device_admins_none">Aucune application active</string>
     <string name="oem_lock_info_message">"Veuillez redémarrer l'appareil pour activer la fonctionnalité de protection de ce dernier."</string>
-    <string name="oem_radio_info_label">Infos/paramètres OEM</string>
+    <string name="oem_radio_info_label">Infos / paramètres OEM</string>
     <string name="oem_unlock_enable">Déverrouillage OEM</string>
     <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Bootloader déjà déverrouillé</string>
     <string name="oem_unlock_enable_disabled_summary_connectivity">"Connectez-vous d'abord à Internet"</string>
@@ -3679,7 +3679,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="one_usercrt">un certificat utilisateur</string>
     <string name="one_userkey">une clé utilisateur</string>
     <string name="onehour">30 minutes</string>
-    <string name="onekey_migrate">Mi Mover</string>
+    <string name="onekey_migrate">Mi Transfert</string>
     <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
     <string name="open_dark_mode_dialog_summary">"Certains paramètres d'affichage ne sont pas compatibles avec le mode nuit. Cependant, ils seront restaurés une fois que vous désactivez le mode nuit. Activer le mode nuit ?"</string>
     <string name="open_dark_mode_dialog_title">Compatibilité du mode nuit</string>
@@ -3942,8 +3942,6 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="print_failed_state_title_template">"Erreur d'impression pour %1$s"</string>
     <string name="print_feature_state_off">Désactivé</string>
     <string name="print_feature_state_on">Activé</string>
-    <string name="print_job_summary">"%1$s
-%2$s"</string>
     <string name="print_menu_item_add_printer">Ajouter une imprimante</string>
     <string name="print_menu_item_add_printers">Ajouter des imprimantes</string>
     <string name="print_menu_item_add_service">Ajouter un service</string>
@@ -4658,14 +4656,14 @@ Pour épingler l'écran:
     <string name="search_wfd_settings_title">"Affichage sans-fil; Activer l'affichage sans-fil; WiDi; Distribution; Affichage Wi-Fi; Affichage à distance; Affichage"</string>
     <string name="search_wifi_advanced_ip_address_title">Adresse IP;IP</string>
     <string name="search_wifi_advanced_mac_address_title">Adresse MAC Wi-Fi;Adresse MAC WLAN</string>
-    <string name="search_wifi_enable">WiFi;Wi-Fi;WLAN;Activer Wi-Fi;Activer Wi-fi;Activer WLAN</string>
+    <string name="search_wifi_enable">Wi-Fi;Wi-Fi;WLAN;Activer Wi-Fi;Activer Wi-fi;Activer WLAN</string>
     <string name="search_wifi_install_credentials">Installer les certificats;Certificats</string>
     <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLAN Direct</string>
     <string name="search_wifi_menu_wps_pin">Entrée du code WPS;WPS;Code WPS</string>
     <string name="search_wifi_scan_always_available">Recherche toujours disponible;Rechercher des réseaux;Rechercher Wifi;Rechercher WLAN</string>
     <string name="search_wifi_setting_frequency_band_title">Bande de fréquence Wi-Fi;Fréquence WIFI;Fréquence Wi-Fi;Fréquence WLAN;Bande de fréquence</string>
     <string name="search_wifi_setting_sleep_policy_title">Garder le Wi-Fi activé en mode veille;Garder le WiFi activé en mode veille;Garder le WLAN activé en mode veille;Wi-Fi activé pendant le mode veille;WiFi activé pendant le mode veille;WLAN activé pendant le mode veille</string>
-    <string name="search_wifi_settings_title">Wifi;Wi-Fi;Paramètres additionnels;WLAN;Réseaux sans-fil;Sans fil</string>
+    <string name="search_wifi_settings_title">Wi-Fi;Wi-Fi;Paramètres additionnels;WLAN;Réseaux sans-fil;Sans-fil</string>
     <string name="search_wifi_tether_checkbox">"Point d'accès mobile;Point d'accès;mobile"</string>
     <string name="search_wifi_tether_configure_ap_text">"Configurer le point d'accès mobile;Définir un point d'accès;Ajouter un point d'accès;Configurer un point d'accès"</string>
     <string name="search_wifi_tether_settings_title">"Partage de connexion &amp; point d'accès mobile;partager Internet;Point d'accès Réseau local sans-fil;Point d'accès WiFi;Point d'accès Wi-Fi"</string>
@@ -5687,15 +5685,15 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_sunday">Dim</string>
     <string name="usage_state_thursday">Jeu</string>
     <string name="usage_state_today">"Aujourd'hui"</string>
-    <string name="usage_state_today_total_text">Screen time today</string>
+    <string name="usage_state_today_total_text">Utilisation</string>
     <string name="usage_state_tuesday">Mar</string>
     <string name="usage_state_unlock_mourth_day">"Déverrouillé le %s"</string>
-    <string name="usage_state_usage_time">Screen time</string>
+    <string name="usage_state_usage_time">Utilisation</string>
     <string name="usage_state_usage_time_remind">"Alerte du temps d'utilisation"</string>
     <string name="usage_state_use_time_remind_title">"Alerte du temps d'utilisation"</string>
     <string name="usage_state_wednesday">Mer</string>
     <string name="usage_state_week_day_hour_minute" formatted="false">Weekend: %d h %d m</string>
-    <string name="usage_state_week_total_text">Screen time (last 7 days)</string>
+    <string name="usage_state_week_total_text">Utilisation (7 derniers jours)</string>
     <string name="usage_state_which_mouth">MMMM</string>
     <string name="usage_state_work_day">Semaine</string>
     <string name="usage_state_work_day_hour_minute" formatted="false">Semaine: %d h %d m</string>
