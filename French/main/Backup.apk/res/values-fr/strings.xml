@@ -169,6 +169,9 @@ Taille de la mise à jour: %2$s"</string>
     <string name="retry">Réessayer</string>
     <string name="select_all">Tout sélectionner</string>
     <string name="deselect_all">Tout désélectionner</string>
+    <string name="dialog_app_upgrade_download">Mise à jour</string>
+    <string name="dialog_app_upgrade_exit">Quitter</string>
+    <string name="dialog_app_upgrade_message">Une nouvelle version de Mi Transfert est disponible. Mettre à jour Mi Transfert maintenant ?</string>
     <string name="reverse_all">Tout effacer</string>
     <string name="refresh">Actualiser</string>
     <string name="cloud_item_info_summary">" (Locale %1$s | Mi Cloud %2$s)"</string>
@@ -241,7 +244,7 @@ Taille de la mise à jour: %2$s"</string>
     <string name="summary_err_restore_no_network">Impossible de se connecter au réseau</string>
     <string name="err_authentication_failed">"Échec de l'authentification"</string>
     <string name="err_low_storage">Espace libre insuffisant</string>
-    <string name="err_no_gms">"Version de l'application incompatible. Installez cette application séparément"</string>
+    <string name="err_no_gms">"Version de l'application incompatible. Installez cette application séparément."</string>
     <string name="err_unknown">Erreur inconnue</string>
     <string name="err_version_too_old">Le fichier de sauvegarde est trop vieux.</string>
     <string name="err_version_unsupported">"La version de la sauvegarde n'est pas supportée."</string>

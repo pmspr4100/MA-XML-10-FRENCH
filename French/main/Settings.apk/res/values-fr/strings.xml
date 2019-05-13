@@ -1649,6 +1649,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="day_of_week">Jour de la semaine</string>
     <string name="dc_light_dialog_summary">"La qualité de l'image peut être affectée lorsque le mode anti-scintillement est activé. Allumer quand même ?"</string>
     <string name="dc_light_summary">Apply DC dimming to reduce eye strain</string>
+    <string name="dc_light_summary_new">DC dimming reduces eye strain in low light conditions. However, image quality might be affected when Anti-flicker mode is on.</string>
     <string name="dc_light_title">Mode anti-scintillement</string>
     <string name="debug_app">Sélectionner une application de débogage</string>
     <string name="debug_app_not_set">Aucune application de débogage définie</string>
@@ -3193,8 +3194,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_features">Fonctionnalités lab MIUI</string>
     <string name="miui_lab_gallery_search_desc">"Recherche d'image améliorée"</string>
     <string name="miui_lab_gallery_search_title">Trouver des photos dans Galerie</string>
-    <string name="miui_lab_gesture_desc">Désactiver les boutons physiques et profiter des gestes en plein écran</string>
-    <string name="miui_lab_gesture_title">Geste plein écran</string>
+    <string name="miui_lab_gesture_desc">Utilisez des gestes au lieu des boutons pour la navigation</string>
+    <string name="miui_lab_gesture_title">Gestes plein écran</string>
     <string name="miui_lab_install_drive_mode_error">Installation impossible, réessayez.</string>
     <string name="miui_lab_install_drive_mode_summary">"Le mode voiture est une application système. L'installation ne requiert pas de connexion internet."</string>
     <string name="miui_lab_install_drive_mode_title">Installer le mode voiture</string>
@@ -4490,7 +4491,8 @@ Pour épingler l'écran:
     <string name="search_accessibility_screen_magnification_title">"Gestes d'agrandissement;Agrandissement"</string>
     <string name="search_accessibility_settings">Accessibilité</string>
     <string name="search_account_list">Autres comptes;Compte;Comptes</string>
-    <string name="search_advanced_settings">Paramètres additionnels;Wi-Fi;Paramètres Wi-Fi;Paramètres WLAN</string>
+    <string name="search_add_facerecoginition_text">Déverrouillage faciale;reconnaissance faciale</string>
+    <string name="search_advanced_settings">Paramètres additionnels;Wi-Fi;Paramètres Wi-Fi;Paramètres Wi-Fi</string>
     <string name="search_airplane_mode">Mode Avion;Mode aéroplane;Mode Vol;Avion;Aéroplane;Vol</string>
     <string name="search_alarm_sound_title">"Son alarme;sonnerie d'alarme;alarme"</string>
     <string name="search_ambient_display_screen_title">Affichage ambiant</string>
@@ -4556,6 +4558,7 @@ Pour épingler l'écran:
     <string name="search_lock_settings">"Écran de verrouillage et mot de passe;Déverrouillage Bluetooth;code d'accès;Déverrouiller avec un appareil Bluetooth"</string>
     <string name="search_lock_sounds_enable_title">"Verrouillage d'écran;Activer le son du verrouillage d'écran"</string>
     <string name="search_manage_device_admin">"Administrateurs de l'appareil;Admin;Administrateur"</string>
+    <string name="search_manage_facerecoginition_text">Déverrouillage faciale;reconnaissance faciale</string>
     <string name="search_manage_notification_access_title">Accès aux notifications;Notifications;Permissions de notification</string>
     <string name="search_master_clear_title">"Réinitialisation des valeurs d'usine"</string>
     <string name="search_menu">Rechercher dans les paramètres</string>
