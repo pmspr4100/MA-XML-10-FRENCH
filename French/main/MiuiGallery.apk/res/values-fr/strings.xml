@@ -184,10 +184,10 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="backup_sync_off_title">La synchronisation avec Mi Cloud est désactivée</string>
     <string name="backup_with_gprs_dialog_btn">Sauvegarde</string>
     <string name="backup_with_gprs_dialog_message">%s de données est nécessaire pour les éléments de sauvegarde. Sauvegarder maintenant ?</string>
-    <string name="backup_with_gprs_dialog_title">"Sauvegarde à l'aide de données mobiles"</string>
+    <string name="backup_with_gprs_dialog_title">"Sauvegarde à l'aide de données cellulaires"</string>
     <string name="backuped_desc">Les photos et les vidéos sont sauvegardées sur Mi Cloud</string>
     <string name="backuped_title">Sauvegardé avec succès</string>
-    <string name="backuping_title_gprs">"Sauvegarder à l'aide de données mobiles…"</string>
+    <string name="backuping_title_gprs">"Sauvegarder à l'aide de données cellulaires…"</string>
     <string name="backuping_title_normal">Sauvegarde en cours…</string>
     <string name="base_btn_cancel">Annuler</string>
     <string name="base_btn_download">Télécharger</string>
@@ -206,6 +206,10 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="cannot_remove_creator">Impossible de retirer le créateur</string>
     <string name="cannot_send_message">"Impossible d'envoyer le message."</string>
     <string name="cannot_send_message_reason">Destinataire non valide</string>
+    <string name="card_delete_description">"Cette storie n'apparaîtra plus. Supprimer quand même ?"</string>
+    <string name="card_delete_negative_text">Annuler</string>
+    <string name="card_delete_positive_text">Supprimer</string>
+    <string name="card_delete_title">Supprimer la storie</string>
     <string name="card_title_recent_memory">Souvenirs récents</string>
     <string name="cast_devices_unavailable_desc">"Assurez-vous que tous les deux, l'appareil et le projecteur sont connectés au même réseau Wi-Fi"</string>
     <string name="cast_devices_unavailable_title">Impossible de trouver le projecteur</string>
@@ -295,11 +299,6 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="collage_title_poster">Poster</string>
     <string name="collage_title_stitching">Film</string>
     <string name="collaps_people">Masquer</string>
-    <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
-    <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
-    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Moments WeChat</string>
-    <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
     <string name="confirm">OK</string>
     <string name="confirm_download_video_message">"Vous devez finir de télécharger cette vidéo avant de la regarder. Le téléchargement reprendra lorsqu'une connexion Wi-Fi sera disponible."</string>
     <string name="confirm_download_video_title">Télécharger la vidéo</string>
@@ -340,7 +339,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="define_by_user">Personnalisé</string>
     <string name="delete">Supprimer</string>
     <string name="delete_album_failed">"Impossible de supprimer l'album"</string>
-    <string name="delete_album_msg_format">"Supprimer l'album \"%2$s\" %1$s%3$s ?"</string>
+    <string name="delete_album_msg_format">"Supprimer l'album \"%2$s\" %1$s %3$s ?"</string>
     <string name="delete_album_success">Album supprimé</string>
     <string name="delete_finish_format">%d suprimés</string>
     <string name="delete_from_all_devices_and_cloud">de tous les appareils et de Mi Cloud</string>
@@ -1023,6 +1022,8 @@ pour personnaliser Galerie"</string>
     <string name="rename_album">"Renommer l'album"</string>
     <string name="rename_album_failed">Impossible de renommer</string>
     <string name="rename_album_succeeded">Renommé avec succès</string>
+    <string name="rename_dialog_hint">Entrer le titre</string>
+    <string name="rename_dialog_title">Renommer la storie</string>
     <string name="rename_face_album">Changer le nom</string>
     <string name="rename_fail_msg">Le changement de nom a échoué</string>
     <string name="rename_from_contact">Nom parmi les contacts</string>
@@ -1199,6 +1200,8 @@ pour personnaliser Galerie"</string>
     <string name="story_cancel_download">Annuler</string>
     <string name="story_download">Télécharger</string>
     <string name="story_download_failed_for_notwork">Impossible de télécharger. Veuillez vous connecter au réseau puis réessayez.</string>
+    <string name="story_option_menu_delete">Supprimer</string>
+    <string name="story_option_menu_rename">Renommer</string>
     <string name="story_photo_downloading">Téléchargement en cours…</string>
     <string name="sub_discard_confirm_message">Enregistrer les modifications ?</string>
     <string name="sub_discard_negative_btn">Annuler</string>
