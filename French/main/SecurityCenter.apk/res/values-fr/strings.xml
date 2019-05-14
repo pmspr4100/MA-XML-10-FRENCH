@@ -772,6 +772,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="other_exception_summary">"Vous n'êtes pas connecté à Internet"</string>
     <string name="see_detail">Détails</string>
     <string name="choose">Choisir</string>
+    <string name="choose_gs_show_way">"Sélectionnez l'orientation de la page d'accueil"</string>
     <string name="replace_dns">Remplacer automatiquement les DNS</string>
     <string name="notify_weekly_traffic_title">%s utilisées cette semaine</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s utilisées%2$s cette semaine</string>
@@ -2139,6 +2140,9 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gs_game_net_priority_detail">Limiter la vitesse de téléchargement pour avoir une bande passante suffisante pour les jeux</string>
     <string name="gs_performance_mode">Mode performance</string>
     <string name="gs_performance_mode_detail">Optimiser les performances du système pour les jeux</string>
+    <string name="gs_show_way">"Orientation de la page d'accueil"</string>
+    <string name="gs_show_way_horizontal">Horizontale</string>
+    <string name="gs_show_way_vertical">Verticale</string>
     <string name="gs_open_game_booster">Augmenter la vitesse</string>
     <string name="gs_dialog_confirm_close_title">Désactiver</string>
     <string name="gs_dialog_confirm_close_msg">"Le raccourci sera retiré de votre Écran d'accueil. Rendez-vous à Sécurité > Paramètres pour le restaurer."</string>
@@ -2240,8 +2244,12 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="forbid_autobright_title">Ajuster la luminosité de lcran</string>
     <string name="forbid_autobright_summary">La luminosité automatique sera désactivée pendant que vous jouez et restaurée une fois que vous avez terminé</string>
     <string name="function_shield_title">Expérience améliorée</string>
-    <string name="function_shield_summary">"Restreindre la luminosité automatique, les mouvements de capture d'écran et le mode de lecture"</string>
-    <string name="function_shield_summary_m">"Restreindre la luminosité automatique et les gestes de capture d'écran"</string>
+    <string name="function_shield_auto_bright">Désactiver la luminosité automatique</string>
+    <string name="function_shield_eye_shield">Désactiver le mode de lecture</string>
+    <string name="function_shield_pull_notification_bar">Ne pas ouvrir la barre de notification</string>
+    <string name="function_shield_settings_title">Restreindre les fonctionnalités suivantes lorsque vous jouez</string>
+    <string name="function_shield_summary">Restreindre certaines fonctionnalités du système lorsque vous jouez</string>
+    <string name="function_shield_three_finger">"Restreindre les gestes de capture d'écran"</string>
     <string name="game_else_function">Autre</string>
     <string name="gs_advanced_setting_title">Paramètres supplémentaires</string>
     <string name="gs_advanced_setting_summary">Paramètres pour les jeux individuels</string>
@@ -2502,7 +2510,7 @@ Toutes les données sur votre appareil seront supprimées et le mot de passe de 
     <string name="path_networkassistant_4">Applications système/Sécurité/Utilisation des données/Test réseau</string>
     <string name="resource_powercenter_powerrank">Batterie et performance</string>
     <string name="keywords_powercenter_powerrank">"Consommation d'énergie"</string>
-    <string name="path_powercenter_powerrank">Batterie et Performance/ Utilisation de la batterie</string>
+    <string name="path_powercenter_powerrank">Batterie et Performance / Utilisation de la batterie</string>
     <string name="resource_gamebooster">Accélérateur de jeu</string>
     <string name="keywords_gamebooster">Jeu;Augmentation de vitesse;Roi de Gloire;Mode Performance;NPD;Jeux;jeu;Vitesse de jeu;augmenter</string>
     <string name="path_gamebooster">Applications système/Sécurité/Accélérateur de jeu</string>

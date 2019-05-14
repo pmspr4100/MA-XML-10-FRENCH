@@ -369,6 +369,10 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">"S'enregistrer %d jours d'affilés"</item>
         <item quantity="one">"S'enregistrer dans %d heure"</item>
     </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d fonctionnalités</item>
+        <item quantity="one">%d fonctionnalité</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    + %1$d plus de caractères</item>
         <item quantity="one">    + %1$d plus de caractère</item>
