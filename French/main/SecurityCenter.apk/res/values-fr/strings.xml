@@ -1436,7 +1436,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="hints_virus_apk_list_item_summary">application</string>
     <string name="hints_loading_text">Chargement…</string>
     <string name="security_center_slogan">Sécurité. Toujours sur ses gardes.</string>
-    <string name="activity_title_auto_start_manager">Gestion du démarrage automatique</string>
+    <string name="activity_title_auto_start_manager">Démarrage automatique</string>
     <string name="activity_title_permission_manager">Permissions</string>
     <string name="activity_title_other_permission_manager">Autres permissions</string>
     <string name="activity_title_root_manager">Accès ROOT</string>
@@ -1652,7 +1652,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="antivirus_toast_network_unavailable">Impossible de se connecter au réseau</string>
     <string name="handle_title_network">Sécurité Wi-Fi</string>
     <string name="handle_title_pay_env">Environnement de paiement</string>
-    <string name="handle_title_privacy">Confidentialité &amp; sécurité</string>
+    <string name="handle_title_privacy">Confidentialité et sécurité</string>
     <string name="virus_auto_update_engine">Mises à jour auto: %s</string>
     <string name="hints_scan_danger_result">Risque trouvé, corriger maintenant</string>
     <string name="ss_activity_main_support_text">Propulsé par %s</string>
@@ -1870,10 +1870,10 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="lockscreen_access_pattern_cleared">Schéma effacé</string>
     <string name="lockscreen_access_pattern_cell_added">Cellule ajoutée</string>
     <string name="lockscreen_access_pattern_detected">Schéma terminé</string>
-    <string name="applock_add_account_setting">Compte &amp; confidentialité</string>
+    <string name="applock_add_account_setting">Compte et confidentialité</string>
     <string name="applock_add_account_info">"Ajoutez votre compte Mi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
     <string name="applock_exit_account_info">Le compte sera retiré automatiquement lorsque vous vous déconnectez</string>
-    <string name="applock_login_and_add_account">Se connecter &amp; ajouter</string>
+    <string name="applock_login_and_add_account">Se connecter et ajouter</string>
     <string name="applock_not_add_account"><u>Pas maintenant</u></string>
     <string name="applock_add_account">Ajouter</string>
     <string name="applock_not_login_account">"Vous n'êtes pas connecté"</string>
@@ -1990,7 +1990,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="sys_app_prot_cracked_confirm">"C'est compris"</string>
     <string name="confirmSecondSpacePassword">Confirmer le mot de passe du deuxième espace</string>
     <string name="sponsored_sec_fb">Sponsorisé</string>
-    <string name="add_game_notification_summary">Appuyez pour lancer &amp; augmenter la vitesse</string>
+    <string name="add_game_notification_summary">Appuyez pour lancer et augmenter la vitesse</string>
     <string name="app_manager_title">Gérer les applications</string>
     <string name="app_manager_uninstall">Désinstaller</string>
     <string name="app_manager_bipartition">Applications clônées</string>
@@ -2194,7 +2194,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="auto_data_booster_suc">Le booster de vitesse de jeu est activé. Basculé en mode immersif.</string>
     <string name="auto_back_booster">"Arrêter l'augmentation"</string>
     <string name="auto_data_back_booster">Le booster de vitesse de jeu est désactivé. Les fonctions de communication sont restaurées.</string>
-    <string name="support_game_booster_tips">"Augmenter la vitesse &amp; améliorer l'expérience de jeu"</string>
+    <string name="support_game_booster_tips">"Augmenter la vitesse et améliorer l'expérience de jeu"</string>
     <string name="setting">Paramètres</string>
     <string name="loading">Un instant…</string>
     <string name="auto_import_games">Placer tous les jeux dans le même dossier</string>
@@ -2500,9 +2500,9 @@ Toutes les données sur votre appareil seront supprimées et le mot de passe de 
     <string name="resource_networkassistant_4">Tester le réseau</string>
     <string name="keywords_networkassistant_4">Connexion;Internet;Analyser</string>
     <string name="path_networkassistant_4">Applications système/Sécurité/Utilisation des données/Test réseau</string>
-    <string name="resource_powercenter_powerrank">Batterie &amp; performance</string>
+    <string name="resource_powercenter_powerrank">Batterie et performance</string>
     <string name="keywords_powercenter_powerrank">"Consommation d'énergie"</string>
-    <string name="path_powercenter_powerrank">Batterie &amp; Performance/ Utilisation de la batterie</string>
+    <string name="path_powercenter_powerrank">Batterie et Performance/ Utilisation de la batterie</string>
     <string name="resource_gamebooster">Accélérateur de jeu</string>
     <string name="keywords_gamebooster">Jeu;Augmentation de vitesse;Roi de Gloire;Mode Performance;NPD;Jeux;jeu;Vitesse de jeu;augmenter</string>
     <string name="path_gamebooster">Applications système/Sécurité/Accélérateur de jeu</string>

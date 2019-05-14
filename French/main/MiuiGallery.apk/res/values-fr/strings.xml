@@ -108,7 +108,7 @@
     <string name="app_name_view_video">Afficher les vidéos</string>
     <string name="associate_face_album">Choisir un album</string>
     <string name="auto_backup_introduce">Sauvegarde les photos et vidéos automatiquement (le Compte Mi est requis)</string>
-    <string name="auto_download_media_title">Télécharger des photos automatiquement depuis Mi Cloud</string>
+    <string name="auto_download_media_title">Télécharger automatiquement depuis Mi Cloud</string>
     <string name="auto_update_face">Ajouter automatiquement les photos</string>
     <string name="auto_update_face_summary">"Reconnaître et ajouter automatiquement les photos à l'album Bébé"</string>
     <string name="auto_update_off">Désactivé</string>
@@ -591,8 +591,8 @@ sont disponibles"</string>
     <string name="free_view_desc">Vue en 3D</string>
     <string name="gallery_setting">Galerie</string>
     <string name="gallery_sync_disable_toast">Synchronisation est désactivée pour la Galerie</string>
-    <string name="generate_story_summary">MIUI analysera vos photos et créera des albums d’histoires. Désactivez cette fonctionnalité pour arrêter de créer des albums d’histoires.</string>
-    <string name="generate_story_title">"Albums d'histoire"</string>
+    <string name="generate_story_summary">MIUI analysera vos photos et créera des albums de stories. Désactivez cette fonctionnalité pour arrêter de créer des albums de stories.</string>
+    <string name="generate_story_title">Afficher les albums de stories</string>
     <string name="get_album_info_in_process">"Récupération des détails de l'album…"</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">Go</string>
