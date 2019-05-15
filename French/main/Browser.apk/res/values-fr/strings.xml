@@ -5,8 +5,8 @@
   <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
   <string name="abc_action_mode_done">Terminé</string>
   <string name="abc_action_mode_select_all">Tout sélectionner</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_activity_chooser_view_see_all">Afficher tout</string>
+  <string name="abc_activitychooserview_choose_application">Choisissez une application</string>
   <string name="abc_capital_off">DÉSACTIVÉ</string>
   <string name="abc_capital_on">ACTIVÉ</string>
   <string name="abc_search_hint">Rechercher…</string>
@@ -46,7 +46,7 @@
   <string name="action_menu_text_fullscreen">Plein écran</string>
   <string name="action_menu_text_fullscreen_enter">Passer en mode plein écran</string>
   <string name="action_menu_text_fullscreen_exit">Quitter le mode plein écran</string>
-  <string name="action_menu_text_history">Signets &amp; Historiques</string>
+  <string name="action_menu_text_history">Signets / Historiques</string>
   <string name="action_menu_text_nightmode">Mode nuit</string>
   <string name="action_menu_text_nightmode_off">Mode nuit</string>
   <string name="action_menu_text_nightmode_on">Mode nuit</string>
@@ -100,7 +100,7 @@
   <string name="add_quicklinks">Ajouter</string>
   <string name="add_shortcut">Ajouter un raccourci</string>
   <string name="add_shortcut_success">Added shortcut successfully</string>
-  <string name="add_to_bookmark">Bookmarks</string>
+  <string name="add_to_bookmark">Signets</string>
   <string name="add_to_desk">"Ajouter à l'écran d'accueil"</string>
   <string name="add_to_desk_lite_mode_toast">"Impossible d'ajouter à l'écran d'accueil en mode Lite"</string>
   <string name="add_to_desk_success">"Ajouter à l'écran d'accueil"</string>
@@ -145,7 +145,7 @@
   <string name="block_ads_choice_continue">Continue</string>
   <string name="block_ads_message">Do you want to block messages from this website?</string>
   <string name="block_ads_title">Content may contain ads</string>
-  <string name="bookmark">Bookmark</string>
+  <string name="bookmark">Signets</string>
   <string name="bookmark_add_to">Add to</string>
   <string name="bookmark_btn_select_all">Select all</string>
   <string name="bookmark_btn_select_none">Deselect all</string>
@@ -161,7 +161,7 @@
   <string name="bookmark_not_saved">"Couldn't add to bookmarks"</string>
   <string name="bookmark_rename_group">Rename group</string>
   <string name="bookmark_saved">Added to bookmarks</string>
-  <string name="bookmark_title">Bookmark name</string>
+  <string name="bookmark_title">Nom du signet</string>
   <string name="bookmark_title_lable">Title</string>
   <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"You've already bookmarked this URL"</string>
@@ -170,7 +170,7 @@
   <string name="bookmark_url_not_exisit">"You've already deleted this URL"</string>
   <string name="bookmark_url_not_valid">"This URL isn't valid"</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
-  <string name="bookmarks_management">Bookmarks</string>
+  <string name="bookmarks_management">Signets</string>
   <string name="bookmarks_root_folder">Root folder</string>
   <string name="bookmarks_search">Navigateur</string>
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Swipe down to close</string>
@@ -196,8 +196,8 @@
   <string name="clear_search_history">Clear history</string>
   <string name="clear_video_download">Clear videos</string>
   <string name="clip_dialog_title">Open the copied URL?</string>
-  <string name="close">Close</string>
-  <string name="close_ads_choice_no">Allow</string>
+  <string name="close">Fermer</string>
+  <string name="close_ads_choice_no">Autoriser</string>
   <string name="close_ads_choice_yes">Block</string>
   <string name="close_ads_message">"Block content from this website? You can view sites you've blocked in Settings &gt; Advanced &gt; Blocked sites."</string>
   <string name="close_ads_title">Block content?</string>
@@ -208,7 +208,7 @@
   <string name="cloud_no_new_data_toast">Everything is up to date</string>
   <string name="cloud_sync_closed_toast">Turn on sync to update</string>
   <string name="cloud_sync_failed_toast">"Couldn't update"</string>
-  <string name="cloud_tab">Cloud tabs</string>
+  <string name="cloud_tab">Onglets Cloud</string>
   <string name="cloud_tabs_sync_off">Sync off</string>
   <string name="cloud_time_tips">Last sync</string>
   <string name="cloud_up_to_loading_tips">Release to sync</string>
@@ -278,8 +278,8 @@
   <string name="diagnosis_log_sent_format">"Le journal de diagnostic a été envoyé.
 ID: %s
 S'il vous plaît envoyer ce code au technicien."</string>
-  <string name="dialog_ad_exit_exit_app">Ouvert plus tard</string>
-  <string name="dialog_ad_exit_open_app">Ouvert maintenant</string>
+  <string name="dialog_ad_exit_exit_app">Ouvrir plus tard</string>
+  <string name="dialog_ad_exit_open_app">Ouvrir maintenant</string>
   <string name="dialog_cannot_resume">Le téléchargement a été interrompu</string>
   <string name="dialog_clipboard_tabs_action">Cliquer pour ouvrir</string>
   <string name="dialog_clipboard_tabs_tip">Trouver des liens déjà copiés</string>
@@ -358,14 +358,14 @@ Donner des éloges pour nous motiver à faire mieux !"</string>
   <string name="download_video">Download video</string>
   <string name="download_wait_connect">Waiting to connect</string>
   <string name="edit">Modifier</string>
-  <string name="edit_bookmark">Modifier le favori</string>
+  <string name="edit_bookmark">Modifier le favoris</string>
   <string name="edit_quicklink">Modifier</string>
-  <string name="empty_app_name">Another app</string>
+  <string name="empty_app_name">Une autre application</string>
   <string name="empty_bookmark">Vide</string>
   <string name="empty_cloud_tab_login_hint">No cloud tabs</string>
   <string name="empty_cloud_tab_logout_hint">"Sign in to your Mi Account
 to view open tabs from other devices."</string>
-  <string name="empty_history_hint">History is empty</string>
+  <string name="empty_history_hint">Historique est vide</string>
   <string name="empty_snapshot_hint">Vide</string>
   <string name="enable_geolocation_confirm_message">Turning off location services will affect the recommendations you receive.</string>
   <string name="enter_developer_mode">Enter developer mode</string>
@@ -437,7 +437,7 @@ to view open tabs from other devices."</string>
   <string name="guide_flash_type_main_title">Lightning fast</string>
   <string name="guide_flash_type_subtitle">Amazing speed, smooth UI</string>
   <string name="guide_games_text">jeux</string>
-  <string name="guide_history_text">history</string>
+  <string name="guide_history_text">historique</string>
   <string name="guide_know_type_main_title">The browser that understands you</string>
   <string name="guide_know_type_subtitle">Get amazing recommendations</string>
   <string name="guide_label_chosen_hint">You can choose at most %d categories</string>
@@ -454,7 +454,7 @@ to view open tabs from other devices."</string>
   <string name="guide_tech_text">tech</string>
   <string name="have_sent_bookmark_to_home_screen">Placed on Home screen</string>
   <string name="hint">Hint</string>
-  <string name="history">History</string>
+  <string name="history">Historique</string>
   <string name="home_description">Bureau</string>
   <string name="home_hybrid_application_tips">Mini Programs included here</string>
   <string name="homepage_delete_card_menu">Delete</string>
@@ -1380,7 +1380,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="url_hint_from_search">Enter the keyword</string>
   <string name="url_hint_head">Everyone is searching：</string>
   <string name="url_opened_in_background">Ouvrir en arrière-plan</string>
-  <string name="url_suggest_indicator_bookmark">Bookmarks/History</string>
+  <string name="url_suggest_indicator_bookmark">Signets / Historique</string>
   <string name="url_suggest_indicator_hoturl">Popular</string>
   <string name="url_suggest_indicator_mostvisited">Most visited</string>
   <string name="use_cellular_network_alert_message">"Wi-Fi isn't available. Use your mobile data connection instead?"</string>
@@ -1427,29 +1427,29 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="video_download_unknown_size">Unknown size</string>
   <string name="video_download_unsupport">Not supported</string>
   <string name="video_download_wait_for_wifi">Waiting for Wi-Fi</string>
-  <string name="video_downloaded_group">Downloaded</string>
-  <string name="video_downloading_group">Downloading</string>
-  <string name="video_edit">Edit</string>
+  <string name="video_downloaded_group">Téléchargé</string>
+  <string name="video_downloading_group">Téléchargements</string>
+  <string name="video_edit">Editer</string>
   <string name="video_float_window_text">Pop-up</string>
-  <string name="video_fragment_name_collections">Favorites</string>
-  <string name="video_fragment_name_download">Offline video</string>
-  <string name="video_fragment_name_historys">History</string>
-  <string name="video_fragment_name_offine">Offline</string>
-  <string name="video_group_noupdates_list">No updates available</string>
-  <string name="video_group_updates_list">Updates</string>
-  <string name="video_history_empty">No history</string>
+  <string name="video_fragment_name_collections">Favoris</string>
+  <string name="video_fragment_name_download">Vidéo hors ligne</string>
+  <string name="video_fragment_name_historys">Historique</string>
+  <string name="video_fragment_name_offine">Hors ligne</string>
+  <string name="video_group_noupdates_list">Aucune mise à jour disponible</string>
+  <string name="video_group_updates_list">Mise à jour</string>
+  <string name="video_history_empty">"Pas d'historique"</string>
   <string name="video_manager_action_bar_end_view">Videos</string>
   <string name="video_project_button">Stop</string>
   <string name="video_project_msg">Video is casting to %s</string>
   <string name="video_project_title">Video casting</string>
-  <string name="video_push_multi_message">%1$d updates available.</string>
-  <string name="video_push_multi_title">Update available</string>
+  <string name="video_push_multi_message">%1$d mise à jour disponible.</string>
+  <string name="video_push_multi_title">Mise à jour disponible</string>
   <string name="video_push_single_message">Tap to update to %1$d.</string>
   <string name="video_service_notification_title">Playing pop-up video</string>
   <string name="video_subtitle_last_message1">Less than 1 minute remaining</string>
   <string name="video_subtitle_prefix1">Watched</string>
   <string name="video_subtitle_prefix2">"Watched "</string>
-  <string name="video_title_prefix_message">"Offline: "</string>
+  <string name="video_title_prefix_message">"Hors ligne: "</string>
   <string name="video_unknown_duration">Unknown duration</string>
   <string name="view_certificate">View certificate</string>
   <string name="view_document_downloaded_files">View downloaded files in Downloads</string>
@@ -1472,6 +1472,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="voice_title_please">Start speaking…</string>
   <string name="voice_title_speech_again">"Couldn't understand you"</string>
   <string name="weather_location_confirm_message">Turning this feature off may affect usage.</string>
-  <string name="webpage_title">Bookmarks &amp; History</string>
+  <string name="webpage_title">Signets et historiques</string>
   <string name="window_manager_hybrid_application_list_title_text">Recently Used</string>
 </resources>
