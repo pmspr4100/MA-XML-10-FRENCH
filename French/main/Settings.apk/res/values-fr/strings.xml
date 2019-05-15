@@ -2168,7 +2168,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="failed_to_open_app_settings_toast">"Echec de l'ouverture des paramètres pour %1$s"</string>
     <string name="failed_to_shut_down_find_device_content">"Impossible de désactiver Localiser l'appareil. Attendez une minute ou deux et réessayez."</string>
     <string name="failed_to_shut_down_find_device_title">Impossible de désactiver</string>
-    <string name="fallback_home_title">Un instant…</string>
+    <string name="fallback_home_title">Chargement…</string>
     <string name="fcc_equipment_id">"ID de l'équipement"</string>
     <string name="feature_flags_dashboard_title">Drapeaux de fonctionnalité</string>
     <string name="feedback">"Retour d'informations"</string>
@@ -2747,7 +2747,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="line_breaking_title">Optimiser le texte</string>
     <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
     <string name="list_empty_text">Vide</string>
-    <string name="loading">Juste un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="loading_notification_apps">Chargement des applications en cours…</string>
     <string name="local_auto_backup_off">Désactivé</string>
     <string name="local_auto_backup_on">Activé</string>
@@ -3086,7 +3086,7 @@ D'autres personnes utilisent cet appareil.
     <string name="master_clear_progress_title">Suppression en cours</string>
     <string name="master_clear_short_title">"Effacer données (rétablir config. d'usine)"</string>
     <string name="master_clear_title">"Effacer toutes les données (rétablir la configuration d'usine)"</string>
-    <string name="max_aspect_settings_all_app_display_loading">Juste un instant…</string>
+    <string name="max_aspect_settings_all_app_display_loading">Chargement…</string>
     <string name="max_cpu10_info">"Deca-Core Max "</string>
     <string name="max_cpu2_info">"Dual-Core Max "</string>
     <string name="max_cpu4_info">"Quad-Core Max "</string>
@@ -4348,7 +4348,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="screen_locking_sounds_title">"Sons du verrouillage d'écran"</string>
     <string name="screen_max_aspect_ratio_desc">Autorisez les applications sélectionnées à fonctionner en mode plein écran</string>
     <string name="screen_max_aspect_ratio_title">Mode plein écran</string>
-    <string name="screen_monochrome_mode_apps_loading">Un instant…</string>
+    <string name="screen_monochrome_mode_apps_loading">Chargement…</string>
     <string name="screen_monochrome_mode_apps_title">Utiliser le mode monochrome</string>
     <string name="screen_monochrome_mode_global_summary">Utiliser le mode monochrome pour toutes les applications</string>
     <string name="screen_monochrome_mode_global_title">Toutes les applications</string>
@@ -4365,7 +4365,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="screen_optimize">Contraste</string>
     <string name="screen_optimize_disabled">Impossible de régler le contraste lorsque le mode de lecture est activé</string>
     <string name="screen_paper_mode_adjust_level">Ajuster</string>
-    <string name="screen_paper_mode_apps_loading">Un instant…</string>
+    <string name="screen_paper_mode_apps_loading">Chargement…</string>
     <string name="screen_paper_mode_apps_title">Utiliser le mode de lecture</string>
     <string name="screen_paper_mode_global_summary">Utiliser le mode de lecture pour toutes les applications</string>
     <string name="screen_paper_mode_global_title">Toutes les applications</string>
@@ -5088,7 +5088,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_app_enable_message">Badges</string>
     <string name="status_bar_carrier_settings_no_sim_card">Pas de carte SIM</string>
     <string name="status_bar_settings">"Notifications et barre de statut</string>
-    <string name="status_bar_settings_all_app_display_loading">Un instant…</string>
+    <string name="status_bar_settings_all_app_display_loading">Chargement…</string>
     <string name="status_bar_settings_expand_top_notification">Développer la notification supérieure</string>	
     <string name="status_bar_settings_manage_notification">"Notifications d'applications"</string>
     <string name="status_bar_settings_show_lte_for_4g">"Afficher l'icône LTE pour la 4G"</string>

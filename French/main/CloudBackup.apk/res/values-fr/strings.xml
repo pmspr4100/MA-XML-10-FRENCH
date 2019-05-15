@@ -23,7 +23,7 @@
     <string name="cloud_backup_detail_time">Dernière sauvegarde: %1$s</string>
     <string name="cloud_backup_detail_manage">Gérer les sauvegardes</string>
     <string name="cloud_backup_derail_size_summary">Taille: %s</string>
-    <string name="cloud_back_up_opening">Un instant…</string>
+    <string name="cloud_back_up_opening">Chargement…</string>
     <string name="cloud_back_up_no_network_warn">Impossible de se connecter au Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_frequence_choice_title">Planifier une sauvegarde</string>
@@ -106,7 +106,7 @@
     <string name="remove_task_in_process">Suppression…</string>
     <string name="remove_task_unfinished">Suppression pas terminée</string>
     <string name="back_up_task_unfinished">Sauvegarde pas terminée</string>
-    <string name="about_to_recover">Un instant…</string>
+    <string name="about_to_recover">Chargement…</string>
     <string name="success_open_cloudbackup">Sauvegarde des applications activée</string>
     <string name="as_new_device">"Remplacer l'écran d'accueil et les paramètres précédents"</string>
     <string name="as_new_device_summary">Effacer les sauvegardes précédentes</string>
@@ -129,7 +129,7 @@
     <string name="restore_unfinished">Restauration, réessayez plus tard</string>
     <string name="remove_unfinished">Retrait, réessayez plus tard</string>
 	<string name="restore_app_order_finish">Terminé</string>
-    <string name="restore_app_order_loading">Un instant…</string>
+    <string name="restore_app_order_loading">Chargement…</string>
     <string name="restore_app_order_retry">Réessayer</string>
     <string name="restore_app_order_retry_desc">"Impossible de se connecter au réseau.
 Vérifiez vos paramètres réseau et réessayez."</string>

@@ -222,13 +222,13 @@ Taille de la mise à jour: %2$s"</string>
     <string name="xiaomi_router">Routeur Mi</string>
     <string name="router_backup_hint">Laissez votre appareil allumé</string>
     <string name="see_backup_files_on_router">Afficher les sauvegardes sur le Mi Router %s</string>
-    <string name="page_loading">Un instant…</string>
+    <string name="page_loading">Chargement…</string>
     <string name="file_uploading">Envoi…</string>
     <string name="new_backup">Sauvegarder</string>
     <string name="restore_backup">Restaurer</string>
     <string name="enable_encrypt_description">Chiffrer</string>
     <string name="disable_encrypt_description">Ne pas chiffrer</string>
-    <string name="state_waiting">Un instant…</string>
+    <string name="state_waiting">Chargement…</string>
     <string name="state_mounting">Accès au stockage du routeur…</string>
     <string name="abort_backup_confirm">"La sauvegarde n'est pas terminée. Arrêter quand même ?"</string>
     <string name="abort_restore_confirm">"La restauration n'est pas terminée. Arrêter quand même ?"</string>
@@ -386,7 +386,7 @@ Sélectionnez uniquement les éléments importants afin de transférer plus rapi
     <string name="trans_calculating_app_sd_description">Données sur la carte SD</string>
     <string name="trans_native_no_space">"L'espace de stockage sur l'ancien périphérique (%s disponible) est insuffisant.
 Libérez de l'espace de stockage ou ne transférez que des éléments importants."</string>
-    <string name="trans_please_waiting">Un instant…</string>
+    <string name="trans_please_waiting">Chargement…</string>
     <string name="trans_old_phone_low_space_title">Espace de stockage insuffisant</string>
     <string name="trans_old_phone_low_space_msg">"Mi Mover a besoin d'espace de stockage pour regrouper les données transférées, mais il semble que l'espace disponible sur l'ancien appareil est insuffisant. Libérez de l'espace dans \"Sécurité\" ou ne transférez que des éléments importants."</string>
     <string name="button_clean_garbage">"Libérer de l'espace"</string>
@@ -399,7 +399,7 @@ Ne quittez pas cette page tant que la connexion n'est pas établie."</string>
     <string name="scan_soft_ap_label">Connecter à un ancien appareil</string>
     <string name="scan_soft_ap">Recherche du nouvel appareil…</string>
     <string name="click_soft_ap_to_link">"Sélectionnez un point d'accès pour vous connecter"</string>
-    <string name="waiting">Juste un instant…</string>
+    <string name="waiting">Chargement…</string>
     <string name="old_soft_name">Se connecter via un QR code</string>
     <string name="confirm_exit_link_title">Interrompre le transfert</string>
     <string name="confirm_exit_link_msg">"Quitter l'application maintenant interrompra le transfert en cours. Vous devrez à nouveau établir la connexion entre les deux appareils. Quitter l'application quand même?"</string>

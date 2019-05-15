@@ -53,10 +53,10 @@
     <string name="goToSecondSpacce">Aller au deuxième espace</string>
     <string name="newSecondSpace">Activer le deuxième espace</string>
     <string name="closeSecondSpace">Supprimer le deuxième espace</string>
-    <string name="loading_space">Un instant…</string>
+    <string name="loading_space">Chargement…</string>
     <string name="private_space_setting">Gérer</string>
     <string name="exit_private_space">Basculer</string>
-    <string name="wating">Un instant…</string>
+    <string name="wating">Chargement…</string>
     <string name="Active">Actif</string>
     <string name="ok_button">OK </string>
     <string name="remove_button">Supprimer et redémarrer</string>
@@ -331,7 +331,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="same_qr_code_enter_space">"Aller à l'Espace de travail"</string>
     <string name="same_qr_code_create_space">En créer un autre</string>
     <string name="not_support_air_space">"Cette fonctionnalité n'est pas encore prise en charge sur votre téléphone"</string>
-    <string name="loading">Un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="contact_us">Nous contacter</string>
     <string name="space_deleted">Cet espace a été supprimé</string>
     <string name="function_not_support">Non pris en charge sur cet appareil</string>

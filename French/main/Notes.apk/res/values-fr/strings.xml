@@ -90,7 +90,7 @@
     <string name="hint_cannot_view_hidden_note_content">Vous ne pouvez pas afficher le contenu des notes masquées</string>
     <string name="hint_foler_name">Nom</string>
     <string name="info_note_enter_desktop">Note créée sur le bureau</string>
-    <string name="loading_text">Un instant…</string>
+    <string name="loading_text">Chargement…</string>
     <string name="login_sync">Se connecter &amp; synchroniser</string>
     <string name="menu_add_audio_description">Ajouter une note vocale</string>
     <string name="menu_add_description">Ajouter une note</string>
@@ -234,6 +234,6 @@ Autorisez Notes à lire le statut et lidentité du téléphone."</string>
     <string name="unclassfied_folder_name">Sans catégorie</string>
     <string name="undo">Annuler</string>
     <string name="unknown_source">Source inconnue</string>
-    <string name="widget_content_loading">Un instant…</string>
+    <string name="widget_content_loading">Chargement…</string>
     <string name="widget_havenot_content">Appuyer pour créer une note. Maintenir le widget pour redimensionner.</string>
 </resources>

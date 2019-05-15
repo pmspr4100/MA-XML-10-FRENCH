@@ -99,7 +99,7 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="browser_local_resource">Ressources locales</string>
     <string name="can_not_apply">"Impossible d'appliquer"</string>
     <string name="card_data_request_error">Une erreur est survenue. Patientez une minute ou deux et essayez à nouveau.</string>
-    <string name="card_loading">Juste un instant…</string>
+    <string name="card_loading">Chargement…</string>
     <string name="card_no_network">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="card_retry">Veuillez réessayer</string>
     <string name="change_host_hint">"Changer d'hôte"</string>
@@ -153,7 +153,7 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="gift_anonymous">Anonyme</string>
     <string name="gift_operation_fail_dlg_abandon">Annuler</string>
     <string name="gift_operation_fail_dlg_retry">Réessayez</string>
-    <string name="gift_operation_waiting">Un instant…</string>
+    <string name="gift_operation_waiting">Chargement…</string>
     <string name="gift_owned">Local</string>
     <string name="gift_present">Donner</string>
     <string name="gift_present_dlg_anonymous">Cadeau anonyme</string>
@@ -212,9 +212,9 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="lab">Laboratoire</string>
     <string name="like_list">"Articles que j'ai aimé"</string>
     <string name="live_wallpaper">Animé</string>
-    <string name="loading">Un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="loading_resource_detail_fail">Impossible de charger les ressources</string>
-    <string name="loading_resource_detail_info">Un instant…</string>
+    <string name="loading_resource_detail_info">Chargement…</string>
     <string name="local_photos">Photos locales</string>
     <string name="local_resouce_creator_name">Développeur: %1$s</string>
     <string name="lockscreen_apply_failured">"Impossible d'appliquer le fond d'écran de verrouillage"</string>
@@ -285,7 +285,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="present_official_themes">Nos choix</string>
     <string name="present_online_themes">Obtenir plus de thèmes en ligne</string>
     <string name="provision_default_theme_title">Par défaut</string>
-    <string name="provision_loading_tips">Un instant…</string>
+    <string name="provision_loading_tips">Chargement…</string>
     <string name="provision_second_title">Sélectionner un des plusieurs thèmes par défaut</string>
     <string name="provision_title">Choisir un thème</string>
     <string name="purchased_list">Acheté</string>
@@ -296,7 +296,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="refresh_footer_all_loaded">"C'est tout pour l'instant."</string>
     <string name="refresh_footer_failed">"Impossible de charger l'information"</string>
     <string name="refresh_footer_finish">Chargé avec succès</string>
-    <string name="refresh_footer_loading">Juste un instant…</string>
+    <string name="refresh_footer_loading">Chargement…</string>
     <string name="refresh_footer_pullup">Faite glisser vers le haut pour charger plus</string>
     <string name="refresh_footer_release">Relâcher pour charger plus</string>
     <string name="region_not_support">Les thèmes ne sont pas pris en charge dans cette région.</string>
@@ -339,7 +339,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="resource_comment_good_comments">Positif</string>
     <string name="resource_comment_invalid">Appuyez sur les étoiles pour noter le thème</string>
     <string name="resource_comment_limit">Pas si vite! Revenez après avoir utilisé ce thème un peu plus longtemps.</string>
-    <string name="resource_comment_loading_list">Un instant…</string>
+    <string name="resource_comment_loading_list">Chargement…</string>
     <string name="resource_comment_name_default">Surnom</string>
     <string name="resource_comment_no_average_score">N/A</string>
     <string name="resource_comment_no_comment">Pas encore de commentaires ici. Vous pouvez être le premier à laisser un commentaire.</string>
@@ -575,7 +575,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="theme_favorite_delete_fail">Impossible de supprimer des favoris</string>
     <string name="theme_favorite_delete_success">Supprimé des favoris</string>
     <string name="theme_favorite_list_empty">"Vous n'avez ajouté aucun thème aux favoris."</string>
-    <string name="theme_favorite_waiting">Un instant…</string>
+    <string name="theme_favorite_waiting">Chargement…</string>
     <string name="theme_fresh_man_notifaction">Nouveaux thèmes disponibles</string>
     <string name="theme_immediately_apply_tip">Appliquer ?</string>
     <string name="theme_import_from_sdcard">Importer</string>
@@ -696,7 +696,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Son &amp; vibrations 
     <string name="wallpaper_set_as_float_wallpaper">"Définir comme fond d'écran transparent"</string>
     <string name="wallpaper_set_as_lockscreen">"Définir pour l'écran de verrouillage"</string>
     <string name="wallpaper_settings">"Réglages fond d'écran"</string>
-    <string name="wallpaper_settings_loading_text">Juste un instant…</string>
+    <string name="wallpaper_settings_loading_text">Chargement…</string>
     <string name="wallpaper_settings_no_history">Aucun historique</string>
     <string name="wallpaper_settings_pad_more_page_title">"Plus de fonds d'écran"</string>
     <string name="wallpaper_settings_page_title">"Fond d'écran"</string>

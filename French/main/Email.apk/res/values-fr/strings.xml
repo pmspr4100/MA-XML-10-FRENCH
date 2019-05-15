@@ -813,7 +813,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="qq_next_generation_auth_toast">Activer la protetion de mot de passe dans votre navigateur</string>
     <string name="qq_uthentication_failed">Impossible de vérifier le compte, connectez-vous à nouveau</string>
     <string name="qq_verify_code">(Nécessite un code de vérification de QQ)</string>
-    <string name="qq_webview_loading">Un instant…</string>
+    <string name="qq_webview_loading">Chargement…</string>
     <string name="questionnair_body_invisibility">Les messages ne sont pas affichés</string>
     <string name="questionnair_confirm_delete">Supprimer le compte ?</string>
     <string name="questionnair_instability">Se plante régulièrement</string>
@@ -1005,7 +1005,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="too_large_to_attach_single">Impossible de joindre un fichier supérieur à %1$s.</string>
     <string name="topic_merge">"Paramètres d'affichage"</string>
     <string name="topic_merge_summary">Regrouper par sujet</string>
-    <string name="translation_loading">Un instant…</string>
+    <string name="translation_loading">Chargement…</string>
     <string name="translation_no_result">Aucun résultat</string>
     <string name="translation_pronunciation_am">AmE</string>
     <string name="translation_pronunciation_cn">Pinyin</string>
@@ -1036,7 +1036,7 @@ Supprimer le compte ?"</string>
     <string name="upload_log_yes">Envoyer</string>
     <string name="upload_logs">Envoyer les journaux</string>
     <string name="upload_logs_keywords">envoyer les journaux</string>
-    <string name="uploading_logs">Un instant…</string>
+    <string name="uploading_logs">Chargement…</string>
     <string name="validation_failed_prompt">Impossible de vérifier le compte, vérifiez les paramètres serveur de %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />

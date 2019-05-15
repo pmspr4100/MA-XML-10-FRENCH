@@ -264,7 +264,7 @@
     <string name="hybrid_network_access_denied">Accès réseau refusé</string>
     <string name="hybrid_network_unavaliable">Impossible de se connecter au réseau</string>
     <string name="hybrid_pull_to_refresh_pull_label">Tirez pour actualiser…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">Un instant…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Chargement…</string>
     <string name="hybrid_pull_to_refresh_release_label">Relâchez pour actualiser…</string>
     <string name="hybrid_service_unavailiable">Service indisponible</string>
     <string name="hybrid_try_again">Veuillez réessayer</string>
@@ -279,9 +279,9 @@
     <string name="invalid_recipient_message">Corrigez le ou les noms des destinataires, faute de quoi ils ne recevront pas le message.</string>
     <string name="kilobyte">ko</string>
     <string name="layout_selector_title">"Mise en page du diaporama "</string>
-    <string name="loading_all_messages">Un instant…</string>
-    <string name="loading_conversations">Un instant…</string>
-    <string name="loading_mms">Un instant…</string>
+    <string name="loading_all_messages">Chargement…</string>
+    <string name="loading_conversations">Chargement…</string>
+    <string name="loading_mms">Chargement…</string>
     <string name="manage_permission_app_label">Gestion des droits</string>
     <string name="mark_number_by_own_dialog_subtitle">Marqué comme %1$s</string>
     <string name="me">Moi</string>

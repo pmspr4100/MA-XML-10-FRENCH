@@ -257,7 +257,7 @@
     <string name="item_num_selected">%1$d sélectionnés</string>
     <string name="language_change_confirmation">Changé avec succès. Vous pouvez changer la langue dans les paramètres du calendrier.</string>
     <string name="load_more_hint">Actualiser les événements de %1$d</string>
-    <string name="loading">Juste un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="local_calendar_display_name">Agenda local</string>
     <string name="local_owner_account_name">Enregistré dans cet appareil</string>
     <string name="lunar_date">Date lunaire</string>
@@ -344,7 +344,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="preferences_week_start_day_title">Début de la semaine</string>
     <string name="pull_to_refresh_hint">Faites glisser vers le bas pour actualiser les événements de %1$d</string>
     <string name="refresh">Actualiser</string>
-    <string name="refreshing_hint">Un instant…</string>
+    <string name="refreshing_hint">Chargement…</string>
     <string name="remind_me">Rappeler</string>
     <string name="repeat_activity_label">Répétition</string>
     <string name="repeat_custom_activity_label">Personnalisé</string>
@@ -443,7 +443,7 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="travel_item_weather_now">Météo de la destination</string>
     <string name="travel_load_failed">Chargement impossible</string>
     <string name="travel_loaded">Propulsé par Veryzhum</string>
-    <string name="travel_loading">Un instant…</string>
+    <string name="travel_loading">Chargement…</string>
     <string name="travel_local">Destination</string>
     <string name="travel_seat_number_text">Siège</string>
     <string name="travel_train_number_text">Train</string>

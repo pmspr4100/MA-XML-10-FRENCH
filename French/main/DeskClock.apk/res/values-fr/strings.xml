@@ -104,7 +104,7 @@
 	<string name="holiday_update_loading">Mise à jour…</string>
 	<string name="holiday_update_success">Tous les articles sont à jour</string>
     <string name="install_weather_app_error">"Impossible de charger l'application"</string>
-    <string name="install_weather_app_loading">Un instant…</string>
+    <string name="install_weather_app_loading">Chargement…</string>
     <string name="invalid_time">Heure non valide: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">"La durée du minuteur n'est pas valide"</string>
     <string name="keep_screen_on">"Laisser l'écran allumé"</string>

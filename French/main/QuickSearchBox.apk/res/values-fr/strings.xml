@@ -46,7 +46,7 @@ Pour effacer l’historique de votre navigateur, utilisez les paramètres de ce 
     <string name="google_search_label">Google</string>
     <string name="google_settings_category_title">Recherche Google</string>
     <string name="hot_search">Populaires</string>
-    <string name="loading">Un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="local_app">Applications</string>
     <string name="local_setting">Paramètres</string>
     <string name="menu_help">Aide</string>

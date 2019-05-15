@@ -436,7 +436,7 @@ de l'opérateur"</string>
     <string name="dialog_restrict_positive">Annuler</string>
     <string name="dialog_restrict_negative">Restreindre</string>
     <string name="usage_sorted_activity_lable">Utilisation des données</string>
-    <string name="usage_sorted_loading_text">Un instant…</string>
+    <string name="usage_sorted_loading_text">Chargement…</string>
     <string name="usage_sorted_empty_text">Vide</string>
     <string name="person_hotpot">Partage de connexion</string>
     <string name="system_app">Applications système</string>
@@ -741,7 +741,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="traffic_purchase_body">Appuyez pour recharger votre solde.</string>
     <string name="traffic_over_purchase_link">"Vous avez atteint la limite d'utilisation de données de votre forfait.&lt;br/>Si vous dépassez la limite d'utilisation de données de votre forfait, votre opérateur peut vous facturer des frais supplémentaires.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Appuyez pour recharger votre solde.&lt;/U>&lt;/font>"</string>
     <string name="more_settings">Plus</string>
-    <string name="repair_loading_text">Un instant…</string>
+    <string name="repair_loading_text">Chargement…</string>
     <string name="network_diagnostics">Tester le réseau</string>
     <string name="btn_start_diagnostic">Tester le réseau</string>
     <string name="btn_stop_diagnostic">Arrêter</string>
@@ -1373,7 +1373,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="suggest_scan_again">"Terminez l'analyse pour éviter des risques de sécurité."</string>
     <string name="hints_handle_item_text_virus">Danger</string>
     <string name="hints_scan_result_safe">Sûr</string>
-    <string name="descx_quick_scan_preparation">Un instant…</string>
+    <string name="descx_quick_scan_preparation">Chargement…</string>
     <string name="descx_quick_scan_cancel">Analyse annulée</string>
     <string name="dialog_title_stop_virus_scan">"Arrêter l'analyse de sécurité"</string>
     <string name="dialog_msg_stop_virus_scan">"Arrêter l'analyse de sécurité avant qu'elle ne se termine ?"</string>
@@ -2121,7 +2121,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="top_game">Meilleurs jeux</string>
     <string name="game_booster_tab_top">Populaire</string>
     <string name="game_bootser_tab_settings">"Paramètres de l'accélérateur"</string>
-    <string name="game_booster_jump_webview">Juste un instant…</string>
+    <string name="game_booster_jump_webview">Chargement…</string>
     <string name="game_setting">Paramètres de jeu</string>
     <string name="gs_auto_clean_memory">Vider le cache</string>
     <string name="gs_auto_clean_memory_detail">Effacer automatiquement le cache pour optimiser le jeu</string>
@@ -2200,7 +2200,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="auto_data_back_booster">Le booster de vitesse de jeu est désactivé. Les fonctions de communication sont restaurées.</string>
     <string name="support_game_booster_tips">"Augmenter la vitesse et améliorer l'expérience de jeu"</string>
     <string name="setting">Paramètres</string>
-    <string name="loading">Un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="auto_import_games">Placer tous les jeux dans le même dossier</string>
     <string name="game_more_improve">Restreindre les activités en arrière-plan et la vitesse de téléchargement pour économiser la batterie et la bande passante pour le jeu</string>
     <string name="dont_bore">Ne pas laisser les boutons et les notifications vous distraire</string>
@@ -2287,7 +2287,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gb_signed_title">"S'enregistrer dans le mois"</string>
     <string name="gb_network_status_bad">Une erreur de connexion est survenue.</string>
     <string name="gs_open_game_booster_summary">Augmentez la vitesse du réseau pour les jeux</string>
-    <string name="gb_signed_gift_loading_summary">Un instant…</string>
+    <string name="gb_signed_gift_loading_summary">Chargement…</string>
     <string name="gb_signed_gift_loading_fail">Chargement impossible</string>
     <string name="gb_msg_completely_shielded">Masquer les messages</string>
     <string name="gb_msg_quickly_answer">Autoriser les réponses rapides</string>

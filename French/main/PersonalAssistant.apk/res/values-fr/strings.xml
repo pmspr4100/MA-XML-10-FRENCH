@@ -953,7 +953,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
     <string name="list_icon_drag">Rearrange</string>
     <string name="load_more_error">A network error occurred. Wait a minute or two and try again.</string>
     <string name="load_no_more">"That's all for now."</string>
-    <string name="loading_desktop">Un instant…</string>
+    <string name="loading_desktop">Chargement…</string>
     <string name="locating_fail">"Couldn't get location"</string>
     <string name="locations">Frequent places</string>
     <string name="locations_preferences">Addresses</string>
@@ -1430,7 +1430,7 @@ Several orders sent via SF Express from the vendors outside of Taobao, Tmall, an
     <string name="setting_football_fav">Équipes</string>
     <string name="setting_football_fav_null">"You aren't following any teams"</string>
     <string name="setting_football_hupu">HuPu</string>
-    <string name="setting_football_loading">Un instant…</string>
+    <string name="setting_football_loading">Chargement…</string>
     <string name="setting_football_select_title">Sélectionner une équipe à suivre</string>
     <string name="setting_football_toast_max">"Vous pouvez sélectionner jusqu'à 4 équipes"</string>
     <string name="setting_home_label">"Ajouter l'adresse du domicile"</string>

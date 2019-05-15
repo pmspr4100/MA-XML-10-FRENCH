@@ -164,7 +164,7 @@
     <string name="korean_privacy_tv_summary">Lisez attentivement tous les éléments suivants et indiquez si vous les acceptez.</string>
     <string name="korean_user_agreement_item_title">"Accord d'utilisateur (obligatoire)"</string>
     <string name="load_finish_hint">"C'est tout pour l'instant."</string>
-    <string name="loading">Un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="media_filter">Média</string>
     <string name="menu_all_task_pause">Tout mettre en pause</string>
     <string name="menu_all_task_start">Tout démarrer</string>

@@ -618,7 +618,7 @@ sont disponibles"</string>
     <string name="hybrid_network_access_denied">Accès au réseau refusé</string>
     <string name="hybrid_network_unavaliable">Impossible de se connecter au réseau</string>
     <string name="hybrid_pull_to_refresh_pull_label">Tirez pour actualiser…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">Un instant…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Chargement…</string>
     <string name="hybrid_pull_to_refresh_release_label">Relâchez pour actualiser…</string>
     <string name="hybrid_service_unavailiable">Service indisponible</string>
     <string name="hybrid_try_again">Veuillez réessayer</string>
@@ -663,9 +663,9 @@ sont disponibles"</string>
     <string name="limit_width">La largeur doit être > 0</string>
     <string name="load_complete">Aucun élément ici</string>
     <string name="load_failed">Impossible de charger les informations, appuyez pour réessayer</string>
-    <string name="load_relations">Un instant…</string>
+    <string name="load_relations">Chargement…</string>
     <string name="loading">Un instant</string>
-    <string name="loading_dots">Un instant…</string>
+    <string name="loading_dots">Chargement…</string>
     <string name="loading_dual_tip">Chargement de la double photo…</string>
     <string name="loading_fail">Impossible de télécharger</string>
     <string name="loading_fail_sync_off">Activer la synchronisation avec Mi Cloud pour télécharger</string>
@@ -963,7 +963,7 @@ pour personnaliser Galerie"</string>
     <string name="places_album_empty_title">Les photos peuvent être triées par localisation</string>
     <string name="play_gif_desc">Lire le GIF</string>
     <string name="play_video_desc">Lire la vidéo</string>
-    <string name="preparing_data">Un instant…</string>
+    <string name="preparing_data">Chargement…</string>
     <string name="privacy_permission_request_message">"Galerie a besoin d'accès à %3$s. Les informations collectées seront utilisées en accord avec notre %1$s et %2$s. Autoriser?"</string>
     <string name="privacy_permission_request_negative">Restreindre</string>
     <string name="privacy_permission_request_positive">Autoriser</string>

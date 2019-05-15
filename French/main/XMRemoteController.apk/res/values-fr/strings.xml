@@ -393,11 +393,11 @@
     <string name="less_than_10m">&lt;10m</string>
     <string name="living_room">Le salon</string>
     <string name="loading_brand">"Obtention d'infos…"</string>
-    <string name="loading_brand_info">Un instant…</string>
-    <string name="loading_device_type_info">Un instant…</string>
-    <string name="loading_get">Un instant…</string>
-    <string name="loading_hint">Un instant…</string>
-    <string name="loading_ir_data">Un instant…</string>
+    <string name="loading_brand_info">Chargement…</string>
+    <string name="loading_device_type_info">Chargement…</string>
+    <string name="loading_get">Chargement…</string>
+    <string name="loading_hint">Chargement…</string>
+    <string name="loading_ir_data">Chargement…</string>
     <string name="loading_more">Juste un sec…</string>
     <string name="locate_current_place">Trouver la localisation actuelle</string>
     <string name="location_select">"Renommez l'appareil"</string>
@@ -966,7 +966,7 @@ Rendez-vous à Page d'accueil> \"+\" > Scanneur."</string>
     <string name="suggest_use_wifi_rc">* La télécommande Wi-Fi contient également des fonctionnalités telles que le partage de vidéo, applications, etc.</string>
     <string name="supported_by_kookong">Support technique par Kookong</string>
     <string name="supporting_soon">À venir</string>
-    <string name="swipe_loading">Un instant…</string>
+    <string name="swipe_loading">Chargement…</string>
     <string name="switch_login"><u>Changer de compte</u></string>
     <string name="switch_place">Choisir la ville</string>
     <string name="tab_live">TV en direct</string>

@@ -286,7 +286,7 @@ Pour activer votre compte, suivez le
     <string name="account_user_avatar_from_album">Sélectionner une photo</string>
     <string name="account_crop_user_avatar">Retailler la photo</string>
     <string name="sns_access_token_expired_warning">La connexion automatique a expiré. Connectez-vous à nouveau à votre compte.</string>
-    <string name="user_avatar_uploading">Un instant…</string>
+    <string name="user_avatar_uploading">Chargement…</string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>
     <string name="account_invalid_user_avatar">"Cette photo n'est pas valide. Essayez un autre."</string>
@@ -310,7 +310,7 @@ Pour activer votre compte, suivez le
     <string name="error_dup_binded_email">Cette adresse e-mail est déjà associée avec un autre compte Mi.</string>
     <string name="error_invalid_bind_address">"L'adresse e-mail saisie n'est pas valide."</string>
     <string name="get_phone_bind_exceed_limit">"Vous pouvez associer jusqu'à 3 comptes Mi avec un numéro de téléphone. Impossible d'ajouter de nouveaux comtpes."</string>
-    <string name="just_a_second">Un instant…</string>
+    <string name="just_a_second">Chargement…</string>
     <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
     <string name="mi_account_identity_title">Vérifier votre identité</string>
     <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre compte Mi.</string>
@@ -348,7 +348,7 @@ Pour activer votre compte, suivez le
     <string name="used_cloud_storage_info">Espace de stockage utilisé %s</string>
     <string name="mi_finance">Mes Finances</string>
     <string name="mi_finance_info">Bonus pour les nouveaux utilisateurs</string>
-    <string name="loading_micloud_sync_data">Un instant…</string>
+    <string name="loading_micloud_sync_data">Chargement…</string>
     <string name="activity_not_found_notice">"Impossible de trouver l'application"</string>
     <string name="scan_barcode_title">Scannez le QR code pour vous connecter</string>
     <string name="talkback_scan_barcode">Scanner un QR code</string>

@@ -1648,7 +1648,7 @@ Veuillez contacter votre opérateur si le problème persiste."</string>
     <string name="vm_change_pin_error_too_weak">Le nouveau code PIN est trop faible. Un mot de passe fort ne devrait pas avoir de séries continues ou une répétition de chiffres.</string>
     <string name="vm_change_pin_new_pin">Nouveau code PIN</string>
     <string name="vm_change_pin_old_pin">Ancien code PIN</string>
-    <string name="vm_change_pin_progress_message">Un instant…</string>
+    <string name="vm_change_pin_progress_message">Chargement…</string>
     <string name="vm_changed">Le numéro de messagerie vocale a été modifié.</string>
     <string name="voice_number_setting_primary_user_only">"Paramètres de la messagerie vocale peuvent être uniquement modifiés par l'utilisateur principal."</string>
     <string name="voice_privacy">Confidentialité de la voix</string>

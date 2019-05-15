@@ -5,7 +5,7 @@
     <string name="action_mode_select_all">Tout sélectionner</string>
     <string name="activity_parse_video_title">Paste video link</string>
     <string name="ad_download">Télécharger</string>
-    <string name="ad_downloading">Un instant…</string>
+    <string name="ad_downloading">Chargement…</string>
     <string name="add_private">Masquer les fichiers maintenant</string>
     <string name="add_private_files">Ajouter des fichiers</string>
     <string name="album_creator">Créé par %s</string>
@@ -201,7 +201,7 @@
     <string name="file_info_location">Emplacement:</string>
     <string name="file_info_modified">Dernière modification: </string>
     <string name="file_info_size">Taille: </string>
-    <string name="file_loading">Un instant…</string>
+    <string name="file_loading">Chargement…</string>
     <string name="file_name_invalid">Les noms de dossiers ne peuvent contenir ces caractères: /\\:*?&lt;></string>
     <string name="file_not_exist">"File doesn't exist"</string>
     <string name="finish_str">Terminé</string>
@@ -269,7 +269,7 @@
     <string name="like_toast_3">Sign in to view the videos you liked in your profile.</string>
     <string name="load_more">Afficher plus</string>
     <string name="load_sticker_fail">"Couldn't load sticker"</string>
-    <string name="loading">Un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="local_image">Images</string>
     <string name="local_music">Fichiers audio</string>
     <string name="local_video">Fichiers vidéos</string>
@@ -503,7 +503,7 @@
     <string name="restoring">Restauration…</string>
     <string name="rlv_closing">Closing…</string>
     <string name="rlv_last_refreshing_time">Mis à jour %1$s</string>
-    <string name="rlv_loading_more">Un instant…</string>
+    <string name="rlv_loading_more">Chargement…</string>
     <string name="rlv_pull_to_close">Pull down to close</string>
     <string name="rlv_pull_to_refresh">Glissez vers le bas pour actualiser</string>
     <string name="rlv_refreshing">Actualisation…</string>
@@ -595,7 +595,7 @@
     <string name="shortcut_hotvideos">Popular videos</string>
     <string name="shortcut_msg">Add Home screen shortcut for popular videos</string>
     <string name="skip_file">Suivant</string>
-    <string name="smb_loading">Un instant…</string>
+    <string name="smb_loading">Chargement…</string>
     <string name="sort_size_asc">Du plus petit au plus grand</string>
     <string name="sort_size_desc">Du plus grand au plus petit</string>
     <string name="start_server">Start server</string>

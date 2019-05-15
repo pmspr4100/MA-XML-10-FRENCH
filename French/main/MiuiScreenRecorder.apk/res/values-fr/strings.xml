@@ -27,7 +27,7 @@
     <string name="fixed_frame_rate_summary">"L'enregistrement de vidéos à fréquence d'images fixe améliore la lecture sur les plateformes de médias sociaux et réduit la durée de vie de la batterie."</string>
     <string name="frames">"Fréquence d'images"</string>
     <string name="frames_summary">"Les fréquences d'images plus élevées reduisent le flou de mouvement"</string>
-    <string name="frequently_click_toast">Juste un instant…</string>
+    <string name="frequently_click_toast">Chargement…</string>
     <string name="gleam_led_while_recording">"Le voyant de notifications clignote lors de l'enregistrement"</string>
     <string name="hint_back">Retour</string>
     <string name="hint_home">Accueil</string>

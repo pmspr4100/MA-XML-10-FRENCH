@@ -50,7 +50,7 @@
     <string name="extreme_add_white_list_title">"Exception d'arrière-plan"</string>
     <string name="extreme_add_white_list_summary">"Ajoutez jusqu'à 4 applications"</string>
     <string name="empty_title_apps_container_list">Aucune application</string>
-    <string name="hints_loading_text">Un instant…</string>
+    <string name="hints_loading_text">Chargement…</string>
     <string name="config_mode_title">"Paramètres d'arrière-plan"</string>
     <string name="config_suggest_suffix_title">Économiseur de batterie (recommandé)</string>
     <string name="config_no_restrict_title">Pas de restriction</string>

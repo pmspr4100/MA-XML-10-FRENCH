@@ -326,7 +326,7 @@ Donner des éloges pour nous motiver à faire mieux !"</string>
   <string name="download_completed">Téléchargé</string>
   <string name="download_default_path_txt">Rappelez-vous ce choix</string>
   <string name="download_dialog_default_path_invalid">"L'emplacement de téléchargement que vous avez sélectionné n'est pas valide. Enregistrement dans l'emplacement par défaut…"</string>
-  <string name="download_dialog_file_length_default_txt">Un instant…</string>
+  <string name="download_dialog_file_length_default_txt">Chargement…</string>
   <string name="download_dialog_file_length_lessthan1kb">Moins que 1Ko</string>
   <string name="download_dialog_file_length_nolength_error_txt">Impossible de télécharger</string>
   <string name="download_failed">"Impossible de terminer le téléchargement"</string>

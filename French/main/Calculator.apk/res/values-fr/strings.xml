@@ -123,7 +123,7 @@
     <string name="license_host_unreachable">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="ln">ln</string>
     <string name="lnDesc">logarithme naturel</string>
-    <string name="loading">Juste un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="loading_fail_message_no_network">Impossible de se connecter au réseau. Appuyez ici pour réessayez.</string>
     <string name="loading_fail_refresh">Actualiser</string>
     <string name="loading_message">"Chargement de l'application…"</string>

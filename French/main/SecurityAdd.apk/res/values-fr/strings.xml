@@ -52,6 +52,6 @@
     <string name="search_menu_title">Search</string>
     <string name="share">Partager</string>
     <string name="title_share_link">"Partager l'URL"</string>
-    <string name="usage_sorted_loading_text">Un instant…</string>
+    <string name="usage_sorted_loading_text">Chargement…</string>
     <string name="xunyou_pay_webview">Services Xunyou</string>
 </resources>

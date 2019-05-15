@@ -69,7 +69,7 @@ En utilisant ce service, vous acceptez %s."</string>
 	<string name="user_detail_agreement">"Accord de l'utilisateur"</string>
     <string name="user_detail_privacy_policy">Politique de confidentialité</string>
     <string name="privacy_policy">Politique de Confidentialité</string>
-    <string name="loading">Un instant…</string>
+    <string name="loading">Chargement…</string>
     <string name="license_host_unreachable">Impossible de se connecter au réseau. Pour voir ces informations, allez sur %s.</string>
     <string name="activating">Activation…</string>
     <string name="find_device">"Localiser l'appareil"</string>
@@ -318,7 +318,7 @@ a votre compte Mi pour réactiver Mi Cloud."</string>
     <string name="ks_certificate_version">Numéro du certificat</string>
     <string name="ks_certificate_udpate_time">Mise à jour du certificat</string>
     <string name="ks_download_certificate">Télécharger le certificat</string>
-    <string name="ks_update_wait">Un instant…</string>
+    <string name="ks_update_wait">Chargement…</string>
     <string name="ks_update_certificate">Certificat</string>
     <string name="ks_download_success">Téléchargé avec succès</string>
     <string name="ks_update_success">Mis à jour avec succès</string>

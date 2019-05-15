@@ -183,7 +183,7 @@
     <string name="cloud_antispam_title">ID Appelant</string>
     <string name="cloud_recommend_msg">Appuyez pour synchroniser les contacts avec Mi Cloud.</string>
     <string name="cloud_state_disabled">Synchroniser les contacts avec Mi Cloud</string>
-    <string name="cloud_state_loading">Un instant…</string>
+    <string name="cloud_state_loading">Chargement…</string>
     <string name="cloud_state_sync_finished">Synchronisé avec Mi Cloud</string>
     <string name="cloud_state_syncing">Synchronisé avec Mi Cloud</string>
     <string name="composer_failed_to_get_database_infomation">"Impossible d'obtenir les informations concernant la base de données."</string>
@@ -393,7 +393,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="dialer_addAnotherCall">Ajouter un appel</string>
     <string name="dialer_copy_view_delete_description">Effacer le numéro de téléphone copié</string>
     <string name="dialer_digits_copy_number_label">Numéro copié</string>
-    <string name="dialer_empty_text_loading">Un instant…</string>
+    <string name="dialer_empty_text_loading">Chargement…</string>
     <string name="dialer_empty_text_no_call_log">Aucun contact récent</string>
     <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
     <string name="dialer_firewall_entry_name">"Journaux d'appel bloqués"</string>
@@ -582,10 +582,10 @@ Raison: \"%s\""</string>
     <string name="list_filter_customize">Personnaliser</string>
     <string name="list_filter_phones">Tous les contacts avec numéro de téléphone</string>
     <string name="list_filter_single">Contact</string>
-    <string name="loading_accounts">Un instant…</string>
-    <string name="loading_group_members">Un instant…</string>
-    <string name="loading_groups">Un instant…</string>
-    <string name="loading_recent">Un instant…</string>
+    <string name="loading_accounts">Chargement…</string>
+    <string name="loading_group_members">Chargement…</string>
+    <string name="loading_groups">Chargement…</string>
+    <string name="loading_recent">Chargement…</string>
     <string name="local_invisible_directory">Autre</string>
     <string name="local_profile_title">Mon profil</string>
     <string name="local_search_label">Tous les contacts</string>
@@ -911,7 +911,7 @@ Raison: \"%s\""</string>
     <string name="profile_name">Mon profil</string>
     <string name="profile_name_photo">Photo</string>
     <string name="pull_to_refresh_pull_label">Faire glisser pour actualiser</string>
-    <string name="pull_to_refresh_refreshing_label">Un instant…</string>
+    <string name="pull_to_refresh_refreshing_label">Chargement…</string>
     <string name="pull_to_refresh_release_label">Relâcher pour actualiser</string>
     <string name="qr_card_card">QR code</string>
     <string name="qrcode_card_title">QR code</string>
@@ -1062,7 +1062,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="smart_group_frequency_4">Depuis plus de 6 mois</string>
     <string name="smart_group_frequency_label">Récents</string>
     <string name="smart_group_label">Regroupements intelligents</string>
-    <string name="smart_group_loading">Un instant…</string>
+    <string name="smart_group_loading">Chargement…</string>
     <string name="smart_group_location_label">Localisations</string>
     <string name="smart_group_location_unavailable">Aucune information de localisation</string>
     <string name="sms">SMS/MMS</string>

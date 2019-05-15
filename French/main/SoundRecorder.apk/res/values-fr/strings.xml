@@ -70,7 +70,7 @@
     <string name="korea_permission_record_resc">Pour enregistrer de laudio</string>
     <string name="korea_permission_storage">Stockage</string>
     <string name="korea_permission_storage_desc">Pour sauvegarder les enregistrements</string>
-    <string name="loading_order_list">Juste un instant…</string>
+    <string name="loading_order_list">Chargement…</string>
     <string name="loading_order_list_empty">Aucune commande ici.</string>
     <string name="low_battery_error">"Moins de 5% de batterie restant. Arrêtez et sauvegardez votre enregistrement pour vous assurer qu'il ne soit pas perdu."</string>
     <string name="low_battery_error_confirm">OK </string>

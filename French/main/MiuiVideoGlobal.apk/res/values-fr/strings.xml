@@ -145,7 +145,7 @@
     <string name="find_psw">Mot de passe oublié</string>
     <string name="finish">Terminé</string>
     <string name="for_you">Pour vous</string>
-    <string name="fw_loading">Un instant…</string>
+    <string name="fw_loading">Chargement…</string>
     <string name="fw_reload_sub_title">"Appuyez sur l'écran pour réessayer"</string>
     <string name="fw_reload_title">Impossible de se connecter au réseau.</string>
     <string name="get_ph_ticket">Obtenir un code</string>
@@ -335,9 +335,9 @@
     <string name="ovp_home_no_data_callback">Impossible de charger les informations. Tirez vers le bas pour actualiser.</string>
     <string name="ovp_home_online">En ligne</string>
     <string name="ovp_home_online_content_title">En ligne</string>
-    <string name="ovp_info_video_loading">Un instant…</string>
+    <string name="ovp_info_video_loading">Chargement…</string>
     <string name="ovp_load_playinfo_failure">"Impossible d'obtenir les informations"</string>
-    <string name="ovp_loading_video_netplay_label_v5">Un instant…</string>
+    <string name="ovp_loading_video_netplay_label_v5">Chargement…</string>
     <string name="ovp_local_videos_title">Vidéos locales</string>
     <string name="ovp_navigation_category">Catégorie</string>
     <string name="ovp_navigation_favorites">Favoris</string>
@@ -366,7 +366,7 @@
     <string name="ovp_video_loading">Prêt à lire %1$s…</string>
     <string name="ovp_video_plugin_installation">Installation de %1$s…</string>
     <string name="ovp_video_plugin_installation_failure">"Impossible d'installer %1$s"</string>
-    <string name="ovp_video_plugin_installation_two">Juste un instant…</string>
+    <string name="ovp_video_plugin_installation_two">Chargement…</string>
     <string name="page_title_language">Préférences de langue pour vidéo</string>
     <string name="passport_activate_token_expired">Le code de vérification a expiré, réessayez.</string>
     <string name="passport_auth_title" />
@@ -406,10 +406,10 @@ Personnaliser mieux ses services pour votre appareil;
     <string name="psw_hint">Mot de passe</string>
     <string name="psw_sign_in">Se connecter avec un mot de passe</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Tirez vers le haut pour actualiser…</string>
-    <string name="pull_to_refresh_from_bottom_refreshing_label">Un instant…</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">Chargement…</string>
     <string name="pull_to_refresh_from_bottom_release_label">Relâchez pour actualiser…</string>
     <string name="pull_to_refresh_pull_label">Tirez vers le bas pour actualiser…</string>
-    <string name="pull_to_refresh_refreshing_label">Un instant…</string>
+    <string name="pull_to_refresh_refreshing_label">Chargement…</string>
     <string name="pull_to_refresh_release_label">Relâchez pour actualiser…</string>
     <string name="push_message_switch">Notifications push</string>
     <string name="push_message_tips">Activer pour recevoir des notifications push</string>
