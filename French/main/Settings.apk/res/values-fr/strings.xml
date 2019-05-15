@@ -1598,7 +1598,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
     <string name="data_usage_restrict_denied_dialog">La consommation des données en arrière-plan ne peut être restreinte que si vous avez défini une limite de données mobiles.</string>
     <string name="data_usage_summary_format">Volume des données utilisées: %1$s</string>
-    <string name="data_usage_summary_title">Utilisation des données</string>
+    <string name="data_usage_summary_title">Consommation des données</string>
     <string name="data_usage_sweep_limit"><font size="18">^1</font><font size="9">^2</font>"
 "<font size="12">plafond</font></string>
     <string name="data_usage_sweep_warning"><font size="18">^1</font><font size="9">^2</font>"
@@ -3406,7 +3406,7 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="nearby_wifi">Réseaux disponibles</string>
     <string name="need_reboot_now">Redémarrer pour installer la mise à jour.</string>
     <string name="netcheck_title">Diagnostique réseau</string>
-    <string name="network_assistant">Utilisation des données</string>
+    <string name="network_assistant">Consommation des données</string>
     <string name="network_changed_noti_summary">Avec les données mobiles</string>
     <string name="network_changed_noti_title">Déconnecté du Wi-Fi</string>
     <string name="network_control">"Voir les paramètres de l'application"</string>
@@ -6544,7 +6544,7 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="wifi_tether_enabled_summary">%1$s est actif</string>
     <string name="wifi_tether_failed_subtext">Erreur sur le partage de connexion</string>
     <string name="wifi_tether_setting_title">Paramètres</string>
-    <string name="wifi_tether_settings_title">Partage de connexion</string>
+    <string name="wifi_tether_settings_title">"Point d'accès Wi-Fi mobile"</string>
     <string name="wifi_tether_starting">"Activation du point d'accès Wi-Fi en cours…"</string>
     <string name="wifi_tether_stopping">"Désactivation du point d'accès Wi-Fi en cours…"</string>
     <string name="wifi_traffic_priority">Mode trafic</string>
