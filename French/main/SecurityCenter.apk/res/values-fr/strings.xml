@@ -2389,8 +2389,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="privacy_apps_enable_summary">"Déplacez les applications vers un dossier caché et supprimez leurs raccourcis de l'écran d'accueil"</string>
     <string name="privacy_apps_manage">Gérer les applications cachées</string>
     <string name="privacy_apps_tutorial">Tutoriel</string>
-    <string name="privacy_apps_tutorial_prompt_pageone">"Lorsque vous cachez une application, celle-ci est déplacée vers un dossier masqué. Son raccourci sur l'écran d'accueil est masqué.
-Cette fonctionnalité n'est pas prise en charge pour les applications système."</string>
+    <string name="privacy_apps_tutorial_prompt_pageone">"Cette fonctionnalité vous permet de masquer les icônes d'application pour qu'elles n'apparaissent plus sur votre écran d'accueil."</string>
     <string name="privacy_apps_tutorial_prompt_pagetwo">"Répartissez deux doigts sur l'écran. Vous verrez un message vous demandant d'entrer votre mot de passe de verrouillage de l'application."</string>
     <string name="privacy_apps_tutorial_prompt_pagethree">Après avoir entré votre mot de passe, le dossier contenant les applications cachées apparaîtra.</string>
     <string name="privacy_apps_manage_dialog_title">À propos des applications cachées</string>
