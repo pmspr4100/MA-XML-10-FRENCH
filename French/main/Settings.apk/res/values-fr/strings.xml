@@ -6544,7 +6544,7 @@ Toucher "<b>Retour</b> pour se connecter à un autre réseau Wi-Fi.</string>
     <string name="wifi_tether_enabled_summary">%1$s est actif</string>
     <string name="wifi_tether_failed_subtext">Erreur sur le partage de connexion</string>
     <string name="wifi_tether_setting_title">Paramètres</string>
-    <string name="wifi_tether_settings_title">"Point d'accès Wi-Fi mobile"</string>
+    <string name="wifi_tether_settings_title">"Point d'accès mobile"</string>
     <string name="wifi_tether_starting">"Activation du point d'accès Wi-Fi en cours…"</string>
     <string name="wifi_tether_stopping">"Désactivation du point d'accès Wi-Fi en cours…"</string>
     <string name="wifi_traffic_priority">Mode trafic</string>
