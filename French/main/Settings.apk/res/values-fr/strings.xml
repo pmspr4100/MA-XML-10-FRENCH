@@ -1598,7 +1598,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
     <string name="data_usage_restrict_denied_dialog">La consommation des données en arrière-plan ne peut être restreinte que si vous avez défini une limite de données mobiles.</string>
     <string name="data_usage_summary_format">Volume des données utilisées: %1$s</string>
-    <string name="data_usage_summary_title">Consommation des données</string>
+    <string name="data_usage_summary_title">Utilisation des données</string>
     <string name="data_usage_sweep_limit"><font size="18">^1</font><font size="9">^2</font>"
 "<font size="12">plafond</font></string>
     <string name="data_usage_sweep_warning"><font size="18">^1</font><font size="9">^2</font>"
@@ -2242,7 +2242,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fingerprint_unlock_title">"Vous pouvez déverrouiller votre téléphone à l'aide de votre empreinte digitale. Pour plus de sécurité, cette option doit être associée à un autre mode de verrouillage de l'écran."</string>
     <string name="fingerprint_usage_category_title">Utiliser les empreintes digitales pour</string>
     <string name="fingerprint_wakeup_summary">"Réveillez l'écran lorsque aucune empreinte digitale n'a été enregistrée."</string>
-    <string name="fingerprint_wakeup_title">"Appuyez sur le capteur d'empreinte pour réveiller l'écran"</string>
+    <string name="fingerprint_wakeup_title">"Appuyez sur le capteur pour réveiller l'écran"</string>
     <string name="finish_application">"Forcer l'arrêt"</string>
     <string name="finish_button">Terminer</string>
     <string name="finish_button_label">Terminer</string>

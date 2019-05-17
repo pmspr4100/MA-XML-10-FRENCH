@@ -991,16 +991,16 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="network_settings_forbidden">%s (interdit)</string>
     <string name="network_settings_information">Désactiver les données mobiles ?</string>
     <string name="network_settings_next">Suivant</string>
-    <string name="network_settings_query_failed_message">Impossible de rechercher les réseaux mobiles.</string>
+    <string name="network_settings_query_failed_message">Impossible de rechercher les réseaux cellulaires.</string>
     <string name="network_settings_select_automatic_hint">"Impossible de s'enregistrer sur le réseau sélectionné.
 Le réseau préféré sera utilisé."</string>
-    <string name="network_settings_title">Réseaux Mobiles</string>
+    <string name="network_settings_title">Réseaux cellulaires</string>
     <string name="network_settings_turn_off">Désactivé</string>
     <string name="network_settings_warn_message">Votre appareil se connectera uniquement aux réseaux que vous sélectionnerez manuellement.</string>
     <string name="network_type_3g_preferred_cmcc">3G/2G</string>
     <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
     <string name="network_unlock">Déverrouiller</string>
-    <string name="networks_title">Réseaux Mobiles</string>
+    <string name="networks_title">Réseaux cellulaires</string>
     <string name="newPin2Label">Nouveau code PIN2</string>
     <string name="newPinLabel">Nouveau code PIN</string>
     <string name="new_password_label">Nouveau mot de passe à 4 chiffres</string>
@@ -1013,7 +1013,7 @@ Le réseau préféré sera utilisé."</string>
     <string name="no_vm_number">Numéro de messagerie vocale manquant</string>
     <string name="no_vm_number_msg">Pas de numéro de messagerie vocale enregistré dans la carte SIM.</string>
     <string name="no_voip">Appels SIP non pris en charge</string>
-    <string name="no_wifi_available">Les appels SIP exigent une connexion Wi-Fi (celle-ci peut être activée sous Paramètres &amp; Sans fil et réseaux).</string>
+    <string name="no_wifi_available">Les appels SIP exigent une connexion Wi-Fi (celle-ci peut être activée sous Paramètres et Sans fil et réseaux).</string>
     <string name="not_a_valid_port">Le numéro de port doit être compris entre 1000 et 65534.</string>
     <string name="not_allowed">Votre carte SIM ne permet pas de vous connecter à ce réseau.</string>
     <string name="not_voice_capable">Appels vocaux non pris en charge</string>
@@ -1408,7 +1408,7 @@ Votre carte SIM sera bloquée en cas de nouvel échec."</string>
     <string name="sim_roaming_settings_summary">Se connecter aux réseaux de données mobiles en itinérance</string>
     <string name="sim_roaming_settings_title">Mi Itinérance</string>
     <string name="sim_selection_required_pref">Sélection requise</string>
-    <string name="sim_service_setting">SIM Mi &amp; Mi Itinérance</string>
+    <string name="sim_service_setting">SIM Mi et Mi Itinérance</string>
     <string name="simulate_color_space">Simuler espace colori.</string>
     <string name="singleContactImportedMsg">Contact importé</string>
     <string name="sip_account_disable">Le compte n’est pas actif. Impossible d’accepter des appels.</string>

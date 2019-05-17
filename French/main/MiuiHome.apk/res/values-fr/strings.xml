@@ -251,9 +251,9 @@
     <string name="open_personal_assistant_dialog_btn_cancel">Annuler</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Désactiver</string>
     <string name="open_personal_assistant_dialog_desc">"Vous ne pourrez plus utiliser Coffre d'applications et recevoir ses mises à jour. Désactiver maintenant ?"</string>
-    <string name="open_personal_assistant_dialog_desc_international">"Vous ne pourrez pas utiliser les cartes de Coffre d'applications (Stocks, Raccourcis, etc.) et recevoir des mises à jour après avoir désactivé cette fonctionnalité."</string>
-    <string name="open_personal_assistant_dialog_title">"Désactiver le Coffre d'applications"</string>
-    <string name="open_personal_assistant_title">"Activer le coffre d'applications"</string>
+    <string name="open_personal_assistant_dialog_desc_international">"Vous ne pourrez pas utiliser les cartes du coffre d'applications (Stocks, Raccourcis, etc.) et recevoir des mises à jour après avoir désactivé cette fonctionnalité."</string>
+    <string name="open_personal_assistant_dialog_title">"Désactiver le coffre des applications</string>
+    <string name="open_personal_assistant_title">Activer le coffre des applications</string>
     <string name="out_of_space">Plus despace sur ce bureau</string>
     <string name="permdesc_install_shortcut">"Permet à une application d'ajouter des raccourcis sans l'intervention de l'utilisateur."</string>
     <string name="permdesc_install_widget">"Permet à une application d'ajouter des widgets sans votre intervention."</string>
