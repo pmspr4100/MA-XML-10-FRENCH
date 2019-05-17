@@ -45,7 +45,6 @@
     <string name="audio_download_failed">"impossible de télécharger l'audio"</string>
     <string name="audio_message_expired">Ce message vocal a expiré.</string>
     <string name="audio_message_mx_offline">Impossible de télécharger le fichier audio. Mi Message est hors-ligne ou indisponible.</string>
-    <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Aucune connexion réseau ou une autre carte SIM a été insérée. Veuillez insérer la carte SIM depuis laquelle le message a été envoyée et connectez-vous au réseau.</string>
     <string name="auto_identify_btn_text_only_smart_messaging">Activer la messagerie intelligente</string>
     <string name="auto_identify_btn_text_when_all_disabled">Identifier lID de lexpéditeur automatiquement</string>
@@ -108,7 +107,7 @@
     <string name="complain_tips">"Le contenu du dernier message que vous signalez sera envoyé sur nos serveurs avec le numéro de téléphone que vous avez fourni. Nos fournisseurs de services examineront le message rapporté.
 "</string>
     <string name="complain_upload">La plainte a été déposée</string>
-    <string name="compressing">"L'image est trop grande. Compression..."</string>
+    <string name="compressing">"L'image est trop grande. Compression…"</string>
     <string name="confirm">Ok</string>
     <string name="confirm_add_blacklist_dialog_dspt">Ajouter ce numéro à votre liste bloquée ?</string>
     <string name="confirm_delete_SIM_message">Supprimer ce message de la carte SIM ?</string>
@@ -149,7 +148,7 @@
     <string name="context_menu_view_mms">Voir le MMS</string>
     <string name="conversation">Messages</string>
     <string name="conversation_listitem_avatar">Avatar</string>
-    <string name="converting_to_picture_message">Conversion en MMS...</string>
+    <string name="converting_to_picture_message">Conversion en MMS…</string>
     <string name="converting_to_text_message">Conversion en SMS…</string>
     <string name="converting_vcard_failed">Impossible de convertir le contact</string>
     <string name="copy_message_text">Copier</string>
@@ -173,7 +172,7 @@
     <string name="dialog_message_networking">"La messagerie doit utiliser les pages jaunes pour être en mesure de fournir une reconnaissance de l'ID de l'expéditeur. Les messages et les pages jaunes doivent se connecter à Internet et accéder à votre localisation pour fonctionner normalement. Autoriser?"</string>
     <string name="dialog_message_rcs">"China Mobile Messaging vous permet d'envoyer des messages à d'autres utilisateurs de China Mobile en Chine Continentale sans frais. Vous devez accepter \"%1$s\" avant d'utiliser la messagerie de China Mobile."</string>
     <string name="dialog_sim_locked_confirm">OK</string>
-    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
+    <string name="dialog_sim_locked_message">"Votre carte SIM n’est pas complètement opérationnelle avec ce téléphone car elle n’est pas conforme aux conditions générales de votre abonnement. Si vous avez des questions ou avez besoin de plus d'informations à ce sujet, veuillez contacter les centres de service Xiaomi ou le magasin qui vous a vendu des produits."</string>
     <string name="dialog_title_fake_cell_detect_error">Correction</string>
     <string name="dialog_title_mx_rcs">Mi Message</string>
     <string name="dialog_title_networking">"Conditions générales d'utilisation"</string>
@@ -384,7 +383,7 @@
     <string name="mx_dspt_provision">"Mi Message vous permet d'envoyer des messages à d'autres utilisateurs MIUI via Internet sans encourir de frais. Un SMS sortant peut être nécessaire pour réactiver Mi Message. Votre opérateur vous facturera ce message. En plus, quand ce service est activé, une petite quantité de données mobiles est requise pour vérifier si l'autre utilisateur est en ligne. Acceptez-vous?"</string>
     <string name="mx_dspt_provision_ex2">Politique de confidentialité</string>
     <string name="mx_enable">Messages Mi</string>
-    <string name="mx_enable_ex">Messages Mi &amp; Voix</string>
+    <string name="mx_enable_ex">Messages Mi et Voix</string>
     <string name="mx_enable_popup_msg">"Mi Message vous permet d'envoyer des SMS aux autres utilisateurs MIUI sans encourir de frais."</string>
     <string name="mx_filter_message_from_stranger">Bloquez les Mi Messages venant de numéros inconnus</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">"Vous pourrez toujours recevoir les SMS réguliers venant de numéros inconnus. Vous pouvez activer ou désactiver cette fonctionnalité à n'importe quel moment dans Messages > Paramètres."</string>
@@ -578,7 +577,6 @@
     <string name="rcs_wait_for_retry_text">En attente…</string>
     <string name="received_at_time">Reçu à: %1s</string>
     <string name="received_label">"Reçu: "</string>
-    <string name="recipient_editor_count_format">%d</string>
     <string name="recipient_label">Destinataire:</string>
     <string name="recipients_over_size">Trop de destinataires.</string>
     <string name="recommend_bar_cancel">Ignorer</string>
@@ -662,8 +660,8 @@
     <string name="select_different_picture">Sélectionnez une autre image.</string>
     <string name="select_different_video">Sélectionnez une autre vidéo.</string>
     <string name="select_link_title">Sélectionner un élément</string>
-    <string name="select_local_audio">Choisir un fichier audio...</string>
-    <string name="select_local_video">Choisir un fichier vidéo...</string>
+    <string name="select_local_audio">Choisir un fichier audio…</string>
+    <string name="select_local_video">Choisir un fichier vidéo…</string>
     <string name="select_message_send_sim">Choisir une carte SIM</string>
     <string name="select_phone_number">Sélectionner un numéro de téléphone</string>
     <string name="select_recipient">Choisir les destinataires</string>
@@ -722,7 +720,7 @@
     <string name="sms_report_success">Rapport envoyé avec succès</string>
     <string name="snippet_audio">[Audio]</string>
     <string name="snippet_picture">[Image]</string>
-    <string name="snippet_timed">[Timed]</string>
+    <string name="snippet_timed">[Minuteur]</string>
     <string name="sp_category_all">Tous les messages de service</string>
     <string name="sp_category_bank">Banque de messages de notification</string>
     <string name="sp_category_title_prefix">%s</string>
@@ -762,7 +760,7 @@
     <string name="timed_message_expired_title_2">Les envoyer maintenant ?</string>
     <string name="timed_message_to">à</string>
     <string name="title_allow_network_access">Mettre à jour automatiquement les informations</string>
-    <string name="title_collapse_sp_messages">Notifications</string>
+    <string name="title_collapse_sp_messages">Regrouper les notifications</string>
     <string name="title_hide_verification_code">"Masquer automatiquement OTP sur l'écran de verrouillage"</string>
     <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
     <string name="title_show_blocked_messages">Afficher les messages bloqués</string>
@@ -806,7 +804,7 @@ Dernière tentative : %s."</string>
     <string name="url_fraud_risky_alert">"Le site Web %s que vous essayez de visiter pourrait être dangereux. Le visiter quand même ?
 "</string>
     <string name="url_fraud_title">Un site Web peut être un faux</string>
-    <string name="url_fraud_visit"><u>Visiter quand même</u></string>
+    <string name="url_fraud_visit">Visiter quand même</string>
     <string name="url_result_safe">Cette URL est sécurisée</string>
     <string name="url_scan_again">Vérifier à nouveau</string>
     <string name="url_scanning">"Vérification de l'URL…"</string>

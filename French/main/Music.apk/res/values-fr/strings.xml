@@ -27,7 +27,7 @@
     <string name="action_item_download">Télécharger</string>
     <string name="action_item_favorite">Ajouter aux favoris</string>
     <string name="action_item_hide">Cacher</string>
-    <string name="action_item_hifi">Écouteurs &amp; effets audio</string>
+    <string name="action_item_hifi">Écouteurs et effets audio</string>
     <string name="action_item_play_all">Lecture aléatoire</string>
     <string name="action_item_play_next">Lire plus tard</string>
     <string name="action_item_remove">Retirer</string>
@@ -341,9 +341,9 @@
     <string name="gcm_fallback_notification_channel_label">Divers</string>
     <string name="handle_later">Pas maintenant</string>
     <string name="hd_quality_audio">Audio de qualité HD</string>
-    <string name="headset_and_audio_effect_category">Casque &amp; effets audio</string>
-    <string name="headset_and_audio_effect_summary">Casque &amp; égaliseur</string>
-    <string name="headset_and_audio_effect_title">Écouteurs &amp; effets audio</string>
+    <string name="headset_and_audio_effect_category">Casque et effets audio</string>
+    <string name="headset_and_audio_effect_summary">Casque et égaliseur</string>
+    <string name="headset_and_audio_effect_title">Écouteurs et effets audio</string>
     <string name="hide_album">"Masquer la couverture de l'album"</string>
     <string name="hide_lyric">Masquer les paroles</string>
     <string name="higher_quality_music">Audio haute qualité</string>
@@ -397,7 +397,7 @@
     <string name="local_page_artist_more">Plus de chansons par %s</string>
     <string name="local_page_playlist">Playlists</string>
     <string name="local_page_song_download_history">Téléchargements</string>
-    <string name="long_press_to_select_lyric">Appuyer &amp; maintenir pour sélectionner le fichier de paroles local</string>
+    <string name="long_press_to_select_lyric">Appuyer et maintenir pour sélectionner le fichier de paroles local</string>
     <string name="lrc_search_failed">Impossible de trouver les paroles</string>
     <string name="lrc_searching">Recherche…</string>
     <string name="lyric_is_empty">Aucune parole disponible</string>
@@ -439,7 +439,7 @@
     <string name="modify_song_info_success">Info de la chanson a été mis à jour</string>
     <string name="more">Plus</string>
     <string name="more_add_song_list">"Ajouter des chansons à la file d'attente"</string>
-    <string name="more_milink_and_bluetooth">Mi Link &amp; Bluetooth</string>
+    <string name="more_milink_and_bluetooth">Mi Link et Bluetooth</string>
     <string name="more_settings">Paramètres avancés</string>
     <string name="more_settings_summary">Minuteur de sommeil, filtrage de fichiers et plus</string>
     <string name="more_share">Partager</string>

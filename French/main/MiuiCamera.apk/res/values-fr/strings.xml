@@ -102,8 +102,8 @@
     <string name="pref_camera_coloreffect_entry_vivid">Vif</string>
     <string name="pref_camera_coloreffect_entry_vsco_a4">Analogique</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
-    <string name="pref_camera_coloreffect_entry_mono">N&amp;B</string>
-    <string name="pref_camera_coloreffect_entry_blackwhite">N&amp;B</string>
+    <string name="pref_camera_coloreffect_entry_mono">Noir et Blanc</string>
+    <string name="pref_camera_coloreffect_entry_blackwhite">Noir et Blanc</string>
     <string name="pref_camera_coloreffect_entry_sketch">Croquis</string>
     <string name="pref_camera_coloreffect_entry_big_face">Propager</string>
     <string name="pref_camera_coloreffect_entry_small_face">Compressé</string>
@@ -123,13 +123,13 @@
     <string name="color_effect_entry_delicacy">Gourmet</string>
     <string name="color_effect_entry_glimmer">Éclat</string>
     <string name="color_effect_entry_berry">Baies</string>
-    <string name="color_effect_entry_blackwhite">N&amp;B</string>
+    <string name="color_effect_entry_blackwhite">Noir et Blanc</string>
     <string name="color_effect_entry_fade">Fondu</string>
     <string name="video_effect_entry_film">Film</string>
     <string name="video_effect_entry_holiday">Ombres</string>
     <string name="video_effect_entry_polaroid">Polaroïd</string>
     <string name="video_effect_entry_forest">Bosquet</string>
-    <string name="video_effect_entry_blackwhite">N&amp;B</string>
+    <string name="video_effect_entry_blackwhite">Noir et Blanc</string>
     <string name="video_effect_entry_bygone">Passé</string>
     <string name="portait_effect_entry_nature">Nature</string>
     <string name="portait_effect_entry_fairytale">Enfance</string>
@@ -139,7 +139,7 @@
     <string name="portait_effect_entry_romance">Romantique</string>
     <string name="portait_effect_entry_maze">Labyrinthe</string>
     <string name="portait_effect_entry_cool">Mint</string>
-    <string name="portait_effect_entry_blackwhite">N&amp;B</string>
+    <string name="portait_effect_entry_blackwhite">Noir et Blanc</string>
     <string name="portait_effect_entry_story">Histoire</string>
     <string name="portait_effect_entry_riddle">Bonbons</string>
     <string name="portait_effect_entry_movie">Film</string>
@@ -149,7 +149,7 @@
     <string name="portait_effect_entry_dusk">Crépuscule</string>
     <string name="color_effect_live_blue">Orchidée</string>
     <string name="color_effect_live_contrast">Xpro</string>
-    <string name="color_effect_live_deepblack">N&amp;B</string>
+    <string name="color_effect_live_deepblack">Noir et Blanc</string>
     <string name="color_effect_live_fair">Pâle</string>
     <string name="color_effect_live_hongkong">Bauhinia</string>
     <string name="color_effect_live_mousse">Mousse</string>
@@ -267,7 +267,7 @@
     <string name="pref_camera_hand_night_title">HHT</string>
     <string name="camera_settings_label">Appareil photo</string>
     <string name="pref_camera_settings_title">Paramètres</string>
-    <string name="pref_camera_referenceline_title">Afficher la grille</string>
+    <string name="pref_camera_referenceline_title">Afficher une grille</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Déclencheur</string>
     <string name="pref_camera_volumekey_function_entry_timer">Compte à rebours</string>
@@ -284,9 +284,9 @@
     <string name="simple_mode_button_text_color_effect">Désactiver le filtre</string>
     <string name="simple_mode_button_text_slow_video">Désactiver le mode accéléré</string>
     <string name="simple_mode_button_text_fast_video">Désactiver le mode ralenti</string>
-    <string name="see_qrcode_detals">Afficher les détails du code QR</string>
+    <string name="see_qrcode_detals">Afficher les détails du QR code</string>
     <string name="pref_camera_watermark_title">Ajouter un horodatage sur les photos</string>
-    <string name="pref_camera_device_watermark_title">"Filigrane de l'appareil"</string>
+    <string name="pref_camera_device_watermark_title">"Filigrane de l'appareil sur les photos"</string>
     <string name="pref_userdefine_watermark_title">Filigrane personnalisé</string>
     <string name="custom_watermark_words">Filigrane personnalisé</string>
     <string name="custom_watermark_tips">Ce texte apparaîtra comme la deuxième ligne de votre filigrane. Il peut contenir jusquà 18 lettres ou 14 caractères chinois.</string>
