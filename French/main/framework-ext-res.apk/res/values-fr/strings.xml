@@ -95,14 +95,13 @@
 	<string name="popup_camera_calibrate_now">Calibrer</string>
 	<string name="popup_camera_calibrate_success">"Calibré avec succès. Vous pouvez ouvrir l'appareil photo frontale maintenant."</string>
 	<string name="popup_camera_front_failed">"Impossible d'ouvrir l'appareil photo frontale. Réessayer."</string>
-    <string name="popup_camera_front_when_use">The Camera app needs to open the front camera again. Open now?</string>
 	<string name="popup_camera_front_when_use">"L'appareil photo frontale est occupée maintenant. Ouvrir quand même ?"</string>
 	<string name="popup_camera_popup_falied_times_calibrate">"Impossible d'ouvrir l'appareil photo frontale plusieurs fois. Essayez de calibrer l'appareil photo."</string>
-	<string name="popup_camera_sure">Got it</string>
-	<string name="popup_camera_sure_wait">Got it (%ds)</string>
+	<string name="popup_camera_sure">"Je l'ai"</string>
+	<string name="popup_camera_sure_wait">"Je l'ai (%ds)"</string>
 	<string name="popup_camera_takeback_falied_times_calibrate">"Impossible de fermer l'appareil photo frontale plusieurs fois. Essayez de calibrer l'appareil photo."</string>
 	<string name="popup_camera_tip">Attention</string>
-	<string name="popup_camera_using_camera_background">%s is using the front camera</string>
+	<string name="popup_camera_using_camera_background">%s utilise la caméra frontale</string>
     <string name="permdesc_manageLocationPolicy">"Autoriser l'application à gérer la politique de localisation et définir des règles spécifiques."</string>
     <string name="location_usage_restricted_title">Localisation en tache de fond limitée</string>
     <string name="location_usage_restricted_body">Appuyez pour autoriser.</string>

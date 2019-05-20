@@ -24,7 +24,7 @@
     <string name="app_name_miuiringtone">Sonnerie</string>
     <string name="app_name_miuiwallpaper">"Fonds d'écran"</string>
     <string name="app_name_screenshot">"Captures d'écran"</string>
-    <string name="auto_play">Play automatically when connected to Wi-Fi</string>
+    <string name="auto_play">Joué automatiquement lorsque vous êtes connecté au Wi-Fi</string>
     <string name="auto_play_later">Plus tard</string>
     <string name="auto_play_now">Activé</string>
     <string name="auto_play_recommend">Play automatically</string>
@@ -750,7 +750,7 @@
     <string name="weibo_str">Weibo</string>
     <string name="weixin_not_installed">"WeChat isn't installed"</string>
     <string name="weixin_sticker_tag_str">Sticker</string>
-    <string name="wifi_state">Wi-Fi network</string>
+    <string name="wifi_state">Réseaux Wi-Fi</string>
     <string name="wxcircle_platform">Moments</string>
     <string name="xiaomi_btn_bind">Compte Mi</string>
     <string name="xiaomi_btn_str">Mi</string>
