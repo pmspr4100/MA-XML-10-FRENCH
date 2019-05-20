@@ -132,6 +132,14 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">Ajouter %d minutes</item>
         <item quantity="one">Ajouter %d minute</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d apps are draining battery</item>
+        <item quantity="one">%d app is draining battery</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
         <item quantity="one">Téléchargé par %1$d personne</item>

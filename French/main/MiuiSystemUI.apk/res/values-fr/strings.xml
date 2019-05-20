@@ -292,10 +292,6 @@
     <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
     <string name="always_use_device">Utiliser par défaut pour cet appareil USB</string>
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
-    <string name="aod_dual_togother">HH:mm</string>
-	<string name="aod_dual_togother_12">hh:mm aa</string>
-	<string name="aod_lock_screen_date">EEEE dd MMMM</string>
-	<string name="aod_lock_screen_date_12">EEEE dd MMMM</string>
     <string name="apn_settings_not_available">"Les paramètres du nom de point d'accès (Apn) ne sont pas disponibles pour cet utilisateur"</string>
     <string name="app_info">"Infos sur l'application"</string>
     <string name="app_label">Système IU</string>

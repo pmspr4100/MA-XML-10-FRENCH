@@ -52,14 +52,14 @@
         <item>Liste de conversation</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
-        <item>Adresse :</item>
-        <item>Tél :</item>
-        <item>Nom :</item>
-        <item>E-mail :</item>
-        <item>Mobile :</item>
-        <item>WeChat :</item>
-        <item>Fax :</item>
-        <item>Code postal :</item>
+        <item>Adresse:</item>
+        <item>Tél:</item>
+        <item>Nom:</item>
+        <item>E-mail:</item>
+        <item>Mobile:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Code postal:</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Merci,</item>

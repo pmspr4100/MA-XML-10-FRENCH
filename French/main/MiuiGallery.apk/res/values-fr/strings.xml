@@ -252,6 +252,9 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
     <string name="cleaner_video_description">"Supprimer des vidéos qui occupent de l'espace de stockage"</string>
     <string name="cleaner_video_pick_delete_selected">Supprimer les vidéos sélectionnées</string>
     <string name="cleaner_video_title">Supprimer les vidéos</string>
+    <string name="clear_dup_medias">Nettoyer les photos en double</string>
+    <string name="clear_dup_success">Nettoyer avec succès</string>
+    <string name="clear_dup_tip">Effacement des photos en double</string>
     <string name="click_download_gif">Appuyez pour télécharger le GIF</string>
     <string name="click_top_right">Appuyez sur cette icône</string>
     <string name="close">Fermer</string>

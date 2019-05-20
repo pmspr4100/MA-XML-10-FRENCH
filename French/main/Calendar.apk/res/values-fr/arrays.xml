@@ -4,42 +4,13 @@
         <item>Cet événement uniquement</item>
         <item>Tous les événements dans la série</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Juste pour cette fois</item>
+        <item>Désactiver le rappel répété</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>Date ultérieure</item>
         <item>Date antérieure</item>
-    </string-array>
-    <string-array name="dates">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>Au moment de lévénement</item>
@@ -57,11 +28,16 @@
         <item>10 minutes</item>
         <item>15 minutes</item>
         <item>30 minutes</item>
+        <item>1 heure</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Uniquement pour cet événement</item>
         <item>Celui-ci et les événements futurs</item>
         <item>Tous les événements</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Juste pour cette fois</item>
+        <item>Définir un rappel répété</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Toujours</item>

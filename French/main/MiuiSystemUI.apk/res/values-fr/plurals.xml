@@ -8,10 +8,6 @@
         <item quantity="other">Récemment ouvert, applications disponibles: %d. Balayez vers le haut pour retirer, balayez vers le bas pour verrouiller.</item>
         <item quantity="one">Récemment ouvert, application disponible: %d. Balayez vers le haut pour retirer, balayez vers le bas pour verrouiller.</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s heures %2$s"</item>
-        <item quantity="one">" %1$s heure %2$s"</item>
-    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">Masquer les notifications de %1$s &amp; %2$d applications.</item>
         <item quantity="one">Masquer les notifications de %1$s &amp; %2$d application.</item>

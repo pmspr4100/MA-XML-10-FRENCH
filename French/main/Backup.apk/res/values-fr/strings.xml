@@ -172,6 +172,10 @@ Taille de la mise à jour: %2$s"</string>
     <string name="dialog_app_upgrade_download">Mise à jour</string>
     <string name="dialog_app_upgrade_exit">Quitter</string>
     <string name="dialog_app_upgrade_message">Une nouvelle version de Mi Transfert est disponible. Mettre à jour Mi Transfert maintenant ?</string>
+    <string name="dialog_backup_password_backup_tips">"Impossible de sauvegarder les éléments lorsque le mot de passe de sauvegarde est activé. Désactiver le mot de passe de sauvegarde."</string>
+    <string name="dialog_backup_password_cancel">Annuler</string>
+    <string name="dialog_backup_password_change_machine_tips">"Vous ne pourrez pas transférer de sauvegardes protégées par mot de passe. Désactivez le mot de passe de sauvegarde avant d'utiliser Mi Transfert."</string>
+    <string name="dialog_backup_password_to_settings">Paramètres</string>
     <string name="reverse_all">Tout effacer</string>
     <string name="refresh">Actualiser</string>
     <string name="cloud_item_info_summary">" (Locale %1$s | Mi Cloud %2$s)"</string>
