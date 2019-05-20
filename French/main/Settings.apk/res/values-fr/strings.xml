@@ -1511,8 +1511,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="dangerous_option_switch_title">Avertir des fonctionnalités à haut risque</string>
     <string name="dark_color_mode">Mode sombre</string>
     <string name="dark_color_summary">Utiliser une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles</string>
-    <string name="dark_ui_mode">Mode sombre</string>
-    <string name="dark_ui_mode_title">Activer le mode sombre</string>
+    <string name="dark_color_mode">Mode sombre</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Réduire</string>
     <string name="dashboard_title">Paramètres</string>
     <string name="data_limit">Limite de données</string>
