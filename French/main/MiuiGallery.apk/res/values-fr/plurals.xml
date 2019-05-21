@@ -81,8 +81,8 @@
         <item quantity="one">%d vidéo</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Collages can contain 1-%d photos</item>
-        <item quantity="one">Collages can contain 1-%d photo</item>
+        <item quantity="other">Les collages peuvent contenir 1-%d photos</item>
+        <item quantity="one">Les collages peuvent contenir 1-%d photo</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">"Sélectionnez jusqu'à %d photos"</item>

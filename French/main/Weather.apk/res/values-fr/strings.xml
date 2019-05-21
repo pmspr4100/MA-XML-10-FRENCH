@@ -11,7 +11,6 @@
     <string name="act_weather_find_city_net_no_good">Impossible de se connecter au réseau.</string>
     <string name="act_weather_find_city_no_result">Aucun résultat</string>
     <string name="act_weather_find_city_searching">Recherche…</string>
-    <string name="activity_alert_detail_title" />
     <string name="activity_find_city_dialog_cancel">Annuler</string>
     <string name="activity_find_city_dialog_message">Autorisez Météo à accéder à votre localisation pour obtenir des informations précises sur celle-ci.</string>
     <string name="activity_find_city_dialog_message_global">Activez les services de localisation et laissez votre appareil déterminer lemplacement avec des réseaux sans fil.</string>
@@ -88,7 +87,7 @@
     <string name="daily_forecast_add_city_add">Suivre</string>
     <string name="daily_forecast_add_city_message">Suivez la météo à %1$s pour une prévision plus détaillée.</string>
     <string name="daily_forecast_add_city_title">Suivez la météo à %1$s</string>
-    <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date">dd/MM</string>
     <string name="daily_forecast_no_data">"Impossible d'obtenir les données météo
 Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"</string>
     <string name="data_provided_by">Données fournies en partie par</string>
@@ -111,14 +110,11 @@ Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"
     <string name="first_start_network_title">Connexion Internet et localisation</string>
     <string name="global_aqi">IQA: %1$s %2$s</string>
     <string name="hourly_forcast_now">Maintenant</string>
-    <string name="hourly_forecast_date">d/M</string>
+    <string name="hourly_forecast_date">dd/MM</string>
     <string name="hourly_forecast_title_24_hours_desc">Prévisions sur 24 heures</string>
     <string name="hourly_forecast_title_hourly_desc">Prévision par heure</string>
     <string name="index_item_downloading">Téléchargement en cours</string>
     <string name="index_item_experience_now">Installer maintenant</string>
-    <string name="index_item_install_dialog" />
-    <string name="index_item_install_dialog_cancel" />
-    <string name="index_item_install_dialog_open" />
     <string name="index_item_install_now">Installer maintenant</string>
     <string name="index_item_installing">Installation</string>
     <string name="index_item_installing2">Installation en cours</string>
@@ -146,7 +142,6 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="minute_rain_let_go_refresh">Relâcher pour actualiser</string>
     <string name="minute_rain_no_data">Aucune donnée</string>
     <string name="minute_rain_now">Maintenant</string>
-    <string name="minute_rain_progress_indicator_original_time">- -</string>
     <string name="minute_rain_pull_down_refresh">Tirez vers le bas pour actualiser</string>
     <string name="minute_rain_refreshing_now">Actualisation…</string>
     <string name="missing_required_permission">Vous avez désactivé une autorisation requise.</string>
@@ -181,7 +176,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="precipitation_degree_two">Faible</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="privacy_grant_failed">"Impossible d'accorder l'autorisation. Patientez une minute ou deux puis réessayez."</string>
-    <string name="privacy_grant_or_revoke_settings">"Accord &amp; révocation d'autorisation"</string>
+    <string name="privacy_grant_or_revoke_settings">"Accord et révocation d'autorisation"</string>
     <string name="privacy_grant_success">Autorisation accordée avec succès</string>
     <string name="privacy_policy">Politique de Confidentialité</string>
     <string name="privacy_revoke_failed">"Impossible de révoquer l'autorisation. Patientez une minute ou deux puis réessayez."</string>
@@ -225,9 +220,9 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="traffic_control_tomorrow_numbers">Demain: %1$s</string>
     <string name="traffic_controls">Circulation alternée</string>
     <string name="translate_notification_info">Traduire en arrière-plan…</string>
-    <string name="tts_best_aqi">Best air quality</string>
-    <string name="tts_hour_weather_date_time">From %2$s on %1$s to %4$s on %3$s</string>
-    <string name="tts_max_wind_power">Highest wind speed</string>
+    <string name="tts_best_aqi">"Meilleure qualité de l'air"</string>
+    <string name="tts_hour_weather_date_time">De %2$s sur %1$s à %4$s sur %3$s</string>
+    <string name="tts_max_wind_power">Vitesse du vent la plus élevée</string>
     <string name="unit">Unités</string>
     <string name="unit_temperature">Unités de température</string>
     <string name="unit_wind">Unités de la vitesse du vent</string>
@@ -238,10 +233,6 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="updated_a_moment_ago">Mis à jour il y a un moment</string>
     <string name="updating">Mise à jour…</string>
     <string name="user_agreement">Accord utilisateur</string>
-    <string name="video_dialog_no_play" />
-    <string name="video_dialog_play" />
-    <string name="video_dialog_subtitle" />
-    <string name="video_dialog_title" />
     <string name="view_forecast_item_yesterday">Hier</string>
     <string name="view_indexes_item_today">"Aujourd'hui"</string>
     <string name="view_indexes_item_tommorrow">Demain</string>

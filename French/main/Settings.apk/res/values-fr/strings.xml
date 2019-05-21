@@ -1295,16 +1295,16 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="color_led_applications_title">Sélectionnez des applications</string>
     <string name="color_led_applications_title_summary">"Vous pouvez limiter l'utilisation de la lumière LED pour des applications individuelles."</string>
     <string name="color_led_battery_title">Continuez pendant le chargement</string>
-    <string name="color_led_end_time">End time</string>
+    <string name="color_led_end_time">Heure de fin</string>
     <string name="color_led_game_mode_title">Game Turbo</string>
-    <string name="color_led_hint">Select the scenarios when LED light should be used. LED light will light up when the screen is facing down and DND is off.</string>
-    <string name="color_led_incall_pulse_title">Flash for incoming calls</string>
-    <string name="color_led_lucky_dialog_message">This feature requires using Red envelope assistant. Turn on now?</string>
-    <string name="color_led_lucky_dialog_title">Turn on Red envelope assistant</string>
-    <string name="color_led_music_mode_summary">Show rhythmic light effects when playing music</string>
+    <string name="color_led_hint">"Sélectionnez les scénarios lorsque la lumière LED doit être utilisée. La lumière LED s’allume lorsque l’écran est tourné vers le bas et que le mode NPD est désactivé."</string>
+    <string name="color_led_incall_pulse_title">Flash pour les appels entrants</string>
+    <string name="color_led_lucky_dialog_message">"Cette fonctionnalité nécessite l'utilisation de l'assistant d'enveloppe rouge. Allumer maintenant ?"</string>
+    <string name="color_led_lucky_dialog_title">"Activer l'assistant enveloppe rouge"</string>
+    <string name="color_led_music_mode_summary">Afficher les effets de lumière rythmiques lors de la lecture de musique</string>
     <string name="color_led_music_mode_title">Musique</string>
-    <string name="color_led_notification_pulse_title">Pulse for notifications</string>
-    <string name="color_led_red_more_feature">Special effects</string>
+    <string name="color_led_notification_pulse_title">Impulsion pour les notifications</string>
+    <string name="color_led_red_more_feature">Effets spéciaux</string>
     <string name="color_led_red_package_title">Enveloppes rouges</string>
     <string name="color_led_start_time">Heure de début</string>
     <string name="color_led_title">Lumière LED</string>
@@ -3012,7 +3012,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="long_press_menu_key_when_lock">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
     <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
     <string name="long_press_power_key_half_of_second">Appuyez et maintenez le bouton d’alimentation pendant 0.5s pour activer Google Assistant</string>
-    <string name="long_press_power_key_tips">&lt;Data&gt;Long press the Power button &amp;lt;font color=#999999&amp;gt;Faster and more convenient&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+    <string name="long_press_power_key_tips">"&lt;Data&gt;Appuyez longuement sur le bouton d'alimentation &amp;lt;font color=#999999&amp;gt;Plus rapide et plus pratique&amp;lt;/font&amp;gt;&lt;/Data&gt;"</string>
     <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
     <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
     <string name="lost_internet_access_persist">Ne plus afficher</string>
@@ -5463,8 +5463,8 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="toast_lockscreen_glogin_empty_password">Mot de passe</string>
     <string name="toast_need_login">Connectez-vous à votre compte Mi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"Impossible de diffuser lorsque la connexion Wi-Fi est établie et que le point d'accès est activé."</string>
-    <string name="toggle_auto_speaker_preference_summary">Device will switch to speaker when you move it away from your ear during calls. This feature works only when TalkBack is on.</string>
-    <string name="toggle_auto_speaker_preference_title">Switch to speaker automatically</string>
+    <string name="toggle_auto_speaker_preference_summary">"L'appareil basculera sur le haut-parleur lorsque vous l'éloignerez de votre oreille pendant les appels. Cette fonctionnalité ne fonctionne que lorsque TalkBack est activé."</string>
+    <string name="toggle_auto_speaker_preference_title">Passer au haut-parleur automatiquement</string>
     <string name="toggle_collapse_after_clicked_title">Réduire après avoir appuyé</string>
     <string name="total">NPD</string>
     <string name="total_info">Désactivez les sons et le vibreur sauf pour les alarmes</string>

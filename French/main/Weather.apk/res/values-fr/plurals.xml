@@ -45,19 +45,19 @@
         <item quantity="one">| %1$s personne</item>
      </plurals>
     <plurals name="tts_report_temperature_high_centigrade">
-        <item quantity="other">Highest temperature: %1$s degrees Celsius</item>
-        <item quantity="one">Highest temperature: %1$s degree Celsius</item>
+        <item quantity="other">Température la plus élevée: %1$s degré Celsius</item>
+        <item quantity="one">Température la plus élevée: %1$s degré Celsius</item>
     </plurals>
     <plurals name="tts_report_temperature_high_fahrenheit">
-        <item quantity="other">Highest temperature: %1$s degrees Fahrenheit</item>
-        <item quantity="one">Highest temperature: %1$s degree Fahrenheit</item>
+        <item quantity="other">Température la plus élevée: %1$s degrés Fahrenheit</item>
+        <item quantity="one">Température la plus élevée: %1$s degrés Fahrenheit</item>
     </plurals>
     <plurals name="tts_report_temperature_low_centigrade">
-        <item quantity="other">Lowest temperature: %1$s degrees Celsius</item>
-        <item quantity="one">Lowest temperature: %1$s degree Celsius</item>
+        <item quantity="other">Température la plus basse: %1$s degré Celsius</item>
+        <item quantity="one">Température la plus basse: %1$s degré Celsius</item>
     </plurals>
     <plurals name="tts_report_temperature_low_fahrenheit">
-        <item quantity="other">Lowest temperature: %1$s degrees Fahrenheit</item>
-        <item quantity="one">Lowest temperature: %1$s degree Fahrenheit</item>
+        <item quantity="other">Température la plus basse: %1$s degrés Fahrenheit</item>
+        <item quantity="one">Température la plus basse: %1$s degrés Fahrenheit</item>
     </plurals>
 </resources>

@@ -81,8 +81,8 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">%d application bloquée</item>
     </plurals>
     <plurals name="power_center_battery_day">
-        <item quantity="other">"%d Jours "</item>
-        <item quantity="one">"%d Jour "</item>
+        <item quantity="other">"%d jours "</item>
+        <item quantity="one">"%d jour "</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d heures "</item>
@@ -133,12 +133,12 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="one">Ajouter %d minute</item>
     </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
+        <item quantity="other">%2$d apps, y compris %1$s, épuisent la batterie</item>
+        <item quantity="one">%2$d app, y compris %1$s, épuisent la batterie</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d apps are draining battery</item>
-        <item quantity="one">%d app is draining battery</item>
+        <item quantity="other">%d apps déchargent la batterie</item>
+        <item quantity="one">%d app déchargent la batterie</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">Téléchargé par %1$d personnes</item>
