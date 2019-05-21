@@ -17,8 +17,8 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
-    <string name="accessibility_battery_level">"Batterie %d%"</string>
-    <string name="accessibility_battery_level_charging">"Batterie en charge, %d%"</string>
+    <string name="accessibility_battery_level">"Batterie %d%%"</string>
+    <string name="accessibility_battery_level_charging">"Batterie en charge, %d%%"</string>
     <string name="aod_close_color_inversion">"Cette fonctionnalité ne peut pas être combinée avec l'inversion de couleur. Désactivez l'inversion des couleurs en premier."</string>
     <string name="aod_dual_togother">HH:mm</string>
     <string name="aod_dual_togother_12">hh:mm aa</string>
