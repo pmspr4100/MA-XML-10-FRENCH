@@ -272,8 +272,7 @@ a votre compte Mi pour réactiver Mi Cloud."</string>
     <string name="micloud_find_device_close_alert_content">Si vous désactivez cette fonctionnalité, vous ne serez plus en mesure de localiser votre appareil en cas de perte.</string>
     <string name="micloud_find_device_close_alert_positive">Continuer</string>
     <string name="micloud_find_device_close_alert_negtive">Désactiver quand même</string>
-    <string name="find_device_gdpr_prompt">"En activant l'option Localiser l'appareil, vous acceptez notre \"Politique de confidentialité\". Si vous devez révoquer votre autorisation de confidentialité veuillez désactiver cette fonctionnalité."</string>
-    <string name="find_device_gdpr_prompt_policy_doc_name">Politique de Confidentialité</string>
+    <string name="find_device_gdpr_prompt">"En activant Localiser l'appareil, vous acceptez notre &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Politique de confidentialité&lt;/a&gt;&lt;/u&gt;. Si vous devez révoquer une autorisation, désactivez cette fonction."</string>
     <string name="activate_finddevice">"Connectez-vous à Internet pour activer votre l'appareil"</string>
     <string name="account_related">"Votre appareil est associé avec un Compte Mi existant(%s). Connectez-vous à Internet pour vérifier l'appareil."</string>
     <string name="connect_network">Se connecter au Wi-Fi ou insérer une carte SIM</string>
