@@ -247,7 +247,7 @@
     <string name="upcoming_alarm">%s Prochaine alarme</string>
     <string name="upcoming_alarm_hint">"Vous pouvez fermer cette alarme à l'avance"</string>
     <string name="update_notification_info">Mise à jour des données en arrière-plan…</string>
-	<string name="user_agreement">"Accord de l'utilisateur"</string>
+    <string name="user_agreement">"Accord de l'utilisateur"</string>
     <string name="vibrate_pref_summary">"Vibrer quand l'alarme sonne"</string>
     <string name="vibrate_when_ringing">Vibrer en sonnant</string>
     <string name="volume_button_setting_summary">"Définir la fonction des boutons de volume pendant l'alarme"</string>
