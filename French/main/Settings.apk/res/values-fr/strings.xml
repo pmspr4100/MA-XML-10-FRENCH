@@ -3010,9 +3010,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="long_press_home_key">Appui prolongé sur bouton Accueil</string>
     <string name="long_press_menu_key">Appui prolongé sur bouton Menu</string>
     <string name="long_press_menu_key_when_lock">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
-    <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
     <string name="long_press_power_key_half_of_second">Appuyez et maintenez le bouton d’alimentation pendant 0.5s pour activer Google Assistant</string>
-    <string name="long_press_power_key_tips">"&lt;Data&gt;Appuyez longuement sur le bouton d'alimentation &amp;lt;font color=#999999&amp;gt;Plus rapide et plus pratique&amp;lt;/font&amp;gt;&lt;/Data&gt;"</string>
     <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
     <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
     <string name="lost_internet_access_persist">Ne plus afficher</string>

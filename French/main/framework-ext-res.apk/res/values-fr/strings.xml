@@ -144,12 +144,11 @@
     <string name="security_permission_failed_text">Une erreur est survenue, réessayez plus tard</string>
     <string name="security_permission_xiaomi_account_missed_text">"Saisissez le nom d'utilisateur de votre compte Mi"</string>
     <string name="security_permission_validate_warning">Merci de votre aide pour améliorer MIUI !</string>
-    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi et données mobiles activées</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi et données cellulaires activées</string>
     <string name="security_permission_network_failed_text">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>
     <string name="security_permission_open_wifi_settings">Ouvrir les paramètres Wi-Fi</string>
     <string name="xspace_resolver_activity_title">Sélectionner une application</string>
     <string name="user_switching_dialog_text">Changement…</string>
-    <string name="voice_assistant_tips">Upgraded to long press the power button to wake up voice assistant</string>
     <string name="xspace_head">Application clônée</string>
     <string name="activity_package_delete_confirm_title">Attention</string>
     <string name="button_text_cancel">Annuler</string>
@@ -174,7 +173,7 @@
     <string name="twohours">1 heure</string>
     <string name="fourhours">2 heures</string>
     <string name="eighthours">8 heures</string>
-    <string name="remain">Restant : %s</string>
+    <string name="remain">Restant: %s</string>
     <string name="configure_input_methods">Choisir des claviers</string>
     <string name="miui_upgrading_notification_title">Chargement du système, certaines fonctionnalités peuvent ne pas être disponibles.</string>
     <string name="miui_screen_ratio_hint">Problèmes relatifs au ratio écran</string>
