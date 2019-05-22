@@ -542,7 +542,7 @@ puis créera une photo avec une quantité minimale de bruit."</string>
 	<string name="hint_ae_lock">"L'exposition automatique est verrouillée"</string>
     <string name="hint_device_water_mark">Le filigrane photo sera ajouté automatiquement.</string>
     <string name="module_name_fun">Vidéo courte</string>
-    <string name="module_name_fun_ar">Fun</string>
+    <string name="module_name_fun_ar">Mimoji</string>
     <string name="module_name_new_slow_motion">Ralenti</string>
     <string name="module_name_video">Vidéo</string>
     <string name="module_name_capture">Photo</string>
