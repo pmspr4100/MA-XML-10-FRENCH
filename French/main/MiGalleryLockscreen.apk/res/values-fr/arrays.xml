@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="feature_desc">
-        <item>"Les salutations du matin prennent désormais en charge "Glisser pour déverrouiller" pour un déverrouillage plus fluide."</item>
-        <item>"Ajout du bouton "Sélectionner tout" lors de l'ajout de fonds d'écran de diaporama."</item>
+        <item>"Les salutations du matin prennent désormais en charge \"Glissez vers le haut pour déverrouiller\" pour un déverrouillage plus fluide."</item>
+        <item>"Ajout de \"Tout sélectionner\" lors de l'ajout de fonds d'écran de diaporama."</item>
     </string-array>
 </resources>
