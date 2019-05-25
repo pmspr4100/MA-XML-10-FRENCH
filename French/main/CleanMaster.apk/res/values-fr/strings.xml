@@ -187,8 +187,6 @@
     <string name="toast_backup_uninstall_success">Sauvegarde et désinstallation terminée</string>
     <string name="activity_title_cache_data">"Données d'application"</string>
     <string name="deepclean_cache_header_left">Fichiers de données: %d</string>
-    <string name="notification_title_of_garbage_cleanup">%s des fichiers de la corbeille</string>
-    <string name="notification_summary_of_garbage_cleanup">"Appuyer pour libérer de l'espace."</string>
     <string name="notification_summary_after_auto_cleanup">%s nettoyé.</string>
     <string name="toast_uninstall_success">Désinstallation terminée</string>
     <string name="toast_app_no_residual_on_sdcard">"L'application n'a aucune donnée stockée sur votre carte SD"</string>
@@ -275,6 +273,12 @@
     <string name="toast_select_white_need_remove">Choisissez les éléments à supprimer</string>
     <string name="network_not_available">Impossible de se connecter au réseau</string>
     <string name="no_network_btn">Réessayer</string>
+    <string name="notification_garbage_cleanup_summary">Taille de la corbeille atteinte %s</string>
+    <string name="notification_garbage_cleanup_title">Effacer les fichiers de la corbeille</string>
+    <string name="notification_low_memory_cache_summary">"Moins de 1,5 Go d'espace de stockage disponible"</string>
+    <string name="notification_low_memory_cache_title">Vider le cache</string>
+    <string name="notification_low_memory_deepclean_summary">"Nettoyage en profondeur peut libérer de l'espace de stockage sur votre appareil"</string>
+    <string name="notification_low_memory_deepclean_title">"Espace de stockage en cours d'exécution faible"</string>
     <string name="name_debuglog_dir">Journal de débogage BSP</string>
     <string name="just_now">"À l'instant"</string>
     <string name="yesterday">Hier</string>
