@@ -366,7 +366,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="main_button_usage_adjust_manual">"Définir l'utilisation des données"</string>
     <string name="main_button_usage_package_setting">"Définir la limite d'utilisation des données"</string>
     <string name="main_alert_message_no_imsi">Aucune carte SIM détectée</string>
-    <string name="main_primary_message_traffic_remain">Données mobiles</string>
+    <string name="main_primary_message_traffic_remain">Données cellulaires</string>
     <string name="main_primary_message_traffic_warning">"Alerte de l'utilisation des données mobiles"</string>
     <string name="main_primary_message_traffic_overlimit">Vous avez dépassé la limite des données mobiles</string>
     <string name="main_primary_message_leisure_remain">Données en heures creuses</string>
@@ -416,7 +416,7 @@ de l'opérateur"</string>
     <string name="firewall_fragment_sys_listempty">Vide</string>
     <string name="firewall_fragment_nonesys_listempty">Vide</string>
     <string name="firewall_restrict_notify_title">%s ne peut pas utiliser le réseau</string>
-    <string name="firewall_network_restrict_notify_mobile">Données mobiles</string>
+    <string name="firewall_network_restrict_notify_mobile">Données cellulaires</string>
     <string name="firewall_network_restrict_notify_message">Appuyez pour changer les paramètres.</string>
     <string name="firewall_restrict_android_dialog_title">Attention</string>
     <string name="firewall_restrict_android_dialog_content">"Pour vous s'assurer que votre appareil fonctionne normalement, quelques applications du système Android se connecteront toujours à Internet. Ces applications utiliseront votre connexion de données mobiles et pourront être facturées par votre opérateur."</string>
@@ -444,7 +444,7 @@ de l'opérateur"</string>
     <string name="root">Accès root</string>
     <string name="app_detail">Détails</string>
     <string name="app_version">Version:</string>
-    <string name="app_mobile">Données mobiles</string>
+    <string name="app_mobile">Données cellulaires</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">Aucun</string>
     <string name="sorted_dialog_title">Trier par</string>
@@ -1147,7 +1147,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="auto_task_operation_no_op">Ne pas sélectionner cette action</string>
     <string name="auto_task_operation_airplane_mode">Mode Avion</string>
     <string name="auto_task_operation_memory_clean_lockscreen">Vider la mémoire</string>
-    <string name="auto_task_operation_mobile_data">Données mobiles</string>
+    <string name="auto_task_operation_mobile_data">Données cellulaires</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>
     <string name="auto_task_operation_mute">Mode Silencieux</string>
     <string name="auto_task_operation_vibration">Vibration</string>
@@ -2353,7 +2353,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gb_advance_settings_reset_dialog_content">Restaurer les paramètres par défaut maintenant ?</string>
     <string name="title_reply">Commentaire</string>
     <string name="title_like">"J'aime"</string>
-    <string name="game_video_net_data">Données mobiles</string>
+    <string name="game_video_net_data">Données cellulaires</string>
     <string name="game_wid_viewpoint_buttom">Prendre une petite pause.</string>
     <string name="video_repeat">Rejouer</string>
     <string name="game_video_network_eror">Impossible de se connecter au réseau. Vérifiez vos paramètres réseau, puis réessayez.</string>

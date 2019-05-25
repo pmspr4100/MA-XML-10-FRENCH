@@ -521,7 +521,7 @@ Bluetooth"</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (bleu-jaune)</string>
     <string name="daltonizer_type_overridden">Remplacé par %1$s</string>
     <string name="data_enable_summary">Autoriser la liste blanche à utiliser les données mobiles</string>
-    <string name="data_enabled">Données mobiles</string>
+    <string name="data_enabled">Données cellulaires</string>
     <string name="data_plan">Forfaits des données mobiles</string>
     <string name="data_usage_disable_mobile">Désactiver les données mobiles ?</string>
     <string name="data_usage_template">%1$s de données mobiles utilisées %2$s</string>
