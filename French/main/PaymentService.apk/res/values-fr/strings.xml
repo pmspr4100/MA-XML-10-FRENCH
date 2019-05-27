@@ -105,7 +105,6 @@ Please check your local date and try again."</string>
     <string name="mibi_error_common_summary">System error. Please try again later.</string>
     <string name="mibi_error_deduct">"Couldn't activate automatic payment protocol"</string>
     <string name="mibi_error_expired_summary">Your order has expired</string>
-    <string name="mibi_error_frozen_service_num">400-100-3399</string>
     <string name="mibi_error_frozen_summary">Your account has been frozen, please contact our customer service center.</string>
     <string name="mibi_error_has_bought_summary">You have already purchased this product.</string>
     <string name="mibi_error_illegal_order_summary">Order error. Please try again later</string>
