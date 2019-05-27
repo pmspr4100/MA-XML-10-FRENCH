@@ -288,7 +288,7 @@ Customer service center：400-100-3399"</string>
     <string name="mibi_progress_warning_waiting">"Payment hasn't reached your account yet."</string>
     <string name="mibi_prompt_info_button_hint">Attention(%d)</string>
     <string name="mibi_prompt_info_button_text">OK</string>
-    <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&amp;lt;font color=#ff7700&amp;gt;Mi Credit can't be used to buy hardware products on Mi.com.&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
+    <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&amp;lt;font color=#ff7700&amp;gt;Les Mi Credit ne peuvent pas être utilisé pour acheter des produits sur Mi.com.&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
     <string name="mibi_prompt_info_title">Tips</string>
     <string name="mibi_push_register_fail">Register push fail.</string>
     <string name="mibi_push_register_success">Register push success.</string>
@@ -360,7 +360,7 @@ Customer service center：400-100-3399"</string>
     <string name="passport_account_set_password_title">Définir le mot de passe</string>
     <string name="passport_active_email_visit">Vérifiez votre boîte de réception à %s</string>
     <string name="passport_activing_account">Activation…</string>
-	<string name="passport_adding_account">Ajout du compte…</string>
+    <string name="passport_adding_account">Ajout du compte…</string>
     <string name="passport_area_code_hot">UTILISÉ FRÉQUEMMENT</string>
     <string name="passport_area_code_title">Indicatif téléphonique</string>
     <string name="passport_auto_generate_pwd">Générer un mot de passe</string>
