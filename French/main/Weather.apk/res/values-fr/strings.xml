@@ -209,6 +209,8 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="share_weather_desc">"\#Météo MIUI#Aujourd'hui %1$s %2$s"</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Impossible de prendre une capture d'écran"</string>
+    <string name="shortcut_short_label_24_hour_forecast">Prévisions à 24 heures</string>
+    <string name="shortcut_short_label_recent_forecast">Vérifiez la météo</string>
     <string name="some_where_on_earth">Quelque part sur terre</string>
     <string name="sunrise">Lever du soleil</string>
     <string name="sunset">Coucher de soleil</string>

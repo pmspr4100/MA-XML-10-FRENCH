@@ -324,6 +324,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="panchang_yog">Yog</string>
     <string name="path_calendar_settings">Applications système/Agenda/Paramètres</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrer</string>
+    <string name="pref_default_popup_alert_value">intelligente</string>
     <string name="pref_reminder_time">Heure de rappel</string>
     <string name="pref_title_alarm_remind">Alarme de rappel</string>
     <string name="pref_title_no_remind">Aucun rappel</string>
@@ -351,6 +352,9 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="preferences_import_train">Billet de train</string>
     <string name="preferences_import_travel">Voyage</string>
     <string name="preferences_notification_ringtone_title">Son</string>
+    <string name="preferences_popup_alert_smart_summary">MIUI identifiera automatiquement les événements les plus pertinents</string>
+    <string name="preferences_popup_alert_smart_tips">"Remplacez les notifications traditionnelles par des alertes contextuelles pour éviter de rater des événements importants. Les alertes contextuelles n'apparaissent pas lorsque vous jouez à des jeux, regardez des vidéos en plein écran ou utilisez le mode voiture."</string>
+    <string name="preferences_popup_alert_title">Alertes contextuelles</string>
     <string name="preferences_title">Agenda</string>
     <string name="preferences_use_home_tz_descrip">Affiche les agendas et les horaires des événements dans votre fuseau horaire local lors de vos voyages</string>
     <string name="preferences_use_home_tz_title">Utiliser le fuseau horaire à domicile</string>

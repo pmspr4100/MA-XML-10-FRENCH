@@ -39,10 +39,20 @@
         <item>Juste pour cette fois</item>
         <item>Définir un rappel répété</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup">
+        <item>Désactivé</item>
+        <item>Pour tous les événements</item>
+        <item>Pour les événements les plus pertinents</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Toujours</item>
         <item>Seulement quand la sonnerie est désactivée</item>
         <item>Jamais</item>
+    </string-array>
+    <string-array name="prefValues_alerts_popup">
+        <item>aucun</item>
+        <item>tout</item>
+        <item>intelligente</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Région par défaut</item>

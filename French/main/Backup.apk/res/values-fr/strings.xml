@@ -185,8 +185,9 @@ Taille de la mise à jour: %2$s"</string>
 
 2.\u0009Allez dans les Paramètres de MiTalk et sélectionnez \"Sauvegarder vos contacts vers votre compte Mi\""</string>
     <string name="import_from_xiaomi_account_hint2">Si vous avez déjà une sauvegarde, appuyez sur Suivant.</string>
-    <string name="import_from_xiaomi_account_hint_title">"Utilisez MiTalk pour sauvegarder vos contacts sur d'autres appareils."</string>
+    <string name="import_from_xiaomi_account_hint_title">"Utilisez Mi Talk pour sauvegarder vos contacts sur d'autres appareils."</string>
     <string name="guarded_mode_dialog_title">Vous êtes en mode invité</string>
+    <string name="gallery_summary">Paramètres de la galerie (photo non comprise)</string>
     <string name="guarded_mode_dialog_backup_message">Les sauvegardes ne sont pas autorisées en mode invité.</string>
     <string name="guarded_mode_dialog_transfer_message">"Impossible d'utiliser Mi Mover en mode Invité."</string>
     <string name="multi_user_mode_dialog_title">Vous êtes en mode multi-utilisateur</string>
@@ -622,7 +623,7 @@ Les données qui n'ont pas été importées doivent être importées encore."</s
     <string name="perm_storage">Lire et écrire sur un support de stockage externe</string>
     <string name="phone_title">Paramètres du téléphone</string>
     <string name="lack_perm_title">Autorisation requise</string>
-    <string name="lack_perm_msg">Mi Mover a besoin des autorisations suivantes: &lt;b>%s&lt;/b>.</string>
+    <string name="lack_perm_msg">Mi Transfert a besoin des autorisations suivantes: &lt;b>%s&lt;/b>.</string>
     <string name="flash_drive_backup_restore">Sauvegardes USB</string>
     <string name="flash_drive_backup_note">"Sauvegardez les applications sur un lecteur USB.
 Vérifiez que le lecteur USB dispose de suffisamment d'espace disponible avant de démarrer."</string>
@@ -637,6 +638,7 @@ Ne pas modifier ou renommer les fichiers de sauvegarde."</string>
     <string name="storage_usb">Lecteur USB</string>
     <string name="usb_trans_select_data_no_space">"Seulement %s disponibles sur votre lecteur USB.
 Libérez de l'espace ou ne transférez que les éléments importants."</string>
+    <string name="user_feedback">"Retour d'information"</string>
     <string name="usb_restore_select_data_too_large">"Les fichiers de sauvegarde sont volumineux. Cela peut prendre du temps pour les restaurer.
 Ne récupérez que les éléments importants pour aller plus vite."</string>
     <string name="usb_trans_native_no_space">"Seuls %s sont disponibles sur votre appareil.

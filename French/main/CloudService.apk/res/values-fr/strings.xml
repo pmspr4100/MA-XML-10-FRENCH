@@ -44,7 +44,7 @@
     <string name="sync_dspt_entrance_provision_confirm_content">"Les applications intégrées à MIUI ont besoin de Mi Cloud pour sauvegarder vos photos, contacts, notes et plus encore. Mi Cloud est gratuit et prêt à l'emploi."</string>
     <string name="sync_dspt_entrance_provision_skip">Ignorer cette étape</string>
     <string name="sync_dspt_entrance_provision_network">"Cette application doit se connecter à Internet pour fonctionner normalement. La synchronisation des données peut nécessiter la connexion des données mobiles et l'activation du Wi-Fi."</string>
-    <string name="find_device_dspt_provision">Si vous perdez votre appareil, vous pouvez aller sur %s pour localiser, verrouiller ou réinitialiser celui-ci. Vous pouvez activer ou désactiver cette fonction dans les Paramètres.</string>
+    <string name="find_device_dspt_provision">"Si vous perdez votre appareil, vous pouvez aller à &lt;font color=#ff0000&gt;%s&lt;/font&gt; pour le localiser, le verrouiller ou le réinitialiser. Vous pouvez activer ou désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
     <string name="find_device_send_sms_alert">Si vous changez de carte SIM, un SMS sera envoyé automatiquement pour réactiver ce service.</string>
     <string name="mx_dspt_provision">"Messages Mi vous permet d'envoyer des messages aux autres appareils MIUI sans encourrir aucun frais lorsque vous êtes connecté au Wi-Fi.
 
@@ -137,7 +137,7 @@ En utilisant ce service, vous acceptez %s."</string>
     <string name="micloud_main_network_error">Connexion réseau impossible</string>
     <string name="micloud_main_manual_sync">Synchroniser manuellement</string>
     <string name="micloud_main_wait_wlan">En attente du Wi-Fi</string>
-    <string name="micloud_main_sync_mode_summary">"Les éléments ci-dessus seront synchronisés en temps réel lorsque cette fonction est activée. Cela pourrait augmenter la consommation d'énergie de votre appareil."</string>
+    <string name="micloud_main_sync_mode_summary">"Synchronisez tous les éléments sauf les photos et les vidéos en temps réel. La consommation électrique augmentera lorsque cette fonction est activée."</string>
     <string name="micloud_main_sync_mode_title">Synchronisez en temps réel</string>
     <string name="micloud_main_wait_wlan_charge_sleep">"Connectez-vous au Wi-Fi, éteignez l'écran et chargez pleinement votre appareil pour reprendre la synchronisation."</string>
     <string name="micloud_main_wait_wlan_charge">"Connectez-vous au Wi-Fi, éteignez l'écran et chargez complètement votre appareil pour reprendre la synchronisation."</string>

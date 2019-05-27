@@ -3254,6 +3254,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_sos_statusbar_summary">Appuyez pour désactiver</string>
     <string name="miui_sos_statusbar_title">Mode SOS urgence est activé</string>
     <string name="miui_special_feature">Fonctionnalités spéciales</string>
+    <string name="miui_touch_filtered_touchassistant_warning">The permissions dialog is covered by Quick ball. Move Quick ball away or turn this feature off.</string>
     <string name="miui_touch_filtered_warning">"Si une application bloque une boîte de dialogue d'autorisations, faites glisser l'élément qui se chevauche ou fermez l'application."</string>
     <string name="miui_updater">Mise à jour système</string>
     <string name="miui_userguide">"Guide de l'utilisateur"</string>
