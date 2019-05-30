@@ -393,13 +393,14 @@ Sélectionnez uniquement les éléments importants afin de transférer plus rapi
 Libérez de l'espace de stockage ou ne transférez que des éléments importants."</string>
     <string name="trans_please_waiting">Chargement…</string>
     <string name="trans_old_phone_low_space_title">Espace de stockage insuffisant</string>
-    <string name="trans_old_phone_low_space_msg">"Mi Mover a besoin d'espace de stockage pour regrouper les données transférées, mais il semble que l'espace disponible sur l'ancien appareil est insuffisant. Libérez de l'espace dans \"Sécurité\" ou ne transférez que des éléments importants."</string>
+    <string name="trans_old_phone_low_space_msg">"Mi Transfert a besoin d'espace de stockage pour regrouper les données transférées, mais il semble que l'espace disponible sur l'ancien appareil est insuffisant. Libérez de l'espace dans \"Sécurité\" ou ne transférez que des éléments importants."</string>
     <string name="button_clean_garbage">"Libérer de l'espace"</string>
     <string name="button_quit">Quitter</string>
     <string name="soft_ap_creating">"Création d'un point d'accès…"</string>
-    <string name="wait_link">"Connectez votre ancien appareil à ce point d'accès. 
-Ne quittez pas cette page tant que la connexion n'est pas établie."</string>
-    <string name="old_way">Vous pouvez également vous connecter en utilisant un QR code. Appuyez pour générer le code.</string>
+    <string name="wait_link">"Ouvrez Mi Transfert sur l'ancien appareil,
+appuyez sur \ "Je suis un expéditeur \" et sélectionnez un point d'accès sans fil pour vous connecter.
+Ne fermez pas la page avant que la connexion ne soit établie. "</string>
+    <string name="old_way">"Vous pouvez également générer un QR code sur votre nouvel appareil et le numériser à l'aide de l'ancien."</string>
     <string name="soft_ap_create_failed">"Impossible de créer le point d'accès"</string>
     <string name="scan_soft_ap_label">Connecter à un ancien appareil</string>
     <string name="scan_soft_ap">Recherche du nouvel appareil…</string>
@@ -412,11 +413,11 @@ Ne quittez pas cette page tant que la connexion n'est pas établie."</string>
     <string name="confirm_exit_link_cancel">Ne pas quitter</string>
     <string name="connect_soft_ap_label">Connexion à un nouvel appareil…</string>
     <string name="recreate_soft_ap_tips">Appuyez sur le bouton ci-dessous pour réessayer.</string>
-    <string name="trans_install_guide_page_title">Installez Mi Mover sur votre ancien téléphone</string>
+    <string name="trans_install_guide_page_title">Installez Mi Transfert sur votre ancien téléphone</string>
     <string name="trans_install_guide_scan_install_tip">"Scannez ce QR code avec votre ancien téléphone
-pour télécharger et installer Mi Mover."</string>
+pour télécharger et installer Mi Transfert."</string>
     <string name="trans_install_guide_step1_title">Étape 1</string>
-    <string name="trans_install_guide_step1_content">Scannez le QR code avec votre ancien téléphone pour télécharger et installer \"Mi Mover\".</string>
+    <string name="trans_install_guide_step1_content">Scannez le QR code avec votre ancien téléphone pour télécharger et installer \"Mi Transfert\".</string>
     <string name="trans_install_guide_step2_title">Étape 2</string>
     <string name="trans_install_guide_step2_content">"Une fois l'installation terminée, appuyez sur \"Démarrer\" ci-dessous."</string>
     <string name="trans_install_guide_button_start">Démarrer</string>

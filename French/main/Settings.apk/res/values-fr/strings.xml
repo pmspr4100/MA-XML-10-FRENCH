@@ -4384,7 +4384,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="screen_paper_mode_off_apps_title">Ne pas utiliser le mode lecture</string>
     <string name="screen_paper_mode_range_title">Paramètres</string>
     <string name="screen_paper_mode_set_apps_title">Applications de mode de lecture</string>
-    <string name="screen_paper_mode_summary">Le mode lecture rend les couleurs de votre écran plus chaudes et permet à vos yeux de se détendre.</string>
+    <string name="screen_paper_mode_summary">Le mode lecture rend les couleurs de votre écran plus chaudes et permet à vos yeux de se détendre</string>
     <string name="screen_paper_mode_time_summary">"Définissez l'heure d'activation et de désactivation du mode lecture"</string>
     <string name="screen_paper_mode_time_title">Planifier</string>
     <string name="screen_paper_mode_title">Mode lecture</string>
@@ -5651,7 +5651,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlock_set_unlock_pin_title">Code PIN</string>
     <string name="unlock_set_unlock_summary">Définir un écran de verrouillage</string>
     <string name="unlock_setup_wizard_fingerprint_details">"Une fois que vous avez configuré un verrouillage de l'écran, vous pouvez également configurer votre empreinte numérique dans Paramètres > Sécurité."</string>
-    <string name="unlogin_account_summary">Tous les services Mi. Un compte Mi</string>
+    <string name="unlogin_account_summary">Tous les services Mi. Un compte Mi.</string>
     <string name="unlogin_account_title">Se connecter avec le compte Mi</string>
     <string name="unmount_inform_text">La carte SD va être désinstallée.</string>
     <string name="unmute_sound_title">Activer le son</string>
