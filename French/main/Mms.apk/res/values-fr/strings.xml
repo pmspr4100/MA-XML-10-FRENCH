@@ -255,6 +255,7 @@
     <string name="guild_add_recipients">Appuyer pour ajouter des destinaires depuis les contacts</string>
     <string name="guild_msim_switcher">Appuyer pour changer de carte SIM</string>
     <string name="has_invalid_recipient">Destinataires non valides: &lt;%1$s></string>
+    <string name="heduohao_sub_sim_card">Sub</string>
     <string name="hidden_sender_address">"Adresse d'expéditeur masquée"</string>
     <string name="hold_to_talk">Maintenir pour parler</string>
     <string name="hybrid_check_network">Paramètres du réseau</string>
@@ -578,6 +579,7 @@
     <string name="received_at_time">Reçu à: %1s</string>
     <string name="received_label">"Reçu: "</string>
     <string name="recipient_label">Destinataire:</string>
+    <string name="recipients_contain_sub_sim_number">"On dirait qu'il y a un numéro de carte SIM secondaire parmi les destinataires. Envoyez ce message en utilisant la carte SIM secondaire."</string>
     <string name="recipients_over_size">Trop de destinataires.</string>
     <string name="recommend_bar_cancel">Ignorer</string>
     <string name="recommend_bar_message_mx">"Mi Message vous permet d'envoyer des SMS aux autres utilisateurs MIUI sans encourir de frais."</string>
@@ -749,6 +751,9 @@
     <string name="storage_limits_setting">Définir les limites</string>
     <string name="storage_limits_setting_dismiss">Aucune limite</string>
     <string name="storage_unavailable">"Pas assez d' espace libre"</string>
+    <string name="sub_sim_card">Sub</string>
+    <string name="sub_sim_card_indicator">Sub %d</string>
+    <string name="sub_sim_not_support_mms">"Impossible d'envoyer des MMS avec une carte SIM secondaire"</string>
     <string name="subject_hint">Objet</string>
     <string name="subject_label">"Objet: "</string>
     <string name="subscribe">Sabonner</string>

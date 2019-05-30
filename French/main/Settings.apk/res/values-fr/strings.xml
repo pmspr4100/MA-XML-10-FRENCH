@@ -274,7 +274,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="allow_bind_app_widget_activity_allow_bind_title">"Créer un widget et autoriser l'accès ?"</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Toujours autoriser %1$s à créer des widgets et accéder à leurs données</string>
     <string name="allow_data_usage_title">Autor. conso données en itinér.</string>
-    <string name="allow_device_id_access">"Applications avec accès à l'ID de l'appareil"</string>
+    <string name="allow_device_id_access">"Sélectionnez les applications pouvant utiliser l'ID de l'appareil"</string>
     <string name="allow_float_summary">Autoriser les notifications flottantes</string>
     <string name="allow_float_title">Notifications flottantes</string>
     <string name="allow_interruption">Autoriser les interruptions</string>
@@ -284,6 +284,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="allow_lights_title">"Autoriser l'utilisation de la LED de notification"</string>
     <string name="allow_mock_location">Autoriser les simulations de localisations</string>
     <string name="allow_mock_location_summary">Autoriser les simulations de localisations</string>
+    <string name="allow_oaid_used">"Autoriser l'utilisation d'un identifiant d'appareil"</string>
     <string name="allow_overlay_description">Autorisez cette application à se superposer aux autres applications que vous utilisez. Cette autorisation peut avoir un impact sur votre utilisation de ces dernières, ou modifier leur apparence ou leur comportement.</string>
     <string name="allow_sound_title">Autoriser le son</string>
     <string name="allow_vibrate_title">Autoriser les vibrations</string>
@@ -581,7 +582,7 @@ Activez optimisation batterie."</string>
     <string name="backup_set_new_pw_title">Entrez le nouveau mot de passe de sauvegarde</string>
     <string name="backup_set_null_pw">Entrez le mot de passe en premier</string>
     <string name="backup_set_pw_confirm_title">Confirmer le nouveau mot de passe de sauvegarde</string>
-    <string name="badge_title">"Bulle sur l'icône de l'application"</string>
+    <string name="badge_title">"Afficher les badges d'icône d'application"</string>
     <string name="band_mode_failed">Échec</string>
     <string name="band_mode_loading">Chargement de la liste de bandes…</string>
     <string name="band_mode_set">Définir</string>
@@ -1751,7 +1752,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_display_layout_title">Fonctionnalités du Mi 5</string>
     <string name="device_edit_title">Renommer le téléphone</string>
     <string name="device_feedback">"Envoyer commentaires sur l'appareil"</string>
-    <string name="device_id">"ID de l'appareil"</string>
+    <string name="device_id">"ID de périphérique pour des recommandations personnalisées"</string>
     <string name="device_info_default">Inconnu</string>
     <string name="device_info_label">"Informations sur l'appareil"</string>
     <string name="device_info_not_available">Non disponible</string>
@@ -1767,6 +1768,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_name_input_hint">Entrez le nom</string>
     <string name="device_name_input_overlength">Vous avez dépassé la limite de caractères</string>
     <string name="device_name_usage_point">Les autres appareils à proximité peuvent voir ce nom.</string>
+    <string name="device_oaid">ID de périphérique</string>
     <string name="device_picker">Sélectionner un appareil</string>
     <string name="device_rear_camera">Appareil photo arrière</string>
     <string name="device_screen_consumption">"Consommation d'énergie de l'écran"</string>
@@ -4254,11 +4256,14 @@ Interface UT: %5$s"</string>
     <string name="resolver_settings_label">Trier</string>
     <string name="restore_default_apn">Restauration des paramètres APN par défaut en cours...</string>
     <string name="restore_default_apn_completed">La réinitialisation des paramètres APN par défaut est terminée.</string>
-    <string name="restore_device_id_content">Réinitialiser les recommandations personnalisées</string>
-    <string name="restore_device_id_title">Restaurer l’ID de l’appareil</string>
-    <string name="restore_dialog_content">"Restaurer l'identification de l'appareil réinitialisera les recommandations personnalisées."</string>
-    <string name="restore_dialog_positive">Restaurer</string>
+    <string name="restore_device_id_content">Les recommandations personnalisées seront réinitialisées</string>
+    <string name="restore_device_id_title">"Réinitialiser l'ID de l'appareil"</string>
+    <string name="restore_dialog_content">"Réinitialiser votre ID de périphérique actuel réinitialisera également les recommandations personnalisées. Réinitialiser maintenant ?"</string>
+    <string name="restore_dialog_positive">Réinitialiser</string>
     <string name="restore_dialog_title">Attention</string>
+    <string name="restore_oaid_content">Réinitialiser votre ID de périphérique actuel en créera un nouveau. Réinitialiser maintenant ?</string>
+    <string name="restore_oaid_positive">Réinitialiser</string>
+    <string name="restore_oaid_title">"Réinitialisation de l'identifiant de l'appareil"</string>
     <string name="restr_pin_enter_admin_pin">"Saisir le code d'accès administrateur"</string>
     <string name="restrict_background_blacklisted">Les données en arrière-plan sont désactivées.</string>
     <string name="restrict_bg_app">Restreindre</string>

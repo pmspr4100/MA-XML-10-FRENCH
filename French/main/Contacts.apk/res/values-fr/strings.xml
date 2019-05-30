@@ -645,6 +645,9 @@ Raison: \"%s\""</string>
     <string name="menu_set_ring_tone">Choisir une sonnerie</string>
     <string name="menu_settings">Paramètres</string>
     <string name="menu_share">Partager</string>
+    <string name="menu_share_qrcode">QR code</string>
+    <string name="menu_share_text">Texte</string>
+    <string name="menu_share_vcard_file">Fichier</string>
     <string name="menu_show_all_calls">Afficher tous les appels</string>
     <string name="menu_show_voicemails_only">Afficher seulement les messages vocaux</string>
     <string name="menu_splitAggregate">Séparer</string>
@@ -1012,8 +1015,10 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="set_data_package">"Définir d'abord le forfait de données"</string>
     <string name="set_default">Définir par défaut</string>
     <string name="set_photo_failed_msg">"Impossible d'ajouter une photo"</string>
+    <string name="share_contact_as">Partager le contact en tant que</string>
     <string name="share_error">Ce contact ne peut pas être partagé</string>
     <string name="share_over_limit">Impossible de partager plus de 1000 contacts</string>
+    <string name="share_qrcode">Partager QR code</string>
     <string name="share_via">Envoyer avec</string>
     <string name="share_visible_contacts">Partager les contacts</string>
     <string name="shortcutActivityTitle">Choisir un raccourcis</string>

@@ -348,7 +348,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="app_name_na">Utilisation des données</string>
     <string name="list_empty_text">Vide</string>
     <string name="dialog_title_attention">Attention</string>
-    <string name="kilobyte_per_second">ko/s</string>
+    <string name="kilobyte_per_second">Ko/s</string>
     <string name="megabyte_per_second">Mo/s</string>
     <string name="gigabyteShort">Go</string>
     <string name="megabyteShort">Mo</string>
@@ -1491,7 +1491,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="hints_scanning_text">Analyse…</string>
     <string name="auto_handle_title">GÉNÉRAL</string>
     <string name="manual_item_white_list_title">Exceptions</string>
-    <string name="manual_item_white_list_summary">"Empêcher les applications sélectionnées d'être optimisées"</string>
+    <string name="manual_item_white_list_summary">"Empêcher les éléments sélectionnés d'être optimisés"</string>
     <string name="pm_auto_start_by_system">Applications au démarrage</string>
     <string name="pm_auto_start_by_system_event">Autoriser les applications à démarrer automatiquement</string>
     <string name="pm_auto_start_by_other">Démarrer le déclencheur</string>
@@ -2017,7 +2017,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="app_manager_default_open_title">Annuler les applis par défaut</string>
     <string name="app_manager_default_close_summary">Aucune application par défaut définie.</string>
     <string name="app_manager_default_open_summary">Vous avez choisi de lancer cette application par défaut pour certaines actions.</string>
-    <string name="app_manager_app_version_name">Version:</string>
+    <string name="app_manager_app_version_name">"Version: "</string>
     <string name="app_manager_unstall_application">Désinstaller</string>
     <string name="app_manager_force_stop_dlg_title">"Forcer l'arrêt ?"</string>
     <string name="app_manager_force_stop_dlg_text">"Si vous forcez l'arrêt de cette application, elle peut se comporter de façon étrange."</string>
@@ -2438,7 +2438,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="first_aid_result_summary_normal">Tout semble bon !</string>
     <string name="first_aid_result_summary_not_finished">"Le scan n'a pas été terminé. Certains risques peuvent ne pas être détectés."</string>
     <string name="first_aid_result_feedback_title">Commentaires</string>
-    <string name="first_aid_result_feedback_summary">Impossible de trouver des problèmes. Cependant, jen ai repéré.</string>
+    <string name="first_aid_result_feedback_summary">"L’analyse de sécurité n’a trouvé aucun problème. Cependant, j'en ai repéré."</string>
     <string name="first_aid_result_feedback_button">Envoyer</string>
     <string name="first_aid_card_kadun_title">"L'appareil ralentit"</string>
     <string name="first_aid_card_kadun_summary1">"Libérez de l'espace de stockage sur votre appareil afin qu'il fonctionne normalement."</string>

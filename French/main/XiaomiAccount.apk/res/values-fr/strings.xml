@@ -19,7 +19,7 @@
     <string name="abc_toolbar_collapse_description">Réduire</string>
     <string name="passport_account_label">Compte Mi</string>
     <string name="passport_notification_title">Erreur de connexion pour %1$s</string>
-    <string name="passport_login_prompt">Un Compte Mi. Tous les services Mi.</string>
+    <string name="passport_login_prompt">Tous les services Mi. Un compte Mi.</string>
     <string name="passport_login_using_other_ways">Autres méthodes de connexion</string>
     <string name="passport_register_using_other_ways">Autres moyens de créer un compte</string>
     <string name="passport_login_title">Connectez-vous à votre compte Mi</string>
