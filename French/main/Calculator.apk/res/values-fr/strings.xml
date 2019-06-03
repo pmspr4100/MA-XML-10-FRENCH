@@ -273,6 +273,7 @@
     <string name="tax_param_error">"Saisir les taux exacts d'assurance"</string>
     <string name="tax_payment_period">Nombre de paiements</string>
     <string name="tax_rate_provider">Calculé selon la nouvelle réglementation fiscale. Les données sont fournies par hexun.com et East Money.</string>
+    <string name="tax_rate_provider_east_money">Calculé selon la nouvelle réglementation fiscale. Les données sont fournies par East Money.</string>
     <string name="tax_result_real_get">Après taxe</string>
     <string name="tax_social_insurance">Assurance sociale</string>
     <string name="tax_thershold_foreign">%s (Ressortissants étrangers)</string>
@@ -280,7 +281,7 @@
     <string name="tax_thershold_native_new">%s (nouveau)</string>
     <string name="tax_thershold_native_new_description">Les taxes seront calculées selon la nouvelle loi fiscale à partir de 1er octobre 2018</string>
     <string name="tax_threshold">"Taxe d'exonération d'impôt"</string>
-    <string name="tax_total_insurance_provident_fund">Assurance &amp; fond de logement</string>
+    <string name="tax_total_insurance_provident_fund">Assurance et fond de logement</string>
     <string name="tax_unemployment">Chômage</string>
     <string name="tax_update_time_format">Données fournies par HeXun (%s)</string>
     <string name="unKnow_error">Erreur inconnue</string>

@@ -53,7 +53,7 @@
     <string name="button_text_uninstall">Désinstaller</string>
     <string name="pref_category_title_cleanup_white_list">Exceptions</string>
     <string name="pref_title_cleanup_white_list">Exceptions</string>
-    <string name="pref_summary_cleanup_white_list">"Empêcher les applications sélectionnées d'être nettoyées"</string>
+    <string name="pref_summary_cleanup_white_list">"Empêcher les fichiers sélectionnées d'être nettoyées"</string>
     <string name="pref_category_title_auto_update_cleanup_db">Paramètres additionnels</string>
     <string name="pref_title_auto_update_cleanup_db">Mise à jour automatique</string>
     <string name="pref_summary_auto_update_cleanup_db">Dernière mise à jour: %s</string>

@@ -579,6 +579,10 @@ Activez optimisation batterie."</string>
     <string name="backup_set_enter_pw_title">Entrez le mot de passe de sauvegarde</string>
     <string name="backup_set_error_pw">Le mot de passe que vous avez entrée est incorrect</string>
     <string name="backup_set_modify_title">Changer le mot de passe de sauvegarde</string>
+    <string name="backup_set_new_continue">Continuer</string>
+    <string name="backup_set_new_exit">Quitter</string>
+    <string name="backup_set_new_pw_confirm_hint">Attention</string>
+    <string name="backup_set_new_pw_confirm_summary">Your items are backed up automatically now. Creating a backup password will stop automatic backups. Continue anyway?</string>
     <string name="backup_set_new_pw_title">Entrez le nouveau mot de passe de sauvegarde</string>
     <string name="backup_set_null_pw">Entrez le mot de passe en premier</string>
     <string name="backup_set_pw_confirm_title">Confirmer le nouveau mot de passe de sauvegarde</string>
@@ -1762,6 +1766,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_miui_more">Afficher plus</string>
     <string name="device_miui_version">Version MIUI</string>
     <string name="device_miui_version_for_POCO">Version MIUI (pour POCO)</string>
+    <string name="device_miui_version_parameters">MIUI version</string>
     <string name="device_miui_version_update">Mise à jour de MIUI disponible</string>
     <string name="device_name">"Nom de l'appareil"</string>
     <string name="device_name_input_error">"Impossible d'enregistrer le nom de l'appareil"</string>

@@ -2288,6 +2288,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="signed_rule_two">2. Vous pouvez obtenir seulement 1 accélération Xunyou par mois.</string>
     <string name="signed_rule_three">"3. Les jours d'enregistrement sont annulés au début de chaque mois. Les jours restants ne sont pas reportés."</string>
     <string name="gb_get_gift_right_now">"S'enregistrer maintenant"</string>
+    <string name="gb_global_settings">General settings</string>
     <string name="gb_have_signed">"S'enregistrer aujourd'hui"</string>
     <string name="gb_sign_gift_button_text">Recevoir</string>
     <string name="gb_xunyou_gift_type_one">Boost Xunyou 1 jour</string>
@@ -2336,6 +2337,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gb_advance_settings_edge_suppression">Zone tactile</string>
     <string name="gb_advance_settings_edge_suppression_summary">Réduisez la sensibilité au toucher près des bords pour éviter de déclencher des commandes tactiles. Tenez votre appareil par les zones en surbrillance pour laisser les haut-parleurs découverts.</string>
     <string name="gb_advance_settings_edge_gear1">Aucun</string>
+    <string name="gb_add_game_hint">Add items from the list of apps</string>
     <string name="gb_advance_settings_edge_gear2">Petit</string>
     <string name="gb_advance_settings_edge_gear3">Moyen</string>
     <string name="gb_advance_settings_edge_gear4">Grand</string>

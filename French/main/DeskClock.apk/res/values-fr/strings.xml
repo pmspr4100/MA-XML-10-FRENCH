@@ -185,6 +185,9 @@
     <string name="setting_alarm_arriving_summary">"Envoyer une notification avant le déclenchement de l'alarme"</string>
     <string name="setting_alarm_arriving_title">"Notification avant le déclenchement de l'alarme"</string>
     <string name="settings">Paramètres</string>
+    <string name="shortcut_new_alarm">"Régler l'alarme"</string>
+    <string name="shortcut_start_timer">Démarrer la minuterie</string>
+    <string name="shortcut_stop_watch">Démarrer chronomètre</string>
     <string name="shut_down_keep_screen">"L'écran ne pourra pas rester allumé"</string>
     <string name="shutdown_alarm_disable_summary">"L'alarme ne sonnera pas après avoir éteint lappareil"</string>
     <string name="shutdown_alarm_enable_summary">"L'alarme se déclenche si elle est réglée sur au moins 5 minutes après la mise hors tension de votre appareil"</string>
