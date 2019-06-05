@@ -52,6 +52,10 @@
         <item quantity="other">"%d entrées du Coffre d'applications"</item>
         <item quantity="one">"%d entrée du Coffre d'applications"</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d phrases fréquentes</item>
+        <item quantity="one">%d phrase fréquente</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d photos masquées synchronisées. Déconnectez-vous une fois que tous les éléments sont synchronisés afin de les conserver ; sinon, les éléments seront supprimés.</item>
         <item quantity="one">%d photo masquée synchronisée. Déconnectez-vous une fois que tous les éléments sont synchronisés afin de les conserver ; sinon, les éléments seront supprimés.</item>

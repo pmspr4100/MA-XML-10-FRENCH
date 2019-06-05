@@ -2277,6 +2277,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="accessibility_gameboosterservice_description">Activer pour désactiver le son des appels WeChats entrants lorsque vous jouez à des jeux</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_ad_game_size">Mo</string>
+    <string name="gb_add_game_hint">Add items from the list of apps</string>
     <string name="gb_new_feature">Nouvelle fonctionnalité</string>
 	<string name="gb_shortcut_pref_title">"Raccourci de l'écran d'accueil"</string>
     <string name="gb_sign_notification_title">Augmentez la vitesse du réseau pour les jeux</string>
@@ -2288,7 +2289,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="signed_rule_two">2. Vous pouvez obtenir seulement 1 accélération Xunyou par mois.</string>
     <string name="signed_rule_three">"3. Les jours d'enregistrement sont annulés au début de chaque mois. Les jours restants ne sont pas reportés."</string>
     <string name="gb_get_gift_right_now">"S'enregistrer maintenant"</string>
-    <string name="gb_global_settings">General settings</string>
+    <string name="gb_global_settings">Paramètres généraux</string>
     <string name="gb_have_signed">"S'enregistrer aujourd'hui"</string>
     <string name="gb_sign_gift_button_text">Recevoir</string>
     <string name="gb_xunyou_gift_type_one">Boost Xunyou 1 jour</string>
@@ -2315,6 +2316,11 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gamebox_type_float">Raccourci fixe</string>
     <string name="gamebox_type_gesture">Balayer pour afficher</string>
     <string name="gamebox_browser_not_find">"Installer depuis Navigateur Mi d'abord"</string>
+    <string name="gamebox_display_1">None</string>
+    <string name="gamebox_display_2">Saturated</string>
+    <string name="gamebox_display_3">Bright</string>
+    <string name="gamebox_display_4">Bright &amp; saturated</string>
+    <string name="gamebox_display_set">"Visual enhancement: "</string>
     <string name="gamebox_dnd">NPD</string>
     <string name="gamebox_wifi">Wi-Fi</string>
     <string name="gamebox_simcard">Changer de carte SIM</string>
@@ -2337,7 +2343,6 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gb_advance_settings_edge_suppression">Zone tactile</string>
     <string name="gb_advance_settings_edge_suppression_summary">Réduisez la sensibilité au toucher près des bords pour éviter de déclencher des commandes tactiles. Tenez votre appareil par les zones en surbrillance pour laisser les haut-parleurs découverts.</string>
     <string name="gb_advance_settings_edge_gear1">Aucun</string>
-    <string name="gb_add_game_hint">Add items from the list of apps</string>
     <string name="gb_advance_settings_edge_gear2">Petit</string>
     <string name="gb_advance_settings_edge_gear3">Moyen</string>
     <string name="gb_advance_settings_edge_gear4">Grand</string>

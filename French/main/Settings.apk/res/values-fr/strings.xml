@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Accounts_settings_title">Comptes</string>
+    <string name="a11y_settings_label">"Paramètres d'accessibilité"</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
-    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_action_mode_done">Terminer</string>
     <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
@@ -92,7 +93,12 @@
     <string name="accessibility_long_press_timeout_preference_title">Délai de pression</string>
     <string name="accessibility_manual_zen_less_time">Moins de temps.</string>
     <string name="accessibility_manual_zen_more_time">Plus de temps.</string>
+    <string name="accessibility_menu_description">"Accessibility menu provides convenient shortcuts that allow you to control your device.
+
+Turn this feature on and tap the Accessibility button at the bottom of your screen to open the menu."</string>
     <string name="accessibility_menu_item_settings">Paramètres</string>
+    <string name="accessibility_menu_service_name">Accessibility menu</string>
+    <string name="accessibility_menu_summary">Control your device using convenient shortcuts</string>
     <string name="accessibility_more_settings">Paramètres supplémentaires</string>
     <string name="accessibility_no_service_selected">Aucun service sélectionné</string>
     <string name="accessibility_no_services_installed">Aucun service installé</string>
@@ -2414,6 +2420,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="global_locale_change_title">Changer de langue</string>
     <string name="go_back_button_label">Retour</string>
     <string name="go_to_sleep">"Éteindre l'écran"</string>
+    <string name="google_assistant_label">Google Assistant</string>
     <string name="google_backup_enable">Activer les sauvegardes</string>
     <string name="google_backup_section_title">Sauvegarde Google et restauration</string>
     <string name="google_title">Paramètres Google</string>
@@ -3003,6 +3010,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lockscreen_glogin_checking_password">Vérification…</string>
     <string name="lockscreen_glogin_password_hint">Mot de passe</string>
     <string name="lockscreen_glogin_submit_button">"S'identifier"</string>
+    <string name="lockscreen_label">Lock screen</string>
     <string name="lockscreen_magazine">"Fond d'écran carrousel"</string>
     <string name="lockscreen_magazine_summary">"Fond d'écran carrousel de haute qualité"</string>
     <string name="lockscreen_magazine_title">"Fond d'écran carrousel"</string>
@@ -3866,6 +3874,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="power_key_how_start_detail">"Appuyez sur le bouton d'alimentation et maintenez-le enfoncé pendant 0,5 seconde. Relâchez pour parler."</string>
     <string name="power_key_start_enjoy">Apprenez en plus à propos du Google Assistant</string>
     <string name="power_key_start_guide">"Activation de Google Assistant à l'aide du bouton d'alimentation sur des appareils à affichage plein écran"</string>
+    <string name="power_label">Power</string>
     <string name="power_menu_under_keyguard_summary">"Autoriser l'accès au menu d'alimentation lorsque le périphérique est verrouillé"</string>
     <string name="power_menu_under_keyguard_title">"Accès au menu d'alimentation"</string>
     <string name="power_mgr">Optimisation de la batterie</string>
@@ -4106,7 +4115,9 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="proxy_warning_limited_support">"Le proxy HTTP est utilisé par le navigateur, mais ne peut pas l'être par les autres applications."</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Transmission de rapports</string>
     <string name="qtifeedback_settings_title">Avis sur le matériel</string>
+    <string name="quick_reply_title">Quick replies</string>
     <string name="quick_settings_developer_tiles">Tuiles de configuration rapide pour les développeurs</string>
+    <string name="quick_settings_label">Toggles</string>
     <string name="quiet">Ne pas déranger</string>
     <string name="quiet_group">Ne pas déranger</string>
     <string name="quiet_important_interruptions_mode">Autoriser seulement les exceptions</string>
@@ -4192,6 +4203,7 @@ Interface UT: %5$s"</string>
     <string name="rebootiing_for_updates">Redémarrage...</string>
     <string name="receiver_clean">"Libérer de l'espace"</string>
     <string name="recent_app_category_title">Applications ouvertes récemment</string>
+    <string name="recent_apps_label">Recents</string>
     <string name="recent_location_requests_summary">Voir les applications demandant à accéder vos infos de localisation</string>
     <string name="recent_location_requests_title">Localisation</string>
     <string name="recent_notifications">Envoyées récemment</string>
@@ -4463,6 +4475,7 @@ Pour épingler l'écran:
     <string name="screensaver_settings_title">"Économiseur d'écran"</string>
     <string name="screensaver_settings_when_to_dream">Quand commencer</string>
     <string name="screenshot">"Capture d'écran"</string>
+    <string name="screenshot_label">"Capture d'écran"</string>
     <string name="screenshot_three_gesture">"Faites glisser 3 doigts vers le bas pour effectuer une capture d'écran"</string>
     <string name="screenshot_three_gesture_summary">Les autres gestes à 3 doigts seront désactivés</string>
     <string name="sd_card_settings_label">Carte SD</string>
@@ -6009,6 +6022,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_category_title">Volume</string>
     <string name="volume_hifi_description">Paramètres Hi-Fi</string>
+    <string name="volume_label">Volume</string>
     <string name="volume_media_description">Musique, vidéo, jeux, et autres médias</string>
     <string name="volume_media_mute">Couper le son de la musique et des autres médias</string>
     <string name="volume_notification_description">Notifications</string>

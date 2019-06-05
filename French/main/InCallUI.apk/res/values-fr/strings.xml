@@ -127,10 +127,15 @@
     <string name="select_voice_call_sim">Choisir une carte SIM</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">"Impossible d'accéder à la SIM %2$d, lorsque la SIM %1$d est en cours d'utilisation."</string>
+    <string name="select_sim_hint_for_heduohao">"Can't use other, while SIM %1$d Sub %2$d is in use."</string>
     <string name="select_one_sim_title">Peut seulement utiliser la SIM %1$d</string>
+    <string name="select_one_sim_title_for_heduohao">Can only use SIM %1$d Sub %2$d</string>
     <string name="can_not_use">"Impossible d'utiliser"</string>
     <string name="sim1_description">SIM 1</string>
+    <string name="sim1_heduohao_card">Sub 1</string>
     <string name="sim2_description">SIM 2</string>
+    <string name="sim2_heduohao_card">Sub 2</string>
+    <string name="sim3_heduohao_card">Sub 3</string>
     <string name="call_description_recording">Enregistrement…</string>
     <string name="call_recording_error_privacy">"Impossible d'enregistrer en mode invité"</string>
     <string name="call_recording_error_sd_access">"Impossible d'accéder à la carte SD"</string>

@@ -172,9 +172,12 @@ Taille de la mise à jour: %2$s"</string>
     <string name="dialog_app_upgrade_download">Mise à jour</string>
     <string name="dialog_app_upgrade_exit">Quitter</string>
     <string name="dialog_app_upgrade_message">Une nouvelle version de Mi Transfert est disponible. Mettre à jour Mi Transfert maintenant ?</string>
+    <string name="dialog_backup_password_auto_backup_tips">"Can't back up items automatically when backup password is on. Turn off backup password first."</string>
     <string name="dialog_backup_password_backup_tips">"Impossible de sauvegarder les éléments lorsque le mot de passe de sauvegarde est activé. Désactiver le mot de passe de sauvegarde."</string>
     <string name="dialog_backup_password_cancel">Annuler</string>
+    <string name="dialog_backup_password_change_device_restore_tips">"Can't use Mi Mover when backup password is on. Turn off backup password first."</string>
     <string name="dialog_backup_password_change_machine_tips">"Vous ne pourrez pas transférer de sauvegardes protégées par mot de passe. Désactivez le mot de passe de sauvegarde avant d'utiliser Mi Transfert."</string>
+    <string name="dialog_backup_password_restore_tips">"Can't restore items when backup password is on. Turn off backup password first."</string>
     <string name="dialog_backup_password_to_settings">Paramètres</string>
     <string name="reverse_all">Tout effacer</string>
     <string name="refresh">Actualiser</string>
@@ -241,7 +244,7 @@ Taille de la mise à jour: %2$s"</string>
     <string name="feature_title_contacts">Contacts</string>
     <string name="feature_title_sms">Messages</string>
     <string name="feature_title_mms">MMS</string>
-    <string name="feature_title_mms_setting">Paramètres MMS</string>
+    <string name="feature_title_mms_setting">Paramètres de messagerie</string>
     <string name="feature_title_account">Compte Mi</string>
     <string name="feature_title_antispam">Liste noire</string>
     <string name="summary_err_backup_encrypting">Connectez-vous à votre Compte Mi.</string>
@@ -347,6 +350,7 @@ Ne désactivez pas le point d'accès Wi-Fi. Gardez les appareils proches l'un de
     <string name="trans_progress_subdescript_transing_receiver_finish">Reçu %s, en attente de restauration…</string>
     <string name="trans_cancel_confirm">Transfert en cours, arrêter maintenant ?</string>
     <string name="trans_cancelling">Annulation…</string>
+    <string name="trans_complete_restoring">Transferred successfully. Restoring app data…</string>
     <string name="trans_pausing">Mise en pause…</string>
     <string name="trans_device_disconnected">La connexion a été interrompue</string>
     <string name="trans_device_wait_for_reconnecting">La connexion a été interrompue. Reconnecter pour continuer.</string>
@@ -567,6 +571,7 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
     <string name="hsa_verify_failed_message">"L'authentification à 2 facteurs a échoué. Vous pouvez réessayer ou désactiver l'authentification à 2 facteurs."</string>
     <string name="hsa_verify_retry">Veuillez réessayer</string>
     <string name="hsa_verify_shutdown">Désactiver</string>
+    <string name="iCloud_ID_verification_tip">"Enter the SMS verification code sent to the phone number associated with your Apple ID. Ignore the pop-up code displayed on your iPhone's screen."</string>
     <string name="import_data_from_icloud">Importer des données depuis iCloud</string>
     <string name="loading_data">Chargement des données</string>
     <string name="icloud_need_sync">"Pour importer les données depuis iOS, 
