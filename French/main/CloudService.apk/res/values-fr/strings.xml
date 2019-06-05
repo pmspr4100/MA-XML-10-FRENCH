@@ -283,14 +283,14 @@ a votre compte Mi pour réactiver Mi Cloud."</string>
     <string name="soundrecorder_sync_only_in_wifi">Synchronisation en Wi-Fi uniquement</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">"L'enregistreur n'utilisera pas de données mobiles pour télécharger ou uploader les enregistrements"</string>
     <string name="micloud_wipe_data_confirm_label">Retirer les données de Mi Cloud</string>
-    <string name="micloud_wipe_data_retain">Garder</string>
+    <string name="micloud_wipe_data_retain">Conserver</string>
     <string name="micloud_wipe_data_remove">Retirer</string>
     <string name="wipe_data_dialog_title">Éléments non synchronisés</string>
     <string name="wipe_data_dialog_button_check_sync">Vérifier si synchronisé</string>
     <string name="wipe_data_dialog_msg_and_on">, et quelques autres éléments</string>
     <string name="wipe_secret_photo_dialog_title">Les photos masquées ne sont synchronisées</string>
     <string name="confirm_delete">Supprimer</string>
-    <string name="confirm_save">Garder</string>
+    <string name="confirm_save">Conserver</string>
     <string name="micloud_request_permission_title">"Mi Cloud a besoin d'autorisations"</string>
     <string name="micloud_request_permission_content">"Mi Cloud a besoin d'autorisation pour synchroniser vos données. Autoriser Mi Cloud à accéder Agenda, Contacts, Compte Mi, Carte SIM, État, historique des appels, et messages."</string>
     <string name="micloud_request_permission_confirm">"C'est compris"</string>

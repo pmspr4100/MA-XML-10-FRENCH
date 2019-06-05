@@ -127,9 +127,9 @@
     <string name="select_voice_call_sim">Choisir une carte SIM</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="select_sim_hint">"Impossible d'accéder à la SIM %2$d, lorsque la SIM %1$d est en cours d'utilisation."</string>
-    <string name="select_sim_hint_for_heduohao">"Can't use other, while SIM %1$d Sub %2$d is in use."</string>
+    <string name="select_sim_hint_for_heduohao">"Vous ne pouvez pas utiliser autre chose lorsque  SIM %1$d Sub %2$d est en cours d'utilisation."</string>
     <string name="select_one_sim_title">Peut seulement utiliser la SIM %1$d</string>
-    <string name="select_one_sim_title_for_heduohao">Can only use SIM %1$d Sub %2$d</string>
+    <string name="select_one_sim_title_for_heduohao">Ne peut utiliser que la carte SIM %1$d Sub %2$d</string>
     <string name="can_not_use">"Impossible d'utiliser"</string>
     <string name="sim1_description">SIM 1</string>
     <string name="sim1_heduohao_card">Sub 1</string>
@@ -139,7 +139,7 @@
     <string name="call_description_recording">Enregistrement…</string>
     <string name="call_recording_error_privacy">"Impossible d'enregistrer en mode invité"</string>
     <string name="call_recording_error_sd_access">"Impossible d'accéder à la carte SD"</string>
-    <string name="call_recording_error_sd_unmounted">Enregistrement arrêté : carte SD démontée.</string>
+    <string name="call_recording_error_sd_unmounted">Enregistrement arrêté: carte SD démontée.</string>
     <string name="call_recording_error_low_storage">Espace de stockage insuffisant.</string>
     <string name="call_recording_error_start_failed">"L'enregistreur est utilisé par une autre application."</string>
     <string name="call_recording_error_unknown">Une erreur inconnue est survenue.</string>

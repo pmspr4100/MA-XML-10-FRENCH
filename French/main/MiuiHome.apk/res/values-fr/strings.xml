@@ -30,11 +30,11 @@
     <string name="announce_for_open_default_preview">"Paramètres de l'écran d'accueil par défaut ouverts"</string>
     <string name="announce_for_open_folder">Dossier %1$s ouvert</string>
     <string name="announce_for_open_launcher_menu">Menu ouvert</string>
-    <string name="announce_for_search_bar">Search bar</string>
+    <string name="announce_for_search_bar">Barre de recherche</string>
     <string name="announce_for_show_uninstall_dialog">Désinstallation des journaux apparus. Annuler ou confirmer.</string>
     <string name="announce_for_unchecked">%1$s, non vérifié</string>
     <string name="announce_for_widget_span">Largeur %1$d, hauteur %2$d</string>
-    <string name="announce_for_xiaoai">Mi AI</string>
+    <string name="announce_for_xiaoai">Mi IA</string>
     <string name="app_already_exist">"L'application existe déjà"</string>
     <string name="app_being_backup_message">"L'app est en cours de restauration"</string>
     <string name="app_being_restored_message">"L'app est en cours de restauration"</string>
@@ -45,7 +45,7 @@
     <string name="app_category_games">Jeux</string>
     <string name="app_category_health">Santé</string>
     <string name="app_category_lifestyle">Mode de vie</string>
-    <string name="app_category_music_movie">TV &amp; Musique</string>
+    <string name="app_category_music_movie">TV et Musique</string>
     <string name="app_category_news">Actualités</string>
     <string name="app_category_photos">Photographie</string>
     <string name="app_category_productivity">Productivité</string>
@@ -286,8 +286,8 @@
     <string name="preferences_general_title">Paramètres supplémentaires</string>
     <string name="preferences_title">Paramètres du lanceur</string>
     <string name="preferred_app_settings_not_selected">Non sélectionné</string>
-    <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
-    <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+    <string name="privacy_thumbnail_blur_summary">"Aperçu de l'application flou dans Récents"</string>
+    <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
     <string name="quick_app">Applications rapides</string>
     <string name="recents_config_title">Récents</string>
     <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>

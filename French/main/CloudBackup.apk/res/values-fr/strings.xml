@@ -95,9 +95,9 @@
     <string name="restore_network_unconnect">%s (Attente de la connexion)</string>
     <string name="restore_finish_description">Restauration terminée</string>
     <string name="backup_fail_wifi_needed">Impossible de sauvegarder, besoin de Wi-Fi.</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">Not enough storage space in Mi Cloud. Upgrade your plan or free up storage space.</string>
-    <string name="backup_failed_reason_disk_space_not_enough">Not enough storage space. Free up storage first.</string>
-    <string name="backup_failed_reason_network_error">Network error. Wait a minute or two and try again.</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">"Pas assez d'espace de stockage dans Mi Cloud. Mettez à niveau votre plan ou libérez de l'espace de stockage."</string>
+    <string name="backup_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
+    <string name="backup_failed_reason_network_error">Erreur réseau. Attendez une minute ou deux et réessayez.</string>
     <string name="backup_success">Sauvegardé avec succès</string>
     <string name="cloud_task_in_process">Arreter %s et supprimer cette sauvegarde ? Vous ne pourrez pas annuler cette action.</string>
     <string name="cloud_back_up_task">Sauvegarde…</string>
@@ -154,8 +154,8 @@ Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="restore_detail_category_settings">Paramètres</string>
     <string name="restore_detail_more">Plus</string>
     <string name="restore_detail_title">Sélectionnez les éléments à restaurer</string>
-    <string name="restore_failed_reason_disk_space_not_enough">Not enough storage space. Free up storage first.</string>
-    <string name="restore_failed_reason_network_error">Network error. Wait a minute or two and try again.</string>
+    <string name="restore_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
+    <string name="restore_failed_reason_network_error">Erreur réseau. Attendez une minute ou deux et réessayez.</string>
     <string name="provision_error_connect_msg">Testez le réseau et réessayez. Les sauvegardes ne sont pas disponibles lorsque votre appareil est hors ligne.</string>
     <string name="provision_error_connect_title">Impossible de se connecter</string>
 	<string name="provision_restore_data">"Restauration d'éléments"</string>

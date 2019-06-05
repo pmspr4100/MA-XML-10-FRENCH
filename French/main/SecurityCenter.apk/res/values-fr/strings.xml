@@ -794,6 +794,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="network_connected_exception_title">Tester le réseau</string>
     <string name="protocol_exception_title">Diagnostics de protocole réseau</string>
     <string name="protocol_loop_back_exception_summary">"Le test de retour en boucle a échoué. Pour signaler ce problème à MIUI, allez dans l'application Commentaires et envoyez un rapport à partir de votre appareil."</string>
+    <string name="qucick_replay_instrument">Utiliser des réponses rapides dans les notifications des messagers sélectionnés (par exemple, WhatsApp, WeChat, QQ)</string>
     <string name="ip_address_exception_summary">"Impossible d'obtenir une adresse IP. Si vous rencontrez à nouveau ce problème, essayez d'utiliser une adresse IP statique."</string>
     <string name="local_ip_exception_summary">"Impossible d'obtenir une adresse IP locale. Pour signaler ce problème à MIUI, allez dans l'application Commentaire et envoyez un rapport à partir de votre appareil."</string>
     <string name="renew_ip">Réessayer</string>
@@ -1067,6 +1068,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="quick_optimize_sub_summary_text">%s ajouté à la vie de la batterie</string>
     <string name="quick_optimize_checking">Analyse</string>
     <string name="quick_optimize_suggest_battery_over_heat">Le téléphone surchauffe, réparez-le</string>
+    <string name="quick_replay_list_title">Apps disponibles</string>
+    <string name="quick_reply_title">Réponses rapides</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">La batterie du téléphone se décharge rapidement, réparer</string>
     <string name="btn_text_optimize_extend_battery_time">Ajouter %s</string>
     <string name="btn_text_optimize_now">Optimiser</string>
@@ -2277,7 +2280,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="accessibility_gameboosterservice_description">Activer pour désactiver le son des appels WeChats entrants lorsque vous jouez à des jeux</string>
     <string name="gb_cutoff">|</string>
     <string name="gb_ad_game_size">Mo</string>
-    <string name="gb_add_game_hint">Add items from the list of apps</string>
+    <string name="gb_add_game_hint">Ajouter des éléments de la liste des applications</string>
     <string name="gb_new_feature">Nouvelle fonctionnalité</string>
 	<string name="gb_shortcut_pref_title">"Raccourci de l'écran d'accueil"</string>
     <string name="gb_sign_notification_title">Augmentez la vitesse du réseau pour les jeux</string>
@@ -2316,10 +2319,10 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="gamebox_type_float">Raccourci fixe</string>
     <string name="gamebox_type_gesture">Balayer pour afficher</string>
     <string name="gamebox_browser_not_find">"Installer depuis Navigateur Mi d'abord"</string>
-    <string name="gamebox_display_1">None</string>
-    <string name="gamebox_display_2">Saturated</string>
-    <string name="gamebox_display_3">Bright</string>
-    <string name="gamebox_display_4">Bright &amp; saturated</string>
+    <string name="gamebox_display_1">Aucun</string>
+    <string name="gamebox_display_2">Saturé</string>
+    <string name="gamebox_display_3">Brillant</string>
+    <string name="gamebox_display_4">Brillant et saturé</string>
     <string name="gamebox_display_set">"Visual enhancement: "</string>
     <string name="gamebox_dnd">NPD</string>
     <string name="gamebox_wifi">Wi-Fi</string>

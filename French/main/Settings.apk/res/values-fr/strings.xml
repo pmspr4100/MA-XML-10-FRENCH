@@ -588,7 +588,7 @@ Activez optimisation batterie."</string>
     <string name="backup_set_new_continue">Continuer</string>
     <string name="backup_set_new_exit">Quitter</string>
     <string name="backup_set_new_pw_confirm_hint">Attention</string>
-    <string name="backup_set_new_pw_confirm_summary">Your items are backed up automatically now. Creating a backup password will stop automatic backups. Continue anyway?</string>
+    <string name="backup_set_new_pw_confirm_summary">"Vos articles sont sauvegardés automatiquement maintenant. La création d'un mot de passe de sauvegarde arrêtera les sauvegardes automatiques. Continuer quand même ?"</string>
     <string name="backup_set_new_pw_title">Entrez le nouveau mot de passe de sauvegarde</string>
     <string name="backup_set_null_pw">Entrez le mot de passe en premier</string>
     <string name="backup_set_pw_confirm_title">Confirmer le nouveau mot de passe de sauvegarde</string>
@@ -4115,7 +4115,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="proxy_warning_limited_support">"Le proxy HTTP est utilisé par le navigateur, mais ne peut pas l'être par les autres applications."</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Transmission de rapports</string>
     <string name="qtifeedback_settings_title">Avis sur le matériel</string>
-    <string name="quick_reply_title">Quick replies</string>
+    <string name="quick_reply_title">Réponses rapides</string>
     <string name="quick_settings_developer_tiles">Tuiles de configuration rapide pour les développeurs</string>
     <string name="quick_settings_label">Toggles</string>
     <string name="quiet">Ne pas déranger</string>
