@@ -1042,6 +1042,8 @@ dd MMMM"</string>
     <string name="lockscreen_sim_error_message_short">Carte SIM non valide.</string>
     <string name="lockscreen_unlock_left">Le raccourci de gauche déverrouille aussi</string>
     <string name="lockscreen_unlock_right">Le raccourci de droite déverrouille aussi</string>
+    <string name="long_screenshot_guide_text">"Appuyez sur pour faire
+une capture d'écran de défilement"</string>
     <string name="long_screenshot_not_support_msg">"L'application actuelle ne prend pas en charge le défilement des captures d'écran"</string>
     <string name="long_screenshot_out_of_memory_error">"L'image est trop volumineuse"</string>
     <string name="long_screenshot_processing">Traitement en cours…</string>

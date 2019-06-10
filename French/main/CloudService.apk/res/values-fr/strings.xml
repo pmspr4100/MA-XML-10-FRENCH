@@ -123,6 +123,7 @@ En utilisant ce service, vous acceptez %s."</string>
     <string name="sync_sub_1_sms">Un message SMS sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
     <string name="sync_sub_1_intl_sms">Un message SMS international sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
     <string name="sync_sub_2_sms">2 messages SMS sortants peuvent être nécessaires pour activer ce service. Votre opérateur vous facturera ces messages.</string>
+    <string name="system_busy_or_network_error">Une erreur est survenue. Attendez une minute ou deux et réessayez.</string>
     <string name="sync_sub_2_intl_sms">"2 SMS vers l'international peut être requis pour activer ce service. Votre opérateur vous facturera ces messages."</string>
     <string name="sync_sub_1_sms_1_intl_sms">1 SMS local et international peut être requis pour activer ce service. Votre opérateur vous facturera ces messages.</string>
     <string name="micloud_all_sub_1_sms">"Un SMS sera envoyé pour activer votre carte SIM. Vous serez facturé par l'opérateur."</string>
@@ -292,6 +293,7 @@ a votre compte Mi pour réactiver Mi Cloud."</string>
     <string name="confirm_delete">Supprimer</string>
     <string name="confirm_save">Conserver</string>
     <string name="micloud_request_permission_title">"Mi Cloud a besoin d'autorisations"</string>
+    <string name="micloud_request_sync_too_frequent">Trop de demandes. Attendez une minute ou deux et réessayez.</string>
     <string name="micloud_request_permission_content">"Mi Cloud a besoin d'autorisation pour synchroniser vos données. Autoriser Mi Cloud à accéder Agenda, Contacts, Compte Mi, Carte SIM, État, historique des appels, et messages."</string>
     <string name="micloud_request_permission_confirm">"C'est compris"</string>
     <string name="short_cut_desc">"Ajouter l'icône de Mi Cloud à l'écran d'accueil ?"</string>
@@ -392,6 +394,7 @@ a votre compte Mi pour réactiver Mi Cloud."</string>
     <string name="warning_bar_action_close">Fermer</string>
     <string name="warning_bar_add_short_cut_success">Ajoutée avec succès</string>
     <string name="user_storage_info_available_text_prefix">%s disponible</string>
+    <string name="waiting_for_sync">Patienter…</string>
     <string name="member_entrance_normal_title">Changer le forfait Mi Cloud</string>
     <string name="member_entrance_title_free_low_case_a">"Obtenir plus d'espace de stockage"</string>
     <string name="member_entrance_title_premium_low_case_a">"Obtenir plus d'espace de stockage"</string>

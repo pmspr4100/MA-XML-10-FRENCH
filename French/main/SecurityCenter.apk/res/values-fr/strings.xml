@@ -2058,6 +2058,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
 	<string name="app_manager_find_apps">Trouver des applications</string>
     <string name="app_manager_factory_reset_dlg_msg">Toutes les mises à jour de cette application système Android seront désinstallées.</string>
     <string name="app_manager_system_mobile_disable">Désactiver les données</string>
+    <string name="app_manager_thumbnail_blur_summary">"Flouter les aperçus d'applications dans récents"</string>
+    <string name="app_manager_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
     <string name="app_managere_not_have_app">Aucune</string>
     <string name="app_manager_pref_ads">Recommandations</string>
     <string name="install">Installer</string>

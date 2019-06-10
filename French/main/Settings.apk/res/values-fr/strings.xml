@@ -1291,6 +1291,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="close_miui_optimization_title">"Désactiver l'optimisation MIUI"</string>
     <string name="close_optimization_message">"La disposition du texte, les comptes et d'autres parties de MIUI peuvent être affectés après la désactivation de cette fonctionnalité."</string>
     <string name="close_optimization_option">Désactiver</string>
+    <string name="close_privacy_thumbnail_blur_title">"Les aperçus ne sont pas flous"</string>
     <string name="cloud_backup_section_title">Sauvegarde Mi Cloud</string>
     <string name="cloud_backup_settings_section_title">Paramètres de sauvegarde</string>
     <string name="cloud_restore_section_summary">"Restaurer les paramètres du système, la position de l'écran d'accueil et les applications"</string>
@@ -1379,12 +1380,15 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="confirm_enable_oem_unlock_text">"AVERTISSEMENT: les fonctionnalités de protection de l'appareil ne fonctionneront pas sur cet appareil tant que ce paramètre sera activé."</string>
     <string name="confirm_enable_oem_unlock_title">Autoriser le déverrouillage OEM ?</string>
     <string name="confirm_erase">Supprimer</string>
+    <string name="confirm_fingerprint">Vérifiez votre empreinte digitale</string>
     <string name="confirm_fingerprint_icon_content_description">Utilisez votre empreinte digitale pour continuer.</string>
     <string name="confirm_fingerprint_msg">Placez votre doigt sur le capteur</string>
     <string name="confirm_frp_credential_message">"Votre appareil a été réinitialisé aux paramètres d'usine, vous pouvez le déverrouiller avec votre ancien mot de passe."</string>
     <string name="confirm_frp_credential_skip_txt">Utiliser plutôt un compte Google</string>
     <string name="confirm_frp_credential_title">"Déverrouiller après réinitialisation aux paramètres d'usine"</string>
     <string name="confirm_new_backup_pw_prompt">Confirmez ici votre nouveau mot de passe de sauvegarde complète.</string>
+    <string name="confirm_password_with_fingerprint">Utiliser les empreintes digitales</string>
+    <string name="confirm_password_with_password">Entrer le mot de passe</string>
     <string name="confirm_privacy_password">Saisissez le mot de passe de protection de confidentialité</string>
     <string name="confirm_privacy_password_fingerprint">Lisez votre empreinte digitale ou saisissez votre mot de passe de protection de confidentialité</string>
     <string name="confirm_reset_aaid">OK </string>
@@ -3708,6 +3712,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="open_miui_optimization_title">"Activer l'optimisation MIUI"</string>
     <string name="open_optimization_message">"Activez l'optimisation afin de profiter d'une interface utilisateur plus agréable et plus rapide."</string>
     <string name="open_optimization_option">Activer</string>
+    <string name="open_privacy_thumbnail_blur_title">Les aperçus sont flous</string>
     <string name="open_wifi_connect_summary">Appuyez pour voir les détails.</string>
     <string name="open_wifi_connect_title">Connecté à %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">Ce profil professionnel est géré par</string>
@@ -4057,6 +4062,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_relative">Confidentialité</string>
     <string name="privacy_settings">Sauvegarder et réinitialiser</string>
     <string name="privacy_settings_title">Sauvegarde</string>
+    <string name="privacy_thumbnail_blur_progress_message">Chargement…</string>
+    <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
     <string name="private_dns_help_message"><annotation id="url">En savoir plus</annotation> sur les fonctionnalités de DNS privé</string>
     <string name="private_dns_mode_off">Désactivé</string>
     <string name="private_dns_mode_opportunistic">Automatique</string>
