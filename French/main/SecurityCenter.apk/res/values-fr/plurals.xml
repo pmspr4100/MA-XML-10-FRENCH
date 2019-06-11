@@ -132,6 +132,18 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
         <item quantity="other">Ajouter %d minutes</item>
         <item quantity="one">Ajouter %d minute</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s jours</item>
+        <item quantity="one">%s jour</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s heures</item>
+        <item quantity="one">%s heure</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">%s minute</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d apps, y compris %1$s, épuisent la batterie</item>
         <item quantity="one">%2$d app, y compris %1$s, épuisent la batterie</item>

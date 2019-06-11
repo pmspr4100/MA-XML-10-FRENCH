@@ -958,7 +958,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="msim_setting_categery_title">Paramètres de la carte SIM</string>
     <string name="msim_setting_no_sim_indicator">Pas de carte SIM</string>
     <string name="msim_setting_operator_network_title">Réseau mobile</string>
-    <string name="msim_setting_screen_title">Cartes SIM &amp; réseaux mobiles</string>
+    <string name="msim_setting_screen_title">Réseaux cellulaires</string>
     <string name="msim_setting_sim_info_editor_title">Éditer les infos de la carte SIM</string>
     <string name="msim_sim_lock">Verrouillé</string>
     <string name="msim_sim_radio_off">Désactivé</string>
@@ -980,6 +980,7 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="network_info_message">Message réseau</string>
     <string name="network_lte">LTE (recommandé)</string>
     <string name="network_message">Message réseau</string>
+    <string name="network_mode_updating_title">Type de réseau</string>
     <string name="network_operator_category">Réseau</string>
     <string name="network_query_error">Erreur lors de la recherche de réseaux.</string>
     <string name="network_select_title">Réseau</string>
@@ -1181,7 +1182,7 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="power_remaining_only_more_than_subtext">Il reste plus de %1$s</string>
     <string name="prefered_network_type_3g_promp">Vous devez désactiver VoLTE avant de choisir la 3G comme type de réseau préféré. Désactiver maintenant ?</string>
     <string name="preference_auto_ip_summary_disable">Désactivé</string>
-    <string name="preference_category_ringtone">Sonnerie &amp; vibreur</string>
+    <string name="preference_category_ringtone">Sonnerie et vibreur</string>
     <string name="preference_data_usage_summary">"Définissez votre plan de données pour contrôler l'utilisation de vos données mobiles"</string>
     <string name="preference_data_usage_title">Définir un forfait de données</string>
     <string name="preference_dial_pad_touch_tone_default">Par défaut</string>
@@ -1245,6 +1246,7 @@ Votre téléphone sera automatiquement bloqué en cas de nouvel échec"</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">LTE préféré</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G (CDMA) préféré</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM auto</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred">5G préféré</string>
     <string name="preferred_network_type_pref_entries_auto">Automatique</string>
     <string name="preferred_network_type_pref_entries_global">Global</string>
     <string name="preferred_network_type_pref_entries_only_2g">2G uniquement (économie de batterie)</string>
