@@ -402,7 +402,7 @@
     <string name="networking_allow_desc_without_mx">"Mi Message doit se connecter à Internet pour fonctionner normalement. Dans le but de reconnaître des numéros inconnus, filtrer les courriers indésirables et activer d'autres fonctionnalités, Mi Message doit utiliser les Pages jaunes. Autoriser les Pages jaunes à se connecter à Internet, obtenir vos informations de localisation et lire vos contacts ?"</string>
     <string name="networking_allow_title">Attention</string>
     <string name="new_message">Nouveau message</string>
-    <string name="new_message_arrived">Afficher pour voir</string>
+    <string name="new_message_arrived">Cliquez pour afficher</string>
     <string name="new_phrase">Ajouter une réponse</string>
     <string name="new_phrase_hint">Saisir une nouvelle réponse</string>
     <string name="no">Annuler</string>
