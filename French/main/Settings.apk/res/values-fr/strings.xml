@@ -2035,6 +2035,8 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="enable_service_pin_reason">"Vous devez confirmer le code PIN, car l'activation du service %1$s influe sur le chiffrement des données."</string>
     <string name="enable_service_title">Le service effectuera les actions suivantes:</string>
     <string name="enable_snapshot_screenlock">Appui prolongé sur retour prend une photo</string>
+    <string name="enable_tcp_rtt_support">Affichage TCP RTT</string>
+    <string name="enable_tcp_rtt_support_summary">Évaluer les performances de la qualité de la communication réseau</string>
     <string name="enable_terminal_summary">"Activer l'application du terminal qui offre l'accès au shell local"</string>
     <string name="enable_terminal_title">Terminal local</string>
     <string name="enable_text">Activer</string>
