@@ -133,13 +133,13 @@
     <string name="permission_intro_phone">Pour marquer les notes prises pendant les appels</string>
     <string name="permission_intro_storage">Pour enregistrer des notes et pièces jointes</string>
     <string name="permlab_accessNote">Accès aux notes</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pas demander de confirmation lors de la suppression gestuelle d'une note"</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">Faites glisser votre doigt vers le haut pour supprimer des notes sans confirmation.</string>
     <string name="pref_title_cloud_trash_bin">Notes supprimées dans Mi Cloud</string>
     <string name="pref_title_common">Paramètres supplémentaires</string>
     <string name="pref_title_font_size">Taille du texte</string>
     <string name="pref_title_note_style">Style</string>
     <string name="pref_title_show_root_folder_in_homepage">Voir seulement les notes rapides sur la page de démarrage</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">Suppression rapide</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">Supprimer en utilisant un geste</string>
     <string name="recover_notes_hint">Une erreur est survenue, rendez-vous sur i.mi.com pour restaurer vos notes.</string>
     <string name="redo">Refaire</string>
     <string name="refuse_to_open_as_pic_because_of_loading">"Patientez jusqu'à ce que cette note soit chargée et réessayez."</string>
@@ -207,6 +207,7 @@
     <string name="toast_notes_hidden_edit">Cette note a été cachée avec succès. Tirez vers le bas pour voir les notes cachées.</string>
     <string name="toast_notes_hidden_home">Cette note a été cachée avec succès. Tirez vers le bas pour voir les notes cachées.</string>
     <string name="toast_notes_unhidden">Affiché avec succès</string>
+    <string name="toast_pic_is_not_really">"Sauvegarde d'image…"</string>
     <string name="toast_reach_text_limit_attachment">Le contenu de la note est trop long pour être joint au message.</string>
     <string name="toast_reach_text_limit_checkbox">"Impossible d'ajouter une case à cocher car la note est trop longue"</string>
     <string name="toast_reach_text_limit_truncate">Cette note est trop longue. Une partie du texte a été coupée à la fin.</string>

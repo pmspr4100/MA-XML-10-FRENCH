@@ -2206,7 +2206,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="more_game">Plus de Jeux</string>
     <string name="sys_title_gamebooster_unit_gb">Go</string>
     <string name="sys_title_gamebooster_unit_mb">Mo</string>
-    <string name="gmscore_support_service">Services Google</string>
+    <string name="gmscore_support_service">Services de base Google</string>
     <string name="gmscore_support_remind">"Activez cette fonctionnalité si vous rencontrez des problèmes avec Gmail, Google Maps et d'autres applications Google. Cela réduira légèrement la durée de vie de la batterie."</string>
     <string name="google_base_app_install_choice">"L'application nécessite Google Services Framework pour fonctionner normalement, voulez-vous le télécharger et l'installer maintenant ?"</string>
     <string name="application_item_disable">Limité</string>
