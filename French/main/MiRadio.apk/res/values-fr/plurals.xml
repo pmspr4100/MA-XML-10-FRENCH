@@ -74,26 +74,6 @@
         <item quantity="other">You can enter up to %1$d characters.</item>
         <item quantity="one">You can enter up to %1$d character.</item>
     </plurals>
-    <plurals name="multichoice_title">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
-    </plurals>
-    <plurals name="reader_count">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d follower</item>
-    </plurals>
-    <plurals name="skipped_online_songs_tips">
-        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
-        <item quantity="one">Skipped %d song. Turn on online services in the settings to listen to it.</item>
-    </plurals>
-    <plurals name="songs_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
-    </plurals>
-    <plurals name="swipe_to_load_head_complete_success">
-        <item quantity="other">Here are %1$d updates for you:</item>
-        <item quantity="one">Here is %1$d update for you:</item>
-    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Delete %d items?</item>
         <item quantity="one">Delete %d item?</item>
