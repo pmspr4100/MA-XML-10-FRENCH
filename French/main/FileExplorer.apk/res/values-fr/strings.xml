@@ -568,7 +568,7 @@
     <string name="storage_cloned_app">Stockage pour les applications clonées</string>
     <string name="storage_info_detail">Disponible: %1$s Total: %2$s</string>
     <string name="storage_internal">Stockage interne</string>
-    <string name="storage_sd_card">Carte SD</string>
+    <string name="storage_sd_card">Stockage externe</string>
     <string name="storage_usb">Stockage USB</string>
     <string name="storage_warning">"Can't use external storage"</string>
     <string name="swap_tip_1">Swipe left or right</string>

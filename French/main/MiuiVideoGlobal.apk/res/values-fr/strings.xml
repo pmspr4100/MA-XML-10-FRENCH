@@ -155,7 +155,7 @@
     <string name="language_setting_tips">Enregistré avec succès. Vous pouvez modifier vos préférences de langue dans les paramètres.</string>
     <string name="login">Se connecter</string>
     <string name="logout">Se déconnecter</string>
-    <string name="lp_base_folder">Carte SD</string>
+    <string name="lp_base_folder">Stockage externe</string>
     <string name="lp_speed_title">Vitesse de lecture</string>
     <string name="lp_speed_toast">Joué à la vitesse %sX …</string>
     <string name="lp_videoView_error_button">"C'est compris"</string>

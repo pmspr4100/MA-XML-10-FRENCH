@@ -234,7 +234,7 @@
     <string name="sniff_copyright_text">"Impossible d'afficher les résultats en raison des problèmes de droits d'auteur"</string>
     <string name="start_download">Télécharger</string>
     <string name="storage_internal">Stockage Interne</string>
-    <string name="storage_sd_card">Carte SD</string>
+    <string name="storage_sd_card">Stockage externe</string>
     <string name="storage_usb">Stockage USB</string>
     <string name="subbt_downloading">Téléchargement en cours…</string>
     <string name="subbt_fail">Échec</string>

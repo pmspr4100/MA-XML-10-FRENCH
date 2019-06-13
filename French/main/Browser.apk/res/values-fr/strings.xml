@@ -1295,7 +1295,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
   <string name="storage_internal">Stockage interne</string>
   <string name="storage_open">Ouvrir</string>
   <string name="storage_permission_request_toast">"Downloads require access to your device's storage"</string>
-  <string name="storage_sd_card">Carte SD</string>
+  <string name="storage_sd_card">Stockage externe</string>
   <string name="storage_usb">Stockage USB</string>
   <string name="suggest_access_appstore">Mi App Store</string>
   <string name="suggest_access_btn_install">Installer</string>

@@ -188,7 +188,7 @@
     <string name="group_shortcuts">Raccourcis</string>
     <string name="guide_install_app_msg">"Cette application n'est pas installée sur votre appareil. Retrouvez et installez l'application maintenant ?"</string>
     <string name="guide_install_app_title">"Trouver et installer l'application ?"</string>
-    <string name="guide_tips_editing_mode">Appuyez &amp; maintenez pour prendre un widget</string>
+    <string name="guide_tips_editing_mode">Appuyez et maintenez pour prendre un widget</string>
     <string name="home_gesture_content_center">Centre de contenu</string>
     <string name="home_gesture_global_search">Rechercher</string>
     <string name="home_gesture_no_action">Aucun</string>
@@ -205,7 +205,7 @@
     <string name="is_setting_wallpaper_message">Définition comme fond décran…</string>
     <string name="is_system_wallpaper_message">Impossible de supprimer les ressources système</string>
     <string name="launcher_not_exist">"Une erreur s'est produite, retournez à l'écran d'accueil et réessayez."</string>
-    <string name="launcher_title">"Écran d'accueil &amp; Récents"</string>
+    <string name="launcher_title">"Écran d'accueil et Récents"</string>
     <string name="like">Ajouter aux favoris</string>
     <string name="liked">Ajouté aux favoris</string>
     <string name="loading_desktop">Chargement…</string>

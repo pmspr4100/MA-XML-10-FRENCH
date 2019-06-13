@@ -1343,7 +1343,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="common_settings">Accès rapides</string>
     <string name="complete_parameters">Caractéristiques</string>
     <string name="complete_settings">Paramètres</string>
-    <string name="computing_size">Traitement...</string>
+    <string name="computing_size">Traitement…</string>
     <string name="condition_airplane_summary">Lorsque le mode Avion est activé, le Wi-Fi, le Bluetooth et le réseau mobile sont désactivés. Vous pouvez toutefois réactiver le Wi-Fi et le Bluetooth.</string>
     <string name="condition_airplane_title">Le mode Avion est activé</string>
     <string name="condition_battery_summary">"L'économiseur de batterie désactive certaines fonctionnalités de l'appareil et limite les applications"</string>
@@ -1562,7 +1562,7 @@ Pour certains comptes, les modifications effectuées sur le téléphone peuvent 
     <string name="data_usage_background_label">Arrière-plan:</string>
     <string name="data_usage_cellular_data">Données cellulaires</string>
     <string name="data_usage_cellular_data_summary">Interrompues à la limite</string>
-    <string name="data_usage_change_cycle">Changer le cycle...</string>
+    <string name="data_usage_change_cycle">Changer le cycle…</string>
     <string name="data_usage_cycle">Cycle de consommation</string>
     <string name="data_usage_cycle_editor_positive">Définir</string>
     <string name="data_usage_cycle_editor_subtitle">Jour du mois:</string>
@@ -1570,7 +1570,7 @@ Pour certains comptes, les modifications effectuées sur le téléphone peuvent 
     <string name="data_usage_data_limit">Définir une limite relative aux données</string>
     <string name="data_usage_disable_3g_limit">Définir quota de données 2G-3G</string>
     <string name="data_usage_disable_4g_limit">Définir le quota de données 4G</string>
-    <string name="data_usage_disable_mobile">Désactiver les données mobiles ?</string>
+    <string name="data_usage_disable_mobile">Désactiver les données cellulaires ?</string>
     <string name="data_usage_disable_mobile_limit">Définir un plafond</string>
     <string name="data_usage_disable_wifi_limit">Définir la limite de données Wi-Fi</string>
     <string name="data_usage_disclaimer">"Le suivi de conso effectué par l'opérateur peut différer de celui de l'appareil."</string>
@@ -1748,7 +1748,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_battery">Batterie</string>
     <string name="device_build_id">Numéro de version</string>
     <string name="device_camera">Appareil photo</string>
-    <string name="device_cellular_network">Recherche de réseaux mobiles</string>
+    <string name="device_cellular_network">Recherche de réseaux cellulaires</string>
     <string name="device_complete_parameters">Caractéristiques</string>
     <string name="device_cpu">Version processeur</string>
     <string name="device_cpu10_info">"Deca-Core "</string>
@@ -1790,7 +1790,7 @@ La consommation mesurée par votre téléphone pouvant différer de celle mesur�
     <string name="device_screen_resolution">"Résolution d'écran"</string>
     <string name="device_screen_size">"Taille de l'écran"</string>
     <string name="device_screen_usage">"Utilisation de l'écran depuis la dernière charge complète"</string>
-    <string name="device_sd_memory">Carte SD</string>
+    <string name="device_sd_memory">Stockage externe</string>
     <string name="device_share_loading">"Création de l'image"</string>
     <string name="device_status">Informations</string>
     <string name="device_status_activity_title">Informations</string>
@@ -2174,7 +2174,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="experimental_preference">(Expérimental)</string>
     <string name="extended_power_menu">"Menu d'alimentation étendu"</string>
     <string name="external_code_size_label">Application sur USB</string>
-    <string name="external_data_size_label">Carte SD</string>
+    <string name="external_data_size_label">Stockage externe</string>
     <string name="external_source_switch_title">Autoriser cette source</string>
     <string name="external_source_trusted">Autorisé</string>
     <string name="external_source_untrusted">Pas autorisé</string>
@@ -4487,8 +4487,8 @@ Pour épingler l'écran:
     <string name="screenshot_label">"Capture d'écran"</string>
     <string name="screenshot_three_gesture">"Faites glisser 3 doigts vers le bas pour effectuer une capture d'écran"</string>
     <string name="screenshot_three_gesture_summary">Les autres gestes à 3 doigts seront désactivés</string>
-    <string name="sd_card_settings_label">Carte SD</string>
-    <string name="sd_card_storage">Carte SD</string>
+    <string name="sd_card_settings_label">Stockage externe</string>
+    <string name="sd_card_storage">Stockage externe</string>
     <string name="sd_eject">Désinstaller la carte SD</string>
     <string name="sd_eject_summary">Désinstaller la carte SD pour la retirer en toute sécurité</string>
     <string name="sd_ejecting_summary">Désinstallation en cours</string>
@@ -4496,16 +4496,16 @@ Pour épingler l'écran:
     <string name="sd_format">Formater la carte SD</string>
     <string name="sd_format_summary">Effacer toutes les données de la carte SD, telles que la musique et les photos</string>
     <string name="sd_insert_summary">Insérer la carte SD à installer</string>
-    <string name="sd_memory">Carte SD</string>
+    <string name="sd_memory">Stockage externe</string>
     <string name="sd_mount">Installer la carte SD</string>
     <string name="sdcard_changes_instructions">Les modifications prendront effet lors de la prochaine connexion du câble USB.</string>
     <string name="sdcard_format">Formater la carte SD</string>
-    <string name="sdcard_setting">Carte SD</string>
+    <string name="sdcard_setting">Stockage externe</string>
     <string name="sdcard_settings_available_bytes_label">Octets disponibles:</string>
     <string name="sdcard_settings_bad_removal_status">La carte SD a été retirée pendant son utilisation !</string>
     <string name="sdcard_settings_mass_storage_status">La carte SD est utilisée comme périphérique de stockage de masse.</string>
     <string name="sdcard_settings_not_present_status">Aucune carte SD</string>
-    <string name="sdcard_settings_read_only_status">Carte SD installée en lecture seule</string>
+    <string name="sdcard_settings_read_only_status">Stockage externe installée en lecture seule</string>
     <string name="sdcard_settings_scanning_status">Recherche de fichiers multimédias sur la carte SD…</string>
     <string name="sdcard_settings_screen_mass_storage_text">Activer la mémoire de stockage de masse USB</string>
     <string name="sdcard_settings_total_bytes_label">Octets au total:</string>

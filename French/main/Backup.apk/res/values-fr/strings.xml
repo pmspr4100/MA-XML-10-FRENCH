@@ -134,7 +134,7 @@ Taille de la mise à jour: %2$s"</string>
     <string name="local_select_sysdata">Données système</string>
     <string name="local_select_userapp">Applications</string>
     <string name="local_select_account_contact">Comptes et contacts</string>
-    <string name="local_select_files">Carte SD</string>
+    <string name="local_select_files">Stockage externe</string>
     <string name="local_select_image">Images</string>
     <string name="local_select_audio">Fichiers audio</string>
     <string name="local_select_video">Vidéos</string>
@@ -641,7 +641,7 @@ Ne transférez que les éléments importants."</string>
     <string name="flash_drive_search_backup_files">"Recherche de la sauvegarde USB…
 Ne pas modifier ou renommer les fichiers de sauvegarde."</string>
     <string name="flash_drive_connection_failed">Lecteur USB déconnecté</string>
-    <string name="storage_sd_card">Carte SD</string>
+    <string name="storage_sd_card">Stockage externe</string>
     <string name="storage_usb">Lecteur USB</string>
     <string name="usb_trans_select_data_no_space">"Seulement %s disponibles sur votre lecteur USB.
 Libérez de l'espace ou ne transférez que les éléments importants."</string>

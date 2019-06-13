@@ -607,7 +607,7 @@ sont disponibles"</string>
     <string name="flash_on">Flash activé</string>
     <string name="frame_not_support_image_ratio">"Ce format n'est pas pris en charge"</string>
     <string name="free_view_desc">Vue en 3D</string>
-    <string name="gallery_setting">Galerie</string>
+    <string name="gallery_setting">Paramètres</string>
     <string name="gallery_sync_disable_toast">Synchronisation est désactivée pour la Galerie</string>
     <string name="generate_story_summary">MIUI analysera vos photos et créera des souvenirs. Désactivez cette fonctionnalité pour arrêter de créer des souvenirs.</string>
     <string name="generate_story_title">Souvenirs</string>
@@ -1201,8 +1201,8 @@ pour personnaliser Galerie"</string>
     <string name="special_type_hdr">HDR</string>
     <string name="special_type_night_beauty">IA Portrait faible luminosité</string>
     <string name="special_type_night_mode">IA Mode nuit</string>
-    <string name="special_type_portrait">AI light painting portrait</string>
-    <string name="special_type_wide_angle">IA ultra grand angle</string>
+    <string name="special_type_portrait">IA Portrait lumineux</string>
+    <string name="special_type_wide_angle">IA Ultra grand angle</string>
     <string name="start_debug">Débogage de Galerie</string>
     <string name="start_to_use_face_albumset">Trier par personnes</string>
     <string name="sticker_ad">Dépliants</string>
@@ -1222,7 +1222,7 @@ pour personnaliser Galerie"</string>
     <string name="sticker_summer">Été</string>
     <string name="sticker_words">Mots</string>
     <string name="storage_description_primary">Stockage Interne</string>
-    <string name="storage_description_sdcard">Carte SD</string>
+    <string name="storage_description_sdcard">Stockage externe</string>
     <string name="storage_description_usb">Stockage USB</string>
     <string name="storage_description_xspace">Données des applications clonées</string>
     <string name="storage_no_space">Espace libre insuffisant</string>

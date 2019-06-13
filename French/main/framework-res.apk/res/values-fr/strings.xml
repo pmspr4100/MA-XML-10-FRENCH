@@ -1403,8 +1403,8 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
     <string name="stk_cc_ussd_to_ss">Requête USSD transformée en requête SS</string>
     <string name="stk_cc_ussd_to_ussd">Remplacement par une nouvelle requête USSD</string>
     <string name="storage_internal">Espace de stockage interne partagé</string>
-    <string name="storage_sd_card">Carte SD</string>
-    <string name="storage_sd_card_label">Carte SD %s</string>
+    <string name="storage_sd_card">Stockage externe</string>
+    <string name="storage_sd_card_label">Stockage externe %s</string>
     <string name="storage_usb">Mémoire de stockage USB</string>
     <string name="storage_usb_drive">Clé USB</string>
     <string name="storage_usb_drive_label">Clé USB %s</string>

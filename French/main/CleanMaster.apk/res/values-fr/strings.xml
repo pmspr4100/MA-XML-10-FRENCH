@@ -357,7 +357,7 @@
     <string name="deepclean_list_item_from_download">Téléchargements</string>
     <string name="deepclean_list_item_from_music">Musique</string>
     <string name="deepclean_list_item_from_miui">MIUI </string>
-    <string name="deepclean_list_item_from_sdcard">Carte SD</string>
+    <string name="deepclean_list_item_from_sdcard">Stockage externe</string>
     <string name="deepclean_size_summary_less">"L'appareil ne dispose plus d'assez d'espace de stockage"</string>
     <string name="deepclean_size_summary_not_enough">Espace libre insuffisant</string>
     <string name="deepclean_size_summary_normal">Espace de stockage disponible</string>

@@ -389,7 +389,7 @@ Vérifiez les paramètres réseau et réessayez."</string>
     <string name="kb">Arrêter</string>
     <string name="kc">Arrêter</string>
     <string name="kd">Stockage interne</string>
-    <string name="ke">Carte SD</string>
+    <string name="ke">Stockage externe</string>
     <string name="kf">Stockage USB</string>
     <string name="kg">Stockage externe non disponible</string>
     <string name="kh">Les transferts à haute vitesse sont pris en charge</string>
