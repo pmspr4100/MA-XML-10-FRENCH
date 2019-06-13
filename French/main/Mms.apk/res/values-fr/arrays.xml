@@ -16,7 +16,7 @@
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maximum</item>
-        <item>Deux jours</item>
+        <item>2 jours</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
         <item>Non défini</item>

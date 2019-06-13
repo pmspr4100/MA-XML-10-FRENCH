@@ -97,7 +97,16 @@
     <string name="cm_privacy_dialog_tips">Les services de messagerie intelligente sont fournis par votre opérateur. La messagerie doit se connecter à Internet et accéder à votre localisation pour pouvoir fournir ces services. Vous devez accepter les %1s de votre opérateur avant de commencer à utiliser ces services. Acceptez-vous?</string>
     <string name="cm_privacy_dialog_title">Attention</string>
     <string name="cmcc_privacy">"Accord de confidentialité de l'opérateur China Mobile"</string>
-    <string name="complain_message_title">Rapporter</string>
+    <string name="complain_input_number">Entrez votre numéro de téléphone</string>
+    <string name="complain_jump">Suivant</string>
+    <string name="complain_message_title">Rapport</string>
+    <string name="complain_ok">OK</string>
+    <string name="complain_phone_number">Numéro de téléphone (facultatif)</string>
+    <string name="complain_reason">Pourquoi signalez-vous ce message ?</string>
+    <string name="complain_success">Merci pour vos commentaires. Cela nous aide à améliorer la messagerie !</string>
+    <string name="complain_tips">"Le contenu du dernier message que vous signalez sera téléchargé sur nos serveurs avec le numéro de téléphone que vous avez fourni. Nos fournisseurs de services examineront le message rapporté.
+"</string>
+    <string name="complain_upload">La plainte a été soumise</string>
     <string name="compressing">"L'image est trop grande. Compression…"</string>
     <string name="confirm">Confirmer</string>
     <string name="confirm_add_blacklist_dialog_dspt">Ajouter ce numéro à votre liste bloquée ?</string>
@@ -158,7 +167,6 @@
     <string name="delete_wild_sims_title">Supprimer les numéros sélectionnés</string>
     <string name="delivery_report_activity">Accusé de réception</string>
     <string name="delivery_toast_body">Message reçu par %s</string>
-    <string name="dialog_complain_tips">Autoriser la messagerie à se connecter au réseau pour pouvoir rapporter des éléments.</string>
     <string name="dialog_message_fake_cell_detect_error">"Corrigez les informations sur ce message ? Pour ce faire, MIUI doit télécharger le numéro de téléphone (%1$s), le contenu du message et les informations sur l'emplacement à proximité de ses serveurs."</string>
     <string name="dialog_message_mx">"Mi Message vous permet d'envoyer des messages à d'autres utilisateurs MIUI sans encourir de frais. Un message SMS sortant est requis pour activer Mi Message. Votre opérateur vous facturera ce message. Vous devez accepter nos \"%1$s\" et \"%2$s\" avant d'utiliser Mi Message."</string>
     <string name="dialog_message_networking">"La messagerie doit utiliser les pages jaunes pour être en mesure de fournir une reconnaissance de l'ID de l'expéditeur. Les messages et les pages jaunes doivent se connecter à Internet et accéder à votre localisation pour fonctionner normalement. Autoriser?"</string>
@@ -402,7 +410,7 @@
     <string name="networking_allow_desc_without_mx">"Mi Message doit se connecter à Internet pour fonctionner normalement. Dans le but de reconnaître des numéros inconnus, filtrer les courriers indésirables et activer d'autres fonctionnalités, Mi Message doit utiliser les Pages jaunes. Autoriser les Pages jaunes à se connecter à Internet, obtenir vos informations de localisation et lire vos contacts ?"</string>
     <string name="networking_allow_title">Attention</string>
     <string name="new_message">Nouveau message</string>
-    <string name="new_message_arrived">Cliquez pour afficher</string>
+    <string name="new_message_arrived">Vous avez un nouveau message</string>
     <string name="new_phrase">Ajouter une réponse</string>
     <string name="new_phrase_hint">Saisir une nouvelle réponse</string>
     <string name="no">Annuler</string>
@@ -649,7 +657,7 @@
     <string name="security_alert_dialog_title">Rapport</string>
     <string name="select_audio">Sélectionnez un fichier audio</string>
     <string name="select_bottom_text">Texte en bas</string>
-    <string name="select_copy_text">Sélectionner et copie du texte</string>
+    <string name="select_copy_text">Sélectionnez le texte à copier</string>
     <string name="select_different_attachment">Sélectionnez une autre pièce jointe.</string>
     <string name="select_different_audio">Sélectionnez un autre audio.</string>
     <string name="select_different_picture">Sélectionnez une autre image.</string>
@@ -790,7 +798,7 @@ Dernière tentative : %s."</string>
     <string name="undelivered_msg_dialog_title">Message non transmis</string>
     <string name="undelivered_sms_dialog_body">"Impossible d'envoyer ce message."</string>
     <string name="unknown_num">Numéro inconnu</string>
-    <string name="unknown_sender">Vous avez un nouveau message</string>
+    <string name="unknown_sender">Expéditeur inconnu</string>
     <string name="unstick">Détacher</string>
     <string name="unstick_conversation">Libérer la conversation en cours</string>
     <string name="unsticked_conversation">La conversation est déjà désépinglé</string>
