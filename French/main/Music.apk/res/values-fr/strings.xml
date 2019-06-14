@@ -55,9 +55,9 @@
     <string name="always_use_metered">Toujours utiliser les données mobiles</string>
     <string name="app_label">Téléchargements</string>
     <string name="app_permission_confirm">"C'est compris"</string>
-    <string name="app_permission_optional">Autorisations optionnelles</string>
-    <string name="app_permission_require">Autorisations obligatoires</string>
-    <string name="app_permission_use_desc">Autorisations</string>
+    <string name="app_permission_optional">Permissions optionnelles</string>
+    <string name="app_permission_require">Permissions obligatoires</string>
+    <string name="app_permission_use_desc">Permissions</string>
     <string name="app_permission_use_group_account">Comptes</string>
     <string name="app_permission_use_group_account_desc">Pour obtenir des informations sur le compte Mi</string>
     <string name="app_permission_use_group_phone">Téléphone</string>

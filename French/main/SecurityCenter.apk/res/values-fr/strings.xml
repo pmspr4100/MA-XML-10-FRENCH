@@ -794,7 +794,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="network_connected_exception_title">Tester le réseau</string>
     <string name="protocol_exception_title">Diagnostics de protocole réseau</string>
     <string name="protocol_loop_back_exception_summary">"Le test de retour en boucle a échoué. Pour signaler ce problème à MIUI, allez dans l'application Commentaires et envoyez un rapport à partir de votre appareil."</string>
-    <string name="qucick_replay_instrument">Utiliser des réponses rapides dans les notifications des messagers sélectionnés (par exemple, WhatsApp, WeChat, QQ)</string>
+    <string name="qucick_replay_instrument">Utiliser des réponses rapides dans les notifications des applications sélectionnés (par exemple, WhatsApp, WeChat, QQ)</string>
     <string name="ip_address_exception_summary">"Impossible d'obtenir une adresse IP. Si vous rencontrez à nouveau ce problème, essayez d'utiliser une adresse IP statique."</string>
     <string name="local_ip_exception_summary">"Impossible d'obtenir une adresse IP locale. Pour signaler ce problème à MIUI, allez dans l'application Commentaire et envoyez un rapport à partir de votre appareil."</string>
     <string name="renew_ip">Réessayer</string>
@@ -1083,7 +1083,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="quick_optimize_sub_summary_with_battery_text">Ajouté %1$s, environ %2$s restant</string>
     <string name="quick_optimize_checking">Analyse</string>
     <string name="quick_optimize_suggest_battery_over_heat">Le téléphone surchauffe, réparez-le</string>
-    <string name="quick_replay_list_title">Apps disponibles</string>
+    <string name="quick_replay_list_title">Applications disponibles</string>
     <string name="quick_reply_title">Réponses rapides</string>
     <string name="quick_optimize_suggest_battery_consume_too_fast">La batterie du téléphone se décharge rapidement, réparer</string>
     <string name="btn_text_optimize_extend_battery_time">Ajouter %s</string>
@@ -1428,7 +1428,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="item_virus_lib">Mise à jour automatique de la base de données virales</string>
     <string name="item_system_auto_download">Télécharger automatiquement les mises à jour</string>
     <string name="item_install_monitor">"Moniteur d'installation"</string>
-    <string name="item_app_permission">Autorisation des applications</string>
+    <string name="item_app_permission">Permissions des applications</string>
     <string name="item_mms">Filtrer les messages indésirables</string>
     <string name="item_dev_mode">Options développeur</string>
     <string name="menu_item_about_title">À propos</string>
@@ -1528,7 +1528,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="adb_install_reject_notiy">"L'installation de \"%s\" via USB n'a pas été autorisée"</string>
     <string name="adb_install_reject_notiy_desc">"Vous pouvez autoriser l'installation via USB dans Options développeur"</string>
     <string name="adb_login_xiaomi_account">"Connectez-vous d'abord à votre compte Mi"</string>
-    <string name="adb_install_open">Autorisation…</string>
+    <string name="adb_install_open">Permissions…</string>
     <string name="adb_install_open_error">"Impossible d'autoriser, vérifez votre connexion réseau"</string>
     <string name="usb_adb_input_apply_step_1">"Cela pourrait entraîner des fuites et pertes d'informations privées. Nous ne vous recommandons pas d'effectuer cette action sauf si vous êtes développeur."</string>
     <string name="usb_adb_input_apply_step_2">Les développeurs peuvent utiliser un logiciel pour imiter les gestes, changer les paramètres et accorder des autorisations via USB.</string>
@@ -1609,7 +1609,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="button_first_aid_kit">Réparer maintenant</string>
     <string name="info_and_call">Appels et messagerie</string>
     <string name="SMS_and_MMS">SMS et MMS</string>
-    <string name="permission_with_SMS_and_MMS">Autorisations concernant les SMS et MMS</string>
+    <string name="permission_with_SMS_and_MMS">Permissions concernant les SMS et MMS</string>
     <string name="call_and_contact">Appels et contacts</string>
     <string name="permission_with_call_and_contact">"Autorisations concernant les appels, les informations des contacts, et le journal d'appels."</string>
     <string name="title_flow_rank">Utilisation des données mobiles</string>
@@ -2025,7 +2025,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="app_manager_title">Gérer les applications</string>
     <string name="app_manager_uninstall">Désinstaller</string>
     <string name="app_manager_bipartition">Applications clônées</string>
-    <string name="app_manager_perm">Autorisations</string>
+    <string name="app_manager_perm">Permissions</string>
     <string name="app_manager_app_update">Mises à jour</string>
     <string name="app_manager_details_storage_title">Stockage</string>
     <string name="app_manager_details_traffic_title">Utilisation des données</string>
@@ -2483,9 +2483,9 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="device_manager_apply_step_2">"L'activation de l'administrateur de l'appareil pour cette application peut entraîner l'exposition de vos données personnelles.
 Toutes les données sur votre appareil seront supprimées et le mot de passe de votre écran de verrouillage doit être réinitialisé."</string>
     <string name="device_manager_apply_step_3">"Assurez-vous de comprendre tous les risques possibles avant de procéder. Activer l'administrateur de l'appareil pour cette application maintenant ?"</string>
-    <string name="app_permission_use_neccesary">Autorisations requises</string>
-    <string name="app_permission_use_no_neccesary">Autorisations optionnelles</string>
-    <string name="app_permission_use_title">Autorisations</string>
+    <string name="app_permission_use_neccesary">Permissions requises</string>
+    <string name="app_permission_use_no_neccesary">Permissions optionnelles</string>
+    <string name="app_permission_use_title">Permissions</string>
     <string name="app_permission_use_group_location">Informations de localisation</string>
     <string name="app_permission_use_group_location_des">Localisation précise et approximative</string>
     <string name="app_permission_use_group_calendar">Calendrier</string>
@@ -2528,7 +2528,7 @@ Toutes les données sur votre appareil seront supprimées et le mot de passe de 
     <string name="resource_usb_install">Installer via USB</string>
     <string name="keywords_usb_install">"USB installer;installer de l'ordinateur;ADB installer"</string>
     <string name="path_usb_install">Applications système/Sécurité/Permissions/Installer via USB</string>
-    <string name="resource_app_permissions">Autorisation des applications</string>
+    <string name="resource_app_permissions">Permissions des applications</string>
     <string name="keywords_app_permissions">Permissions;Localisation;Accéder aux contacts;Permissions;Autorisations des applications</string>
     <string name="path_app_permissions">Applications système/Permissions/Autorisations des applications</string>
     <string name="resource_buy_flow">Acheter du volume de données mobiles</string>

@@ -33,7 +33,7 @@
     <string name="alert_dialog_download_confirm">"Prêt à télécharger l'application"</string>
     <string name="alert_dialog_download_default_title">"Télécharger l'application"</string>
     <string name="alert_dialog_download_fail">"Impossible de télécharger l'application"</string>
-    <string name="alert_dialog_download_plugin">"Prêt à télécharger et installer le plug-in HD : "</string>
+    <string name="alert_dialog_download_plugin">"Prêt à télécharger et installer le plug-in HD: "</string>
     <string name="alert_dialog_download_prepare">En préparation pour télécharger…</string>
     <string name="alert_dialog_download_progress">"Téléchargement de l'application "</string>
     <string name="and"> et </string>
@@ -90,7 +90,7 @@
     <string name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>
     <string name="com_facebook_like_button_liked">J’aime déjà</string>
     <string name="com_facebook_like_button_not_liked">J’aime</string>
-    <string name="com_facebook_loading">Chargement...</string>
+    <string name="com_facebook_loading">Chargement…</string>
     <string name="com_facebook_loginview_cancel_action">Annuler</string>
     <string name="com_facebook_loginview_log_in_button">Connectez-vous</string>
     <string name="com_facebook_loginview_log_in_button_continue">Continuer avec Facebook</string>
@@ -108,7 +108,7 @@
     <string name="com_facebook_smart_login_confirmation_title">Confirmer la connexion</string>
     <string name="com_facebook_tooltip_default">Vous avez le contrôle - choisissez les informations que vous voulez partager avec les apps.</string>
     <string name="com_permission_desc">"Vidéo ne peut pas accéder aux vidéos sur votre appareil. Autorisez l'accès dans les paramètres."</string>
-    <string name="com_permission_title">Autorisation requise</string>
+    <string name="com_permission_title">Permissions requise</string>
     <string name="common_google_play_services_enable_button">Activer</string>
     <string name="common_google_play_services_enable_text">"%1$s ne fonctionnera pas tant que vous n'aurez pas activé les services Google Play."</string>
     <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
@@ -129,7 +129,7 @@
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
     <string name="data_empty">Aucun élément ici</string>
     <string name="dialog_privacy_info_new2">"Pour pouvoir utiliser ses services, vous devez accepter que l'on %1$s collectera, traitera et utilisera vos informations personnelles. Nous considérons que vous avez lu et accepté notre &lt;a href=%2$s>Politique de confidentialité &lt;/a> lorsque vous appuyez sur \"Accepter\" ci-dessous."</string>
-    <string name="dialog_privacy_title">Autorisation</string>
+    <string name="dialog_privacy_title">Permissions</string>
     <string name="dialog_revoke_privacy_info_new2">"Une fois l'autorisation révoquée, l'application cessera de collecter des données et toutes les données associées seront supprimées de nos serveurs. Cela pourrait rendre l'application pratiquement inutilisable. Révoquer l'autorisation de toute façon ?"</string>
     <string name="dialog_revoke_privacy_title">Révoquer une autorisation</string>
     <string name="exit">Quitter</string>
@@ -357,7 +357,7 @@
     <string name="ovp_setting_clear_cache_title">Vider le cache</string>
     <string name="ovp_setting_privacy_policy_title">Politique de Confidentialité</string>
     <string name="ovp_setting_privacy_switch_tips">"Certaines fonctionnalités ne seront pas disponibles si vous révoquez l'autorisation"</string>
-    <string name="ovp_setting_privacy_switch_title">Autorisation &amp; révocation</string>
+    <string name="ovp_setting_privacy_switch_title">Permissions et révocation</string>
     <string name="ovp_setting_version_info_title">Version</string>
     <string name="ovp_start_error_msg">Impossible de lire cette vidéo</string>
     <string name="ovp_video_bad_network_condition">Impossible de se connecter au réseau.</string>
@@ -369,7 +369,6 @@
     <string name="ovp_video_plugin_installation_two">Chargement…</string>
     <string name="page_title_language">Préférences de langue pour vidéo</string>
     <string name="passport_activate_token_expired">Le code de vérification a expiré, réessayez.</string>
-    <string name="passport_auth_title" />
     <string name="passport_bad_authentication">Identifiant ou mot de passe incorrect</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_close">Fermer</string>
@@ -382,7 +381,7 @@
     <string name="passport_reload_ph_ticket">Renvoyer</string>
     <string name="passport_send_too_many_sms">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
     <string name="passport_sign_in">Se connecter</string>
-    <string name="passport_sign_in_or_sign_up">Se connecter à/ créer un compte</string>
+    <string name="passport_sign_in_or_sign_up">Se connecter / créer un compte</string>
     <string name="passport_timeout_network_error">Temps de connexion dépassé</string>
     <string name="passport_unknow_error">"Une erreur inconnue s'est produite"</string>
     <string name="passport_unknow_host_network_error">Vérifiez vos paramètres réseau et réessayez</string>
@@ -399,7 +398,7 @@ Personnaliser mieux ses services pour votre appareil;
     <string name="permission_info1">Vidéo doit accéder au numéro IMEI de votre appareil pour effectuer les opérations suivantes :</string>
     <string name="permission_info2">Personnaliser mieux ses services pour votre appareil;</string>
     <string name="permission_info3">Augmentez la sécurité de votre compte</string>
-    <string name="permission_title">Autorisation requise</string>
+    <string name="permission_title">Permissions requise</string>
     <string name="phone_bind_too_many">"Ce numéro téléphone a été associé à plusieurs comptes Mi dans un court laps de temps. Essayez d'utiliser un autre numéro de téléphone."</string>
     <string name="phone_hint">Numéro de téléphone</string>
     <string name="phone_number">Numéro de téléphone</string>
@@ -440,7 +439,7 @@ Vérifiez d'autres vidéos !"</string>
     <string name="pw_permission_content">"Vous ne serez plus en mesure d'utiliser Vidéo sans les autorisations requises."</string>
     <string name="pw_permission_refuse">Restreindre quand même</string>
     <string name="pw_permission_retry">Autoriser</string>
-    <string name="pw_permission_title">Autorisation requise</string>
+    <string name="pw_permission_title">Permissions requise</string>
     <string name="pw_score">Note</string>
     <string name="pw_search_hint">Entrez les mots-clés à rechercher</string>
     <string name="pw_search_history_clear">"Effacer l'historique de recherche"</string>
@@ -476,7 +475,7 @@ Vérifiez d'autres vidéos !"</string>
     <string name="selectall">Tout sélectionner</string>
     <string name="selectnull">Tout déselectionner</string>
     <string name="share">Partager</string>
-    <string name="share_ugc_content">"Jeter un coup d'oeil à %1$s! #%2$s (%3$s)"</string>
+    <string name="share_ugc_content">"Jeter un coup d'oeil à %1$s ! #%2$s (%3$s)"</string>
     <string name="share_ugc_waitting">Générer un lien en cours…</string>
     <string name="sign_in_title">Se connecter avec le compte Mi</string>
     <string name="slid_fail_message">"Impossible d'enregistrer"</string>

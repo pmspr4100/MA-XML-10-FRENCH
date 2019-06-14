@@ -475,7 +475,7 @@
     <string name="report_porn">Pornography</string>
     <string name="report_violence">Violence</string>
     <string name="request_document_permission">Pour gérer les fichiers sur votre carte SD, donnez au explorateur de fichiers les autorisations requises.</string>
-    <string name="request_document_permission_title">Autorisations requises</string>
+    <string name="request_document_permission_title">Permissionss requises</string>
     <string name="request_timeout">Network request timed out</string>
     <string name="reset_password">Change password</string>
     <string name="restoring">Restauration…</string>

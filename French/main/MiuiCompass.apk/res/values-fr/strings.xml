@@ -54,7 +54,7 @@
     <string name="mobiledata_alert_dialog_message">"Se connecter à Internet pour étalonner l'altitude ?"</string>
     <string name="mobiledata_alert_dialog_title">"Avertissement de l'utilisation de données"</string>
     <string name="open_perm_msg">La boussole doit avoir accès aux informations de localisation et à la caméra. Ceci est nécessaire pour déterminer les coordonnées et fournir des aperçus en direct. Autoriser?</string>
-    <string name="open_perm_title">Autorisations requises</string>
+    <string name="open_perm_title">Permissionss requises</string>
     <string name="preference_other">Autre</string>
     <string name="preference_privacy_title">Politique de confidentialité</string>
     <string name="pressure">%.1f</string>

@@ -34,8 +34,8 @@
     <string name="passport_title_reg">Créer un compte</string>
     <string name="passport_reg_prompt">"Vous n'avez pas un Compte Mi ? Créez en un gratuitement."</string>
     <string name="passport_uplink_reg">Utiliser un numéro de téléphone</string>
-    <string name="passport_uplink_slot1_reg">Utiliser SIM 1</string>
-    <string name="passport_uplink_slot2_reg">Utiliser SIM 2</string>
+    <string name="passport_uplink_slot1_reg">Utiliser la SIM 1</string>
+    <string name="passport_uplink_slot2_reg">Utiliser la SIM 2</string>
     <string name="passport_reg_via_sms_alert">Un message SMS sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
     <string name="passport_reg_using_other_phone"><u>Utiliser un numéro de téléphone alternatif</u></string>
     <string name="passport_reg_btn_using_other_phone">Utiliser un numéro de téléphone alternatif</string>
@@ -370,7 +370,7 @@ Pour activer votre compte, suivez le
     <string name="activity_not_found_notice">"Impossible de trouver l'application"</string>
     <string name="scan_barcode_title">Scannez le QR code pour vous connecter</string>
     <string name="talkback_scan_barcode">Scanner un QR code</string>
-    <string name="authorize_title">Autorisation</string>
+    <string name="authorize_title">Permissions</string>
     <string name="my_device_title">Appareil actuel</string>
     <string name="device_list_title">Mes appareils</string>
     <string name="device_list__header">Mes appareils</string>
@@ -522,8 +522,8 @@ Envoyez ce code au superviseur."</string>
     <string name="passport_privacy_policy_required">Politique de confidentialité (Obligatoire)</string>
     <string name="passport_user_agreement_required">Accord de lutilisateur (Obligatoire)</string>
     <string name="kr_license_desc">"Vous devez accepter notre accord d'utilisateur et notre politique de confidentialité avant d'utiliser les services Compte Mi et Mi Cloud."</string>
-    <string name="kr_permission_desc">Autorisations requises</string>
-    <string name="optional_permissions">Autorisations optionnelles</string>
+    <string name="kr_permission_desc">Permissions requises</string>
+    <string name="optional_permissions">Permissions optionnelles</string>
     <string name="permission_group_contacts">Contacts</string>
     <string name="permission_group_phone">Téléphone</string>
     <string name="permission_group_storage">Stockage</string>

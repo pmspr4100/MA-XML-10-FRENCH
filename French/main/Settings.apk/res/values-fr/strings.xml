@@ -433,8 +433,8 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="application_item_permission">Autoriser</string>
     <string name="application_lock_name">"Verrouillage d'applications"</string>
     <string name="application_manager_section_title">Applications</string>
-    <string name="application_permission_manager">Autorisation des applications</string>
-    <string name="application_permissions">Autorisation des applications</string>
+    <string name="application_permission_manager">Permissions des applications</string>
+    <string name="application_permissions">Permissions des applications</string>
     <string name="application_restrictions">Autoriser des applications et des contenus</string>
     <string name="application_size_label">"Taille d'application"</string>
     <string name="applications_settings">Gérer les applications</string>
@@ -1095,7 +1095,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bootloader_status_locked_summary">Le téléphone est sécurisé</string>
     <string name="bootloader_status_privacy_dialog_message">"Mi Unlock doit accéder à votre compte Mi, l'ID du CPU, l'IMEI et l'IMSI pour fonctionner normalement. Nous collectons, utilisons et traitons vos données en accord avec nos %s. Êtes-vous d'accord ?"</string>
     <string name="bootloader_status_privacy_dialog_no">Annuler</string>
-    <string name="bootloader_status_privacy_dialog_title">Autorisation requise</string>
+    <string name="bootloader_status_privacy_dialog_title">Permissions requise</string>
     <string name="bootloader_status_privacy_dialog_url_text">Politique de confidentialité</string>
     <string name="bootloader_status_privacy_dialog_yes">Accepter</string>
     <string name="bootloader_status_summary">"Vérifier si l'appareil est verrouillé"</string>
@@ -1845,7 +1845,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="disable_service_title">Arrêter %1$s ?</string>
     <string name="disable_text">Désactiver</string>
     <string name="disabled">Désactivé</string>
-    <string name="disabled_authorised_apps_title">Autorisation révoquée</string>
+    <string name="disabled_authorised_apps_title">Permissions révoquée</string>
     <string name="disabled_because_no_backup_security">"Pour continuer, vous devez tout d'abord verrouiller l'écran."</string>
     <string name="disabled_by_admin">"Désactivée par l'administrateur"</string>
     <string name="disabled_by_admin_summary_text">"Contrôlé par l'admin"</string>
@@ -2042,7 +2042,7 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="enable_text">Activer</string>
     <string name="enable_wifi_display">Affichage sans-fil</string>
     <string name="enabled_authorised_apps_summary">Votre autorisation sera révoquée après avoir basculé les boutons des applications individuelles.</string>
-    <string name="enabled_authorised_apps_title">Autorisation accordée</string>
+    <string name="enabled_authorised_apps_title">Permissions accordée</string>
     <string name="enabled_by_admin">"Activé par l'administrateur"</string>
     <string name="enalbe_identify_iPhone">"Identification de l'appareil"</string>
     <string name="encrypt_talkback_dialog_message_password">"Lorsque vous saisissez votre mot de passe pour démarrer cet appareil, les services d'accessibilité comme %1$s ne sont pas disponibles."</string>
@@ -2278,7 +2278,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="firewall_network_restrict_notify_message">Appuyez pour modifier les paramètres.</string>
     <string name="firewall_network_restrict_notify_mobile">Données Mobiles</string>
     <string name="firewall_partial">Autoriser certaines applications à se connecter via la méthode suivante</string>
-    <string name="firewall_permission">Autorisations de connexion</string>
+    <string name="firewall_permission">Permissions de connexion</string>
     <string name="firewall_restrict_all">Restreindre la connexion pour toutes les application via la méthode suivante</string>
     <string name="firewall_restrict_android_dialog_content">Pour vous assurer que votre appareil fonctionne normalement, quelques applications du système Android se connecteront toujours à Internet. Ces applications utiliseront votre connexion de données mobiles et pourront être facturées par votre opérateur.</string>
     <string name="firewall_restrict_android_dialog_title">Attention</string>
@@ -3824,7 +3824,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="permission_manager">Gérer les permissions</string>
     <string name="permission_mgr">Gérer les permissions</string>
     <string name="permission_settings_summary">"Gérer les permissions liées à la localisation, au stockage, au téléphone, aux messages ainsi qu'aux contacts."</string>
-    <string name="permission_settings_title">Autorisation des applications</string>
+    <string name="permission_settings_title">Permissions des applications</string>
     <string name="permissions_label">Détails des permissions</string>
     <string name="permit_draw_overlay">"Autoriser la superposition d'applis"</string>
     <string name="permit_running_network">Données en arrière-plan</string>
@@ -4004,11 +4004,11 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_authorize_revoke_dialog_msg">"Après avoir révoqué l'autorisation, l'application arrêtera de collecter les données et toutes les données associées seront supprimées des serveurs. Cela pourrait rendre l'application virtuellement inutilisable. Révoquer quand même ?"</string>
     <string name="privacy_authorize_revoke_dialog_title">"Révocation d'autorisation"</string>
     <string name="privacy_authorize_revoke_failed">"Impossible de révoquer l'autorisation"</string>
-    <string name="privacy_authorize_revoke_success">Autorisation révoquée avec succès</string>
+    <string name="privacy_authorize_revoke_success">Permissions révoquée avec succès</string>
     <string name="privacy_authorize_revoke_time">Révoquer (%1$d s)</string>
-    <string name="privacy_authorize_revoke_title">Autorisation et révocation</string>
+    <string name="privacy_authorize_revoke_title">Permissions et révocation</string>
     <string name="privacy_authorize_revoking">"Lorsque la fonction de recommandation est désactivée, la quantité d'annonces affichée reste la même que lorsqu'elle est activée, mais pas en fonction de vos données de comportement ou de vos informations personnelles."</string>
-    <string name="privacy_authorize_success">Autorisation accordée avec succès</string>
+    <string name="privacy_authorize_success">Permissions accordée avec succès</string>
     <string name="privacy_authorize_title">"Accord d'autorisation"</string>
     <string name="privacy_close_dlg_button_ok">Désactiver</string>
     <string name="privacy_close_dlg_msg">Lorsque le mot de passe de protection de confidentialité est désactivé, vos éléments ne seront plus protégés.</string>
@@ -4308,7 +4308,7 @@ Interface UT: %5$s"</string>
     <string name="restriction_nfc_enable_summary_config">"Autoriser l'échange de données lorsque cet appareil (%1$s) touche un autre appareil NFC"</string>
     <string name="restriction_nfc_enable_title">NFC</string>
     <string name="restriction_settings_title">Restrictions</string>
-    <string name="restriction_wifi_config_summary">Autorisation la modification des paramètres réseau Wi-Fi et mobiles</string>
+    <string name="restriction_wifi_config_summary">Permissions la modification des paramètres réseau Wi-Fi et mobiles</string>
     <string name="restriction_wifi_config_title">Réseaux Wi-Fi et mobiles</string>
     <string name="retail_demo_reset_message">"Entrer votre mot de passe pour réaliser une réinitialisation aux paramètres d'usine dans le mode démo"</string>
     <string name="retail_demo_reset_next">Suivant</string>

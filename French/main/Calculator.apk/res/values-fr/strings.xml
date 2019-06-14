@@ -181,7 +181,7 @@
     <string name="mulDesc">multiplier</string>
     <string name="negDesc">Basculer entre les températures inférieures et supérieures à zéro</string>
     <string name="network_confirm_content">"Le convertisseur de devise, de taxe et des calculateurs d'hypothèque doivent se connecter à Internet et accéder aux services de localisation de votre appareil pour fonctionner normalement."</string>
-    <string name="network_confirm_title">Autorisation requise</string>
+    <string name="network_confirm_title">Permissions requise</string>
     <string name="none">Aucun</string>
     <string name="not_supported_due_to_language">Cette fonctionnalité est uniquement disponible pour la langue chinoise</string>
     <string name="ok">OK</string>

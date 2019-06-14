@@ -869,13 +869,13 @@ pour personnaliser Galerie"</string>
     <string name="people_page_unname">Sans nom</string>
     <string name="permissin_contract_desc">Pour nommer des personnes sur des photos</string>
     <string name="permission_contract_name">Contacts</string>
-    <string name="permission_optional_category">Autorisations optionnelles</string>
+    <string name="permission_optional_category">Permissionss optionnelles</string>
     <string name="permission_phone_desc">"Pour les requêtes réseau basées sur l'ID de l'appareil"</string>
     <string name="permission_phone_name">Téléphone</string>
-    <string name="permission_require_category">Autorisations obligatoires</string>
+    <string name="permission_require_category">Permissionss obligatoires</string>
     <string name="permission_storage_desc">Pour afficher, éditer et enregistrer des photos</string>
     <string name="permission_storage_name">Stockage</string>
-    <string name="permission_use_desc">Autorisations</string>
+    <string name="permission_use_desc">Permissions</string>
     <string name="pet_album_display_name">"Photos d'animaux"</string>
     <string name="petabyteShort">Po</string>
     <string name="photo">Photos</string>
@@ -992,7 +992,7 @@ pour personnaliser Galerie"</string>
     <string name="privacy_permission_request_message">"Galerie a besoin d'accès à %3$s. Les informations collectées seront utilisées en accord avec notre %1$s et %2$s. Autoriser?"</string>
     <string name="privacy_permission_request_negative">Restreindre</string>
     <string name="privacy_permission_request_positive">Autoriser</string>
-    <string name="privacy_permission_request_title">Autorisation requise</string>
+    <string name="privacy_permission_request_title">Permissions requise</string>
     <string name="projection_cancel">Annuler</string>
     <string name="projection_checkbox_text">Mémoriser cet affichage</string>
     <string name="projection_device_connection_failed">Impossible de se connecter au projecteur</string>

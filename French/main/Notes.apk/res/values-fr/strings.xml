@@ -32,7 +32,7 @@
     <string name="cta_confirm_cancel">Ne pas autoriser</string>
     <string name="cta_confirm_ok">Autoriser</string>
     <string name="cta_dialog_message">"Notes nécessite des autorisations pour se connecter à Internet, enregistrer de l'audio et accéder à vos contacts pour fonctionner normalement. Autoriser?"</string>
-    <string name="cta_dialog_title">Autorisation requise</string>
+    <string name="cta_dialog_title">Permissions requise</string>
     <string name="cta_reminder">"Notes nécessite des autorisations pour se connecter à Internet, enregistrer de l'audio et accéder à vos contacts pour fonctionner normalement. Autoriser?"</string>
     <string name="date_time_picker_alarm_reminder">Alarme</string>
     <string name="date_time_picker_dialog_title">"Définir la date et l'heure"</string>
