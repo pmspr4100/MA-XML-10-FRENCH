@@ -869,10 +869,10 @@ pour personnaliser Galerie"</string>
     <string name="people_page_unname">Sans nom</string>
     <string name="permissin_contract_desc">Pour nommer des personnes sur des photos</string>
     <string name="permission_contract_name">Contacts</string>
-    <string name="permission_optional_category">Permissionss optionnelles</string>
+    <string name="permission_optional_category">Permissions optionnelles</string>
     <string name="permission_phone_desc">"Pour les requêtes réseau basées sur l'ID de l'appareil"</string>
     <string name="permission_phone_name">Téléphone</string>
-    <string name="permission_require_category">Permissionss obligatoires</string>
+    <string name="permission_require_category">Permissions obligatoires</string>
     <string name="permission_storage_desc">Pour afficher, éditer et enregistrer des photos</string>
     <string name="permission_storage_name">Stockage</string>
     <string name="permission_use_desc">Permissions</string>

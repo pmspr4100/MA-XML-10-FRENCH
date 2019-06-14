@@ -58,7 +58,7 @@
   <string name="delete">Supprimer</string>
   <string name="deleteMail">Sauvegarde des mails et stockage</string>
   <string name="deleteMails">Supprimer des emails</string>
-  <string name="denied_required_permission">Permissionss refusées. Vous pouvez les changer dans les paramètres &gt; Apps.</string>
+  <string name="denied_required_permission">Permissions refusées. Vous pouvez les changer dans les paramètres &gt; Apps.</string>
   <string name="description_direction_down">Slide down to snooze</string>
   <string name="description_direction_left">Slide left to snooze</string>
   <string name="description_direction_right">Slide right to dismiss</string>
