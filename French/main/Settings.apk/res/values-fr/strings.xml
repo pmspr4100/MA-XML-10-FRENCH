@@ -1524,8 +1524,9 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="dangerous_option_hint">\"%1$s\" est activé. Appuyez pour modifier les paramètres.</string>
     <string name="dangerous_option_hint_title">Fonction à haut risque activée</string>
     <string name="dangerous_option_switch_title">Avertir des fonctionnalités à haut risque</string>
+    <string name="dark_color_summary_lcd">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le mode sombre peut vous aider à soulager la fatigue oculaire lorsque vous utilisez votre appareil dans l'obscurité."</string>
+    <string name="dark_color_summary_oled">"Utilisez une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles. Le mode sombre réduit la consommation d'énergie et aide à soulager la fatigue oculaire."</string>
     <string name="dark_color_mode">Mode sombre</string>
-    <string name="dark_color_summary">Utiliser une palette de couleurs plus sombre pour les arrière-plans du système et les applications compatibles</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Réduire</string>
     <string name="dashboard_title">Paramètres</string>
     <string name="data_limit">Limite de données</string>
@@ -1982,7 +1983,7 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="dual_clock">Double horloge</string>
     <string name="dual_clock_aod_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes: 1. Pour l'écran éteitn, autoriser d'afficher les éléments dans Paramètres > Afficher; 2. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres > Thèmes; 3. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
     <string name="dual_clock_aod_open_message">"La double horloge s'affichera sur l'écran de verrouillage, l'écran d'accueil et l'écran éteint."</string>
-    <string name="dual_clock_hint">"\"Double horloge\" repose sur les fonctionnalités suivantes: 1. Dans l'écran de verrouillage, assurez-vous que vous utilisez le thème par défaut ou classique dans Paramètres > Thèmes; 2. Pour l'écran d'accueil, assurez-vous que vous utilisez le widget horloge système par défaut."</string>
+    <string name="dual_clock_hint">"La double horloge nécessite l'utilisation d'un widget d'horloge système et d'un thème par défaut"</string>
     <string name="dual_clock_ok">"C'est compris"</string>
     <string name="dual_clock_open_message">"La double horloge s'affichera sur l'écran de verrouillage, l'écran d'accueil."</string>
     <string name="dual_setting_simcard1">SIM 1</string>
@@ -3703,8 +3704,6 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="onehour">30 minutes</string>
     <string name="onekey_migrate">Mi Transfert</string>
     <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
-    <string name="open_dark_mode_dialog_summary">"Certains paramètres d'affichage ne sont pas compatibles avec le mode nuit. Cependant, ils seront restaurés une fois que vous désactivez le mode nuit. Activer le mode nuit ?"</string>
-    <string name="open_dark_mode_dialog_title">Compatibilité du mode nuit</string>
     <string name="open_demo_mode">Activer</string>
     <string name="open_demo_mode_warning_message">"Lorsque le mode Démo est activé, l'horloge dans la barre d'état s'arrêtera, les icônes de la batterie et du signal seront affichés comme plein. Vous pouvez désactiver le mode Démo ou redémarrer l'appareil pour modifier cela."</string>
     <string name="open_miui_optimization_title">"Activer l'optimisation MIUI"</string>
@@ -3851,6 +3850,17 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="pointer_location_summary">Afficher les coordonnées tactiles</string>
     <string name="pointer_settings_category">Souris/pavé tactile</string>
     <string name="pointer_speed">Vitesse du pointeur</string>
+    <string name="popup_led_summary">"Afficher l'animation lorsque la caméra avant apparaît et se rétracte"</string>
+    <string name="popup_led_title">Effet visuel</string>
+    <string name="popup_title">Effets de caméra frontale</string>
+    <string name="popup_title_cangmen">Porte de cabine</string>
+    <string name="popup_title_chilun">Roue dentée</string>
+    <string name="popup_title_jijia">Mecha</string>
+    <string name="popup_title_mofa">Magic</string>
+    <string name="popup_title_muqin">Xylophone</string>
+    <string name="popup_title_yingyan">Condor</string>
+    <string name="popup_voice_summary">Émettre un son lorsque la caméra avant apparaît et se rétracte</string>
+    <string name="popup_voice_title">Effet sonore</string>
     <string name="popup_window">Restreindre les notifications flottantes</string>
     <string name="power_autorun_apps_empty">Vide</string>
     <string name="power_autorun_empty">Vide</string>
@@ -5712,7 +5722,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="usage_state_noti_mourth_day">"Notifications sur %s"</string>
     <string name="usage_state_notification">Gérer les notifications</string>
     <string name="usage_state_notification_manager">"Gérer les notifications d'applications"</string>
-    <string name="usage_state_remind_summary">"Activer pour recevoir des alertes de temps d'utilisation. Vous pouvez définir des délais différents pour les jours de semaine et les week-ends."</string>
+    <string name="usage_state_remind_summary">"Activer pour recevoir des alertes de temps d'utilisation."</string>
     <string name="usage_state_remind_title">"Alerte du temps d'utilisation"</string>
     <string name="usage_state_rest_day">Semaine</string>
     <string name="usage_state_saturday">Sam</string>

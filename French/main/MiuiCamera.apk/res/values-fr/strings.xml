@@ -292,9 +292,10 @@
     <string name="custom_watermark_tips">Ce texte apparaîtra comme la deuxième ligne de votre filigrane. Il peut contenir jusquà 18 lettres ou 14 caractères chinois.</string>
     <string name="custom_watermark_words_input_hint">Entrez du texte</string>
     <string name="custom_watermark_words_save_success">Enregistré avec succès</string>
-	<string name="device_48m_watermark_default_text">48MP DUAL CAMERA</string>
-	<string name="device_watermark_default_text">IA DUAL CAMERA</string>
-	<string name="dialog_google_lens_option_0">Google Lens (Recommandé)</string>
+    <string name="device_48m_watermark_default_text">DOUBLE APPAREIL PHOTO 48MP</string>
+    <string name="device_64m_watermark_default_text">DOUBLE APPAREIL PHOTO 64MP</string>
+    <string name="device_watermark_default_text">DOUBLE APPAREIL PHOTO IA</string>
+    <string name="dialog_google_lens_option_0">Google Lens (Recommandé)</string>
     <string name="custom_watermark_contains_senstive_words">Les filigranes ne peuvent pas contenir de termes restreints (%1$s)</string>
     <string name="custom_watermark_too_many_words">Le texte est trop long, veuillez le changer</string>
     <string name="pref_camera_face_info_watermark_title">Horodatage sur les photos</string>
@@ -460,6 +461,8 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="camera_mode_options">Modes</string>
     <string name="button_front_camera_title">Prendre un selfie</string>
     <string name="button_normal_video_title">Enregistrer une vidéo</string>
+    <string name="calibration_guide_tittle">Appareil photo non calibrée</string>
+    <string name="calibration_hint_usage">"Un appareil photo non calibrée aura un impact négatif sur la qualité de l'image.Veuillez contacter le service après-vente."</string>
     <string name="button_fisheye_camera_title">Fisheye</string>
     <string name="title_snap_double_confirm">Confirmer</string>
     <string name="makeup_reset_toast">Effet de maquillage effacé avec succès</string>
@@ -696,8 +699,11 @@ en mode Portrait"</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Mode corps complet est désactivé</string>
     <string name="ai_scene_top_moon_off">Mode basse lumière</string>
     <string name="ultra_pixel_photography_48mp_close_tip">48MP est désactivé</string>
+    <string name="ultra_pixel_photography_64mp_close_tip">64MP est désactivé</string>
     <string name="accessibility_ultra_pixel_photography_48mp_on">48MP est activé</string>
     <string name="accessibility_ultra_pixel_photography_48mp_off">48MP est désactivé</string>
+    <string name="accessibility_ultra_pixel_photography_64mp_off">64MP est désactivé</string>
+    <string name="accessibility_ultra_pixel_photography_64mp_on">64MP est activé</string>
     <string name="module_name_professional">Pro</string>
     <string name="live_edit_exit_message">Arrêter la séance photo maintenant ?</string>
     <string name="live_edit_exit_confirm">Arrêter</string>
