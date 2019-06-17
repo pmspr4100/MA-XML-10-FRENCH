@@ -2339,10 +2339,6 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="force_stop">"Forcer l'arrêt"</string>
     <string name="force_stop_dlg_text">"L'arrêt forcé d'une application peut provoquer un fonctionnement instable."</string>
     <string name="force_stop_dlg_title">"Forcer l'arrêt ?"</string>
-    <string name="force_touch">3D Touch</string>
-    <string name="force_touch_demo">Démo</string>
-    <string name="force_touch_enable">Activer le 3D Touch</string>
-    <string name="force_touch_enable_tips">"Appuyez longuement sur les icônes des applications dans le Lanceur d'application pour afficher les menus de raccourcis lorsque 3D Touch est activé."</string>
     <string name="foreground_traffic">Premier plan %s</string>
     <string name="forget">Supprimer</string>
     <string name="forget_password_button_text"><u>Mot de passe oublié</u></string>

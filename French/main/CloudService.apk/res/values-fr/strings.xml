@@ -138,8 +138,8 @@ En utilisant ce service, vous acceptez %s."</string>
     <string name="micloud_main_network_error">Connexion réseau impossible</string>
     <string name="micloud_main_manual_sync">Synchroniser manuellement</string>
     <string name="micloud_main_wait_wlan">En attente du Wi-Fi</string>
-    <string name="micloud_main_sync_mode_summary">"Synchronisez tous les éléments sauf les photos et les vidéos en temps réel. La consommation électrique augmentera lorsque cette fonction est activée."</string>
-    <string name="micloud_main_sync_mode_title">Synchronisez en temps réel</string>
+    <string name="micloud_main_sync_mode_summary">"Synchronisez les données de l'application en temps réel. La consommation électrique augmentera lorsque cette fonction est activée."</string>
+    <string name="micloud_main_sync_mode_title">Synchronisation rapide</string>
     <string name="micloud_main_wait_wlan_charge_sleep">"Connectez-vous au Wi-Fi, éteignez l'écran et chargez pleinement votre appareil pour reprendre la synchronisation."</string>
     <string name="micloud_main_wait_wlan_charge">"Connectez-vous au Wi-Fi, éteignez l'écran et chargez complètement votre appareil pour reprendre la synchronisation."</string>
     <string name="micloud_main_wait_charge_sleep">Éteignez votre écran et chargez complètement votre appareil pour reprendre la synchronisation.</string>

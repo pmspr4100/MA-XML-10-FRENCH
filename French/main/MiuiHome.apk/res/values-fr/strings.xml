@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">"Ajouter à l'espace de travail"</string>
     <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
+    <string name="activity_not_unlocked">"Attendez que votre appareil soit complètement redémarré avant d'ouvrir les applications"</string>
     <string name="add_screen">Ajouter un écran</string>
     <string name="announce_for_app_move_in_folder">Déplacé à la position %1$d dans le dossier</string>
     <string name="announce_for_checked">%1$s, vérifié</string>
@@ -94,6 +95,7 @@
     <string name="defalut_launcher_title">"Lanceur d'application par défaut"</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Jeux</string>
+    <string name="default_folder_title_meitu">Meitu apps</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">"Plus d'applications"</string>
     <string name="default_folder_title_security">Système</string>
@@ -315,6 +317,9 @@
     <string name="setting_wallpaper_tip">Pincez ou glissez pour ajuster</string>
     <string name="settings">Paramètres</string>
     <string name="settings_shortcut">Paramètres</string>
+    <string name="shake_to_align_icons">"Secouez l'appareil pour remplir les cellules vides avec des icônes"</string>
+    <string name="shake_to_align_icons_summary">"Secouez votre appareil en mode édition pour remplir automatiquement les cellules vides avec des icônes"</string>
+    <string name="shake_to_align_icons_title">Secouez pour remplir les cellules vides</string>
     <string name="share">Partager</string>
     <string name="show_all">Tout afficher</string>
     <string name="show_mem_info_title">"Afficher l'état de la mémoire"</string>
@@ -329,6 +334,7 @@
     <string name="status_installing">Installation</string>
     <string name="status_paused">En pause</string>
     <string name="status_pending">En attente</string>
+    <string name="system_shortcuts_more_operation">"Informations sur l'application"</string>
     <string name="title_jeejen">"Écran d'accueil Jeejen"</string>
     <string name="title_select_live_folder">Sélectionner un dossier</string>
     <string name="title_select_shortcut">Sélectionner un raccourci</string>

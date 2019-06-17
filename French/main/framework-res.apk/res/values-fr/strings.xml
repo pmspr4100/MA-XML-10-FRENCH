@@ -819,6 +819,7 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="mmiFdnError">Opération réservée aux numéros autorisés</string>
     <string name="month_day_year" formatted="false">%-e %B %Y</string>
     <string name="more_item_label">Plus</string>
+    <string name="move_button_text">Appuyez sur le bouton du cadre pour pouvoir déplacer la fenêtre entière</string>
     <string name="muted_by">%1$s coupe certains sons</string>
     <string name="needPuk">Votre carte SIM est verrouillée par clé PUK. Saisissez la clé PUK pour la déverrouiller.</string>
     <string name="needPuk2">Saisissez la clé PUK2 pour débloquer la carte SIM.</string>
