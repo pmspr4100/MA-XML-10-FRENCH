@@ -1019,7 +1019,9 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_cell">Appareil en veille</string>
     <string name="power_phone">Appels</string>
     <string name="power_idle">Téléphone en veille</string>
-    <string name="usage_type_cpu">CPU</string>
+    <string name="power_main_battery_last_day_hour">%1$s j %2$s h restantes</string>
+    <string name="power_main_battery_last_hour_minute">%1$s h %2$s m restantes</string>
+    <string name="usage_type_cpu">Processeur</string>
     <string name="usage_type_cpu_foreground">CPU au premier plan</string>
     <string name="usage_type_wake_lock">Garder éveillé</string>
     <string name="usage_type_wifi_running">Wi-Fi actif</string>
@@ -1241,6 +1243,15 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="auto_task_result_summary_text">"Définir des tâches automatisées pour l'économiseur de batterie"</string>
     <string name="pc_settings_title">"Paramètre de l'optimisation de la batterie"</string>
     <string name="pc_main_activity_back">Retour</string>
+    <string name="pc_main_battery_text_day">Ajouté %1$s m, sur %2$s j restante</string>
+    <string name="pc_main_battery_text_day_hour">Ajouté %1$s m, sur %2$s j %3$s h restante</string>
+    <string name="pc_main_battery_text_hour">Ajouté %1$s m, sur %2$s h restante</string>
+    <string name="pc_main_battery_text_hour_minute">Ajouté %1$s m, sur %2$s h %3$s m restante</string>
+    <string name="pc_main_battery_text_minute">Ajouté %1$sm, sur %2$s m restante</string>
+    <string name="pc_main_power_manager_day_hour">"%1$sd %2$sh jusqu'à la charge complète"</string>
+    <string name="pc_main_power_manager_hour_minute">"%1$s h %2$s m jusqu'à la charge complète"</string>
+    <string name="pc_main_sub_battery_text_day_hour">%1$s j %2$s h restant</string>
+    <string name="pc_main_sub_battery_text_hour_minute">%1$s h %2$s m restante</string>
     <string name="extreme_power_save_mode_card_summary">"Activez l'économiseur de batterie extrême pour économiser de l'énergie lorsque la batterie est faible."</string>
     <string name="handle_bar_title_system">Système</string>
     <string name="apps_list_header_title_sms">"Vérifier l'application de messagerie"</string>
@@ -1601,6 +1612,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="toast_auto_traffic_correct">"L'utilisation des données est ajustée automatiquement"</string>
     <string name="toast_show_notification">Épinglé au panneau de notifications</string>
     <string name="toast_cleaner_cloudscan">Nettoyeur utilisera des définitions en ligne</string>
+    <string name="toast_dark_mode_fixed">Fixé avec succès. Quittez cette page pour appliquer les modifications.</string>
     <string name="toast_garbage_lib">Les mises à jour automatiques pour le Nettoyeur ont été activées</string>
     <string name="title_app_lock_disable">Verrouiller des applications</string>
     <string name="summary_app_lock_disable">"Protégez vos données avec le Verrouillage d'application"</string>
@@ -1614,6 +1626,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="permission_with_call_and_contact">"Autorisations concernant les appels, les informations des contacts, et le journal d'appels."</string>
     <string name="title_flow_rank">Utilisation des données mobiles</string>
     <string name="title_consume_power_rank">"Utilisation de l'alimentation de l'application"</string>
+    <string name="title_dark_mode">"Certains éléments ne sont pas affichés correctement"</string>
     <string name="title_payment_protection">Les paiement sont sécurisés</string>
     <string name="title_payment_risk">Risque de paiement détecté</string>
     <string name="summary_payment_risk">"Il semble que l'environnement de paiement n'est pas sécurisé"</string>
@@ -1621,7 +1634,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="title_garbage_clean">"La taille du cache de l'application a atteint %s"</string>
     <string name="summary_garbage_clean">"Vider le cache pour libérer de l'espace"</string>
     <string name="summary_consume_power">Problèmes de chauffage détectés, cela peut affecter la vie de la batterie</string>
-    <string name="title_restrict_data_usage">%s ne peut pas se connecter à Internet ?</string>
+    <string name="summary_dark_mode">Certaines pages sont en noir en raison de services tiers</string>
+    <string name="title_restrict_data_usage">%s ne peut pas se connecter à internet ?</string>
     <string name="summary_restrict_data_usage">"Vous avez restreint l'utilisation des données pour cette application."</string>
     <string name="button_restrict_data_usage">Autoriser</string>
     <string name="title_background_connection">"Impossible d'utiliser %s en arrière-plan ?"</string>
@@ -1633,6 +1647,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="title_block_calls_from_strangers">Manquer des appels importants ?</string>
     <string name="summary_block_calls_from_strangers">Les appels des personnes étranges sont bloqués.</string>
     <string name="button_block_calls_from_strangers">Débloquer</string>
+    <string name="button_dark_mode">Fix</string>
     <string name="title_do_not_disturb">"Vous n'arrivez pas à entendre votre sonnerie ?"</string>
     <string name="summary_do_not_disturb">Vous êtes en mode NPD.</string>
     <string name="button_do_not_disturb">Désactiver</string>

@@ -8,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_menu_delete_shortcut_label">supprimer</string>
+    <string name="abc_menu_enter_shortcut_label">entrée</string>
+    <string name="abc_menu_function_shortcut_label">Fonction+</string>
+    <string name="abc_menu_meta_shortcut_label">Méta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">espace</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_search_hint">Rechercher…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -17,6 +27,8 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="about_app_name">À propos</string>
+    <string name="about_version_update">"Quoi de neuf"</string>
     <string name="exo_controls_fastforward_description">Avance rapide</string>
     <string name="exo_controls_fullscreen_description">Mode plein écran</string>
     <string name="exo_controls_next_description">Titre suivant</string>
@@ -76,6 +88,7 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="ad_downloading_tip">Cet article est en cours de téléchargement. Vous pouvez voir la progression dans la barre des notifications.</string>
     <string name="add_resource_detail_fail">"Impossible d'ajouter la ressource"</string>
     <string name="all_resources">Tout</string>
+    <string name="already_latest_version">À jour</string>
     <string name="app_disable_transparent_wallpaper">"Sans fond d'écran transparent"</string>
     <string name="app_enable_transparent_wallpaper">"Avec fond d'écran transparent"</string>
     <string name="app_name">Thèmes</string>
@@ -104,8 +117,14 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="card_retry">Veuillez réessayer</string>
     <string name="change_host_hint">"Changer d'hôte"</string>
     <string name="change_wallpaper">"Fond d'écran"</string>
+    <string name="character_counter_content_description">Limite de caractères dépassée %1$d à %2$d</string>
+    <string name="check_has_new_version">Mise à jour disponible</string>
     <string name="classification_more_understand_you">Sélectionner votre catégorie favorite</string>
     <string name="close">Fermer</string>
+    <string name="common_applying">Appliquer…</string>
+    <string name="common_downloading">Téléchargements…</string>
+    <string name="common_format_date_no_year">dd/MM</string>
+    <string name="common_skip">Suivant</string>
     <string name="component_backup_preference_title">Sauvegarder le thème</string>
     <string name="component_category_finest_title">GÉNÉRAL</string>
     <string name="component_category_more_title">AVANCÉ</string>
@@ -116,6 +135,7 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="count_down_tip">%ds restant</string>
     <string name="current_using_desktop_wallpaper_text">"Écran d'accueil"</string>
     <string name="current_using_lockscreen_wallpaper_text">Écran de verrouillage</string>
+    <string name="current_version">Version actuelle: %1$s</string>
     <string name="current_version_incompatible">Non compatible</string>
     <string name="deleting">Suppression…</string>
     <string name="description_author">Auteur</string>
@@ -183,6 +203,8 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="gift_use_fail_dlg_title">Erreur</string>
     <string name="gift_used">Envoyé</string>
     <string name="go_accessibility_setting">Sélectionner</string>
+    <string name="goto_purchased_list">"Afficher l'historique des achats"</string>
+    <string name="goto_wechat">Compte WeChat copié \"%1$s\" au presse-papier. Ouvrez WeChat maintenant ?</string>
     <string name="hide_free">Masquer les %1$s gratuits</string>
     <string name="hide_incompatible">Masquer les %1$s incompatibles</string>
     <string name="home_apply_failured">"Impossible d'appliquer le fond d'écran de l'écran d'accueil"</string>
@@ -191,7 +213,7 @@ Les thèmes détectent les applications que vous utilisez et affichent des fonds
     <string name="incall_show_apply">Profil vidéo pour les appels sortants</string>
     <string name="incall_show_apply_fail">Impossible de définir</string>
     <string name="incall_show_apply_success">"Appliqué avec succès. Pour désactiver cette fonctionnalité, 
- allez dans Paramètres > Sonnerie > Vidéo de profil."</string>
+allez dans Paramètres > Sonnerie > Vidéo de profil."</string>
     <string name="incall_show_apply_success_without_ringtone">"Appliqué avec succès. Cette vidéo n'a pas de son. La sonnerie originale sera utilisée. 
 Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de profil."</string>
     <string name="incall_show_find_more">Trouver plus</string>
@@ -217,6 +239,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="loading_resource_detail_info">Chargement…</string>
     <string name="local_photos">Photos locales</string>
     <string name="local_resouce_creator_name">Développeur: %1$s</string>
+    <string name="lock_screen_apply">"Configurer comme l'écran de verrouillage"</string>
     <string name="lockscreen_apply_failured">"Impossible d'appliquer le fond d'écran de verrouillage"</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">"Le fond d'écran de l'écran de verrrouillage est appliqué. Impossible d'appliquer celui de l'écran d'accueil."</string>
     <string name="lockscreen_apply_success">"Fond d'écran de l'écran de verrouillage appliqué"</string>
@@ -257,6 +280,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="mix_icons_option_des">"Icônes de l'écran daccueil. Décochez cette case pour utiliser les options par défaut."</string>
     <string name="mix_lockscreen_option_des">"Fond d'écran et horloge. Décochez cette case pour utiliser les options par défaut."</string>
     <string name="mix_tip">Composants de thème</string>
+    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Cette sonnerie sera appliquée aux deux cartes SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">La sonnerie est appliquée pour les deux cartes SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">"C'est compris"</string>
@@ -265,7 +289,10 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="my_gifts">Cadeaux</string>
     <string name="my_gifts_purchased">Acheté</string>
     <string name="my_gifts_received">Reçu</string>
+    <string name="network_exception">"Impossible de se connecter au réseau. Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="no_data">Impossible de se connecter au réseau</string>
+    <string name="no_net_work_connection">Vérifiez vos paramètres réseau et réessayez.</string>
+    <string name="official_accounts">WeChat</string>
     <string name="online_no_network">Impossible de se connecter au réseau</string>
     <string name="online_precust_abstract">Abstrait</string>
     <string name="online_precust_animal">Animal</string>
@@ -415,6 +442,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="resource_import_successful">Terminé</string>
     <string name="resource_importing">Importation…</string>
     <string name="resource_is_off_shelf">Non disponible</string>
+    <string name="resource_is_off_shelf_can_not_share">"Je ne peux pas partager. Cet article n'est plus disponible."</string>
     <string name="resource_list_title">Récemment sélectionné</string>
     <string name="resource_local_picker">Choisir une sonnerie locale</string>
     <string name="resource_menu_refresh">Actualiser</string>
@@ -511,6 +539,9 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="sdcard_not_mounted_dialog_title">Aucune carte SD détectée</string>
     <string name="search_hint_header_text">Mots clés</string>
     <string name="selected_resource_file_invalid">Le fichier sélectionné est non valide.</string>
+    <string name="server_internal_error">"Une erreur de serveur s'est produite. Attendez une minute ou deux et réessayez."</string>
+    <string name="service_btn_text_know">知道啦</string>
+    <string name="service_btn_text_try">试试看</string>
     <string name="set_color_ring_back_tone">Définir une sonnerie personnalisée de rappel</string>
     <string name="settings">Paramètres</string>
     <string name="shortcut_add">Ajouter</string>
@@ -539,6 +570,9 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="theme_changed_failed_message">"Impossible d'appliquer le thème"</string>
     <string name="theme_changed_message">Thème appliqué</string>
     <string name="theme_changing_dialog_title">"Application "</string>
+    <string name="theme_comment_dialog_cancel">Pas maintenant</string>
+    <string name="theme_comment_dialog_message">"Aimez-vous le thème que vous utilisez maintenant ? Nous apprécierions vos commentaires !"</string>
+    <string name="theme_comment_dialog_ok">Aperçu</string>
     <string name="theme_component_title_alarm">Alarmes</string>
     <string name="theme_component_title_alarmstyle">"Style d'alarme"</string>
     <string name="theme_component_title_all">Thèmes</string>
@@ -654,11 +688,12 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="using_theme_next_automatic_update">Mises à jour automatiques</string>
     <string name="using_theme_next_automatic_update_summary">Mettre à jour les thèmes téléchargés via Wi-Fi automatiquement lorsque lécran est verrouillé</string>
     <string name="using_theme_show_ad">Recommandations</string>
-    <string name="video_ad_click">Try now</string>
-    <string name="video_ad_try_for_free">Free trial</string>
-    <string name="video_ad_uncomplete_tip">Finish watching the video to get the theme.</string>
-    <string name="video_ad_uncomplete_tip_cancel">Cancel</string>
-    <string name="video_ad_uncomplete_tip_continue">Keep watching</string>
+    <string name="version_update">Vérifier les mises à jour</string>
+    <string name="video_ad_click">Essayez maintenant</string>
+    <string name="video_ad_try_for_free">Essai gratuit</string>
+    <string name="video_ad_uncomplete_tip">Terminez en regardant la vidéo pour obtenir le thème.</string>
+    <string name="video_ad_uncomplete_tip_cancel">Annuler</string>
+    <string name="video_ad_uncomplete_tip_continue">Continuer de regarder</string>
     <string name="video_audio_apply_success">Configuration de la vidéo avec son est un succès</string>
     <string name="video_data_tips_message">Utiliser les données mobiles peut engendrer des frais additionels. Continuer quand même?</string>
     <string name="video_data_tips_title">"Alerte d'utilisation des données"</string>
@@ -700,6 +735,8 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="wallpaper_settings_no_history">Aucun historique</string>
     <string name="wallpaper_settings_pad_more_page_title">"Plus de fonds d'écran"</string>
     <string name="wallpaper_settings_page_title">"Fond d'écran"</string>
+    <string name="wechat_not_found">Installez WeChat en premier</string>
+    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">Annuler</string>
     <string name="wifi_check_confirm">Confirmer</string>
     <string name="wifi_check_message">Utiliser les données mobiles pour télécharger les mises à jour?</string>
@@ -707,4 +744,14 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="xiaoai_speech_not_installed_download">Télécharger</string>
     <string name="xiaoai_speech_not_installed_message">"Télécharger et installer l'assistant vocal Mi IA pour continuer."</string>
     <string name="xiaoai_speech_not_installed_title">"L'assistant vocal Mi IA n'est pas installé."</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">"Échec de la connexion au gestionnaire de téléchargement. Veuillez vérifier l’état du gestionnaire de téléchargement dans Gestion des applications."</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Présentation de la version %1$s
+Taille: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Présentation de la version %1$s
+Taille de la mise à jour Delta: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s mises à jour !</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Mémoire indisponible, veuillez vérifier la carte SD.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
 </resources>
