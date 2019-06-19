@@ -51,7 +51,6 @@
     <string name="blacklist">Bloquer</string>
     <string name="bluetooth_connection_failed_toast">Connexion Bluetooth interrompue</string>
     <string name="blurbJoinContactDataWith">Choisissez le contact que vous souhaitez fusionner avec %s.</string>
-    <string name="btn_call_fuhao_txt">Sous</string>
     <string name="btn_rotation">Rotation</string>
     <string name="btn_split_contact">Séparer</string>
     <string name="button_cancel_scan">Arrêter</string>
@@ -164,7 +163,6 @@
     <string name="chat_skype">Tchatter via Skype</string>
     <string name="chat_yahoo">Tchatter via Yahoo</string>
     <string name="checkhint">Vérifiez le périphérique cible</string>
-    <string name="china_mobile_palm_hall">Centre de services en ligne de la CMCC</string>
     <string name="clearCallLogConfirmation">"L'historique des appels sera supprimé."</string>
     <string name="clearCallLogConfirmation_title">"Effacer tous les journaux d'appels ?"</string>
     <string name="clearCallLogProgress_title">"Suppression du journal d'appels…"</string>
@@ -251,7 +249,6 @@ Les cartes de contact ont été désactivées"</string>
     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
     <string name="contact_import_methods_dialog_title">"Sélectionner une méthode d'importation"</string>
-    <string name="contact_is_deleted">Le contact a été supprimé</string>
     <string name="contact_is_readOnly">"Impossible d'éditer les contacts en lecture seule"</string>
     <string name="contact_list_loading">Chargement…</string>
     <string name="contact_pick_photo">Photo</string>
@@ -330,7 +327,6 @@ Les cartes de contact ont été désactivées"</string>
     <string name="description_image_button_eight">huit</string>
     <string name="description_image_button_five">cinq</string>
     <string name="description_image_button_four">quatre</string>
-    <string name="description_image_button_fuhao_named_dial">Sous appel</string>
     <string name="description_image_button_nine">neuf</string>
     <string name="description_image_button_one">un</string>
     <string name="description_image_button_plus">Plus</string>
@@ -515,11 +511,6 @@ Raison: \"%s\""</string>
     <string name="group_sms_progress_msg">Groupement…</string>
     <string name="groupsLabel">Groupes</string>
     <string name="groups_list_empty">Aucun groupe</string>
-    <string name="heduohao_fuhao_call_menu_title">Composer le sous %d</string>
-    <string name="heduohao_fuhao_order">Sous %d</string>
-    <string name="heduohao_label">HeDuoHao</string>
-    <string name="heduohao_main_call_menu_title">Composer le numéro principal</string>
-    <string name="heduohao_popup_txt">Sous %d</string>
     <string name="hint_findContacts">Trouver des contacts</string>
     <string name="hint_more_contact">Fusionner les contacts en double</string>
     <string name="hybrid_check_network">Paramètres réseau</string>

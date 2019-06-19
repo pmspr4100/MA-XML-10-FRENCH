@@ -3850,8 +3850,6 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="pointer_location_summary">Afficher les coordonnées tactiles</string>
     <string name="pointer_settings_category">Souris / Pavé tactile</string>
     <string name="pointer_speed">Vitesse du pointeur</string>
-    <string name="popup_gesture_summary">"Soulevez le téléphone et regardez l'écran pour ouvrir automatiquement l'appareil photo avant"</string>
-    <string name="popup_gesture_title">"Soulever pour ouvrir la l'appareil photo frontale"</string>
     <string name="popup_led_summary">"Afficher l'animation lorsque l'appareil photo avant apparaît et se rétracte"</string>
     <string name="popup_led_title">Effet visuel</string>
     <string name="popup_title">"Effets de l'appareil photo frontale"</string>
