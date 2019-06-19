@@ -704,7 +704,7 @@ Activez optimisation batterie."</string>
     <string name="battery_settings_title">Batterie</string>
     <string name="battery_since_reset">Utilisation de la batterie depuis la dernière réinitialisation</string>
     <string name="battery_since_unplugged">Utilisation de la batterie depuis le débranchement</string>
-    <string name="battery_stats_camera_on_label">Caméra activée</string>
+    <string name="battery_stats_camera_on_label">Appareil photo activée</string>
     <string name="battery_stats_charging_label">Batterie en charge</string>
     <string name="battery_stats_duration">Débranché depuis %1$s</string>
     <string name="battery_stats_flashlight_on_label">Lampe de poche activée</string>
@@ -3850,6 +3850,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="pointer_location_summary">Afficher les coordonnées tactiles</string>
     <string name="pointer_settings_category">Souris / Pavé tactile</string>
     <string name="pointer_speed">Vitesse du pointeur</string>
+    <string name="popup_gesture_summary">"Soulevez le téléphone et regardez l'écran pour ouvrir automatiquement l'appareil photo avant"</string>
+    <string name="popup_gesture_title">"Soulever pour ouvrir la l'appareil photo frontale"</string>
     <string name="popup_led_summary">"Afficher l'animation lorsque l'appareil photo avant apparaît et se rétracte"</string>
     <string name="popup_led_title">Effet visuel</string>
     <string name="popup_title">"Effets de l'appareil photo frontale"</string>
@@ -3865,7 +3867,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="power_autorun_apps_empty">Vide</string>
     <string name="power_autorun_empty">Vide</string>
     <string name="power_bluetooth">Bluetooth</string>
-    <string name="power_camera">Caméra</string>
+    <string name="power_camera">Appareil photo</string>
     <string name="power_cell">Réseau mobile en veille</string>
     <string name="power_center">Optimisation de la batterie</string>
     <string name="power_charge_remaining">%1$s avant chargement complet</string>
