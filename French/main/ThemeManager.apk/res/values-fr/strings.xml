@@ -304,6 +304,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="online_precust_plant">Plante</string>
     <string name="online_precust_scenery">Paysage</string>
     <string name="online_search_hint">Chercher des ressources en ligne</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="playing_ringtone">Playing</string>
     <string name="pref_privacy_policy">Politique de Confidentialité</string>
     <string name="present_local_fonts">Mes polices</string>
