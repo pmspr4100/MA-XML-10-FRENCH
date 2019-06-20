@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="April">Avril</string>
+    <string name="August">Août</string>
+    <string name="December">Décembre</string>
+    <string name="February">Février</string>
+    <string name="January">Janvier</string>
+    <string name="July">Juillet</string>
+    <string name="June">Juin</string>
+    <string name="March">Mars</string>
+    <string name="May">Mai</string>
+    <string name="November">Novembre</string>
+    <string name="October">Octobre</string>
+    <string name="September">Septembre</string>
+    <string name="Updated_at">"Mise à jour: "</string>
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
@@ -83,6 +96,7 @@
     <string name="available_playlist_name_format">Nouvelle playlist %d</string>
     <string name="avoid_to_use_traffic_summary">Ne pas utiliser le réseau mobile pour écouter de la musique</string>
     <string name="avoid_to_use_traffic_title">Prévenir lorsque vous utilisez les données mobiles pour lire des chansons</string>
+    <string name="back">Retour</string>
     <string name="back_confirm">"Appuyez encore pour mettre l'application en arrière-plan"</string>
     <string name="bluetooth_device">Appareil audio Bluetooth</string>
     <string name="buffering">Chargement…</string>
@@ -348,11 +362,18 @@
     <string name="hide_lyric">Masquer les paroles</string>
     <string name="higher_quality_music">Audio haute qualité</string>
     <string name="higher_quality_music_summary">Écouter et télécharger des fichiers de haute qualité</string>
+    <string name="home_tab_joox">JOOX Musique</string>
     <string name="home_tab_local">Ma musique</string>
     <string name="home_tab_online">Musique en ligne</string>
+    <string name="home_tab_yandex">Yandex Musique</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">Seuls les membres PRO peuvent télécharger plusieurs chansons. Obtenez dès maintenant un abonnement PRO ?</string>
+    <string name="hungama_category_chart">Charte</string>
     <string name="hungama_free_download_out_summary">Vous ne pouvez pas télécharger plus de chansons gratuites. Obtenez un abonnement PRO pour télécharger des chansons illimitées ?</string>
+    <string name="hungama_playlist_category">Catégorie de playlist</string>
+    <string name="hungama_privacy_desc">Politique de confidentialité de Hungama (facultatif)</string>
+    <string name="hungama_privacy_tips_content">Pour avoir accès au contenu en ligne, vous devez accepter &lt;a href="/link/click"&gt;Politique de confidentialité de Hungama&lt;/a&gt;.</string>
+    <string name="hungama_privacy_tips_title">Politique de confidentialité de Hungama</string>
     <string name="hungama_subscribe_message">Payez pour un abonnement PRO pour télécharger de la musique de haute qualité.</string>
     <string name="hungama_subscribe_positive_button">Payer pour un abonnement PRO</string>
     <string name="hungama_subscribe_title">Abonnement PRO</string>
@@ -492,14 +513,31 @@
     <string name="nowplaying_dialog_title_delete_tracks">"Supprimer cette chanson de la file d'attente ?"</string>
     <string name="nowplaying_menu_item_delete">"Supprimer de la file d'attente"</string>
     <string name="ok">OK</string>
+    <string name="online_apk_acquired">Chargé %d%%</string>
+    <string name="online_apk_acquiring">Chargement… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Impossible de télécharger en raison de l'espace de stockage insuffisant."</string>
     <string name="online_apk_downloading">Téléchargement en cours…%d%%</string>
     <string name="online_apk_install_alert_confirm">Télécharger</string>
-    <string name="online_apk_install_alert_message">Vous devez télécharger le plug-in Yandex.Music. Télécharger maintenant?</string>
+    <string name="online_apk_install_alert_continue">Résumer</string>
+    <string name="online_apk_install_alert_failed_text">"Impossible de télécharger. Réessayer."</string>
+    <string name="online_apk_install_alert_message">Vous devez télécharger le plug-in Yandex.Music. Télécharger maintenant ?</string>
+    <string name="online_apk_install_alert_mobile_net_text">"Vous utilisez les données mobiles maintenant. L'utilisation de données mobiles pour télécharger des éléments peut générer des frais supplémentaires."</string>
     <string name="online_apk_install_alert_note">Ce service est fourni par Yandex.Music</string>
+    <string name="online_apk_install_alert_note_new">Le contenu en ligne est fourni par %s</string>
+    <string name="online_apk_install_alert_pause">Pause</string>
+    <string name="online_apk_install_alert_retry">Réessayer</string>
+    <string name="online_apk_install_alert_start">Démarrer</string>
+    <string name="online_apk_install_completed">Contenu en ligne chargé avec succès. Appuyez %s pour afficher.</string>
     <string name="online_apk_install_error_no_enough_space">"Impossible d'installer en raison de l'espace de stockage insuffisant."</string>
     <string name="online_apk_install_error_with_reason">"Impossible d'installer (Erreur %d)"</string>
+    <string name="online_apk_install_failed_with_reason" formatted="false">"Impossible de charger le contenu en ligne. Appuyez %s pour essayer à nouveau. Code d'erreur: %d."</string>
+    <string name="online_apk_install_in_background">Chargement de contenu en ligne en arrière-plan…</string>
+    <string name="online_apk_install_network_change_paused">"Vous utilisez des données mobiles. Mise en pause des éléments pour le moment. Appuyez sur %s pour afficher."</string>
+    <string name="online_apk_install_network_error">"Impossible de se connecter au réseau. Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="online_list_delete_message">Toutes les chansons téléchargées dans cette playlist seront supprimées de votre stockage interne.</string>
+    <string name="online_music_joox">JOOX</string>
+    <string name="online_music_yandex">Yandex</string>
+    <string name="online_playlist_category">Playlists</string>
     <string name="online_recommend">Playlist</string>
     <string name="online_service_open_tip">Les services de musique en ligne sont activés</string>
     <string name="online_service_title">Services en ligne</string>
@@ -537,6 +575,7 @@
     <string name="play_video_with_traffic">CONTINUER</string>
     <string name="play_video_with_traffic_toast">Vous utilisez des données mobiles maintenant.</string>
     <string name="playlist_empty">Aucune playlist trouvée.</string>
+    <string name="playlist_recommend_title">Recommander</string>
     <string name="playlist_title">Nom de la Playlist</string>
     <string name="playlist_title_is_empty">Le champ du nom de la Playlist ne peut pas être vide</string>
     <string name="playlist_title_is_invalid">La playlist existe déjà</string>
@@ -588,6 +627,8 @@
     <string name="save_changes">Enregistrer les modifications </string>
     <string name="search_album_and_lyric">Recherche de pochettes et paroles</string>
     <string name="search_empty">Impossible de trouver des résultats</string>
+    <string name="search_empty_subtitle_online_music">Appuyez sur le bouton ci-dessous pour ouvrir %s.</string>
+    <string name="search_empty_title_online_music">"Aucun article ici pour l'instant".</string>
     <string name="search_for_album">Album</string>
     <string name="search_for_artist">Artiste</string>
     <string name="search_hint">Rechercher des artistes, des chansons, des albums et des recommandations</string>
@@ -700,8 +741,10 @@
     <string name="toast_normal_songs_for_download">La qualité de téléchargement est définie sur Standard</string>
     <string name="toast_normal_songs_for_stream">La qualité de lecture est définie sur Standard</string>
     <string name="toast_not_pro">Cette fonctionnalité est disponible seulement pour les membres PRO.</string>
-    <string name="toast_uhd_songs_for_download">La qualité de téléchargement est définie sur Élevée</string>
+    <string name="toast_uhd_songs_for_download">La qualité de téléchargement est définie sur élevée</string>
     <string name="toast_uhd_songs_for_stream">Qualité de lecture définie sur Élevée</string>
+    <string name="today">"Aujourd'hui"</string>
+    <string name="top_chart_title">Chartes</string>
     <string name="ultra_high_quality">La plus haute</string>
     <string name="unknown_album_name">Album inconnu</string>
     <string name="unknown_artist_name">Artiste inconnu</string>

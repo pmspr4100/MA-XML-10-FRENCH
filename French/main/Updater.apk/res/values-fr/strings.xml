@@ -16,6 +16,8 @@
   <string name="channel_downloading">Progression du téléchargement</string>
   <string name="channel_update">Nouvelle version disponible</string>
   <string name="check_new_version">Mise à jour</string>
+   <string name="default_filedownloader_notification_content">"Le téléchargeur de fichiers est en cours d'exécution".</string>
+  <string name="default_filedownloader_notification_title">Téléchargeur de fichiers</string>
   <string name="dialog_3g_desc">"Sachez que l'utilisation des données mobile pour télécharger des ROM peut demander un quota important de votre forfait."</string>
   <string name="dialog_3g_title">Attention !</string>
   <string name="dialog_btn_3g">Continuer quand même</string>
@@ -28,7 +30,7 @@
   <string name="download_fail_desc">MD5 Sum ne correspond pas</string>
   <string name="downloading">Téléchargement:</string>
   <string name="downloading_desc">Téléchargement en cours, contrôle du statut dans la zone de notification.</string>
-  <string name="install_desc">"L'appareil va redémarrer pour récupérer et installer la ROM: %1$s 
+  <string name="install_desc">"L'appareil va redémarrer pour récupérer et installer le fichier choisi: %1$s 
 Les données ne seront pas effacées."</string>
   <string name="install_title">Êtes-vous sûr de continuer ?</string>
   <string name="menu_title_current_version_log">Ce qui est nouveau ?</string>
