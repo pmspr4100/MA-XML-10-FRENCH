@@ -35,7 +35,6 @@
     <string name="download_queued">"En file d'attente"</string>
     <string name="download_remaining">%s restante(s)</string>
     <string name="download_running">En cours</string>
-    <string name="download_running_percent">En cours, %d%%</string>
     <string name="download_unknown_title">&lt;Sans titre&gt;</string>
     <string name="enter_garbage_clean">Nettoyer la mémoire interne.</string>
     <string name="insufficient_space">"Pas assez d'espace sur la mémoire interne de votre appareil"</string>
