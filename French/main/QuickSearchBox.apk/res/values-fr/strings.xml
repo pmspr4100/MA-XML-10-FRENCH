@@ -92,8 +92,8 @@ Vous pouvez changer cela dans les paramètres &gt; Applications installées &gt;
     <string name="search_videos">Rechercher des vidéos</string>
     <string name="search_widget">Rechercher</string>
     <string name="send_secret_code">Envoyer le code</string>
-    <string name="setting_other">Autre</string>
-    <string name="setting_version">Version App</string>
+    <string name="setting_other">Information</string>
+    <string name="setting_version">Version:</string>
     <string name="setting_version_title">À propos</string>
     <string name="settings_description">Noms des applications installées</string>
     <string name="show_more">Afficher plus</string>

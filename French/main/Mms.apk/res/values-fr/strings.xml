@@ -226,11 +226,11 @@
     <string name="forward_message_select_title">Transférer le message</string>
     <string name="forward_prefix">TR :</string>
     <string name="found_old_messages">Envoyez les messages de (%1$s) à %2$s ?</string>
-    <string name="found_old_messages_title">Envoyez les messages de vos autres cartes SIM?</string>
+    <string name="found_old_messages_title">Envoyez les messages de vos autres cartes SIM ?</string>
     <string name="found_wild_messages_guide_cloud_desc">Pour synchroniser les messages sur Mi Cloud, connectez-vous à votre compte Mi et activez la synchronisation des SMS.</string>
     <string name="found_wild_messages_guide_settings_desc">Synchroniser les SMS sur Mi Cloud dans les Paramètres de messagerie.</string>
     <string name="found_wild_messages_guide_sync_not_started">"La synchronisation n'a pas encore démarré"</string>
-    <string name="found_wild_messages_title">Synchroniser les messages depuis Mi Cloud</string>
+    <string name="found_wild_messages_title">Synchroniser depuis Mi Cloud</string>
     <string name="from_label">"De: "</string>
     <string name="from_pkg_name">"De l'application:"</string>
     <string name="group_already_kicked_hint">Impossible denvoyer des messages. Vous nêtes pas membre de ce groupe de discussion.</string>
@@ -344,7 +344,7 @@
     <string name="mx2_type_description">[%s]</string>
     <string name="mx_activate_allow_notice">"Un SMS sortant peut être requis pour activer le service texte et vocal gratuit. Votre opérateur vous facturera ce message. En outre, lorsque cette fonctionnalité est activée, une petite quantité de données mobiles est requise pour vérifier si l'autre utilisateur est en ligne. Acceptez-vous?"</string>
     <string name="mx_activate_dlg_title">Activer les Messages Mi</string>
-    <string name="mx_activate_dlg_title_ex">Activer Messages Mi &amp; Voix</string>
+    <string name="mx_activate_dlg_title_ex">Activer Messages Mi et Voix</string>
     <string name="mx_activate_error_malformed_info">Vous devez réactiver la messagerie Mi pour cette carte SIM.</string>
     <string name="mx_activate_error_server">"Impossible d'activer la carte SIM"</string>
     <string name="mx_activate_error_sim_change">"On dirait que vous avez changé de carte SIM. Pour activer la messagerie Mi, votre appareil a besoin d'envoyer un SMS vers les serveurs de Xiaomi."</string>

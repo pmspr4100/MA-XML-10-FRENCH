@@ -403,8 +403,8 @@ to view open tabs from other devices."</string>
   <string name="fling_on_border_gesture_hint">You can choose the function of this gesture in Settings</string>
   <string name="for_diagnosis_usage_only">Use this info for diagnosis only.</string>
   <string name="force_quick_search_title">Rechercher</string>
-  <string name="force_touch_bookmark_history_title">Bookmarks &amp; history</string>
-  <string name="force_touch_infoflow_title">News</string>
+  <string name="force_touch_bookmark_history_title">Signets et historique</string>
+  <string name="force_touch_infoflow_title">Nouvelles</string>
   <string name="forward_description">Forward</string>
   <string name="geolocation_permissions_prompt_dont_share">Decline</string>
   <string name="geolocation_permissions_prompt_message">%s wants to know your location</string>
@@ -1210,8 +1210,8 @@ Remember that the files you download and the bookmarks you add will still be sav
   <string name="search_notification_btn_title">Recherche</string>
   <string name="search_notification_guide_content">Experience now</string>
   <string name="search_notification_guide_title">Swipe the top of the screen and experience a quick search!</string>
-  <string name="search_path_browser">Settings/Installed apps/Browser</string>
-  <string name="search_settings_description">Bookmarks and web history</string>
+  <string name="search_path_browser">Paramètres / Applications installées / Navigateur</string>
+  <string name="search_settings_description">Signets et historique Web</string>
   <string name="search_shipin">Vidéo</string>
   <string name="search_sm">SM</string>
   <string name="search_sogou">Sogou</string>

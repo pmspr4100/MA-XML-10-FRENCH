@@ -168,7 +168,7 @@
     <string name="file_picker">Choisissez un emplacement</string>
     <string name="file_size">Taille:</string>
     <string name="flow_consume">Traffic</string>
-    <string name="force_touch_newdownload">New download</string>
+    <string name="force_touch_newdownload">Nouveau téléchargement</string>
     <string name="force_touch_rank">Rankings</string>
     <string name="force_touch_search">Search the web</string>
     <string name="free_high_speed_channel">Xunlei accelerator (free)</string>
@@ -187,7 +187,7 @@
     <string name="high_speed_tryout_speedup_confirm">Preparing to boost speed…</string>
     <string name="high_speed_tryout_time">Trial time left: %1$s. Become a Xunlei member.</string>
     <string name="hint">Attention</string>
-    <string name="home_page_new_download_guide">New downloads go here</string>
+    <string name="home_page_new_download_guide">Les nouveaux téléchargements vont ici</string>
     <string name="immediately_a_renewal">Renew now</string>
     <string name="info_flow_only_load_wifi">Charger uniquement du contenu en utilisant un réseau Wi-Fi</string>
     <string name="info_flow_setting">Content settings</string>

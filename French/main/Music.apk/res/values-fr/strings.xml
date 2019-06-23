@@ -55,7 +55,7 @@
     <string name="add_to_last_of_playlist">Ajouter à la fin de la playlist</string>
     <string name="add_to_playlist_successful">Ajouté avec succès</string>
     <string name="added_next_play">Ajouté pour être joué ensuite</string>
-    <string name="agreement_desc">Accord de l’utilisateur (obligatoire)</string>
+    <string name="agreement_desc">"Accord de l'utilisateur (obligatoire)"</string>
     <string name="alaka_required">Vous devez payer pour écouter cette chanson</string>
     <string name="album_label">"Couvertures d'album"</string>
     <string name="album_name">Album</string>
@@ -308,7 +308,6 @@
     <string name="exo_download_failed">Échec du téléchargement</string>
     <string name="exo_download_notification_channel_name">Téléchargements</string>
     <string name="exo_download_removing">Suppression des téléchargements…</string>
-    <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_selection_auto">Automatique</string>
     <string name="exo_track_selection_none">Aucun</string>
@@ -378,7 +377,7 @@
     <string name="hungama_subscribe_positive_button">Payer pour un abonnement PRO</string>
     <string name="hungama_subscribe_title">Abonnement PRO</string>
     <string name="i_know">OK</string>
-    <string name="impunity_declaration_content">"Vous devez lire et accepter nos &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fr_FR\">Accord Utilisateur&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fr_FR\">Politique de confidentialité&lt;/a>avant d'utiliser le produit."</string>
+    <string name="impunity_declaration_content">"Vous devez lire et accepter nos &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fr_FR\">Accord utilisateur&lt;/a> et &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fr_FR\">Politique de confidentialité&lt;/a>avant d'utiliser le produit."</string>
     <string name="impunity_declaration_ignore">Ne plus afficher</string>
     <string name="impunity_declaration_negative_text">Quitter</string>
     <string name="impunity_declaration_positive_text">Accepter</string>
@@ -516,7 +515,7 @@
     <string name="online_apk_acquired">Chargé %d%%</string>
     <string name="online_apk_acquiring">Chargement… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Impossible de télécharger en raison de l'espace de stockage insuffisant."</string>
-    <string name="online_apk_downloading">Téléchargement en cours…%d%%</string>
+    <string name="online_apk_downloading">Téléchargement en cours… %d%%</string>
     <string name="online_apk_install_alert_confirm">Télécharger</string>
     <string name="online_apk_install_alert_continue">Résumer</string>
     <string name="online_apk_install_alert_failed_text">"Impossible de télécharger. Réessayer."</string>
@@ -690,10 +689,10 @@
     <string name="songgroup_pick_playlist">Playlists</string>
     <string name="sort_by_name">Nom</string>
     <string name="sort_by_time">Date</string>
-    <string name="start_to_check_new_version">Vérification des updates…</string>
+    <string name="start_to_check_new_version">Vérification des mises à jour…</string>
     <string name="start_to_download">Téléchargement…</string>
     <string name="start_to_play">Lecture</string>
-    <string name="storage_internal">Stockage Interne</string>
+    <string name="storage_internal">Stockage interne</string>
     <string name="storage_sd_card">Stockage externe</string>
     <string name="storage_usb">Stockage USB</string>
     <string name="streamloadingtext">Connexion à %s</string>
@@ -754,7 +753,7 @@
     <string name="upgrade_music">Mettre Musique à jour</string>
     <string name="upgrade_music_message">Les mises à jour sont prêtes. Redémarrez pour appliquer.</string>
     <string name="upgrading_in_backstage">Mise à jour en arrière-plan…</string>
-    <string name="user_agreement">Accord Utilisateur</string>
+    <string name="user_agreement">Accord utilisateur</string>
     <string name="version_info">Version</string>
     <string name="video_play_cellular">"Votre appareil n'est pas connecté au Wi-Fi. Utiliser les données mobiles?"</string>
     <string name="video_replay_btn">Relire</string>
