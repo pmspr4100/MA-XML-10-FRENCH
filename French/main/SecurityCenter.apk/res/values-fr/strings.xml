@@ -172,6 +172,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="sms_service">Bloquer les SMS de services</string>
     <string name="sms_stranger_block">Bloquer les SMS des personnes étranges</string>
     <string name="sms_contact_block">Bloquer les SMS des contacts</string>
+    <string name="sms_delete_all_hint">Supprimer tous les messages maintenant ?</string>
     <string name="sms_malicious_url">Bloquer les SMS avec des URL malveillantes</string>
     <string name="sms_cloud_block">Liste noire du Cloud</string>
     <string name="call_blacklist">Liste noire des appels</string>
@@ -1033,6 +1034,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="battery_history_minutes">%1$d m %2$d s</string>
     <string name="battery_history_seconds">%1$d sec</string>
     <string name="delete">Supprimer</string>
+    <string name="delete_all_sms">Tout supprimer</string>
     <string name="every_day">Tous les jours</string>
     <string name="legal_workday">Jours ouvrés</string>
     <string name="never">1 fois</string>

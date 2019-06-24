@@ -45,6 +45,10 @@
     <string name="pref_video_encoder_entry_h264">Haute compatibilité H.264</string>
     <string name="pref_video_encoder_entry_h265">Haute performance H.265</string>
     <string name="pref_video_time_lapse_frame_interval_title">Retardateur</string>
+    <string name="pref_video_volumekey_function_default">shutter</string>
+    <string name="pref_watermark_off">Désactivé</string>
+    <string name="pref_watermark_on">Activé</string>
+    <string name="pref_watermark_title">Filigrane</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">"2X (0,06-seconde d'intervalle)"</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">"4X (0,12-seconde d'intervalle)"</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">"10X (0,3-seconde d'intervalle)"</string>
@@ -294,6 +298,7 @@
     <string name="custom_watermark_words_save_success">Enregistré avec succès</string>
     <string name="device_48m_watermark_default_text">DOUBLE APPAREIL PHOTO 48MP</string>
     <string name="device_64m_watermark_default_text">DOUBLE APPAREIL PHOTO 64MP</string>
+    <string name="device_feature_configuration_file_name">défaut</string>
     <string name="device_watermark_default_text">DOUBLE APPAREIL PHOTO IA</string>
     <string name="dialog_google_lens_option_0">Google Lens (Recommandé)</string>
     <string name="custom_watermark_contains_senstive_words">Les filigranes ne peuvent pas contenir de termes restreints (%1$s)</string>
@@ -367,6 +372,10 @@
     <string name="pref_burst_shoot_title">Mode Rafale</string>
     <string name="burst_shoot_exit_button_text">Désactiver le mode rafale</string>
     <string name="pref_camera_long_pressing_shutter_title">Appuyez et maintenez le déclencheur pour verrouiller la mise au point</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Verrouillage AE/AF</string>
+    <string name="pref_camera_lying_summary">手机平行于地平面时，会在拍照界面实时给出照片方向的提示</string>
+    <string name="pref_camera_lying_title">横竖屏引导提示</string>
     <string name="simple_mode_button_asd_flash">Désactiver la capture avec flash</string>
     <string name="simple_mode_button_asd_hdr">Désactiver la capture HDR</string>
     <string name="pref_audio_focus_title">Focus audio</string>
@@ -530,6 +539,7 @@ Gardez le sujet net tout en brouillant l'arrière-plan."</string>
     <string name="pref_google_lens_summary">"Pointez l'appareil photo sur les informations de contact, les URL et les QR codes pour afficher les options disponibles."</string>
     <string name="pref_google_lens_title">Suggestion Lens</string>
     <string name="pref_groupshot_with_primitive_title">"Enregistrer les photos d'origine également"</string>
+    <string name="pref_hdr_value_default">désactivé</string>
     <string name="hint_groupshot_beauty">"Impossible d'utiliser Embellir dans les captures de groupe"</string>
     <string name="hint_groupshot">"L'app. photo prendra plusieurs photos
 et créera une pause sur laquelle tout le monde sera beau."</string>
@@ -594,6 +604,8 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="sticker_tab2">Drôle</string>
     <string name="pref_privacy_title">Politique de Confidentialité</string>
     <string name="user_agree">Accepter</string>
+    <string name="user_define_watermark_cancel">annuler</string>
+    <string name="user_define_watermark_save">sauvegarder</string>
     <string name="do_not_remind_me">Ne plus afficher</string>
     <string name="user_notice_identify_summary_format">"Avant d’utiliser l'appareil photo, vous devez accepter notre &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Accord de l'utilisateur&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Politique de confidentialité&lt;/a&gt;. L'appareil photo doit également se connecter à Internet pour fonctionner normalement. Acceptez-vous ?"</string>
     <string name="user_notice_title">Termes et conditions</string>
@@ -622,7 +634,6 @@ et optimise vos photos basées sur cette information"</string>
     <string name="pref_video_captrue_ability_title">"Capture d'image lors de l'enregistrement"</string>
     <string name="face_analyze_info">Âge: %2$s (%1$s)</string>
     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
-    <string name="pref_camera_picturesize_entry_fullscreen">Plein écran 16:9</string>
     <string name="lens_dirty_detected_title_back">"L'objectif arrière est sale"</string>
     <string name="lens_dirty_detected_title_front">"L'objectif avant est sale"</string>
     <string name="lens_dirty_detected_content">"Il semble que la lentille de votre appareil photo est sale.

@@ -262,6 +262,7 @@ Pour activer votre compte, suivez le
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Se connecter avec un compte Sina Weibo</string>
     <string name="bind_weibo_description">Ajouter vos amis depuis Sina Weibo</string>
+    <string name="bind_weixin">Connectez votre compte WeChat</string>
     <string name="bind_sns_description">Connectez-vous avec %s</string>
     <string name="add_account">Ajouter un compte</string>
     <string name="agreement_and_privacy">"Politique de confidentialité et accord d'utilisation"</string>
@@ -269,12 +270,14 @@ Pour activer votre compte, suivez le
     <string name="bind_qq">QQ</string>
     <string name="facebook">Facebook</string>
     <string name="bind_facebook">Se connecter à votre compte Facebook</string>
+    <string name="bind_google">Se connecter à votre compte Google</string>
     <string name="binded">Connecté</string>
     <string name="nobind">Déconnecté</string>
     <string name="button_unbind">Déconnecter</string>
     <string name="unbind_sns_description">"Après avoir supprimé ce compte, vous ne serez plus en mesure d'utiliser les informations du compte  %s pour vous connecter à votre compte Mi."</string>
     <string name="confirm_unbind">Déconnecter ce compte ?</string>
-    <string name="binded_description" formatted="false">%s a été connecté à votre compte Mi. Votre profil a été mis à jour avec les informations de votre compte %s.</string>
+    <string name="binded_description" formatted="false">"%s a été connecté à votre compte Mi.
+Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</string>
     <string name="access_token_expired_warning">Votre compte Weibo a expiré</string>
     <string name="access_token_invalid_warning">Votre compte Weibo est non valide</string>
     <string name="service_error">Erreur de service</string>
@@ -330,6 +333,7 @@ Pour activer votre compte, suivez le
     <string name="get_phone_bind_exceed_limit">"Vous pouvez associer jusqu'à 3 comptes Mi avec un numéro de téléphone. Impossible d'ajouter de nouveaux comtpes."</string>
     <string name="just_a_second">Chargement…</string>
     <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Attendez 24 heures et essayez à nouveau.</string>
+    <string name="google">Google</string>
     <string name="mi_account_identity_title">Vérifier votre identité</string>
     <string name="exceed_binded_phone_times_notice">Ce numéro de téléphone est déjà associé avec un autre compte Mi.</string>
     <string name="input_email_address_notice">Nous utiliserons cette adresse e-mail pour valider votre compte</string>
@@ -363,6 +367,7 @@ Pour activer votre compte, suivez le
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="mi_vip_info">Afficher les privilèges</string>
     <string name="vip_settings_info">Paramètres VIP</string>
+    <string name="weixin">WeChat</string>
     <string name="used_cloud_storage_info">Espace de stockage utilisé %s</string>
     <string name="mi_finance">Mes Finances</string>
     <string name="mi_finance_info">Bonus pour les nouveaux utilisateurs</string>
@@ -372,6 +377,7 @@ Pour activer votre compte, suivez le
     <string name="talkback_scan_barcode">Scanner un QR code</string>
     <string name="authorize_title">Permissions</string>
     <string name="my_device_title">Appareil actuel</string>
+    <string name="need_install_wechat">Installez WeChat en premier</string>
     <string name="device_list_title">Mes appareils</string>
     <string name="device_list__header">Mes appareils</string>
     <string name="about_device_info">"Afficher les détails de l'appareil"</string>

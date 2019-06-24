@@ -144,9 +144,10 @@ En utilisant ce service, vous acceptez %s."</string>
     <string name="micloud_main_wait_wlan_charge">"Connectez-vous au Wi-Fi, éteignez l'écran et chargez complètement votre appareil pour reprendre la synchronisation."</string>
     <string name="micloud_main_wait_charge_sleep">Éteignez votre écran et chargez complètement votre appareil pour reprendre la synchronisation.</string>
     <string name="micloud_main_wait_charge">Chargez complètement votre appareil pour reprendre la synchronisation.</string>
+    <string name="micloud_last_sync_canceled">La synchronisation a été annulée. Réessayer.</string>
     <string name="micloud_main_button_set_internet">Paramètres</string>
     <string name="micloud_main_simple_off">Synchronisation désactivée</string>
-    <string name="micloud_main_simple_last_sync_time">Dernière synchronisation : %s</string>
+    <string name="micloud_main_simple_last_sync_time">Dernière synchronisation: %s</string>
     <string name="micloud_detail_fail">Impossible de synchroniser</string>
     <string name="micloud_detail_not_syncable">Non synchronisable</string>
     <string name="micloud_detail_query_error">"Impossible d'obtenir l'état de synchronisation"</string>

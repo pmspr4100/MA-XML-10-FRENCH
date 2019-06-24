@@ -852,6 +852,8 @@ Applications:
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Redémarrer ?</string>
     <string name="bluetooth_disable_absolute_volume">Désactiver le volume absolu</string>
     <string name="bluetooth_disable_absolute_volume_summary">Désactivez tout le volume du Bluetooth en cas de problème de volume avec des périphériques distants, par exemple un volume inacceptable ou une incapacité à le contrôler.</string>
+    <string name="bluetooth_disable_inband_ringing">Disable in-band ringing</string>
+    <string name="bluetooth_disable_inband_ringing_summary">Don’t play custom phone ringtones on Bluetooth headsets</string>
     <string name="bluetooth_disable_profile_message">Le profil:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>va être désactivé sur:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Désactiver le profil ?</string>
     <string name="bluetooth_disabled">Désactivé</string>
@@ -1507,6 +1509,7 @@ Pour continuer d'utiliser votre téléphone, vous devez rétablir la configurati
     <string name="current_zone">(actuel)</string>
     <string name="custom_carrier_title">"Modifier le nom de l'opérateur"</string>
     <string name="custom_wifi_name_title">Modifier le nom du Wi-Fi</string>
+    <string name="customize_function">Modèles disponibles</string>
     <string name="cutout_mode_always">"Toujours montrer l'encoche"</string>
     <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">"Certaines applications risquent de ne pas s'afficher correctement si vous personnalisez le mode d'affichage de l'encoche."</string>
@@ -2409,6 +2412,12 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="game_booster">Jeu; Jeux; Turbo; Jeux; Mode de jeu</string>
     <string name="game_controller_settings_category">Manette de jeu</string>
     <string name="game_storage_settings">Jeux</string>
+    <string name="gesture_c">Modèle C</string>
+    <string name="gesture_m">Modèle M</string>
+    <string name="gesture_open_alipay">Ouvrir Alipay</string>
+    <string name="gesture_open_camera">"Ouvrir l'appareil photo"</string>
+    <string name="gesture_open_music">Ouvrir la musique</string>
+    <string name="gesture_open_wechat">Ouvrir WeChat</string>
     <string name="gesture_preference_summary">Gestes rapides pour contrôler votre téléphone</string>
     <string name="gesture_preference_title">Gestes</string>
     <string name="gesture_prevent_ringing_screen_title">Bloquer la sonnerie</string>
@@ -2416,7 +2425,9 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gesture_prevent_ringing_title">Appuyer simultanément sur les boutons \"Marche/Arrêt\" et \"Volume +\"</string>
     <string name="gesture_setting_off">Désactivé</string>
     <string name="gesture_setting_on">Activé</string>
+    <string name="gesture_w">Modèle W</string>
     <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller l'écran"</string>
+    <string name="gesture_z">Modèle Z</string>
     <string name="giga_hertz">" GHz"</string>
     <string name="gigabyteShort">Go</string>
     <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs sur ce téléphone.</string>
@@ -3204,6 +3215,10 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_data_usage_menu_metered">"Points d'accès mobiles"</string>
     <string name="miui_experience_optimization">"Activer l'optimisation MIUI"</string>
     <string name="miui_input_method_settings">Paramètres de la méthode de saisie</string>
+    <string name="miui_lab_3d_gesture_desc">Open your Home screen and draw one of the patterns in the air with your phone to open selected apps</string>
+    <string name="miui_lab_3d_gesture_slogan">Draw a pattern in the air with your phone to open an app</string>
+    <string name="miui_lab_3d_gesture_summary">Draw a pattern in the air with your phone to open an app</string>
+    <string name="miui_lab_3d_gesture_title">3D patterns</string>
     <string name="miui_lab_ai_cloud_closed">"Le préchargement IA n'est pas actuellement disponible."</string>
     <string name="miui_lab_ai_preload_desc">Le préchargement IA augmente la vitesse de lancement des applications</string>
     <string name="miui_lab_ai_preload_title">Préchargement IA</string>
@@ -3217,6 +3232,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_gallery_search_title">Trouver des photos dans Galerie</string>
     <string name="miui_lab_gesture_desc">Utilisez des gestes au lieu des boutons pour la navigation</string>
     <string name="miui_lab_gesture_title">Gestes plein écran</string>
+    <string name="miui_lab_home_feed_desc">Bright ideas. Compelling stories.</string>
+    <string name="miui_lab_home_feed_title">Media Center</string>
     <string name="miui_lab_install_drive_mode_error">Installation impossible, réessayez.</string>
     <string name="miui_lab_install_drive_mode_summary">"Le mode voiture est une application système. L'installation ne requiert pas de connexion internet."</string>
     <string name="miui_lab_install_drive_mode_title">Installer le mode voiture</string>
@@ -5377,6 +5394,8 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
     <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
     <string name="supl_not_set">&lt;Non défini></string>
+    <string name="supplicant_state_label">Supplicant state:</string>
+    <string name="support_gesture_title">3D patterns</string>
     <string name="support_summary">"Articles d'aide, téléphone et chat, premiers pas"</string>
     <string name="sure_sync_now">Synchroniser les éléments maintenant ?</string>
     <string name="suw_back_button_label">Retour</string>

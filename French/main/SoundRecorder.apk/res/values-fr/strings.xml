@@ -243,7 +243,9 @@
     <string name="status_bar_back">Appuyez pour revenir au Magnéto</string>
     <string name="status_bar_recording">Enregistrement…</string>
     <string name="status_bar_recording_pause">"Enregistrement en pause. "</string>
+    <string name="text_btn_backward_3_seconds">3 secondes en arrière</string>
     <string name="text_btn_complete">Arrêter</string>
+    <string name="text_btn_forward_3_seconds">3 secondes en avant</string>
     <string name="text_btn_list">Enregistrements</string>
     <string name="text_btn_mark">Marquer</string>
     <string name="text_btn_pause">Pause</string>
@@ -253,6 +255,10 @@
     <string name="text_btn_recording">Enregistrer</string>
     <string name="text_btn_wave">Onde</string>
     <string name="text_finish">Confirmer</string>
+    <string name="text_play_speed_0_5">Vitesse de lecture 0.5X</string>
+    <string name="text_play_speed_1_0">Vitesse de lecture régulière</string>
+    <string name="text_play_speed_1_5">Vitesse de lecture 1.5X</string>
+    <string name="text_play_speed_2_0">Vitesse de lecture 2X</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">%1$s peut enregistrer environ %2$s</string>
     <string name="toast_uninstall_fileexplorer">"Gestionnaire de fichiers n'est pas installé"</string>

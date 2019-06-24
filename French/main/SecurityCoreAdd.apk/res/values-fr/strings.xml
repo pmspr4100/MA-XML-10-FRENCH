@@ -59,25 +59,27 @@
     <string name="wating">Chargement…</string>
     <string name="Active">Actif</string>
     <string name="ok_button">OK </string>
-    <string name="remove_button">Supprimer et redémarrer</string>
-    <string name="remove_button_time">Supprimer et redémarrer (%ds)</string>
+    <string name="remove_button">Supprimer</string>
+    <string name="remove_button_time">Supprimer (%ds)</string>
     <string name="cancel_button">Annuler</string>
     <string name="list_empty_text">Vide</string>
-    <string name="list_empty_text_xspace">Installez WeChat/QQ/Weibo, créez des applications clônées et réessayez.</string>
+    <string name="list_empty_text_xspace">"Créez plus d'applications doubles et réessayez."</string>
     <string name="xspace_label">Applications clônées</string>
     <string name="xspace_setting_label">Paramètres des applications clônées</string>
     <string name="xspace_account">Comptes des applications clônées</string>
     <string name="xspace_remove">Supprimer les comptes des applications clonées</string>
     <string name="declare_dialog_title">À propos des applications clônées</string>
     <string name="menu_item_about_privacy_title">Politique de Confidentialité</string>
-    <string name="stop_xspace_alert_title">Suppression des comptes des applications clonées</string>
-    <string name="stop_xspace_alert_content">Toutes les applications clonées et leurs données seront définitivement supprimées. Vous devrez redémarrer votre appareil pour appliquer cette modification. Supprimer les comptes maintenant?</string>
+    <string name="stop_xspace_alert_title">Supprimer les comptes de deux applications</string>
+    <string name="stop_xspace_alert_content">"Supprimer toutes les applications doubles avec leurs comptes et leurs données d'application ? Votre appareil sera redémarré pour appliquer cette modification."</string>
     <string name="xspace_loading_msg">Chargement des applications…</string>
     <string name="xspace_header">Applications clônées</string>
+    <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_introduce">Recommandé</string>
     <string name="xspace_description">"Les applications clônées sont des copies d'applications qui peuvent être utilisées séparément avec un compte différent.
 
 Certaines applications clônées nécessitent la prise en charge des Framework des services Google. Dans de tels cas, un Framework clôné des services Google est créé."</string>
+    <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_chocie">"Support d'application clônée"</string>
     <string name="xspace_creating">"Création de l'application clônée…"</string>
     <string name="xspace_installing">Installation…</string>
@@ -291,17 +293,20 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="confirm_close_password_title">Désactivation du mot de passe</string>
     <string name="confirm_close_password_desc">"Vous ne serez plus en mesure d'accéder au deuxième espace à partir de l'écran de verrouillage lorsque vous désactivez le mot de passe. Désactiver de toute manière?"</string>
     <string name="xspace_weixin_title">WeChat</string>
+    <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Se connecter et partager</string>
-    <string name="use_xiaoai_open">"Réveillez-vous avec l'assistant vocal"</string>
+    <string name="whatsapp_send">Partager sur WhatsApp</string>
+    <string name="use_google_open">"Réveillez-vous avec l'assistant vocal"</string>
+    <string name="use_xiaoai_open">Réveillez-vous avec Mi IA</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">Envoyer sur Weibo</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">Envoyer à des amis sur QQ/un ordinateur</string>
     <string name="qq_login">Se connecter à QQ</string>
-    <string name="xspace_default_setting_label">Application par défaut</string>
-    <string name="xspace_default_app_title">Application par défaut</string>
-    <string name="xspace_default_app_summary">"Définir l'application par défaut pour les paiements, les partages, les favoris et plus."</string>
+    <string name="xspace_default_setting_label">Personnalisation</string>
+    <string name="xspace_default_app_title">Personnalisation</string>
+    <string name="xspace_default_app_summary">"Sélectionnez les applications par défaut utilisées pour la connexion, le partage et l'assistant vocal."</string>
     <string name="xspace_default_setting_dialog_title">par défaut</string>
     <string name="xspace_default_guide_notification_content">Appuyer pour modifier</string>
     <string name="xspace_default_guide_notification_main_title">"Utiliser l'application par défaut"</string>
@@ -312,7 +317,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="switch_download_space">"Changer d'Espace de travail"</string>
     <string name="confirm_airspace_password">Confirmer le mot de passe %s</string>
     <string name="air_space_created">Espace de travail créé avec succès</string>
-    <string name="enter_air_space">"Aller à l'Espace de travail"</string>
+    <string name="enter_air_space">"Aller à l'espace de travail"</string>
     <string name="invalid_qr_code">QR code non valide</string>
     <string name="kid_mode_label">Espace enfants</string>
     <string name="need_network_when_create">Connectez-vous au réseau avant de créer un Espace de travail</string>
@@ -353,6 +358,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="guide_start_ads_text">Un niveau de sécurité complètement nouveau</string>
     <string name="skip">Ignorer</string>
     <string name="input_space_password">Définir maintenant</string>
+    <string name="instagram_send">Partager sur Instagram</string>
     <string name="input_space_finger">Définir maintenant</string>
     <string name="space_finger_sub_text">"Définir l'empreinte digitale du deuxième espace afin de basculer plus rapidement"</string>
     <string name="set_space_finger_sub_text_suc">Empreinte digitale définie avec succès</string>
@@ -361,7 +367,7 @@ pour y accéder depuis l'Écran de verrouillage"</string>
     <string name="show_noti_quick_switch_icon">Raccourci du panneau de notification</string>
     <string name="show_noti_quick_switch_icon_detail">Afficher un raccourci pour basculer entre les espaces dans le panneau de notification</string>
     <string name="show_decktop_quick_switch_icon">"Raccourci de l'écran d'accueil"</string>
-    <string name="show_decktop_quick_switch_icon_detail">"Afficher un raccourci pour basculer entre les espaces sur l'écran d'accueil dans le Premier espace"</string>
+    <string name="show_decktop_quick_switch_icon_detail">"Afficher un raccourci pour basculer entre les espaces sur l'écran d'accueil dans le premier espace"</string>
     <string name="has_created_second_space">"Vous pouvez ouvrir le deuxième espace maintenant.
 Deux espaces. Un appareil."</string>
     <string name="privacy_password_fingerprint_dialog_title">Scanner votre empreinte digitale</string>
@@ -402,10 +408,12 @@ Si vous n'effectuez pas la mise à jour, les applications clônées peuvent ne p
     <string name="green_guard_title3">Gérer les applications</string>
     <string name="green_guard_des3">Contrôle les applications installées et restreint leur utilisation</string>
     <string name="experience_more_features">Ajouter un appareil afin de voir toutes les fonctionnalités</string>
+    <string name="facebook_login">Connectez-vous en utilisant Facebook</string>
+    <string name="facebook_send">Partager sur Facebook</string>
     <string name="can_not_switch_when_green_kid_active">Le basculement vers le deuxième espace est restreint par le contrôle parental</string>
     <string name="need_network_when_bind">"Connectez-vous au réseau avant d'ajouter des appareils"</string>
     <string name="this_function_can_not_use_in_second_space">Cette fonctionnalité peut être seulement utilisée dans le premier espace</string>
-    <string name="enterprise_mode">Mode Entreprise</string>
+    <string name="enterprise_mode">Mode entreprise</string>
     <string name="ent_app_verified">"On dirait qu'il y a des applications d'entreprise installées sur votre appareil. Activer le mode entreprise ?"</string>
     <string name="activate_ent_mode">Activer le mode Entreprise</string>
     <string name="about_ent_mode">À propos du mode Entreprise</string>
