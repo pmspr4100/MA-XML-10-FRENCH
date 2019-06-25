@@ -3215,10 +3215,10 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_data_usage_menu_metered">"Points d'accès mobiles"</string>
     <string name="miui_experience_optimization">"Activer l'optimisation MIUI"</string>
     <string name="miui_input_method_settings">Paramètres de la méthode de saisie</string>
-    <string name="miui_lab_3d_gesture_desc">Open your Home screen and draw one of the patterns in the air with your phone to open selected apps</string>
-    <string name="miui_lab_3d_gesture_slogan">Draw a pattern in the air with your phone to open an app</string>
-    <string name="miui_lab_3d_gesture_summary">Draw a pattern in the air with your phone to open an app</string>
-    <string name="miui_lab_3d_gesture_title">3D patterns</string>
+    <string name="miui_lab_3d_gesture_desc">"Ouvrez votre écran d'accueil et tracez l'un des motifs en l'air avec votre téléphone pour ouvrir les applications sélectionnées."</string>
+    <string name="miui_lab_3d_gesture_slogan">"Tracez un motif en l'air avec votre téléphone pour ouvrir une application."</string>
+    <string name="miui_lab_3d_gesture_summary">"Tracez un motif en l'air avec votre téléphone pour ouv"rir une application.</string>
+    <string name="miui_lab_3d_gesture_title">Modèles 3D</string>
     <string name="miui_lab_ai_cloud_closed">"Le préchargement IA n'est pas actuellement disponible."</string>
     <string name="miui_lab_ai_preload_desc">Le préchargement IA augmente la vitesse de lancement des applications</string>
     <string name="miui_lab_ai_preload_title">Préchargement IA</string>
@@ -3232,8 +3232,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_gallery_search_title">Trouver des photos dans Galerie</string>
     <string name="miui_lab_gesture_desc">Utilisez des gestes au lieu des boutons pour la navigation</string>
     <string name="miui_lab_gesture_title">Gestes plein écran</string>
-    <string name="miui_lab_home_feed_desc">Bright ideas. Compelling stories.</string>
-    <string name="miui_lab_home_feed_title">Media Center</string>
+    <string name="miui_lab_home_feed_desc">Idées géniales. Histoires convaincantes.</string>
+    <string name="miui_lab_home_feed_title">Centre des médias</string>
     <string name="miui_lab_install_drive_mode_error">Installation impossible, réessayez.</string>
     <string name="miui_lab_install_drive_mode_summary">"Le mode voiture est une application système. L'installation ne requiert pas de connexion internet."</string>
     <string name="miui_lab_install_drive_mode_title">Installer le mode voiture</string>
@@ -5373,7 +5373,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="storage_wizard_slow_v2_title">Périphérique ^1 lent</string>
     <string name="storageuse_settings_summary">"Afficher l'espace de stockage utilisé par les applications"</string>
     <string name="storageuse_settings_title">Utilisation du stockage</string>
-    <string name="strict_mode">Mode Strict activé</string>
+    <string name="strict_mode">Mode strict activé</string>
     <string name="strict_mode_summary">"Flasher l'écran lorsque des applications effectuent de longues opérations sur le fil principal"</string>
     <string name="structure_add_facerecoginition_text">Ajouter des données de visage 3D</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">"Impossible d'utiliser cette fonctionnalité en raison du niveau faible de la batterie"</string>
@@ -5394,8 +5394,8 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
     <string name="sum_carrier_select">Sélectionner un opérateur de réseau</string>
     <string name="summary_range_verbal_combination">Du %1$s au %2$s</string>
     <string name="supl_not_set">&lt;Non défini></string>
-    <string name="supplicant_state_label">Supplicant state:</string>
-    <string name="support_gesture_title">3D patterns</string>
+    <string name="supplicant_state_label">Etat suppliant:</string>
+    <string name="support_gesture_title">Modèles 3D</string>
     <string name="support_summary">"Articles d'aide, téléphone et chat, premiers pas"</string>
     <string name="sure_sync_now">Synchroniser les éléments maintenant ?</string>
     <string name="suw_back_button_label">Retour</string>
