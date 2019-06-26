@@ -51,6 +51,15 @@
         <item>Ancien message</item>
         <item>Liste de conversation</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Tout</item>
+        <item>Seuls les destinataires</item>
+    </string-array>
+    <string-array name="prefValues_autoAdvance">
+        <item>jamais</item>
+        <item>anicien</item>
+        <item>liste</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adresse:</item>
         <item>Tél:</item>
