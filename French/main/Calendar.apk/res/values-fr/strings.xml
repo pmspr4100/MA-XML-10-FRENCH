@@ -35,6 +35,7 @@
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="common_signin_button_text">Se connecter</string>
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="content_confirm_close_chinese_calendar">"Tous vos événements basés sur le calendrier chinois traditionnel seront convertis en calendrier grégorien après avoir désactivé cette fonctionnalité. Les années et les mois du calendrier grégorien seront utilisés pour des événements répétés."</string>
     <string name="copy_email">"Copier l'adresse e-mail"</string>
     <string name="copy_number">Copier le numéro de téléphone</string>
     <string name="done">Entrée</string>
@@ -81,6 +82,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">Anniversaire sauvegardé</string>
     <string name="birthday_term">anniversaire</string>
+    <string name="birthday_term_chinese_calendar">"L'anniversaire de %1$s (calendrier chinois traditionnel)"</string>
     <string name="can_not_create_long_event">"Le nom de l'événement est trop long"</string>
     <string name="can_not_modify_allday_event">"Impossible de modifier l'événement du jour"</string>
     <string name="can_not_modify_event">"Impossible de modifier l'événement"</string>
@@ -417,6 +419,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="setting_about_miui_version">Version MIUI:</string>
     <string name="setting_about_summary">Version:</string>
     <string name="setting_accounts">Comptes calendrier</string>
+    <string name="setting_chinese_calendar">Calendrier chinois</string>
     <string name="setting_change_language">Sélectionnez la langue du calendrier</string>
     <string name="setting_fb_birthdays_title">Importer les anniversaires depuis Facebook</string>
     <string name="setting_daysoff_no_update">"L'information sur les jours fériés est à jour."</string>
@@ -434,7 +437,13 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="share_image">Partager</string>
     <string name="share_image_label">Partager via</string>
     <string name="share_title">Partager</string>
+    <string name="shortcut_new_event">Ajouter un évènement</string>
+    <string name="shortcut_next_agenda">Événement suivant</string>
+    <string name="shortcut_settings">Paramètres</string>
     <string name="show_day_view">Afficher le jour</string>
+    <string name="solar_lunar_convert_description">Grégorien au chinois traditionnel</string>
+    <string name="solar_lunar_convert_tab">Convertir</string>
+    <string name="solar_to_lunar_chinese_calendar">Grégorien en Chinois</string>
     <string name="start_date_calculate">Calculer</string>
     <string name="storage_permission_denied">"Autoriser l'accès au stockage d'abord"</string>
     <string name="subscribe_card">Abonnez-vous maintenant</string>
@@ -459,6 +468,7 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="template_announce_item_index">Événement %1$s sur %2$s.</string>
     <string name="time_zone">Fuseau horaire</string>
     <string name="timezone_label">Fuseau horaire</string>
+    <string name="title_confirm_close_chinese_calendar">Désactiver le calendrier chinois</string>
     <string name="today">"Aujourd'hui"</string>
     <string name="today_at_time_fmt">"Aujourd'hui à %s"</string>
     <string name="today_no_events">Aucun événement</string>

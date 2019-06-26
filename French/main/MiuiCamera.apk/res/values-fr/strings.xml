@@ -299,6 +299,7 @@
     <string name="device_48m_watermark_default_text">DOUBLE APPAREIL PHOTO 48MP</string>
     <string name="device_64m_watermark_default_text">DOUBLE APPAREIL PHOTO 64MP</string>
     <string name="device_feature_configuration_file_name">défaut</string>
+    <string name="device_ultra_pixel_watermark_default_text">DOUBLE APPAREIL PHOTO 48MP</string>
     <string name="device_watermark_default_text">DOUBLE APPAREIL PHOTO IA</string>
     <string name="dialog_google_lens_option_0">Google Lens (Recommandé)</string>
     <string name="custom_watermark_contains_senstive_words">Les filigranes ne peuvent pas contenir de termes restreints (%1$s)</string>
