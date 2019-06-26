@@ -916,7 +916,6 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="refreshing_done">Terminé</string>
     <string name="release_to_refresh">Relâchez pour actualiser</string>
     <string name="remind_attachment_size_limit">Vos e-mails ne doivent pas dépasser %s Mo</string>
-    <string name="remote_no_mail">"Il n'y a plus d'emails sur le serveur."</string>
     <string name="remote_search_body_too_large_prompt">"Cet email est trop long.
 Attendez la synchronisation complète ou visualisez le message sur votre ordinateur."</string>
     <string name="remove_account">Supprimer le compte</string>
