@@ -22,8 +22,8 @@
     <string name="all_share_files_content">Les fichiers que vous avez sélectionnés ont été déjà supprimés.</string>
     <string name="all_the_internet">All networks</string>
     <string name="apk_filter">APK</string>
-    <string name="app_downloads">%s downloads</string>
-    <string name="app_label">Downloads</string>
+    <string name="app_downloads">%s téléchargements</string>
+    <string name="app_label">Téléchargements</string>
     <string name="auth_activity_title">Xunlei Account</string>
     <string name="auth_fail">"Impossible d'obtenir l'autorisation"</string>
     <string name="average_speed">Average speed</string>
@@ -223,9 +223,9 @@
     <string name="missing_title">&lt;Inconnu&gt;</string>
     <string name="net_error">Connectez-vous à Internet et réessayez</string>
     <string name="network_error">"Can't connect to the network"</string>
-    <string name="new_add">New download</string>
-    <string name="new_add_bt">Add torrent</string>
-    <string name="no_downloads">No downloads</string>
+    <string name="new_add">Nouveau téléchargement</string>
+    <string name="new_add_bt">Ajouter torrent</string>
+    <string name="no_downloads">Aucun téléchargement</string>
 	<string name="no_file_hint">La tâche de téléchargement pour ce fichier existe déjà</string>
     <string name="no_result_for_keyword">Impossible de trouver \"%1$s\"</string>
     <string name="no_share_file">Impossible de partager ce fichier</string>
