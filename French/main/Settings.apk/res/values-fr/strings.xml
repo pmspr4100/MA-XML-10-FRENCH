@@ -303,6 +303,9 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="ambient_display_category_triggers">Activation du mode Veille</string>
     <string name="ambient_display_pickup_summary">"Pour afficher l'heure, les icônes de notification et d'autres informations, saisissez votre téléphone."</string>
     <string name="ambient_display_pickup_title">Saisir le téléphone pour le consulter</string>
+    <string name="ambient_display_screen_summary_always_on">Toujours actif / Utilisation accrue de la batterie</string>
+    <string name="ambient_display_screen_summary_notifications">Nouvelles notifications</string>
+    <string name="ambient_display_screen_title">Affichage ambiant</string>
     <string name="ambient_display_screen_summary_always_on">"Toujours activé / Batterie d'avantage sollicitée"</string>
     <string name="ambient_display_screen_summary_notifications">Nouvelles notifications</string>
     <string name="ambient_display_screen_title">Affichage en mode veille</string>
@@ -321,7 +324,10 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
     <string name="another_migration_already_in_progress">Une autre migration est déjà en cours.</string>
     <string name="anti_spam">Antispam</string>
+    <string name="aod_and_lock_screen_settings_title">Affichage ambiant et écran de verrouillage</string>
     <string name="aod_clock_style_title">"Style d'horloge"</string>
+    <string name="aod_settings_category_name">Affichage ambiant</string>
+    <string name="aod_settings_title">Affichage ambiant</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">"Type d'authentification"</string>
     <string name="apn_auth_type_chap">CHAP</string>
@@ -2871,6 +2877,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lock_profile_wipe_warning_content_password">Si vous entrez un mot de passe de travail incorrect lors de cette tentative, votre profil professionnel et les données associées seront supprimés de cet appareil.</string>
     <string name="lock_profile_wipe_warning_content_pattern">Si vous entrez un schéma incorrect du profil de travail lors de cette tentative, votre profil professionnel et les données associées seront supprimés de cet appareil.</string>
     <string name="lock_profile_wipe_warning_content_pin">Si vous saisissez un code PIN de travail incorrect lors de cette tentative, votre profil professionnel et les données associées seront supprimés de cet appareil.</string>
+    <string name="lock_profile_wipe_warning_title">Dernier essai</string>
+    <string name="lock_screen_display_category_name">Écran de verrouillage</string>
     <string name="lock_screen_intro_skip_dialog_text">"Les fonctionnalités de protection de l'appareil ne seront pas activées. Vous ne pourrez pas empêcher d'autres personnes d'utiliser ce téléphone en cas de perte ou de vol."</string>
     <string name="lock_screen_intro_skip_dialog_text_frp">"Les fonctionnalités de protection de l'appareil ne seront pas activées. Vous ne pourrez pas empêcher d'autres personnes d'utiliser ce téléphone en cas de perte, de vol ou de réinitialisation."</string>
     <string name="lock_screen_intro_skip_title">"Ignorer verrouillage d'écran ?"</string>
@@ -2886,6 +2894,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lock_screen_notifications_title">"Notification sur l'écran de verrouillage"</string>
     <string name="lock_screen_signature_summary">"Ce message s'affiche à l'écran de verrouillage"</string>
     <string name="lock_screen_signature_title">"Informations du propriétaire à l'écran de verrouillage"</string>
+    <string name="lock_screen_tip_toast">"veuillez d'abord autoriser les paramètres de l'application de notification"</string>
     <string name="lock_screen_unlock_show">"Ignorer l'écran de verrouillage"</string>
     <string name="lock_screen_unlock_show_summary">"Ouvrez l'écran d'accueil ou saisissez directement le mot de passe"</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">Appuyer pour changer</string>
@@ -3256,6 +3265,7 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_sos_contacts_add">"Contacts d'urgence"</string>
     <string name="miui_sos_contacts_category">"Contacts d'urgence"</string>
     <string name="miui_sos_emergency_contacts">"Contacts d'urgence"</string>
+    <string name="miui_sos_emergency_delete">Supprimer</string>
     <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) a déjà accepté.</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1s a déjà accepté</string>
     <string name="miui_sos_emergency_failed_sms" formatted="false">Impossible d’envoyer un message à %1s (%2s).</string>
@@ -3571,8 +3581,10 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="normal_smartcover_title">Étui avec facade opaque</string>
     <string name="not_battery_optimizing">Optimisation de la batterie non utilisée</string>
     <string name="not_installed">Non installé pour cet utilisateur</string>
+    <string name="notch_and_status_bar_settings">Notch et status bar</string>
     <string name="notch_force_black_desc">"Activer pour assombrir la zone autour de l'encoche"</string>
     <string name="notch_force_black_title">"Masquer l'encoche"</string>
+    <string name="notch_settings">Notch</string>
     <string name="notes_privacy_password_role_instruction">Vos notes privées seront stockées ici.</string>
     <string name="notifi_channels">Catégories de notifications</string>
     <string name="notifi_channels_other">Autre</string>
@@ -3588,6 +3600,7 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="notification_badging_title">Autoriser pastilles notification</string>
     <string name="notification_breathing_light_color_title">Couleur du voyant de notifications</string>
     <string name="notification_breathing_light_freq_title">Fréquence de clignotement du voyant de notifications</string>
+    <string name="notification_center">Notifications</string>
     <string name="notification_channel_badge_title">Afficher la pastille de notification</string>
     <string name="notification_channel_sound_title">Signal sonore</string>
     <string name="notification_channel_summary_default">Importance élevée</string>
@@ -4869,6 +4882,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
     <string name="settings_license_activity_unavailable">Un problème est survenu lors du chargement des licences.</string>
     <string name="settings_manual_activity_title">Manuel</string>
     <string name="settings_manual_activity_unavailable">Un problème est survenu lors du chargement du manuel.</string>
+    <string name="settings_new_version_btn">Mise à jour</string>
     <string name="settings_notify_need_backup">"Sauvegardez vos paramètres sur Mi Cloud afin d'y accéder après avoir changé de téléphone."</string>
     <string name="settings_notify_new_version">Une mise à jour est disponible. Appuyez pour afficher les détails.</string>
     <string name="settings_notify_phone_recycled">Votre numéro de téléphone a été recyclé. Appuyez pour ajouter un autre numéro de téléphone.</string>
@@ -5155,6 +5169,7 @@ Un certificat de confiance installé sur votre appareil rend cela possible."</st
     <string name="status_bar_settings_show_lte_for_4g">"Afficher l'icône LTE pour la 4G"</string>
     <string name="status_bar_settings_notification_bar">Panneau de notification</string>
     <string name="status_bar_settings_status_bar">Barre de statut</string>
+    <string name="status_bar_title">Barre de statut</string>
     <string name="status_bt_address">Adresse Bluetooth</string>
     <string name="status_data_network_type">Type de réseau de données mobiles</string>
     <string name="status_data_state">État du réseau mobile</string>
@@ -6073,6 +6088,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_category_title">Volume</string>
     <string name="volume_hifi_description">Paramètres Hi-Fi</string>
+    <string name="volume_launch_camera_summary">Double press the volume button to open Camera when the screen is locked</string>
     <string name="volume_label">Volume</string>
     <string name="volume_media_description">Musique, vidéo, jeux, et autres médias</string>
     <string name="volume_media_mute">Couper le son de la musique et des autres médias</string>
@@ -6166,6 +6182,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="vt_provisioned_switch_string">Appel vidéo géré</string>
     <string name="wait_for_debugger">Attendre le débogage</string>
     <string name="wait_for_debugger_summary">"Application déboguéeen attente d'un débogueur pour joindre avant l'exécution"</string>
+    <string name="wakeup_and_sleep_settings_category_name">Lock screen settings</string>
     <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications"</string>
     <string name="wallpaper_attributions">"Fonds d'écran"</string>
     <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite:

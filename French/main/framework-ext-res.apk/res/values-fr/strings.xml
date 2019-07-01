@@ -39,6 +39,10 @@
     <string name="translation_query_error_network">"Impossible d'obtenir les informations, vérifiez la connexion réseau puis réessayez"</string>
     <string name="translation_more">Plus</string>
     <string name="autofill">Remplissage automatique</string>
+    <string name="autofill_save_message">Autoriser MIUI à enregistrer vos comptes et mots de passe ?</string>
+    <string name="autofill_save_ok">Autoriser</string>
+    <string name="autofill_save_sub_message">"Vous serez en mesure de gérer les mots de passe enregistrés dans les paramètres &gt; Paramètres additionnels &gt; Privé &gt; Gérer les mots de passe."</string>
+    <string name="autofill_save_title">Enregistrer les mots de passe automatiquement</string>
     <string name="auto_start_warning_title">Autoriser %s à démarrer automatiquement ?</string>
     <string name="auto_start_warning_allow">Autoriser</string>
     <string name="auto_start_warning_deny">Refuser</string>

@@ -2293,6 +2293,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="forbid_autobright_title">Ajuster la luminosité de lcran</string>
     <string name="forbid_autobright_summary">La luminosité automatique sera désactivée pendant que vous jouez et restaurée une fois que vous avez terminé</string>
     <string name="function_shield_title">Expérience améliorée</string>
+    <string name="function_shield_voice_trigger">"Don't wake Mi AI with voice"</string>
     <string name="function_shield_auto_bright">Désactiver la luminosité automatique</string>
     <string name="function_shield_eye_shield">Désactiver le mode de lecture</string>
     <string name="function_shield_pull_notification_bar">Ne pas ouvrir la barre de notification</string>
