@@ -306,9 +306,6 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="ambient_display_screen_summary_always_on">Toujours actif / Utilisation accrue de la batterie</string>
     <string name="ambient_display_screen_summary_notifications">Nouvelles notifications</string>
     <string name="ambient_display_screen_title">Affichage ambiant</string>
-    <string name="ambient_display_screen_summary_always_on">"Toujours activé / Batterie d'avantage sollicitée"</string>
-    <string name="ambient_display_screen_summary_notifications">Nouvelles notifications</string>
-    <string name="ambient_display_screen_title">Affichage en mode veille</string>
     <string name="ambient_display_summary">"Pour afficher l'heure, les icônes de notification et d'autres informations, appuyez deux fois sur l'écran."</string>
     <string name="ambient_display_title">Appuyer deux fois sur tél. pour le consulter</string>
     <string name="android_beam_disabled_summary">Pour utiliser cette fonctionnalité, activez le NFC</string>
