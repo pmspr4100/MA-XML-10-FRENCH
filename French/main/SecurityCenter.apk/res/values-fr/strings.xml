@@ -2293,7 +2293,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="forbid_autobright_title">Ajuster la luminosité de lcran</string>
     <string name="forbid_autobright_summary">La luminosité automatique sera désactivée pendant que vous jouez et restaurée une fois que vous avez terminé</string>
     <string name="function_shield_title">Expérience améliorée</string>
-    <string name="function_shield_voice_trigger">"Don't wake Mi AI with voice"</string>
+    <string name="function_shield_voice_trigger">"Ne réveille pas Mi IA avec la voix"</string>
     <string name="function_shield_auto_bright">Désactiver la luminosité automatique</string>
     <string name="function_shield_eye_shield">Désactiver le mode de lecture</string>
     <string name="function_shield_pull_notification_bar">Ne pas ouvrir la barre de notification</string>
@@ -2311,6 +2311,11 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="databooster_tips_message">"Activez pour restreindre toutes les cartes SIM à l'exception de la carte de données. Désactivez cette fonction si des erreurs se produisent dans les jeux de votre choix."</string>
     <string name="gb_description_image_button_answer">Répondre</string>
     <string name="gb_description_image_button_video_answer">Appel vidéo</string>
+    <string name="gb_first_guide_function_shiled_title">Désactiver les fonctionnalités du système lorsque Game Turbo est activé</string>
+    <string name="gb_first_guide_gamebox_des">Utiliser des raccourcis en jouant</string>
+    <string name="gb_first_guide_handsfree_des">Répondre aux appels en arrière-plan</string>
+    <string name="gb_first_guide_shortcut_des">"Un raccourci vers l'écran d'accueil pour Game Turbo a été créé."</string>
+    <string name="gb_first_guide_title">Augmenter la vitesse et la performance au niveau du système</string>
     <string name="gb_description_image_button_reject">Refuser</string>
     <string name="gs_autobooster">Accélérer automatiquement</string>
     <string name="gs_autobooster_detail">Augmentez automatiquement la vitesse des jeux sélectionnés</string>

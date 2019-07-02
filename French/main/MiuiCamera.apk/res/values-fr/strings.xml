@@ -375,8 +375,8 @@
     <string name="pref_camera_long_pressing_shutter_title">Appuyez et maintenez le déclencheur pour verrouiller la mise au point</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Verrouillage AE/AF</string>
-    <string name="pref_camera_lying_summary">手机平行于地平面时，会在拍照界面实时给出照片方向的提示</string>
-    <string name="pref_camera_lying_title">横竖屏引导提示</string>
+    <string name="pref_camera_lying_summary">"Avertir de l'orientation actuelle lorsque le téléphone est parallèle au sol"</string>
+    <string name="pref_camera_lying_title">"Notifier sur l'orientation"</string>
     <string name="simple_mode_button_asd_flash">Désactiver la capture avec flash</string>
     <string name="simple_mode_button_asd_hdr">Désactiver la capture HDR</string>
     <string name="pref_audio_focus_title">Focus audio</string>
@@ -605,8 +605,8 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="sticker_tab2">Drôle</string>
     <string name="pref_privacy_title">Politique de Confidentialité</string>
     <string name="user_agree">Accepter</string>
-    <string name="user_define_watermark_cancel">annuler</string>
-    <string name="user_define_watermark_save">sauvegarder</string>
+    <string name="user_define_watermark_cancel">Annuler</string>
+    <string name="user_define_watermark_save">Sauvegarder</string>
     <string name="do_not_remind_me">Ne plus afficher</string>
     <string name="user_notice_identify_summary_format">"Avant d’utiliser l'appareil photo, vous devez accepter notre &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Accord de l'utilisateur&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Politique de confidentialité&lt;/a&gt;. L'appareil photo doit également se connecter à Internet pour fonctionner normalement. Acceptez-vous ?"</string>
     <string name="user_notice_title">Termes et conditions</string>
@@ -754,6 +754,7 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
 	<string name="wideselfie_rotate_to_left_slowly">Faites pivoter le téléphone vers la gauche</string>
 	<string name="wideselfie_rotate_to_right_slowly">Faites pivoter le téléphone vers la droite</string>
     <string name="zoom_no_support_tip_48M">Le zoom ne fonctionne pas en mode 48MP</string>
+    <string name="zoom_no_support_tip_64M">Le zoom ne fonctionne pas en mode 64MP</string>
     <string name="hand_gesture_open_tip">"Montrez votre paume de main à l'appareil photo pour commencer le minuteur"</string>
     <string name="hand_gesture_tip">Minuteur avec la paulme de main</string>
     <string name="autozoom_landscape_hint">Prenez une photo en mode paysage pour obtenir le meilleur effet</string>

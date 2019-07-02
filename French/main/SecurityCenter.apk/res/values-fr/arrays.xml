@@ -23,10 +23,10 @@
       <item>"Ce mois: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-      <item>Hier (Données)</item>
-      <item>"Aujourd'hui (Données)"</item>
-      <item>Le mois dernier (données)</item>
-      <item>Ce mois (données)</item>
+      <item>Hier (données mobiles)</item>
+      <item>"Aujourd'hui (données mobiles)"</item>
+      <item>Le mois dernier (données mobiles)</item>
+      <item>Ce mois (données mobiles)</item>
       <item>Hier via Wi-Fi</item>
       <item>"Aujourd'hui via Wi-Fi"</item>
       <item>Le mois dernier via Wi-Fi</item>
