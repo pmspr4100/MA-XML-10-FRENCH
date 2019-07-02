@@ -179,7 +179,7 @@ Il est impossible de faire un zoom avant sur le clavier ou la barre de navigatio
     <string name="account_settings_menu_auto_sync">Synchro automatique des données</string>
     <string name="account_settings_menu_auto_sync_personal">Synchro automatiques des données perso</string>
     <string name="account_settings_menu_auto_sync_work">Synchro automatiques des données pro</string>
-    <string name="account_settings_title">Comptes</string>
+    <string name="account_settings_title">Google et comptes</string>
     <string name="account_sync_settings_title">Synchronisation</string>
     <string name="account_sync_summary_all_off">Synchronisation désactivée pour tous les éléments</string>
     <string name="account_sync_summary_all_on">Synchronisation activée pour tous les éléments</string>
@@ -2201,6 +2201,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="fcc_equipment_id">"ID de l'équipement"</string>
     <string name="feature_flags_dashboard_title">Drapeaux de fonctionnalité</string>
     <string name="feedback">"Retour d'informations"</string>
+    <string name="feedback_settings">"Retour d'informations"</string>
     <string name="file_privacy_password_role_instruction">Vos fichiers privés seront stockés ici.</string>
     <string name="filter">Filtrer</string>
     <string name="filter_all_apps">Toutes les applis</string>
@@ -2388,6 +2389,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="frequently_fragment_tempty">Les catégories les plus utilisées sont affichées ici.</string>
     <string name="fsg_mistake_touch_summary">Dans certaines scènes, telles que les jeux en plein écran et les vidéos, les gestes doivent être balayés deux fois afin de prendre effet</string>
     <string name="fsg_mistake_touch_title">Revérification des gestes</string>
+    <string name="full_screen_display">Mode plein écran</string>
     <string name="full_transparent_smarrcover_title">Étui avec façade transparente</string>
     <string name="fullbackup_data_summary">"Sauvegardez automatiquement les données de l'appareil (telles que les mots de passe Wi-Fi et l'historique des appels) et celles des applications (telles que les paramètres et les fichiers enregistrés par ces applications) à distance.
 
@@ -2413,6 +2415,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">Vos photos privées seront stockées ici.</string>
     <string name="game_booster">Jeu; Jeux; Turbo; Jeux; Mode de jeu</string>
+    <string name="game_booster_title">Jeu Turbo</string>
     <string name="game_controller_settings_category">Manette de jeu</string>
     <string name="game_storage_settings">Jeux</string>
     <string name="gesture_c">Modèle C</string>
@@ -2435,11 +2438,14 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gigabyteShort">Go</string>
     <string name="global_change_warning">Ce paramètre affecte tous les utilisateurs sur ce téléphone.</string>
     <string name="global_locale_change_title">Changer de langue</string>
+    <string name="gmscore_settings_title">Services de base de Google</string>
     <string name="go_back_button_label">Retour</string>
     <string name="go_to_sleep">"Éteindre l'écran"</string>
+    <string name="google_account_title">Compte google</string>
     <string name="google_assistant_label">Google Assistant</string>
     <string name="google_backup_enable">Activer les sauvegardes</string>
     <string name="google_backup_section_title">Sauvegarde Google et restauration</string>
+    <string name="google_service_title">Google services</string>
     <string name="google_title">Paramètres Google</string>
     <string name="got_it">"C'est compris"</string>
     <string name="gsm_to_wifi_connect_type_title">Cellulaire par Wi-Fi</string>
@@ -2504,6 +2510,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="header_category_system">Système</string>
     <string name="header_category_wireless_networks">Paramètres réseaux</string>
     <string name="header_data_and_synchronization">Données et synchronisation</string>
+    <string name="headset_settings_title">Écouteurs</string>
     <string name="heavy_weight_stop_description">"Impossible d'arrêter cette application en toute sécurité. Si vous l'arrêtez, vous risquez de perdre une partie du travail en cours."</string>
     <string name="help_feedback_label">Aide et commentaires</string>
     <string name="help_label">Aide et commentaires</string>
@@ -2525,6 +2532,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="home">"Paramètres de l'écran d'accueil"</string>
     <string name="home_app">Bureau</string>
     <string name="home_key">Accueil</string>
+    <string name="home_title">"Écran d'accueil"</string>
     <string name="home_work_profile_not_supported">Non compatible avec les profils professionnels</string>
     <string name="http_invoke_app">Applications Web</string>
     <string name="http_invoke_app_summary">Ouvrez les applications plus rapidement sans les installer</string>
@@ -3320,6 +3328,7 @@ D'autres personnes utilisent cet appareil.
     <string name="model_summary">Modèle: %1$s</string>
     <string name="modify_instruction_password_settings">Définir le mot de passe</string>
     <string name="modify_privacy_password">Modifier le mot de passe</string>
+    <string name="more_account_settings_title">Autres comptes</string>
     <string name="more_dangerous_option_hint">Des fonctionnalités à risque élevé comprenant \"%1$s\" sont activées. Appuyez pour modifier les paramètres.</string>
     <string name="more_installed_services_title">Plus de services téléchargés</string>
     <string name="move_app">Déplacer</string>
@@ -3758,6 +3767,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="other_settings_sync_settings">Synchroniser</string>
     <string name="other_sound_category_preference_title">Autres sons et vibrations</string>
     <string name="other_sound_settings">Autres sons</string>
+    <string name="other_sound_settings_title">Paramètres additionnels</string>
     <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
     <string name="overlay_settings">Superposer aux autres applis</string>
     <string name="owner_info_settings_edit_text_hint">Exemple: Android de Jean</string>
@@ -3830,8 +3840,10 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="passwordIncorrect">Mot de passe incorrect</string>
     <string name="password_entrance_title">"Définir le verrouillage de l'écran"</string>
     <string name="password_guard">Mot de passe</string>
+    <string name="password_security_settings_title">Mots de passe et sécurité</string>
     <string name="password_turned_off_text">Le mot de passe a été désactivé</string>
     <string name="password_turned_on_text">Le mot de passe a été activé</string>
+    <string name="password_unlock_title">Mot de passe</string>
     <string name="payment_summary">"%1$s est l'application par défaut."</string>
     <string name="peek_notification_icon_title">Afficher les icônes des notifications</string>
     <string name="status_bar_settings_notification_use_app_icon">Utiliser les icônes des applications</string>
@@ -4096,6 +4108,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_password_use_finger_success">Activé</string>
     <string name="privacy_password_visible_pattern">Afficher le schéma</string>
     <string name="privacy_protect_title">Protection des données</string>
+    <string name="privacy_protection_title">Protection des données</string>
     <string name="privacy_relative">Confidentialité</string>
     <string name="privacy_settings">Sauvegarder et réinitialiser</string>
     <string name="privacy_settings_title">Sauvegarde</string>
@@ -4257,6 +4270,7 @@ Interface UT: %5$s"</string>
     <string name="recommend_item_3">Batterie externe</string>
     <string name="recommend_item_4">Écouteurs</string>
     <string name="recommend_item_title">Recommandations</string>
+    <string name="recommend_tip">"Besoin d'autres paramètres ?"</string>
     <string name="recompute_size">Calcul de la taille...</string>
     <string name="regulatory_labels">Libellés réglementaires</string>
     <string name="remaining_length_format">%1$s restant</string>
@@ -4480,6 +4494,7 @@ Pour épingler l'écran:
     <string name="screen_resolution_title">"Résolution d'écran"</string>
     <string name="screen_resolution_ultrahigh_format">Ultra-haute (%1$s)</string>
     <string name="screen_saturation">Saturation</string>
+    <string name="screen_settings">Écran de verrouillage</string>
     <string name="screen_shot">"Faire une capture d'écran"</string>
     <string name="screen_timeout">Délai avant la mise en veille</string>
     <string name="screen_timeout_summary">"Après %1$s d'inactivité"</string>
@@ -4618,6 +4633,7 @@ Pour épingler l'écran:
     <string name="search_home_key">"Accueil;Bouton d'accueil;Touche d'accueil"</string>
     <string name="search_input_hint">Paramètres de recherche</string>
     <string name="search_key_settings_title">Boutons;Touches</string>
+    <string name="key_shortcut_settings_title">Boutons de raccourcis</string>
     <string name="search_lab_functions_title">Fonction bêta;fonction laboratoire</string>
     <string name="search_label">Paramètres</string>
     <string name="search_language_settings">Langue et méthode de saisie;Langue;Langue et méthode de saisie;Méthode de saisie;Clavier</string>
@@ -5687,6 +5703,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlock_disable_frp_warning_title_profile">Supprimer la protection du profil ?</string>
     <string name="unlock_disable_lock_pin_summary">Désactiver le code PIN</string>
     <string name="unlock_disable_lock_title">"Désactiver le verrouillage de l'écran"</string>
+    <string name="unlock_mode_title">"Verrouillage d'écran"</string>
     <string name="unlock_set_do_later_title">Pas maintenant</string>
     <string name="unlock_set_enter_system">"Désactiver l'écran de verrouillage"</string>
     <string name="unlock_set_enter_system_summary">"En allumant l'écran vous atteindrez directement le bureau."</string>
@@ -6085,7 +6102,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_category_title">Volume</string>
     <string name="volume_hifi_description">Paramètres Hi-Fi</string>
-    <string name="volume_launch_camera_summary">Double press the volume button to open Camera when the screen is locked</string>
+    <string name="volume_launch_camera_summary">"Appuyez deux fois sur le bouton du volume pour ouvrir l'appareil photo lorsque l'écran est verrouillé"</string>
     <string name="volume_label">Volume</string>
     <string name="volume_media_description">Musique, vidéo, jeux, et autres médias</string>
     <string name="volume_media_mute">Couper le son de la musique et des autres médias</string>
@@ -6179,7 +6196,7 @@ Appuyez sur le plus (+) pour ajouter des mots."</string>
     <string name="vt_provisioned_switch_string">Appel vidéo géré</string>
     <string name="wait_for_debugger">Attendre le débogage</string>
     <string name="wait_for_debugger_summary">"Application déboguéeen attente d'un débogueur pour joindre avant l'exécution"</string>
-    <string name="wakeup_and_sleep_settings_category_name">Lock screen settings</string>
+    <string name="wakeup_and_sleep_settings_category_name">"Verrouiller les paramètres de l'écran"</string>
     <string name="wakeup_for_keyguard_notification_title">"Allumer l'écran pour les notifications"</string>
     <string name="wallpaper_attributions">"Fonds d'écran"</string>
     <string name="wallpaper_attributions_values">"Fournisseurs d'images satellite:
