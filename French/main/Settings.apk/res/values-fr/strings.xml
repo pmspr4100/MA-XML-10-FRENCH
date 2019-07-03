@@ -48,7 +48,7 @@
     <string name="about_settings_summary">Informations légales, état et version du logiciel</string>
     <string name="ac_enable_summary">Définir un mot de passe pour les applications individuelles</string>
     <string name="ac_enable_title">"Verrouillage d'applications"</string>
-    <string name="ac_privacy_mode_sum">Demander un mot de passe pour désactiver le mode Invité</string>
+    <string name="ac_privacy_mode_sum">Demander un mot de passe pour désactiver le mode invité</string>
     <string name="ac_privacy_mode_title">Mot de passe</string>
     <string name="ac_set_apps_title">Choisir une application à bloquer</string>
     <string name="accelerometer_summary_off">"Changer automatiquement d'orientation lors de la rotation du téléphone"</string>
@@ -4174,6 +4174,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="qtifeedback_settings_title">Avis sur le matériel</string>
     <string name="quick_reply_title">Réponses rapides</string>
     <string name="quick_settings_developer_tiles">Tuiles de configuration rapide pour les développeurs</string>
+    <string name="quick_settings_under_keyguard_summary">"Autoriser l'accès aux paramètres rapides lorsque l'appareil est verrouillé"</string>
+    <string name="quick_settings_under_keyguard_title">Accès rapide aux paramètres</string>
     <string name="quick_settings_label">Toggles</string>
     <string name="quiet">Ne pas déranger</string>
     <string name="quiet_group">Ne pas déranger</string>
