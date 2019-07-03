@@ -2176,7 +2176,7 @@ Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
     <string name="ethernet_data_usage">Consommation de données Ethernet</string>
     <string name="every_day">Tous les jours</string>
     <string name="expand_button_title">Options avancées</string>
-    <string name="expandable_under_keyguard_title">"Afficher sur l'écran de verrouillage"</string>
+    <string name="expandable_under_keyguard_title">"Extensible sous l'écran de verrouillage sécurisé"</string>
     <string name="experimental_category_title">Expérimental</string>
     <string name="experimental_preference">(Expérimental)</string>
     <string name="extended_power_menu">"Menu d'alimentation étendu"</string>
@@ -3074,6 +3074,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="manage_notification_access_summary_zero">Les applications ne peuvent pas lire les notifications.</string>
     <string name="manage_notification_access_title">Accès aux notifications</string>
     <string name="manage_notification_title">"Notifications d'applications"</string>
+    <string name="manage_password">Gérer les mots de passe</string>
+    <string name="manage_password_summary">Remplir automatiquement les comptes et mots de passe enregistrés</string>
     <string name="manage_space_text">"Gérer l'espace"</string>
     <string name="manage_trust_agents">Agents de confiance</string>
     <string name="manage_trust_agents_summary">Aucun</string>
@@ -4712,7 +4714,7 @@ Pour épingler l'écran:
     <string name="search_sound_settings">Sons;Volume;Vibration;Supprimer le bruit;Supression du bruit</string>
     <string name="search_status_bar_settings">"Notifications et barre d'état;Notifications;Barre d'état"</string>
     <string name="search_status_bar_settings_custom_carrier">"Modifier le nom de l'opérateur;Nom de l'opérateur"</string>
-    <string name="search_status_bar_settings_expandable_under_keyguard">"Afficher à l'écran de verrouillage;afficher à l'écran de verrouillage"</string>
+    <string name="search_status_bar_settings_expandable_under_keyguard">"Extensible sous l'écran de verrouillage sécurisé; extensible sous l'écran de verrouillage sécurisé"</string>
     <string name="search_status_bar_settings_manage_notification">Notifications des applications;Notifications</string>
     <string name="search_status_bar_settings_show_carrier">"Afficher le nom de l'opérateur;Nom de l'opérateur"</string>
     <string name="search_status_bar_settings_show_network_speed">Afficher la vitesse de connexion;vitesse de connexion</string>

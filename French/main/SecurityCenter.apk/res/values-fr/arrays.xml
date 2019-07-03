@@ -27,10 +27,10 @@
       <item>"Aujourd'hui (données mobiles)"</item>
       <item>Le mois dernier (données mobiles)</item>
       <item>Ce mois (données mobiles)</item>
-      <item>Hier via Wi-Fi</item>
-      <item>"Aujourd'hui via Wi-Fi"</item>
-      <item>Le mois dernier via Wi-Fi</item>
-      <item>Ce mois via Wi-Fi</item>
+      <item>Hier (Wi-Fi)</item>
+      <item>"Aujourd'hui (Wi-Fi)"</item>
+      <item>Le mois dernier (Wi-Fi)</item>
+      <item>Ce mois (Wi-Fi)</item>
     </string-array>
     <string-array name="traffic_type">
       <item>"Utilisation des données mobile "</item>
