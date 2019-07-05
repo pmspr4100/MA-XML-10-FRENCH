@@ -431,7 +431,7 @@ Update Mi Video to the latest version first."</string>
     <string name="ovp_setting_clear_cache_success">Cache effacé avec succès</string>
     <string name="ovp_setting_clear_cache_text">Vider le cache des fichiers enregistrés sur votre appareil</string>
     <string name="ovp_setting_clear_cache_title">Vider le cache</string>
-    <string name="ovp_setting_privacy_policy_title">Politique de Confidentialité</string>
+    <string name="ovp_setting_privacy_policy_title">Politique de confidentialité</string>
     <string name="ovp_setting_privacy_switch_tips">"Certaines fonctionnalités ne seront pas disponibles si vous révoquez l'autorisation"</string>
     <string name="ovp_setting_privacy_switch_title">Permissions et révocation</string>
     <string name="ovp_setting_version_info_title">Version</string>

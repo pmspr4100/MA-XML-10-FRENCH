@@ -145,7 +145,7 @@
     <string name="preference_silent_mode">"Mode silencieux pendant l'enregistrement"</string>
     <string name="preference_status_bar_indicator_prompt">Show status bar shortcut while recording</string>
     <string name="preference_tip_rename">Enregistrer le nom manuellement</string>
-    <string name="privacy_policy_title">Politique de Confidentialité</string>
+    <string name="privacy_policy_title">Politique de confidentialité</string>
     <string name="recognition_error_cancel">Annulé</string>
     <string name="recognition_error_code">Erreur de code: %d</string>
     <string name="recognition_error_download_cancel">Plus tard</string>

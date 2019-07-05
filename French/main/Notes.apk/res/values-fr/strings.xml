@@ -165,7 +165,7 @@
     <string name="select_account_prompt">Synchroniser les notes</string>
     <string name="set_alarm_description">Régler une alarme</string>
     <string name="setting_other">AUTRE</string>
-    <string name="setting_privacy">Politique de Confidentialité</string>
+    <string name="setting_privacy">Politique de confidentialité</string>
     <string name="snippet_audio_stub">Note vocale</string>
     <string name="snippet_image_stub">"Note d'image"</string>
     <string name="snippet_image_template">[Image %1$s]</string>

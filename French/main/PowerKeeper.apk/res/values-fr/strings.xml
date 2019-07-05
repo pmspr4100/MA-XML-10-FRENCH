@@ -5,8 +5,8 @@
     <string name="power_config_select_apps_title">Applications</string>
     <string name="power_config_event_delete">Supprimer</string>
     <string name="hide_mode_desc">"Lorsqu'une application s'exécute en arrière-plan, ses activités seront surveillées pour réduire l'utilisation de la batterie. Cette fonction permet d'obtenir et d'utiliser les données utilisateur %s"</string>
-    <string name="privacy">Politique de Confidentialité</string>
-    <string name="power_hide_mode_title">Batterie &amp; performance</string>
+    <string name="privacy">Politique de confidentialité</string>
+    <string name="power_hide_mode_title">Batterie et performance</string>
     <string name="power_config_apps">"Économiseur de batterie d'application"</string>
     <string name="app_list_title">"Choisir l'application"</string>
     <string name="power_hide_mode_app_list_summary">"Économise l'énergie en arrière-plan"</string>
@@ -27,7 +27,7 @@
     <string name="power_mode">"Paramètres de gestion d'énergie"</string>
     <string name="performance_category">Performance</string>
     <string name="pref_config_title">Optimisation des performances</string>
-    <string name="app_preload_policies_title">Pré-chargement AI</string>
+    <string name="app_preload_policies_title">Pré-chargement IA</string>
     <string name="app_preload_policies_summary">"Utilisez l'apprentissage automatique pour prévoir les applications les plus susceptibles d'être utilisées et charger les ressources à l'avance."</string>
     <string name="scenario_policies_warmcontrol">Contrôle de température</string>
     <string name="warm_configure">Paramètres du contrôle de température</string>

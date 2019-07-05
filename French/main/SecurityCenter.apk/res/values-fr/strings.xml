@@ -471,7 +471,7 @@ de l'opérateur"</string>
     <string name="pref_bg_network_title">Connexion en arrière-plan</string>
     <string name="pref_mi_sim_settings">Paramètres du package %s</string>
     <string name="pref_title_upload_data_usage">"Signaler les informations d'utilisation des données"</string>
-    <string name="pref_summary_upload_data_usage">"Signalez vos informations d'utilisation des données pour nous aider à améliorer les services MIUI. Le processus de déclaration sera effectué conformément à notre Politique de Confidentialité."</string>
+    <string name="pref_summary_upload_data_usage">"Signalez vos informations d'utilisation des données pour nous aider à améliorer les services MIUI. Le processus de déclaration sera effectué conformément à notre politique de confidentialité."</string>
     <string name="pref_manual_adjust">Définir les statistiques manuellement</string>
     <string name="pref_daily_adjust">Définir la limite des données en heures pleines</string>
     <string name="pref_free_adjust">Définir la limite des données en heure creuse</string>
@@ -1672,7 +1672,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Politique de confidentialité</string>
     <string name="antivirus_privacy_dialog_summary">"Cette fonctionnalité crypte et envoi l'identifiant de votre appareil aux serveurs d'Avast, AVL et Tencent (%s)."</string>
-    <string name="antivirus_privacy_dialog_summary_link">voir la Politique de Confidentialité</string>
+    <string name="antivirus_privacy_dialog_summary_link">voir la politique de confidentialité</string>
     <string name="antivirus_privacy_dialog_cloudscan">Envoyer les noms et détails des applications</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
@@ -1950,7 +1950,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="face_unlock_face_start_title">Vérification des données du visage…</string>
     <string name="face_unlock_face_auth_failed_title">Impossible de vérifier des données du visage. Passer à dautres méthodes de déverrouillage…</string>
     <string name="face_unlock_finger_or_password_switch">Utilisez votre empreinte digitale ou entrez votre mot de passe pour le déverrouiller</string>
-    <string name="applock_function_base_settings">"Verrouillage d'application"</string>
+    <string name="applock_function_base_settings">"Verrouillage des applications"</string>
     <string name="applock_function_pwd_settings">Mot de passe</string>
     <string name="applock_face_unlock_title">Reconnaissance faciale</string>
     <string name="applock_face_unlock_summary">Déverrouiller les applis avec les données du visage</string>

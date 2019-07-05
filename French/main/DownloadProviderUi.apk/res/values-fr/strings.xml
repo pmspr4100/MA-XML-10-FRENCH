@@ -283,7 +283,7 @@ across all your devices with Xunlei"</string>
     <string name="rank_data_empty">Aucun classements</string>
     <string name="rank_guide_confirm">Check it out</string>
     <string name="rank_guide_content">Rankings are updated daily to show most popular apps</string>
-    <string name="rank_guide_title">Apps other people install</string>
+    <string name="rank_guide_title">"Applications installées par d'autres personnes"</string>
     <string name="rebind_btn">Add again</string>
     <string name="recommend_downloading">Téléchargement en cours…</string>
     <string name="recommend_failed">Échec</string>

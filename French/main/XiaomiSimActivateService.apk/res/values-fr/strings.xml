@@ -60,7 +60,7 @@
     <string name="activate_popup_desc_new_2_intl_sim_cards">On dirait que vous avez changé de carte SIM. 2 SMS internationaux seront envoyés pour activer %s. Vous pourrez être facturé par votre opérateur.</string>
     <string name="activate_popup_desc_new_sim_card_downlink">On dirait que vous avez changé de carte SIM. Entrez votre numéro de téléphone actuel pour activer %s.</string>
     <string name="activate_popup_desc_voip_privacy_prefix">Service de VoIP fourni par Weihui. Voir Weihui</string>
-    <string name="activate_popup_desc_voip_privacy">Politique de Confidentialité</string>
+    <string name="activate_popup_desc_voip_privacy">Politique de confidentialité</string>
     <string name="activate_popup_title_register_account">Créer un compte Mi</string>
     <string name="activate_popup_desc_register_account">Un message SMS sortant peut être nécessaire pour créer votre compte MI. Votre opérateur vous facturera ce message.</string>
     <string name="activate_popup_desc_register_account_intl">Un message SMS international sortant peut être nécessaire pour créer votre compte Mi. Votre opérateur vous facturera ce message.</string>

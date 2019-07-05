@@ -64,18 +64,18 @@ Vous devez accepter la politique de confidentialité de Facemoji avant d'utilise
 Vous devez accepter la politique de confidentialité de Kika avant d'utiliser cette fonctionnalité."</string>
     <string name="user_agreement">"Conditions générales d'utilisation"</string>
     <string name="privacy_policy">Politique de confidentialité</string>
-    <string name="terms_privacy_policy_input_method_kika">Politique de Confidentialité de Kika</string>
+    <string name="terms_privacy_policy_input_method_kika">Politique de confidentialité de Kika</string>
     <string name="terms_privacy_policy_input_method_facemoji">Politique de confidentialité de Facemoji</string>
     <string name="application_permissions">Permissions des applications</string>
     <string name="agree">Accepter</string>
     <string name="disagree">Annuler</string>
     <string name="setting_locale">Définition de la région…</string>
-    <string name="agree_terms">"J'ai lu et accepté les Conditions générales d'utilisation et la Politique de confidentialité."</string>
+    <string name="agree_terms">"J'ai lu et accepté les conditions générales d'utilisation et la politique de confidentialité."</string>
     <string name="poco_agree_terms_other">"(Incluant la politique de confidentialité et les conditions d'utilisation de POCO Launcher)"</string>
-    <string name="agree_terms_input_method_facemoji">"J'ai lu et accepté la Politique de confidentialité de Facemoji."</string>
-    <string name="agree_terms_input_method_kika">"J'ai lu et accepté la Politique de confidentialité de Kika."</string>
-    <string name="miui_terms_no_network">"Vous n'avez pas de connexion Internet. Vous pouvez voir les Conditions Générales d'Utilisation sur %s."</string>
-    <string name="miui_privacy_policy_no_network">"Vous n'avez pas de connexion Internet. Vous pouvez voir la Politique de Confidentialité sur %s."</string>
+    <string name="agree_terms_input_method_facemoji">"J'ai lu et accepté la politique de confidentialité de Facemoji."</string>
+    <string name="agree_terms_input_method_kika">"J'ai lu et accepté la politique de confidentialité de Kika."</string>
+    <string name="miui_terms_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir les conditions générales d'utilisation sur %s."</string>
+    <string name="miui_privacy_policy_no_network">"Vous n'avez pas de connexion internet. Vous pouvez voir la politique de confidentialité sur %s."</string>
     <string name="locale_picker_title">Sélectionnez votre région</string>
     <string name="install_preinstall_app">Chargement des applications…</string>
     <string name="title_fingerprint">Définir le mot de passe</string>

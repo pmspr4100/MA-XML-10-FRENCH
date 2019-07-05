@@ -70,9 +70,9 @@
         <item quantity="one">%d minute</item>
     </plurals>
     <plurals name="steps">
-        <item quantity="other">%d|pas</item>
-        <item quantity="zero">%d|pas</item>
-        <item quantity="one">%d|pas</item>
+        <item quantity="other">%d | pas</item>
+        <item quantity="zero">%d | pas</item>
+        <item quantity="one">%d | pas</item>
     </plurals>
     <plurals name="time_hour_ago">
         <item quantity="other">il y a %d heures</item>

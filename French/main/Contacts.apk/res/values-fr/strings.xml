@@ -887,7 +887,7 @@ Raison: \"%s\""</string>
     <string name="preference_others">Autres</string>
     <string name="preference_phone">Périphérique</string>
     <string name="preference_phone_more_title">"Paramètres d'appel"</string>
-    <string name="preference_privacy_policy_title">Politique de Confidentialité</string>
+    <string name="preference_privacy_policy_title">Politique de confidentialité</string>
     <string name="preference_remove_duplicate">Fusionner les contacts dupliqués</string>
     <string name="preference_show_firewall_calllog">"Afficher les appels bloqués dans l'historique des appels"</string>
     <string name="preference_show_yellowpage_tab_description">Pages jaunes pourrait ne pas fonctionner correctement lorsque cette fonctionnalité est désactivée.</string>

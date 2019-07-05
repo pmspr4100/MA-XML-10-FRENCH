@@ -202,14 +202,14 @@
     <string name="preference_follow_web_title">Site Web officiel</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
-    <string name="preference_help">Aider &amp; commentaires</string>
+    <string name="preference_help">Aider et commentaires</string>
     <string name="preference_other">Autre</string>
-    <string name="preference_privacy_title">Politique de Confidentialité</string>
+    <string name="preference_privacy_title">Politique de confidentialité</string>
     <string name="preference_rating_title">Évaluez notre application</string>
     <string name="preference_settings">Paramètres</string>
     <string name="preference_use_degress_summary">Substituer les radians par les angles dans les fonctions trigonométriques</string>
     <string name="preference_use_degress_title">Utiliser les angles</string>
-    <string name="privacy_policy">Politique de Confidentialité</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
     <string name="radDesc">Radian</string>
     <string name="rate_data_provider">"Les taux d'intérêt sont fournis par hexun.com"</string>
     <string name="reciprocalDesc">Réciproque</string>

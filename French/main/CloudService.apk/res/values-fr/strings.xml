@@ -68,7 +68,7 @@ En utilisant ce service, vous acceptez %s."</string>
     <string name="user_agreement_title">Modalités du service Mi Cloud</string>
 	<string name="user_detail_agreement">"Accord de l'utilisateur"</string>
     <string name="user_detail_privacy_policy">Politique de confidentialité</string>
-    <string name="privacy_policy">Politique de Confidentialité</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
     <string name="loading">Chargement…</string>
     <string name="license_host_unreachable">Impossible de se connecter au réseau. Pour voir ces informations, allez sur %s.</string>
     <string name="activating">Activation…</string>
@@ -153,7 +153,7 @@ En utilisant ce service, vous acceptez %s."</string>
     <string name="micloud_detail_query_error">"Impossible d'obtenir l'état de synchronisation"</string>
     <string name="micloud_privacy_cloud_off">La synchronisation est désactivée</string>
     <string name="micloud_privacy_licence_agreed">Accepter Mi Cloud &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Politique de confidentialité&lt;/u>&lt;/a>.</string>
-    <string name="micloud_privacy_licence_privacy_policy">Politique de Confidentialité</string>
+    <string name="micloud_privacy_licence_privacy_policy">Politique de confidentialité</string>
 	<string name="provision_sync_items_loading">Préparation à la synchronisation des éléments</string>
     <string name="micloud_privacy_explanation">"Accorder l'autorisation pour activer les services de Mi Cloud"</string>
     <string name="micloud_privacy_cloud_sync">Activer les services de Mi Cloud</string>

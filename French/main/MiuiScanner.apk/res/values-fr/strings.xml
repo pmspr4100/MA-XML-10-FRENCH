@@ -98,7 +98,7 @@
     <string name="import_contact">Importer le contact</string>
     <string name="impunity_declaration_content">Le scanneur doit utiliser votre appareil photo et traiter les images que vous prenez en utilisant lapplication. Nutilisez pas Scanneur pour prendre des photos des objets contenant vos informations personnelles. En appuyant sur \"Accepter\", vous acceptez notre &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Politique de confidentialité&lt;/a>&lt;/font> et autorise Scanneur à se connecter à Internet.</string>
     <string name="impunity_declaration_negative_text">Quitter</string>
-    <string name="impunity_declaration_title">Politique de Confidentialité</string>
+    <string name="impunity_declaration_title">Politique de confidentialité</string>
     <string name="label_choose_picture">Choisir une image</string>
     <string name="label_flash_light">Lampe torche</string>
     <string name="language_entry_chinese_cn">Chinois simplifié</string>

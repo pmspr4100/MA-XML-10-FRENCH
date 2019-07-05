@@ -867,7 +867,7 @@ Remember that the files you download and the bookmarks you add will still be sav
     <string name="pref_privacy_formdata_title">Données de formulaire</string>
     <string name="pref_privacy_location_title">Location access</string>
     <string name="pref_privacy_policy">Politique de confidentialité</string>
-    <string name="pref_privacy_security_title">Confidentialité &amp; Sécurité</string>
+    <string name="pref_privacy_security_title">Confidentialité et sécurité</string>
     <string name="pref_save_bandwidth_mode_title">"Réduire l'utilisation des données"</string>
     <string name="pref_security_accept_cookies">Accepter les cookies</string>
     <string name="pref_security_accept_cookies_summary">Autoriser les sites à enregistrer et à lire les données de cookies</string>

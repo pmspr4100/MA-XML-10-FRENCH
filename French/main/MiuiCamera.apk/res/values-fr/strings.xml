@@ -603,7 +603,7 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="edit_blusher">Rouge</string>
     <string name="sticker_tab1">Mignon</string>
     <string name="sticker_tab2">Drôle</string>
-    <string name="pref_privacy_title">Politique de Confidentialité</string>
+    <string name="pref_privacy_title">Politique de confidentialité</string>
     <string name="user_agree">Accepter</string>
     <string name="user_define_watermark_cancel">Annuler</string>
     <string name="user_define_watermark_save">Sauvegarder</string>
@@ -654,7 +654,7 @@ en mode Portrait"</string>
     <string name="lighting_pattern_dot">Points</string>
     <string name="lighting_pattern_shutter">Stores</string>
     <string name="lighting_pattern_holi">Holi</string>
-    <string name="view_privacy_policy">Afficher la Politique de Confidentialité</string>
+    <string name="view_privacy_policy">Afficher la Politique de confidentialité</string>
     <string name="fps960_toast">La capture au ralenti commence au dernier quart de lenregistrement</string>
     <string name="portrait_bokeh_text">Mode portrait</string>
     <string name="portrait_bokeh_first_tips">"Utilisez le mode Portrait pour rendre flou
