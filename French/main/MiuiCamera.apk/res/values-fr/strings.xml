@@ -608,7 +608,7 @@ puis créera une photo avec une quantité minimale de bruit."</string>
     <string name="user_define_watermark_cancel">Annuler</string>
     <string name="user_define_watermark_save">Sauvegarder</string>
     <string name="do_not_remind_me">Ne plus afficher</string>
-    <string name="user_notice_identify_summary_format">"Avant d’utiliser l'appareil photo, vous devez accepter notre &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Accord de l'utilisateur&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Politique de confidentialité&lt;/a&gt;. L'appareil photo doit également se connecter à Internet pour fonctionner normalement. Acceptez-vous ?"</string>
+    <string name="user_notice_identify_summary_format">"Avant d’utiliser l'appareil photo, vous devez accepter notre &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Accord de l'utilisateur&lt;/a&gt; et &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Politique de confidentialité&lt;/a&gt;. L'appareil photo doit également se connecter à internet pour fonctionner normalement. Acceptez-vous ?"</string>
     <string name="user_notice_title">Termes et conditions</string>
     <string name="video_beauty_tip">Embellir pour les vidéos</string>
     <string name="network_access_user_notice_title">Connexion à Internet</string>
