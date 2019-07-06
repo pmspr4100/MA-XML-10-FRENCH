@@ -21,6 +21,16 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">supprimer</string>
+    <string name="abc_menu_enter_shortcut_label">entrée</string>
+    <string name="abc_menu_function_shortcut_label">Fonction+</string>
+    <string name="abc_menu_meta_shortcut_label">Méta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">espace</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Rechercher…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
@@ -57,6 +67,7 @@
     <string name="added_next_play">Ajouté pour être joué ensuite</string>
     <string name="agreement_desc">"Accord de l'utilisateur (obligatoire)"</string>
     <string name="alaka_required">Vous devez payer pour écouter cette chanson</string>
+    <string name="alarm_clock_ringtones_successful">Alarme défini avec succès</string>
     <string name="album_label">"Couvertures d'album"</string>
     <string name="album_name">Album</string>
     <string name="all_album_count">Tous les albums (%d)</string>
@@ -109,6 +120,7 @@
     <string name="cancel">Annuler</string>
     <string name="cancel_running_download">Annuler</string>
     <string name="change_download_quality">Changer la qualité de téléchargement</string>
+    <string name="character_counter_content_description">Limite de caractères dépassée %1$d à %2$d</string>
     <string name="checking_new_version">Vérification des updates…</string>
     <string name="choose_download_quality">Choisir la qualité de téléchargement</string>
     <string name="choose_stream_quality">Qualité de diffusion préférée</string>
@@ -151,6 +163,7 @@
     <string name="delete_file_end">Supprimer définitivement</string>
     <string name="delete_file_start">Supprimer les fichiers sélectionnés</string>
     <string name="deselect_all">Tout déselectionner</string>
+    <string name="select_clip_desc">Sélectionnez un clip de la chanson</string>
     <string name="desktop_lyric_button_close">Fermer</string>
     <string name="desktop_lyric_button_lock">Verrouiller</string>
     <string name="desktop_lyric_color">Couleur</string>
@@ -352,6 +365,8 @@
     <string name="format_unsupported_or_corrupted">"Ce format n'est pas supporté ou le fichier est corrompu"</string>
     <string name="fragment_title_artist_album">Albums</string>
     <string name="gcm_fallback_notification_channel_label">Divers</string>
+    <string name="goto_local_search">"Rechercher sur l'appareil"</string>
+    <string name="goto_online_search">Recherche en ligne</string>
     <string name="handle_later">Pas maintenant</string>
     <string name="hd_quality_audio">Audio de qualité HD</string>
     <string name="headset_and_audio_effect_category">Casque et effets audio</string>
@@ -410,6 +425,7 @@
     <string name="load_shuffle">Chargement…</string>
     <string name="loadercontainer_loading">Chargement…</string>
     <string name="loading_hint">Chargement…</string>
+    <string name="loading_reached_the_bottom">"C'est tout pour le moment."</string>
     <string name="local_header_title">Musique locale</string>
     <string name="local_music">Chansons locales</string>
     <string name="local_music_is_not_available">"Vous n'avez pas chansons sur votre appareil."</string>
@@ -463,6 +479,8 @@
     <string name="more_settings">Paramètres avancés</string>
     <string name="more_settings_summary">Minuteur de sommeil, filtrage de fichiers et plus</string>
     <string name="more_share">Partager</string>
+    <string name="mtrl_chip_close_icon_content_description">Effacer %1$s</string>
+    <string name="mulit_choice_management">Gérer plusieurs éléments</string>
     <string name="music_browser_label">Musique</string>
     <string name="music_filter">Filtrer les fichiers audio</string>
     <string name="music_service">Service Musique</string>
@@ -545,7 +563,9 @@
     <string name="online_switch_setting">Paramètres du contenu en ligne</string>
     <string name="open_online_service">"Vous avez besoin d'activer les services en ligne afin d'utiliser cette fonctionnalité. Activer maintenant ?"</string>
     <string name="open_service">Activer</string>
+    <string name="operation_done_close">Fermer</string>
     <string name="other_song_in_album">"D'autres chansons de cet album"</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
     <string name="paused_by_app">En pause</string>
     <string name="paused_in_power_save_mode">"En pause lorsque l'Économiseur de batterie est activé"</string>
     <string name="paused_insufficient_space">En attente</string>
@@ -616,6 +636,10 @@
     <string name="retry_download">Veuillez réessayer</string>
     <string name="ringtone_editing">Éditeur de sonnerie</string>
     <string name="ringtone_not_support">"Le format de cet chanson n'est pas pris en charge"</string>
+    <string name="ringtone_selected">Sélectionné</string>
+    <string name="ringtones_play">Lecture</string>
+    <string name="ringtones_stop">Arrêter</string>
+    <string name="ringtones_successful">Sonnerie défini avec succès</string>
     <string name="root_downloads">Téléchargements</string>
     <string name="s1">"Enregistrer l'image"</string>
     <string name="s2">"Autoriser l'annonce à stocker l'image dans la galerie d'images ?"</string>
@@ -632,9 +656,13 @@
     <string name="search_for_album">Album</string>
     <string name="search_for_artist">Artiste</string>
     <string name="search_hint">Rechercher des artistes, des chansons, des albums et des recommandations</string>
-    <string name="search_history_clear_all">Vider</string>
+    <string name="search_history_clear_all">Effacer</string>
+    <string name="search_history_delete_all_dialog_titile">"Effacer l'historique de recherche maintenant ?"</string>
     <string name="search_instant_online_music">En ligne</string>
     <string name="search_menu_title">Rechercher</string>
+    <string name="search_result_local_songs">Locale</string>
+    <string name="search_result_online_songs">En ligne</string>
+    <string name="search_songs">Rechercher des chansons</string>
     <string name="search_songs_count">Chansons: %d</string>
     <string name="select">Sélectionnez</string>
     <string name="select_all">Tout sélectionner</string>
@@ -650,6 +678,7 @@
     <string name="selected_count">%1$d sur %2$d sélectionnés</string>
     <string name="send_to_title">Envoyer avec (%1$s)</string>
     <string name="service_and_settings">Service et paramètres</string>
+    <string name="set_as_alarm_clock_ringtone">Alarme</string>
     <string name="set_as_ring">Définir comme sonnerie</string>
     <string name="set_ringtones_failed">Impossible de définir la sonnerie</string>
     <string name="set_ringtones_successful">%s définir comme sonnerie</string>
@@ -687,6 +716,7 @@
     <string name="song_name">Titre</string>
     <string name="song_not_find">"Cette chanson n'est pas disponible."</string>
     <string name="song_offline">"Cette chanson n'est plus disponible."</string>
+    <string name="song_picker_complete">Terminé</string>
     <string name="songgroup_pick_album">Albums</string>
     <string name="songgroup_pick_playlist">Playlists</string>
     <string name="sort_by_name">Nom</string>
@@ -732,6 +762,7 @@
     <string name="title_online_fm_recommend">Fréquence FM en ligne recommandée</string>
     <string name="title_online_recommend">Playlists vedette</string>
     <string name="title_search_history">Historique de recherche</string>
+    <string name="title_search_hot">Populaire</string>
     <string name="toast_download_error_by_count_limit">Vous avez atteint votre quota de téléchargement pour ce mois.</string>
     <string name="toast_download_error_by_not_login">Connectez-vous à votre compte Mi et réessayez.</string>
     <string name="toast_download_error_by_vip_required">Obtenir le Pack de chansons Premium pour télécharger cette chanson.</string>
