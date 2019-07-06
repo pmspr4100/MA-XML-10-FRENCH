@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ai_scene_names">
-        <item>无</item>
-        <item>文档</item>
-        <item>花</item>
-        <item>食物</item>
+        <item>Non</item>
+        <item>Document</item>
+        <item>Fleur</item>
+        <item>Nourriture</item>
         <item>ppt</item>
-        <item>天空</item>
-        <item>日出日落</item>
-        <item>猫</item>
-        <item>狗</item>
-        <item>绿植</item>
-        <item>夜景</item>
-        <item>雪景</item>
-        <item>海边</item>
-        <item>秋色</item>
-        <item>烛光</item>
-        <item>汽车</item>
-        <item>草地</item>
-        <item>枫叶</item>
-        <item>多肉</item>
-        <item>建筑</item>
-        <item>城市</item>
-        <item>多云</item>
-        <item>阴天</item>
-        <item>逆光人像</item>
-        <item>剪影</item>
-        <item>人像</item>
-        <item>珠宝</item>
-        <item>佛像</item>
-        <item>牛</item>
-        <item>咖喱</item>
-        <item>摩托车</item>
-        <item>寺庙</item>
-        <item>沙滩</item>
-        <item>水下</item>
-        <item>塔楼</item>
-        <item>月亮</item>
-        <item>合影</item>
-        <item>雕像</item>
+        <item>Ciel</item>
+        <item>Lever et coucher de soleil</item>
+        <item>Chat</item>
+        <item>Chien</item>
+        <item>Plante verte</item>
+        <item>Vue de nuit</item>
+        <item>Scène de neige</item>
+        <item>Bord de mer</item>
+        <item>Automne</item>
+        <item>Aux chandelles</item>
+        <item>Voiture</item>
+        <item>Prairies</item>
+        <item>"Feuille d'érable"</item>
+        <item>Succulente</item>
+        <item>Bâtiment</item>
+        <item>Ville</item>
+        <item>Nuageux</item>
+        <item>Nuageux</item>
+        <item>Portrait en contre-jour</item>
+        <item>Silhouette</item>
+        <item>Portrait</item>
+        <item>Bijoux</item>
+        <item>Statue de Bouddha</item>
+        <item>Vache</item>
+        <item>curry</item>
+        <item>Moto</item>
+        <item>Temple</item>
+        <item>Plage</item>
+        <item>"Sous l'eau"</item>
+        <item>Tour</item>
+        <item>Lune</item>
+        <item>Photo</item>
+        <item>Statue</item>
     </string-array>
 </resources>
