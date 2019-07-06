@@ -1698,8 +1698,8 @@ Cette tablette ne possède pas d'écouteur. Vous pouvez passer en mode Mains lib
     <string name="volte_switch_not_support_summary2">"Les appels VoLTE ne sont pas pris en charge par l'opérateur."</string>
     <string name="volte_switch_summary">Utiliser VoLTE pour améliorer la qualité de la voix et de la vidéo</string>
     <string name="volte_switch_summary2">"Confirmez que votre opérateur prend en charge cette fonctionnalité avant de l'activer. Sinon, les appels réguliers pourraient être affectés."</string>
-    <string name="volte_switch_title">VoLTE activé</string>
-    <string name="volte_switch_title_ct">VoLTE activé</string>
+    <string name="volte_switch_title">Réseaux VoLTE</string>
+    <string name="volte_switch_title_ct">Réseaux VoLTE</string>
     <string name="volte_tips_when_turn_on">"Les services VoLTE de China Telecom ne sont fournis que dans les zones couvertes par le réseau VoLTE. Les services VoLTE sont fournis par l'opérateur."</string>
     <string name="vowifi_emergency_notification_channel">"Avertissement d'appel d'urgence Wi-Fi"</string>
     <string name="vowifi_emergency_notification_content">"Les appels d'urgence sont possibles dans les zones couvertes par le réseau mobile"</string>
@@ -1710,7 +1710,7 @@ Cette tablette ne possède pas d'écouteur. Vous pouvez passer en mode Mains lib
 Votre appareil passe automatiquement sur un réseau mobile (2G/3G) pour passer un appel d'urgence.
 
 Les appels d’urgence ne sont possibles que dans les zones couvertes par une couverture de réseau mobile."</string>
-    <string name="vowifi_emergency_warning_title">"Appels d'urgence via Appels Wi-Fi"</string>
+    <string name="vowifi_emergency_warning_title">"Appels d'urgence via appels Wi-Fi"</string>
     <string name="vpn_settings_not_available">Les paramètres VPN ne sont pas disponibles pour cet utilisateur.</string>
     <string name="vvm_unsupported_message_format">Type de message non pris en charge, appelez %s pour écouter.</string>
     <string name="wait_for_debugger">"Attendre l'intervention du débogueur"</string>
@@ -1721,9 +1721,9 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
     <string name="wfcmode_wifi_only">Wi-Fi uniquement</string>
     <string name="wfcmode_wifi_preferred">Préferer le Wi-Fi</string>
     <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement plein"</string>
-    <string name="wifi_call_setting">Appels Wi-Fi</string>
-    <string name="wifi_calling">Appel Wi-Fi</string>
-    <string name="wifi_calling_settings_title">Appel Wi-Fi</string>
+    <string name="wifi_call_setting">Réseaux VoWiFi</string>
+    <string name="wifi_calling">Réseaux VoWiFi</string>
+    <string name="wifi_calling_settings_title">Réseaux VoWiFi</string>
     <string name="wifi_cant_connect">Connexion impossible</string>
     <string name="wifi_cant_connect_to_ap">Impossible de se connecter au réseau \"%1$s\"</string>
     <string name="wifi_check_password_try_again">Vérifiez le mot de passe et réessayez</string>
@@ -1751,7 +1751,7 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
     <string name="wifi_verbose_logging">Autoriser enreg. infos Wi-Fi détaillées</string>
     <string name="wifi_verbose_logging_summary">Détailler plus infos Wi-Fi, afficher par RSSI de SSID dans outil sélection Wi-Fi</string>
     <string name="wificall_switch_summary">Utilisez le Wi-Fi pour émettre et recevoir des appels lorsque cela est possible</string>
-    <string name="wificall_switch_title">Passer des appels via Wi-Fi</string>
+    <string name="wificall_switch_title">Passer des appels VoWiFi </string>
     <string name="wild_prompt_str">Remplacer les caractères spéciaux par</string>
     <string name="window_animation_scale_title">Échelle animation fenêtres</string>
     <string name="wrong_password">Le mot de passe que vous avez entré est incorrect</string>
