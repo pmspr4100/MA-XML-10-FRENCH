@@ -614,6 +614,7 @@
     <string name="retry">Veuillez réessayer</string>
     <string name="retry_after_network_available">Impossible de se connecter au réseau. Vérifiez votre connexion et réessayez.</string>
     <string name="retry_download">Veuillez réessayer</string>
+    <string name="ringtone_editing">Éditeur de sonnerie</string>
     <string name="ringtone_not_support">"Le format de cet chanson n'est pas pris en charge"</string>
     <string name="root_downloads">Téléchargements</string>
     <string name="s1">"Enregistrer l'image"</string>
@@ -637,6 +638,7 @@
     <string name="search_songs_count">Chansons: %d</string>
     <string name="select">Sélectionnez</string>
     <string name="select_all">Tout sélectionner</string>
+    <string name="select_clip_desc">Sélectionnez une partie de la chanson</string>
     <string name="select_desc_sub">"Vous pouvez sélectionner jusqu'à 3 langues"</string>
     <string name="select_device">Sélectionnez un périphérique</string>
     <string name="select_displayed_folders">Choisir les dossiers à afficher</string>
