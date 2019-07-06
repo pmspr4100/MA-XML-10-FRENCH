@@ -509,7 +509,6 @@ Keep the subject sharp while blurring the background."</string>
     <string name="pref_camera_focusmode_entry_manual">Manual</string>
     <string name="pref_camera_focusmode_entry_normal">Standard</string>
     <string name="pref_camera_focusmode_title">Focus mode</string>
-    <string name="pref_camera_focusmode_value_default">continuous-picture</string>
     <string name="pref_camera_front_ai_scene_entry_off">AI camera is off</string>
     <string name="pref_camera_front_ai_scene_entry_on">AI camera</string>
     <string name="pref_camera_front_bokeh_entry_off">Désactivé</string>
@@ -531,7 +530,6 @@ Keep the subject sharp while blurring the background."</string>
     <string name="pref_camera_jpegquality_entry_normal">Standard</string>
     <string name="pref_camera_jpegquality_title">Qualité de la photo</string>
     <string name="pref_camera_live_sticker_internal_title">Internal magic tools</string>
-    <string name="pref_camera_long_press_shutter_feature_default">burst</string>
     <string name="pref_camera_long_press_shutter_feature_title">Press &amp; hold Shutter button</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
     <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Lock</string>
@@ -574,7 +572,6 @@ Keep the subject sharp while blurring the background."</string>
     <string name="pref_camera_proximity_lock_title">Pocket mode</string>
     <string name="pref_camera_quick_shot_anim_enable_title">Turn on quick shot animation</string>
     <string name="pref_camera_quick_shot_enable_title">Turn on quick shot</string>
-    <string name="pref_camera_recordlocation_default">false</string>
     <string name="pref_camera_recordlocation_entry_off">Désactivé</string>
     <string name="pref_camera_recordlocation_entry_on">Activé</string>
     <string name="pref_camera_recordlocation_title">Save location info</string>
@@ -625,7 +622,6 @@ Keep the subject sharp while blurring the background."</string>
     <string name="pref_camera_tilt_shift_entryvalue_circle">circle</string>
     <string name="pref_camera_tilt_shift_entryvalue_parallel">parallel</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
-    <string name="pref_camera_touchafaec_default">touch-on</string>
     <string name="pref_camera_touchafaec_entry_off">Désactivé</string>
     <string name="pref_camera_touchafaec_entry_on">Activé</string>
     <string name="pref_camera_ubifocus_title">Refocus</string>
@@ -638,15 +634,11 @@ Keep the subject sharp while blurring the background."</string>
     <string name="pref_camera_video_duration_entry_120">Illimité</string>
     <string name="pref_camera_video_duration_entry_30">30 minutes</string>
     <string name="pref_camera_video_duration_entry_mms">30 seconds (MMS)</string>
-    <string name="pref_camera_volumekey_function_default">timer</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Shutter</string>
     <string name="pref_camera_volumekey_function_entry_timer">Shutter countdown</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
-    <string name="pref_camera_volumekey_function_entryvalue_shutter">shutter</string>
     <string name="pref_camera_volumekey_function_entryvalue_timer">timer</string>
-    <string name="pref_camera_volumekey_function_entryvalue_volume">volume</string>
-    <string name="pref_camera_volumekey_function_entryvalue_zoom">zoom</string>
     <string name="pref_camera_volumekey_function_title">Volume buttons function</string>
     <string name="pref_camera_watermark_title">Add time stamp on photos</string>
     <string name="pref_camera_whitebalance_entry_auto">AUTO</string>
@@ -707,7 +699,6 @@ Keep the subject sharp while blurring the background."</string>
     <string name="pref_video_encoder_title">Encodage vidéo</string>
     <string name="pref_video_focusmode_entry_auto">Tap</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
-    <string name="pref_video_focusmode_entryvalue_auto">auto</string>
     <string name="pref_video_focusmode_title">Focus mode</string>
     <string name="pref_video_hfr_title">Vidéo HFR</string>
     <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
