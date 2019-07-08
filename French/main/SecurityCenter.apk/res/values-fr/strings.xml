@@ -1124,7 +1124,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="deep_power_save_item_summary_auto_brightness">"Ajuster automatiquement la luminosité de l'écran pour économiser de la batterie"</string>
     <string name="deep_power_save_item_title_bluetooth">Désactiver le Bluetooth</string>
     <string name="deep_power_save_item_summary_bluetooth">Désactivez Bluetooth pour économiser la batterie</string>
-    <string name="deep_power_save_item_title_lock_screen_time">Mettre lécran en veille</string>
+    <string name="deep_power_save_item_title_lock_screen_time">"Mettre l'écran en veille"</string>
     <string name="deep_power_save_item_summary_lock_screen_time">"Mettre l'écran en veille après 30 secondes d'inactivité pour économiser de la batterie"</string>
     <string name="power_save_mode_enable">Économiseur de batterie</string>
     <string name="power_save_mode_summary">Surveiller les processus et désactiver la synchronisation.</string>
@@ -1941,7 +1941,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="reset_data_title">Impossible restaurer le mot de passe</string>
     <string name="reset_data_dialog_message">"Cet appareil n'est pas associé à votre compte Mi. Impossible de restaurer ou de réinitialiser le mot de passe. Sauvegardez tous les éléments importants et effectuez une réinitialisation d'usine. Toutes les données seront définitivement supprimées et votre carte SD sera formatée lors de la réinitialisation d'usine."</string>
     <string name="reset_data_dialog_ok">"Réinitialisation des paramètres d'usine"</string>
-    <string name="ad_split_screen_title">Quitter lécran partagé pour déverrouiller</string>
+    <string name="ad_split_screen_title">"Quitter l'écran partagé pour déverrouiller"</string>
     <string name="applock_toast_tip">"Verrouillage d'application vérifié avec succès"</string>
     <string name="face_unlock_be_on_the_screen">"Tenez l'appareil en face de votre visage"</string>
     <string name="face_unlock_check_failed">Impossible de vous reconnaître</string>

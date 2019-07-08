@@ -71,7 +71,7 @@
     <string name="error_fomrat">Erreur de format</string>
     <string name="exit">Quitter</string>
     <string name="extra_deduction_instruction">Détails de la déduction</string>
-    <string name="extra_deduction_tips">Appuyez sur le bouton dans le coin supérieur de lécran pour afficher les détails de la déduction.</string>
+    <string name="extra_deduction_tips">"Appuyez sur le bouton dans le coin supérieur de l'écran pour afficher les détails de la déduction."</string>
     <string name="extra_deduction_title">Déductions supplémentaires</string>
     <string name="factorialDesc">factoriel</string>
     <string name="float_window_guide_text">Appuyez ici pour minimiser la calculatrice</string>

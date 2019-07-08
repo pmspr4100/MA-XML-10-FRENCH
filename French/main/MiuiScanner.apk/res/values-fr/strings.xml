@@ -181,7 +181,7 @@
     <string name="translate_dest_lang">Langue cible</string>
     <string name="translate_fail">Impossible de traduire</string>
     <string name="translate_loading">Traduction…</string>
-    <string name="translate_parallel_2_lines">Assurez-vous que le texte est parallèle aux lignes sur lécran</string>
+    <string name="translate_parallel_2_lines">"Assurez-vous que le texte est parallèle aux lignes sur l'écran"</string>
     <string name="translate_save_fail">"Impossible d'enregistrer la note"</string>
     <string name="translate_src_lang">Langue originelle</string>
     <string name="translate_text_compare">Comparaison</string>
