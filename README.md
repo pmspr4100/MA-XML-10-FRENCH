@@ -1,5 +1,5 @@
 ## Introduction:
-* Le référentiel contient la Traduction Française
+* Référentiel MIUI v10 contient la Traduction Française
 * Support de la ROM Stable pour xiaomi.eu
 * Support de la ROM Bêta pour xiaomi.eu
 
@@ -11,7 +11,6 @@
 ## Améliorations:
 * Des mises à jour quotidiennes sont effectuées
 * Traduction différente de la version Global
-* Certains problèmes ont été corrigés
 * Pour tous les modèles Xiaomi
 * Ajustement des traductions
 * Correction orthographique

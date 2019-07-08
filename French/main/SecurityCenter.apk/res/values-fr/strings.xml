@@ -1519,12 +1519,12 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="toast_root_apply_accept">"L'accès ROOT de %s a été autorisé"</string>
     <string name="toast_root_apply_reject">"L'accès ROOT de %s a été refusé"</string>
     <string name="menu_item_app_permissions_control">"Gestionnaire d'autorisations"</string>
-    <string name="menu_item_control_app_permissions">"Demander votre autorisation avant de permettre aux applications de lire vos contacts, de voir votre historique d'appels, de changer les paramètres systèmes, ou d'accéder à la caméra et aux autres services de l'appareil"</string>
+    <string name="menu_item_control_app_permissions">"Demander votre autorisation avant de permettre aux applications de lire vos contacts, de voir votre historique d'appels, de changer les paramètres systèmes, ou d'accéder à l'appareil photo et aux autres services de l'appareil"</string>
     <string name="menu_item_install_debug_package">Installer le forfait de débogage</string>
     <string name="permission_close_permission_control_dialog_title">Désactiver ?</string>
-    <string name="permission_close_permission_control_dialog_msg">"Lorsque le gestionnaire d'autorisations est désactivé, les applications ne demanderont plus l'autorisation avant de lire vos contacts, de voir votre historique d'appels, ou d'accéder à la caméra et aux autres services de l'appareil."</string>
+    <string name="permission_close_permission_control_dialog_msg">"Lorsque le gestionnaire d'autorisations est désactivé, les applications ne demanderont plus l'autorisation avant de lire vos contacts, de voir votre historique d'appels, ou d'accéder à l'appareil photo et aux autres services de l'appareil."</string>
     <string name="permission_permission_control_closed_desc_dialog_title">"Gestionnaire d'autorisations"</string>
-    <string name="permission_permission_control_closed_desc_dialog_msg">"Les applications ne vous demanderont plus votre autorisation pour lire vos contacts, voir votre journal d'appels, accéder à la caméra et aux autres services de l'appareil. Vous pouvez changer ce réglage dans le Gestionnaire d'Autorisations."</string>
+    <string name="permission_permission_control_closed_desc_dialog_msg">"Les applications ne vous demanderont plus votre autorisation pour lire vos contacts, voir votre journal d'appels, accéder à l'appareil photo et aux autres services de l'appareil. Vous pouvez changer ce réglage dans le Gestionnaire d'Autorisations."</string>
     <string name="hints_scanning_text">Analyse…</string>
     <string name="auto_handle_title">GÉNÉRAL</string>
     <string name="manual_item_white_list_title">Exceptions</string>

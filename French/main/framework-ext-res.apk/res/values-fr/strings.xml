@@ -105,7 +105,7 @@
 	<string name="popup_camera_sure_wait">"Je l'ai (%ds)"</string>
 	<string name="popup_camera_takeback_falied_times_calibrate">"Impossible de fermer l'appareil photo frontale plusieurs fois. Essayez de calibrer l'appareil photo."</string>
 	<string name="popup_camera_tip">Attention</string>
-	<string name="popup_camera_using_camera_background">%s utilise la caméra frontale</string>
+	<string name="popup_camera_using_camera_background">"%s utilise l'appareil photo frontale"</string>
     <string name="permdesc_manageLocationPolicy">"Autoriser l'application à gérer la politique de localisation et définir des règles spécifiques."</string>
     <string name="location_usage_restricted_title">Localisation en tache de fond limitée</string>
     <string name="location_usage_restricted_body">Appuyez pour autoriser.</string>

@@ -524,7 +524,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="keyboardview_keycode_shift">Maj</string>
     <string name="keygaurd_accessibility_media_controls">Commandes multimédias</string>
     <string name="keyguard_accessibility_add_widget">Ajouter un widget</string>
-    <string name="keyguard_accessibility_camera">Caméra</string>
+    <string name="keyguard_accessibility_camera">Appareil photo</string>
     <string name="keyguard_accessibility_expand_lock_area">Développer la zone de déverrouillage</string>
     <string name="keyguard_accessibility_face_unlock">Déverrouillage par reconnaissance faciale</string>
     <string name="keyguard_accessibility_password_unlock">Déverrouillage par mot de passe</string>
@@ -844,7 +844,7 @@ Veuillez réessayer dans %2$d secondes."</string>
     <string name="noon">midi</string>
     <string name="notification_app_name_settings">Paramètres</string>
     <string name="notification_app_name_system">Système</string>
-    <string name="notification_appops_camera_active">Caméra</string>
+    <string name="notification_appops_camera_active">Appareil photo</string>
     <string name="notification_appops_microphone_active">Micro</string>
     <string name="notification_appops_overlay_active">"se superpose aux autres applications sur l'écran"</string>
     <string name="notification_channel_account">État du compte</string>
@@ -1252,7 +1252,6 @@ pour le compte \"%s\""</string>
     <string name="relationTypeRelative">Proche</string>
     <string name="relationTypeSister">Sœur</string>
     <string name="relationTypeSpouse">Conjoint</string>
-    <string name="relative_time">%1$s, %2$s</string>
     <string name="replace">Remplacer...</string>
     <string name="report">Rapport</string>
     <string name="reset">Réinitialiser</string>
@@ -1445,8 +1444,8 @@ L'écoute prolongée à un volume élevé peut endommager vos facultés auditive
     <string name="time_picker_text_input_mode_description">"Passer en mode saisie de texte pour la saisie de l'heure."</string>
     <string name="toolbar_collapse_description">Réduire</string>
     <string name="tooltip_popup_title">Info-bulle</string>
-    <string name="turn_off_radio">Désactiver le mode sans fil</string>
-    <string name="turn_on_radio">Activer le mode sans fil</string>
+    <string name="turn_off_radio">Désactiver le mode sans-fil</string>
+    <string name="turn_on_radio">Activer le mode sans-fil</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Appuyer deux fois pour régler le zoom</string>
     <string name="undo">Annuler</string>
     <string name="unpin_target">Retirer</string>
@@ -1521,7 +1520,7 @@ Voulez-vous quitter ?"</string>
     <string name="websearch">Recherche Web</string>
     <string name="week">semaine</string>
     <string name="weeks">semaines</string>
-    <string name="wfcRegErrorTitle">Impossible de configurer les appels Wi‑Fi</string>
+    <string name="wfcRegErrorTitle">Impossible de configurer les appels Wi-Fi</string>
     <string name="wfc_mode_cellular_preferred_summary">Priorité au mobile</string>
     <string name="wfc_mode_wifi_only_summary">Wi-Fi uniquement</string>
     <string name="wfc_mode_wifi_preferred_summary">Wi-Fi de préférence</string>

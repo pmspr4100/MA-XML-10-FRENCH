@@ -474,6 +474,6 @@ Vérifiez les paramètres réseau et réessayez."</string>
     <string name="mr">Statut de la connexion Wi-Fi</string>
     <string name="n0">Barcode Scanner</string>
     <string name="n1">OK</string>
-    <string name="n2">"Désolé, la caméra Android a rencontré un problème. Un redémarrage de l'appareil est peut-être nécessaire."</string>
+    <string name="n2">"Désolé, l'appareil photo Android a rencontré un problème. Un redémarrage de l'appareil est peut-être nécessaire."</string>
     <string name="n3">Encadrez un code-barres avec le viseur pour le balayer.</string>
 </resources>

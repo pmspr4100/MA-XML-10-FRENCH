@@ -12,8 +12,8 @@
     <string-array name="ai_key_item_name">
       <item>"Parler à l'assistant Google"</item>
       <item>Ouvrir la recherche Google</item>
-      <item>Ouvrir la caméra arrière</item>
-      <item>Ouvrir la caméra avant</item>
+      <item>"Ouvrir l'appareil photo arrière"</item>
+      <item>"Ouvrir l'appareil photo avant"</item>
       <item>"Ouvrir l'appli précédente"</item>
       <item>Activer le flash</item>
       <item>Activer le mode de lecture</item>
@@ -94,7 +94,7 @@
       <item>Modifier les paramètres</item>
       <item>Dessiner par dessus</item>
       <item>Accéder aux notifications</item>
-      <item>Caméra</item>
+      <item>Appareil photo</item>
       <item>Enregistrer fichier audio</item>
       <item>Lire le fichier audio</item>
       <item>Lire le Presse-papiers</item>
@@ -161,7 +161,7 @@
       <item>modifier les paramètres</item>
       <item>dessiner par dessus</item>
       <item>accéder aux notifications</item>
-      <item>caméra</item>
+      <item>appareil photo</item>
       <item>enregistrer fichier audio</item>
       <item>lire le fichier audio</item>
       <item>lire le Presse-papiers</item>

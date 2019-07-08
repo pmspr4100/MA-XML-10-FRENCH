@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Navigate home</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">Plus options</string>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
     <string name="abc_action_mode_done">Terminé</string>
     <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
-    <string name="abc_activitychooserview_choose_application">Choisissez une application</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">Désactivé</string>
     <string name="abc_capital_on">Activé</string>
     <string name="abc_search_hint">Recherche…</string>

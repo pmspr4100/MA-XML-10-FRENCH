@@ -787,7 +787,7 @@ afin de recevoir des rappels concernant les paiements et les voyages"</string>
     <string name="policy_calendar_age">"Limiter le nombre d'évènements synchrinosés du calendrier"</string>
     <string name="policy_dont_allow_attachments">Ne pas autoriser les pièces jointes</string>
     <string name="policy_dont_allow_browser">Ne pas autoriser les navigateurs</string>
-    <string name="policy_dont_allow_camera">"Bloquer l'utilisation de la caméra"</string>
+    <string name="policy_dont_allow_camera">"Bloquer l'utilisation de l'appareil photo"</string>
     <string name="policy_dont_allow_consumer_email">Ne pas autoriser les e-mails publicitaires</string>
     <string name="policy_dont_allow_html">Ne pas autoriser les e-mails HTML</string>
     <string name="policy_dont_allow_internet_sharing">Ne pas autoriser le partage par internet</string>

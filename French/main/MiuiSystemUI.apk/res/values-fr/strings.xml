@@ -7,7 +7,7 @@
     <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
     <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
     <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
-    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_action_mode_done">Terminé</string>
     <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
@@ -180,12 +180,12 @@
     <string name="accessibility_quick_settings_data_saver_changed_on">"L'économiseur de données est activé."</string>
     <string name="accessibility_quick_settings_detail">Paramètres rapides, %s.</string>
     <string name="accessibility_quick_settings_dnd">Ne pas déranger.</string>
-    <string name="accessibility_quick_settings_dnd_alarms_on">Mode Ne pas déranger activé, alarmes uniquement.</string>
-    <string name="accessibility_quick_settings_dnd_changed_off">Le mode Ne pas déranger est désactivé.</string>
-    <string name="accessibility_quick_settings_dnd_changed_on">Le mode Ne pas déranger est activé.</string>
-    <string name="accessibility_quick_settings_dnd_none_on">Mode Ne pas déranger activé, silence total.</string>
-    <string name="accessibility_quick_settings_dnd_off">Mode Ne pas déranger désactivé.</string>
-    <string name="accessibility_quick_settings_dnd_priority_on">Mode Ne pas déranger activé, priorité uniquement.</string>
+    <string name="accessibility_quick_settings_dnd_alarms_on">Mode ne pas déranger activé, alarmes uniquement.</string>
+    <string name="accessibility_quick_settings_dnd_changed_off">Mode ne pas déranger est désactivé.</string>
+    <string name="accessibility_quick_settings_dnd_changed_on">Mode ne pas déranger est activé.</string>
+    <string name="accessibility_quick_settings_dnd_none_on">Mode ne pas déranger activé, silence total.</string>
+    <string name="accessibility_quick_settings_dnd_off">Mode ne pas déranger désactivé.</string>
+    <string name="accessibility_quick_settings_dnd_priority_on">Mode ne pas déranger activé, priorité uniquement.</string>
     <string name="accessibility_quick_settings_edit">"Éditer l'ordre des paramètres."</string>
     <string name="accessibility_quick_settings_expand">Ouvrir les paramètres rapides.</string>
     <string name="accessibility_quick_settings_flashlight_changed_off">Flash désactivé.</string>
@@ -202,21 +202,20 @@
     <string name="accessibility_quick_settings_location_on">Rapport de localisation activé.</string>
     <string name="accessibility_quick_settings_mobile">Mobile %1$s. %2$s. %3$s.</string>
     <string name="accessibility_quick_settings_more_time">Plus de temps.</string>
-    <string name="accessibility_quick_settings_no_internet">"Pas d'Internet."</string>
+    <string name="accessibility_quick_settings_no_internet">"Pas d'internet."</string>
     <string name="accessibility_quick_settings_open_details">Ouvrir les détails.</string>
     <string name="accessibility_quick_settings_open_settings">Ouvrir les paramètres de %s.</string>
-    <string name="accessibility_quick_settings_page">Page%1$d sur %2$d</string>
+    <string name="accessibility_quick_settings_page">Page %1$d sur %2$d</string>
     <string name="accessibility_quick_settings_rotation">"Rotation automatique de l'écran"</string>
     <string name="accessibility_quick_settings_rotation_value">%s mode</string>
     <string name="accessibility_quick_settings_settings">Ouvrir les paramètres.</string>
     <string name="accessibility_quick_settings_user">Connecté en tant que %s</string>
-    <string name="accessibility_quick_settings_wifi">%1$s .</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi désactivé.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi activé.</string>
-    <string name="accessibility_quick_settings_work_mode_changed_off">Mode Travail désactivé.</string>
-    <string name="accessibility_quick_settings_work_mode_changed_on">Mode Travail a été activé.</string>
-    <string name="accessibility_quick_settings_work_mode_off">Mode Travail désactivé.</string>
-    <string name="accessibility_quick_settings_work_mode_on">Mode Travail activé.</string>
+    <string name="accessibility_quick_settings_work_mode_changed_off">Mode travail désactivé.</string>
+    <string name="accessibility_quick_settings_work_mode_changed_on">Mode travail a été activé.</string>
+    <string name="accessibility_quick_settings_work_mode_off">Mode travail désactivé.</string>
+    <string name="accessibility_quick_settings_work_mode_on">Mode travail activé.</string>
     <string name="accessibility_recent">Description</string>
     <string name="accessibility_recent_task_exit">Fermés récemments</string>
     <string name="accessibility_recent_task_locked">Verrouillé, balayer vers le bas pour déverrouiller.</string>
@@ -302,7 +301,7 @@
     <string name="aspect_cancel">Annuler</string>
     <string name="aspect_message">Cette application sera lancée à nouveau en mode plein écran. Si vous rencontrez des problèmes, vous pouvez désactiver le mode plein écran pour cette application dans les paramètres > Affichage plein écran > Mode plein écran.</string>
     <string name="aspect_ok">OK </string>
-    <string name="aspect_title">Mode Plein écran</string>
+    <string name="aspect_title">Mode plein écran</string>
     <string name="audio_effect_custom">Configurer</string>
     <string name="audio_effect_info">"Optimiser l'audio"</string>
     <string name="audio_effect_settings">"Choisir le type d'écouteurs"</string>
@@ -414,13 +413,13 @@
  Bits par échantillon"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Mode channel bluetooth Audio</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sélectionner Bluetooth Audio Codec:
- Channel Mode"</string>
+ Mode de canal"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Qualité de lecture</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sélectionner Bluetooth Audio LDAC Codec:
  Qualité de lecture"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillon d'audio bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sélectionner Bluetooth Audio Coded
- Echantillon"</string>
+ Échantillon"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Codec audio Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Sélectionner un Codec audio Bluetooth</string>
@@ -774,7 +773,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="hdcp_checking_dialog_title">Définir le comportement de vérification HDCP</string>
     <string name="hdcp_checking_title">Vérification HDCP</string>
     <string name="headset">Casque</string>
-    <string name="help_feedback_label">Aide &amp; commentaires</string>
+    <string name="help_feedback_label">Aide et commentaires</string>
     <string name="hidden_notifications_cancel">Non merci</string>
     <string name="hidden_notifications_setup">Configurer</string>
     <string name="hidden_notifications_text">Voyez-les avant de les déverrouiller</string>
@@ -785,13 +784,13 @@ Une fois le téléphone refroidi, il fonctionnera normalement."</string>
     <string name="high_temp_notif_message">Certaines fonctionnalités sont restreintes lorsque le téléphone refroidit</string>
     <string name="high_temp_title">Le téléphone commence à chauffer</string>
     <string name="home">"Paramètres de l'écran d'accueil"</string>
-    <string name="how_to_back_home">"Aller à l'Écran d'accueil"</string>
+    <string name="how_to_back_home">"Aller à l'écran d'accueil"</string>
     <string name="how_to_switch_recents">Ouvrir Récents</string>
     <string name="how_to_use_drawer">Comment ouvrir le menu latéral ?</string>
     <string name="how_to_use_drawer_summary">"Balayez vers la droite dans la partie supérieure de l'écran"</string>
     <string name="how_to_use_fsg">Vous pouvez effectuer ces actions en utilisant des gestes:</string>
     <string name="ime_security_warning">%1$s peut enregistrer tout ce que vous tapez, y compris les mots de passe, numéros de carte de crédit et autres données personnelles.</string>
-    <string name="immediately_destroy_activities">Ne pas’ conserver les activités</string>
+    <string name="immediately_destroy_activities">Ne pas conserver les activités</string>
     <string name="immediately_destroy_activities_summary">"Terminer toute activité aussitôt que l'utilisateur la quitte"</string>
     <string name="important_desc">Toutes les notifications importantes appaîtront sur le panneau de notification.</string>
     <string name="ims_reg_status_not_registered">Non enregisté</string>
@@ -1018,7 +1017,7 @@ dd MMMM"</string>
     <string name="lock_screen_magazine_default_content">Portion quotidienne de nouvelles images</string>
     <string name="lock_screen_magazine_default_title">"Fond d'écran Carrousel"</string>
     <string name="lock_screen_magazine_global_button_text">Plus</string>
-    <string name="lock_screen_magazine_label">Open Wallpaper Carousel</string>
+    <string name="lock_screen_magazine_label">"Ouvrir fond d'écran carousel"</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Plus</string>
     <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Entrer</string>
     <string name="lock_screen_no_sim_card_emergency_only">"Appel d'urgence uniquement"</string>
@@ -1086,9 +1085,9 @@ une capture d'écran de défilement"</string>
     <string name="miui_toast_zen_to_dnd">Les sons sont réduits au silence et les vibrations sont coupées</string>
     <string name="miui_toast_zen_to_standard">Sonneries pour les appels et les notifications réduites au silence</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Les sonneries, ainsi que les notifications et les sons médiatiques, seront silencieux.</string>
-    <string name="mobile_data">Données Mobiles</string>
+    <string name="mobile_data">Données cellulaires</string>
     <string name="mobile_data_always_on">Données cellulaires toujours actives</string>
-    <string name="mobile_data_always_on_summary">Toujours garder les données mobiles actives, même lorsque le Wi‑Fi est actif (pour un changement rapide de réseau).</string>
+    <string name="mobile_data_always_on_summary">Toujours garder les données cellulaires actives, même lorsque le Wi-Fi est actif (pour un changement rapide de réseau).</string>
     <string name="mock_location_app">Sélectionner une application de localisation fictive</string>
     <string name="mock_location_app_not_set">Aucune application de localisation fictive définie</string>
     <string name="mock_location_app_set">"Simulation de l'appli de localisation: %1$s"</string>
@@ -1178,7 +1177,6 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_default_channel_desc">"Cette application n'a pas de catégorie de notifications"</string>
     <string name="notification_done">Terminé</string>
     <string name="notification_group_collapse_button_text">Plier</string>
-    <string name="notification_group_overflow_indicator">+%s</string>
     <string name="notification_header_default_channel">Notifications</string>
     <string name="notification_header_title">Notifications</string>
     <string name="notification_hidden_by_policy_text">Contenus masqués</string>
@@ -1216,7 +1214,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="notification_otg_unknow_in">Périphérique OTG connecté</string>
     <string name="notification_otg_unknow_out">Périphérique OTG déconnecté</string>
     <string name="notification_tap_again">Appuyer encore pour ouvrir</string>
-    <string name="notification_template_text">" a une notification. Appuyez pour la voir."</string>
+    <string name="notification_template_text">" à une notification. Appuyez pour afficher."</string>
     <string name="oem_unlock_enable">Déverrouillage OEM</string>
     <string name="oem_unlock_enable_summary">Autoriser le chargeur de démarrage à déverrouiller</string>
     <string name="okay">OK </string>
@@ -1346,7 +1344,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_cellular_detail_data_warning">%s avertissement</string>
     <string name="quick_settings_cellular_detail_over_limit">Limite dépassée</string>
     <string name="quick_settings_cellular_detail_remaining_data">Données restantes</string>
-    <string name="quick_settings_cellular_detail_title">Données Mobiles</string>
+    <string name="quick_settings_cellular_detail_title">Données cellulaires</string>
     <string name="quick_settings_color_space_label">Mode de correction des couleurs</string>
     <string name="quick_settings_connect_success">Connecté</string>
     <string name="quick_settings_connected">Connecté</string>
@@ -1424,13 +1422,13 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_wifi_nearby">Sélectionner un réseau à proximité</string>
     <string name="quick_settings_wifi_no_network">Aucun réseau</string>
     <string name="quick_settings_wifi_not_connected">Non connecté</string>
-    <string name="quick_settings_wifi_off_label">Le Wi-Fi est désactivé</string>
-    <string name="quick_settings_wifi_on_label">Le Wi-Fi est activé</string>
-    <string name="quick_settings_work_mode_label">Mode Travail</string>
-    <string name="recent_cannot_dock">"Impossible de diviser l'écran dans le second espace"</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi est désactivé</string>
+    <string name="quick_settings_wifi_on_label">Wi-Fi est activé</string>
+    <string name="quick_settings_work_mode_label">Mode travail</string>
+    <string name="recent_cannot_dock">"Impossible de diviser l'écran dans le deuxième espace"</string>
     <string name="recent_dock_tip">Appuyez pour sélectionner les applications</string>
     <string name="recent_menu_item_info">Infos</string>
-    <string name="recent_menu_item_lock">Lock</string>
+    <string name="recent_menu_item_lock">Verrou</string>
     <string name="recent_menu_item_multi_window">Diviser</string>
     <string name="recent_menu_item_unlock">Déverrouiller</string>
     <string name="recent_task_app_info_text">Info</string>
@@ -1463,7 +1461,6 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="recents_title_garbage_deepclean">Nettoyage en profondeur</string>
     <string name="recents_title_market">Trouver des applications</string>
     <string name="recents_title_security_scan">Analyse de sécurité</string>
-    <string name="regrettable_lack_of_easter_egg">¯\\_(ツ)_/¯</string>
     <string name="reject_call">"Rejeter l'appel"</string>
     <string name="remaining_length_format">%1$s restant</string>
     <string name="remove_from_settings">Supprimer des paramètres</string>
@@ -1563,7 +1560,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="snooze_undo">ANNULER</string>
     <string name="snoozed_for_time">Répété pendant %1$s</string>
     <string name="sos_status_bar_summary">Appuyez pour quitter</string>
-    <string name="sos_status_bar_title">SOS</string>
+    <string name="sos_status_bar_title">S.O.S</string>
     <string name="speed_bump_explanation">Notifications moins urgentes ci-dessous</string>
     <string name="speed_label_fast">Rapide</string>
     <string name="speed_label_medium">Moyenne</string>
@@ -1607,7 +1604,6 @@ Glissez vers le bas pour verrouiller"</string>
     <string name="status_bar_recent_guide_top">Glissez vers le haut pour fermer</string>
     <string name="status_bar_recent_inspect_item_title">"Infos sur l'application"</string>
     <string name="status_bar_recent_memory_info1">%1$so sur %2$so disponibles</string>
-    <string name="status_bar_recent_memory_info2" />
     <string name="status_bar_recent_remove_item_title">Retirer de la liste</string>
     <string name="status_bar_recording_back">"Retourner sur l'enregistreur"</string>
     <string name="status_bar_recording_pause">Enregistreur en pause</string>
@@ -1698,7 +1694,7 @@ Glissez vers le bas pour verrouiller"</string>
     <string name="switch_system_user">Retour au Premier espace</string>
     <string name="system_ui_tuner">"Optimiseur de l'interface utilisateur du système"</string>
     <string name="task_access_locked_app_msg">"Le verrouillage d'application a été activé"</string>
-    <string name="tether_settings_title_all">"Partage de connexion &amp; point d'accès mobile"</string>
+    <string name="tether_settings_title_all">"Partage de connexion et point d'accès mobile"</string>
     <string name="tether_settings_title_bluetooth">Partage de connexion via bluetooth</string>
     <string name="tether_settings_title_usb">Partage de connexion via USB</string>
     <string name="tether_settings_title_usb_bluetooth">Partage de connexion</string>
@@ -1715,7 +1711,7 @@ Glissez vers le bas pour verrouiller"</string>
     <string name="time_unit_just_now">"À l'instant"</string>
     <string name="title_convert_fbe">Conversion en fichiers basés sur le chiffrement</string>
     <string name="title_usb_accessory">Accessoire USB</string>
-    <string name="torch_activity_hint">"Maintenez [icon] pour activer la torche à l'écran de verrouillage"</string>
+    <string name="torch_activity_hint">"Maintenez [icône] pour activer la torche à l'écran de verrouillage"</string>
     <string name="torch_activity_name">Torche</string>
     <string name="torch_closed">Torche éteinte</string>
     <string name="torch_high_temperature_warning">"Votre appareil est en surchauffe. Impossible d'utiliser la torche maintenant."</string>
