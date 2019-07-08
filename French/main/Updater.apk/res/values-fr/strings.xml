@@ -50,7 +50,7 @@ Les mises à jour ne sont pas disponibles pour vous !"</string>
     <string name="notif_new_summary">Appuyez pour plus infos</string>
     <string name="notif_new_title">Nouvelle version disponible !</string>
     <string name="notifications_switch">Afficher les notifications</string>
-    <string name="permdesc_cache_filesystem">"Permet à l'application d'écrire des fichiers sur /cache."</string>
+    <string name="permdesc_cache_filesystem">"Permet à l'application d'écrire des fichiers sur le /cache."</string>
     <string name="permdesc_reboot">"Permet à l'application de redémarrer l'appareil."</string>
     <string name="permlab_cache_filesystem">Accès au cache</string>
     <string name="permlab_reboot">"Redémarrer l'accès"</string>
@@ -63,5 +63,5 @@ Les mises à jour ne sont pas disponibles pour vous !"</string>
     <string name="stable">stable</string>
     <string name="version">Actuellement installé:</string>
     <string name="weekly">hebdomadaire</string>
-    <string name="wifi_recommended">Pas de connexion Wi-Fi pour commencer le téléchargement en toute sécurité !</string>
+    <string name="wifi_recommended">Aucune connexion Wi-Fi pour commencer le téléchargement en toute sécurité !</string>
 </resources>

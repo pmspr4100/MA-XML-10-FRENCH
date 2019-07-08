@@ -17,13 +17,13 @@
     <string name="abc_shareactionprovider_share_with">Partager avec</string>
     <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
     <string name="abc_toolbar_collapse_description">Réduire</string>
-    <string name="accepted_tick_for_order_exchange">accepted tick for order exchange</string>
-    <string name="add">Add</string>
+    <string name="accepted_tick_for_order_exchange">ticket accepté pour échange de commande</string>
+    <string name="add">Ajouter</string>
     <string name="app_name">Mi Recycle</string>
-    <string name="bank_name">Bank name</string>
-    <string name="blink_dialog_msg">Did you see any dead spot or pixel line on the screen?</string>
+    <string name="bank_name">Nom de la banque</string>
+    <string name="blink_dialog_msg">"Avez-vous vu un point mort ou une ligne de pixels sur l'écran ?"</string>
     <string name="btn_check_back">Retour</string>
-    <string name="btn_text_evaluate_again">Evaluate Again</string>
+    <string name="btn_text_evaluate_again">Évaluer à nouveau</string>
     <string name="btn_text_otp_on_call">OTP on Call</string>
     <string name="btn_text_resend_otp">Resend OTP</string>
     <string name="btn_text_retry">Retry</string>
@@ -32,10 +32,10 @@
     <string name="buy_claim_end">"
 of Mi Protect"</string>
     <string name="buy_claim_ps">For More detail, please read the </string>
-    <string name="buy_claim_terms">Terms &amp; Conditions*</string>
-    <string name="buy_confirm">AGREE &amp; BUY PROTECTION</string>
+    <string name="buy_claim_terms">Terms et Conditions*</string>
+    <string name="buy_confirm">ACCEPTER et ACHETER LA PROTECTION</string>
     <string name="buy_insurance_desc">Powered by OneAssist</string>
-    <string name="buy_privacy_agree">Continue</string>
+    <string name="buy_privacy_agree">Continuer</string>
     <string name="buy_privacy_title">Disclaimer</string>
     <string name="buy_recycle_desc">Powered by Cashify</string>
     <string name="buy_summary_five">Upto 1GB with docusafe</string>
@@ -55,7 +55,7 @@ accidental damage to your smartphone"</string>
     <string name="cd_dead_pixel_test_image">Dead pixel test image</string>
     <string name="cd_screen_touch_test_image">screen touch test image</string>
     <string name="cd_volume_test_image">volume side button image of phone</string>
-    <string name="city">City</string>
+    <string name="city">Ville</string>
     <string name="comment_leave_us_a_comment">leave us a comment</string>
     <string name="confirm_account_no">Confirm Account No.</string>
     <string name="cs_buy_privacy_content">Xiaomi will send Cashify activation time of your device to secure you a better offer. The service is provided by Cashify. All related liability shall be borne by Cashify. Contact Cashify if you have any questions.</string>
@@ -92,14 +92,14 @@ vice center"</string>
 insurance Partner"</string>
     <string name="done_title_two">"We verify your documents &amp; pickup your 
 Damaged Device from your doorstep"</string>
-    <string name="err_msg_invalid_mobile_no">Invalid mobile number</string>
-    <string name="error_msg_empty_coupon">Please enter coupon code</string>
+    <string name="err_msg_invalid_mobile_no">Numéro de portable invalide</string>
+    <string name="error_msg_empty_coupon">"S'il vous plaît entrer le code promo"</string>
     <string name="error_msg_terms_and_conditions">Error in loading Terms and Conditions</string>
     <string name="error_msg_terms_of_use">Error in loading Terms of Use</string>
     <string name="flat_house_office_no">Flat/House/Office No.</string>
     <string name="get_a_final_offer">Get a final offer</string>
     <string name="hardware_detection">Hardware Test</string>
-    <string name="hint_continue">Continue</string>
+    <string name="hint_continue">Continuer</string>
     <string name="hint_email_id">Email ID</string>
     <string name="hint_enter_otp">Enter OTP</string>
     <string name="hint_name">Nom</string>
@@ -109,13 +109,13 @@ Damaged Device from your doorstep"</string>
     <string name="hint_text_enter_your_coupon">Enter your Coupon</string>
     <string name="icon_to_select_this_date">icon to select this date</string>
     <string name="ifsc_code">IFSC code</string>
-    <string name="image_of_device">image of device</string>
+    <string name="image_of_device">"image de l'appareil"</string>
     <string name="input_card_information">Input Card Information</string>
     <string name="input_wallet_information">Input Mobile Number</string>
     <string name="instant_bank_transfer">Instant Bank Transfer</string>
-    <string name="insurance_button">Insurance</string>
+    <string name="insurance_button">Assurance</string>
     <string name="insurance_description">OneAssist insurance gives you additional repair coverage</string>
-    <string name="insurance_entrance">Protect your new phone</string>
+    <string name="insurance_entrance">Protégez votre nouveau téléphone</string>
     <string name="item_name_battery">Batterie</string>
     <string name="item_name_bluetooth">Bluetooth</string>
     <string name="item_name_frontcamera">Appareil photo avant</string>
@@ -129,10 +129,10 @@ Damaged Device from your doorstep"</string>
     <string name="item_result_refused">Refusé</string>
     <string name="item_testing_completed">terminé</string>
     <string name="label_my_order">Ma commande</string>
-    <string name="landmark">Landmark</string>
+    <string name="landmark">Point de repère</string>
     <string name="loading">Chargement…</string>
-    <string name="main_entrance">Sell your phone</string>
-    <string name="main_overall_test">START</string>
+    <string name="main_entrance">Vendez votre téléphone</string>
+    <string name="main_overall_test">DÉMARRER</string>
     <string name="msg_coupon_applied">Coupon applied successfully.</string>
     <string name="msg_empty_cancel_reason">Please select cancel reason</string>
     <string name="network_error_msg">Network error or maybe network too slow. Please try again.</string>
@@ -172,8 +172,8 @@ Please note the device prices are subject to change. Sell your phone now to avai
     <string name="show_apply">Appliquer</string>
     <string name="show_cancel">Annuler</string>
     <string name="show_change_payment_mode">Change Payment Mode</string>
-    <string name="show_contact">Contact :</string>
-    <string name="show_continue">Continue</string>
+    <string name="show_contact">"Contact: "</string>
+    <string name="show_continue">Continuer</string>
     <string name="show_continue_to_payment">Continue to receive payment methods</string>
     <string name="show_evaluate_again">Evaluate again</string>
     <string name="show_for">for</string>
@@ -213,6 +213,6 @@ Please note the device prices are subject to change. Sell your phone now to avai
     <string name="title_order_detail_page">Order Detail</string>
     <string name="title_payment_page">Pay</string>
     <string name="title_quote_page">Overall Test</string>
-    <string name="toast_not_support">It is not supported in the current region.</string>
-    <string name="touch_calibration_sub_title">Tap &amp; drag to erase</string>
+    <string name="toast_not_support">"Il n'est pas pris en charge dans la région actuelle."</string>
+    <string name="touch_calibration_sub_title">Appuyez et faites glisser pour effacer</string>
 </resources>

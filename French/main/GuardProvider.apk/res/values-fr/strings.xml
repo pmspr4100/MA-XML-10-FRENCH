@@ -24,7 +24,7 @@
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_dialog_title">"Politique de confidentialité d'Avast"</string>
     <string name="avast_dialog_header">"Cette fonctionnalité crypte et envoi l'identifiant de votre appareil aux serveurs d'Avast (%s)."</string>
-    <string name="avast_dialog_policy">voir la politique de confidentialité</string>
+    <string name="avast_dialog_policy">afficher la politique de confidentialité</string>
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">Le virus est un logiciel de publicité. Il affiche automatiquement des publicités.</string>
     <string name="avast_virus_type_cryportor_description">"Le virus est un cryptor. C'est un logiciel malveillant qui est transmis et se réplique dans l'espace de stockage."</string>
@@ -38,6 +38,6 @@
     <string name="avast_virus_type_suspicious_description">"Virus de type suspect. Le système d'antivirus tente de le classifier."</string>
     <string name="avast_virus_type_tool_description">Le virus est un outil potentiellement dangereux infecté par des moyens similaires à PUP.</string>
     <string name="avast_virus_type_trjan_description">"Le virus est un cheval de Troie. C'est un malware conçu pour créer un accès à distance à l'appareil de l'utilisateur. Les chevaux de Troie normalement n'ont pas la capacité de se reproduire comme des virus. Cependant, ils peuvent installer d'autres logiciels malveillants sur votre appareil, voler diverses données, ou d'autres activités malveillantes."</string>
-    <string name="avast_virus_type_unknown_description">"Type inconnu d'infection."</string>
+    <string name="avast_virus_type_unknown_description">"Type d'infection inconnu."</string>
     <string name="avast_virus_type_worm_description">"Le virus est un ver. C'est un programme malveillant autonome qui se reproduit dans le but de se propager à d'autres appareils. Il prend avantage des fichiers ou des caractéristiques de transport d'informations du système (comme le réseau) et peut se déplacer sans aucune action humaine. Les vers provoquent toujours des dommages au réseau."</string>
 </resources>
