@@ -3598,8 +3598,8 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="notes_privacy_password_role_instruction">Vos notes privées seront stockées ici.</string>
     <string name="notifi_channels">Catégories de notifications</string>
     <string name="notifi_channels_other">Autre</string>
-    <string name="notifi_importance_default">Faites du bruit</string>
-    <string name="notifi_importance_high">"Faites du son et sautez à l'écran"</string>
+    <string name="notifi_importance_default">Jouer un son</string>
+    <string name="notifi_importance_high">"Jouer un son et afficher sur l'écran"</string>
     <string name="notifi_importance_low">Afficher en silence</string>
     <string name="notifi_importance_min">"Afficher en silence et minimiser"</string>
     <string name="notifi_importance_none">Ne jamais afficher les notifications</string>
