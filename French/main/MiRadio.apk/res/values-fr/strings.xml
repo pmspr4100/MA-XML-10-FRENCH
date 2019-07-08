@@ -2,13 +2,13 @@
 <resources>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_menu_overflow_description">Plus options</string>
     <string name="abc_action_mode_done">Terminé</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Choisissez une application</string>
     <string name="abc_capital_off">Désactivé</string>
     <string name="abc_capital_on">Activé</string>
-    <string name="abc_search_hint">Search…</string>
+    <string name="abc_search_hint">Recherche…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_query">Requête de recherche</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -682,12 +682,12 @@
     <string name="pref_title_enable_max_bytes_popup">Show data usage prompt</string>
     <string name="preferences_title">Paramètres</string>
     <string name="preset_music_playlist">Mi Music playlist</string>
-    <string name="presonal_center">Account settings</string>
-    <string name="privacy_category">Privacy details</string>
-    <string name="privacy_notif_content">Tap to view details.</string>
+    <string name="presonal_center">Paramètres du compte</string>
+    <string name="privacy_category">Détails de confidentialité</string>
+    <string name="privacy_notif_content">Appuyez pour afficher les détails.</string>
     <string name="privacy_notif_title">Xunlei Download Accelerator is on</string>
-    <string name="privacy_preference">Privacy policy</string>
-    <string name="privacy_tip_cancel">Cancel</string>
+    <string name="privacy_preference">Politique de confidentialité</string>
+    <string name="privacy_tip_cancel">Annuler</string>
     <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will be uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
     <string name="privacy_tip_ok">OK</string>
     <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
@@ -699,9 +699,8 @@
     <string name="psw_sign_in">Sign in using password</string>
     <string name="pulluprefreshrecyclerview_loading_error">"Couldn't load"</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Loaded successfully</string>
-    <string name="pulluprefreshrecyclerview_loading_running">Loading…</string>
+    <string name="pulluprefreshrecyclerview_loading_running">Chargement…</string>
     <string name="push_message_switch">Push message</string>
-    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="radio_cancel_subscribe">Cancel successfuly</string>
     <string name="radio_not_support">Radio not support</string>
     <string name="radio_subscribe_success">Favorite successfuly</string>
