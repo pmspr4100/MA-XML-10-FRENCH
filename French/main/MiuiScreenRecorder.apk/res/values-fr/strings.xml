@@ -54,7 +54,7 @@
     <string name="operation_delete">Supprimer</string>
     <string name="operation_send">Envoyer</string>
     <string name="permission_intro_microphone">Pour enregistrer le son lorsque la source sonore est réglée sur le microphone</string>
-    <string name="permission_intro_storage">Pour sauvegarder des enregistrements décran</string>
+    <string name="permission_intro_storage">"Pour sauvegarder des enregistrements d'écran"</string>
     <string name="quit_recording">"Quitter l'enregistreur d'écran"</string>
     <string name="recording_failure">"Impossible d'enregistrer, recommencez"</string>
     <string name="recording_max_size">"L'enregistrement a été suspendu et enregistré car le fichier vidéo a atteint sa limite de taille. Commencez l'enregistrement où il a été interrompu si vous ne l'avez pas encore terminé."</string>

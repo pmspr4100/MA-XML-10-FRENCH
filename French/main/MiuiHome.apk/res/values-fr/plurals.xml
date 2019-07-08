@@ -9,8 +9,8 @@
         <item quantity="one">%2$s non lu de %1$s</item>
     </plurals>
     <plurals name="delete_wallpapers_message">
-        <item quantity="other">Supprimer %1$d fonds décran ?</item>
-        <item quantity="one">Supprimer %1$d fond décran ?</item>
+        <item quantity="other">"Supprimer %1$d fonds d'écran ?"</item>
+        <item quantity="one">"Supprimer %1$d fond d'écran ?"</item>
     </plurals>
     <plurals name="editing_mode_title">
         <item quantity="other">%1$d éléments sélectionnés</item>

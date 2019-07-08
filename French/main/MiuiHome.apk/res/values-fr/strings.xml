@@ -55,7 +55,7 @@
     <string name="app_category_sport">Sports</string>
     <string name="app_category_tools">Outils</string>
     <string name="app_category_travel">Voyage</string>
-    <string name="app_category_vr">RV</string>
+    <string name="app_category_vr">VR</string>
     <string name="application_name">"Lanceur d'applications"</string>
     <string name="apply">Définir</string>
     <string name="apply_action">Définir</string>
@@ -69,7 +69,7 @@
     <string name="aqi_quality_index_moderate">Modérée</string>
     <string name="aqi_quality_index_unhealthy">Malsain</string>
     <string name="backup_fail">Impossible de sauvegarder le lanceur</string>
-    <string name="bad_wallpaper_source_prompt">Impossible de charger le fond décran</string>
+    <string name="bad_wallpaper_source_prompt">"Impossible de charger le fond d'écran"</string>
     <string name="buffering">Mémoire tampon…</string>
     <string name="cancel_action">Annuler</string>
     <string name="cancel_btn_label">Annuler</string>
@@ -79,7 +79,7 @@
     <string name="cant_remove_system_app">Impossible de supprimer une application système</string>
     <string name="change_wallpaper">Changer</string>
     <string name="choose_wallpaper">"Choisir un fond d'écran"</string>
-    <string name="chooser_wallpaper">Choisir un nouveau fond décran</string>
+    <string name="chooser_wallpaper">"Choisir un nouveau fond d'écran"</string>
     <string name="cloud_app_restore_title">En attente</string>
     <string name="configure_wallpaper">Paramètres</string>
     <string name="confirm_btn_label">OK</string>
@@ -102,7 +102,7 @@
     <string name="default_folder_title_services">Services</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Outils</string>
-    <string name="default_screen_preview_title">Définir lécran par défaut</string>
+    <string name="default_screen_preview_title">"Définir l'écran par défaut"</string>
     <string name="delete">Supprimer</string>
     <string name="delete_screen">Supprimer un écran</string>
     <string name="delete_wallpaper_message">"Supprimer %1$d fond d'écran ?"</string>
@@ -172,7 +172,7 @@
     <string name="gadget_power_clear_button_label">Nettoyage en profondeur</string>
     <string name="gadget_search_label">Recherche</string>
     <string name="gadget_weather_app_not_installed">"Appuyez pour télécharger l'application Météo de MIUI"</string>
-    <string name="gadget_weather_aqi_title">"Qualité de l'air :"</string>
+    <string name="gadget_weather_aqi_title">"Qualité de l'air: "</string>
     <string name="gadget_weather_download_message">"Vous devez télécharger le contenu de l'application: %1$s (%2$s). Redémarrez l'application après le téléchargement."</string>
     <string name="gadget_weather_download_start">Télécharger</string>
     <string name="gadget_weather_download_title">Télécharger</string>
@@ -204,10 +204,10 @@
     <string name="image_too_small_message">"L'image originale n'est pas assez grande."</string>
     <string name="install">Installer</string>
     <string name="invalid_contact_shortcut">Contact non valide</string>
-    <string name="is_setting_wallpaper_message">Définition comme fond décran…</string>
+    <string name="is_setting_wallpaper_message">"Définir comme fond d'écran…"</string>
     <string name="is_system_wallpaper_message">Impossible de supprimer les ressources système</string>
     <string name="launcher_not_exist">"Une erreur s'est produite, retournez à l'écran d'accueil et réessayez."</string>
-    <string name="launcher_title">"Écran d'accueil et Récents"</string>
+    <string name="launcher_title">"Écran d'accueil et récents"</string>
     <string name="like">Ajouter aux favoris</string>
     <string name="liked">Ajouté aux favoris</string>
     <string name="loading_desktop">Chargement…</string>
@@ -239,7 +239,7 @@
     <string name="menu_settings">Paramètres</string>
     <string name="menu_sort">Trier les applications</string>
     <string name="menu_trans_effect">Effets de transition</string>
-    <string name="menu_wallpaper">Fond décran</string>
+    <string name="menu_wallpaper">"Fond d'écran"</string>
     <string name="menu_workspace_preview">"Aperçus des écrans d'accueil"</string>
     <string name="mi_wallpaper">Thèmes MIUI</string>
     <string name="miui_screen_config_title">"Paramètres de l'écran d'accueil"</string>
@@ -254,11 +254,11 @@
     <string name="online_wallpaper">En ligne</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Annuler</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Désactiver</string>
-    <string name="open_personal_assistant_dialog_desc">"Vous ne pourrez plus utiliser Coffre d'applications et recevoir ses mises à jour. Désactiver maintenant ?"</string>
+    <string name="open_personal_assistant_dialog_desc">"Vous ne pourrez plus utiliser coffre des applications et recevoir ses mises à jour. Désactiver maintenant ?"</string>
     <string name="open_personal_assistant_dialog_desc_international">"Vous ne pourrez pas utiliser les cartes du coffre d'applications (Stocks, Raccourcis, etc.) et recevoir des mises à jour après avoir désactivé cette fonctionnalité."</string>
     <string name="open_personal_assistant_dialog_title">"Désactiver le coffre des applications</string>
     <string name="open_personal_assistant_title">Activer le coffre des applications</string>
-    <string name="out_of_space">Plus despace sur ce bureau</string>
+    <string name="out_of_space">"Plus d'espace sur ce bureau"</string>
     <string name="permdesc_install_shortcut">"Permet à une application d'ajouter des raccourcis sans l'intervention de l'utilisateur."</string>
     <string name="permdesc_install_widget">"Permet à une application d'ajouter des widgets sans votre intervention."</string>
     <string name="permdesc_read_settings">"Autorise une application à lire les paramètres et les raccourcis de l'écran d'accueil."</string>
@@ -284,7 +284,7 @@
     <string name="pref_render_in_truecolor_summary">"La désactivation de cette fonction améliore les performances d'affichage."</string>
     <string name="pref_render_in_truecolor_title">Graphiques de haute qualité</string>
     <string name="pref_screen_transformation_type_title">Effet de transition entre écrans</string>
-    <string name="pref_wallpaper_scroll_type_title">Cadrage du fond décran</string>
+    <string name="pref_wallpaper_scroll_type_title">"Cadrage du fond d'écran"</string>
     <string name="preferences_general_title">Paramètres supplémentaires</string>
     <string name="preferences_title">Paramètres du lanceur</string>
     <string name="preferred_app_settings_not_selected">Non sélectionné</string>
@@ -363,7 +363,7 @@
     <string name="wallpaper_auto_change_title">Écran de verrouillage</string>
     <string name="wallpaper_failed_message">"Impossible de définir le fond d'écran"</string>
     <string name="wallpaper_scaling_message">Ajuster à taille fixe</string>
-    <string name="wallpaper_scroll_type_tips">Défiler les fonds décran</string>
+    <string name="wallpaper_scroll_type_tips">"Défiler les fonds d'écran"</string>
     <string name="wallpaper_settings">"Fond d'écran"</string>
     <string name="wallpaper_success_message">Appliqué avec succès</string>
     <string name="widget_favorite_contacts_edit">Éditeur</string>
