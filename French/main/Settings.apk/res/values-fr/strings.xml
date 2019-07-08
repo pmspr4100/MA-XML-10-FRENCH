@@ -321,7 +321,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="animator_duration_scale_title">"Échelle de durée de l'animateur"</string>
     <string name="another_migration_already_in_progress">Une autre migration est déjà en cours.</string>
     <string name="anti_spam">Antispam</string>
-    <string name="aod_and_lock_screen_settings_title">Écran de verrouillage</string>
+    <string name="aod_and_lock_screen_settings_title">Verrouillage</string>
     <string name="aod_clock_style_title">"Style d'horloge"</string>
     <string name="aod_settings_category_name">Affichage ambiant</string>
     <string name="aod_settings_title">Affichage ambiant</string>
@@ -2433,7 +2433,8 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gesture_setting_off">Désactivé</string>
     <string name="gesture_setting_on">Activé</string>
     <string name="gesture_w">Modèle W</string>
-    <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller l'écran"</string>
+    <string name="gesture_wakeup_summary">Cette fonctionnalité fonctionne lorsque le thème par défaut ou classique est appliqué</string>
+    <string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller ou éteindre l'écran"</string>
     <string name="gesture_z">Modèle Z</string>
     <string name="giga_hertz">" GHz"</string>
     <string name="gigabyteShort">Go</string>
@@ -3597,12 +3598,12 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="notes_privacy_password_role_instruction">Vos notes privées seront stockées ici.</string>
     <string name="notifi_channels">Catégories de notifications</string>
     <string name="notifi_channels_other">Autre</string>
-    <string name="notifi_importance_default">"Jouer le son et afficher sur l'écran de verrouillage"</string>
-    <string name="notifi_importance_high">"Jouer le son, afficher sur l'écran de verrouillage, autoriser l'utilisation des options plein écran"</string>
-    <string name="notifi_importance_low">Ne pas jouer le son</string>
-    <string name="notifi_importance_min">"Ne pas afficher sur l'écran de verrouillage, ne pas jouer le son"</string>
-    <string name="notifi_importance_none">Désactivé</string>
-    <string name="notifi_importance_unspecified">"Laissez l'application décider"</string>
+    <string name="notifi_importance_default">Faites du bruit</string>
+    <string name="notifi_importance_high">"Faites du son et sautez à l'écran"</string>
+    <string name="notifi_importance_low">Afficher en silence</string>
+    <string name="notifi_importance_min">"Afficher en silence et minimiser"</string>
+    <string name="notifi_importance_none">Ne jamais afficher les notifications</string>
+    <string name="notifi_importance_unspecified">"Autoriser le son"</string>
     <string name="notifi_no_channels">"Cette application n'a pas encore reçu de notification"</string>
     <string name="notification_app_settings_button">Paramètres de notification</string>
     <string name="notification_badge_title">Autoriser la pastille de notification</string>

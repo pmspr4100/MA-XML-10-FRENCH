@@ -446,10 +446,12 @@ Assurez-vous que le nom de votre société est correct. Lisez et acceptez les po
     <string name="install_error">"Impossible d'installer, réessayez."</string>
     <string name="ent_install_dialog_content">Installer les applications et redémarrez votre appareil maintenant ?</string>
     <string name="ent_disallow_running">"L'application est interdite d'exécution"</string>
-    <string name="greenguard_child_des_title">Jai besoin de laide de mes amis et ma famille</string>
-    <string name="greenguard_child_des">Utilisez notre application pour rester connecté</string>
-    <string name="greenguard_parent_des_title">Jai besoin daider mes amis et ma famille</string>
-    <string name="greenguard_parent_des">Téléchargez notre application et ajoutez les appareils dautres personnes</string>
+    <string name="greenguard_child_des">Gérez les appareils de vos amis et de votre famille</string>
+	<string name="greenguard_child_des_title">Scannez le QR code pour ajouter un appareil</string>
+	<string name="greenguard_functional_description">"Gérer les appareils à distance, afficher les informations de localisation,
+contrôler les applications installées et restreindre l'utilisation"</string>
+    <string name="greenguard_parent_des">Gérez les appareils de vos amis et de votre famille</string>
+    <string name="greenguard_parent_des_title">Utilisez Kite Guard pour ajouter des appareils</string>
     <string name="cta_declaration_title">"Conditions générales d'utilisation"</string>
     <string name="cta_declaration_message_format" formatted="false">Vous devez lire et accepter notre &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> avant dutiliser le mode Entreprise. Votre appareil doit se connecter à Internet pour activer le mode Entreprise. Acceptez-vous ?</string>
     <string name="cta_declaration_agree_and_continue">Accepter</string>

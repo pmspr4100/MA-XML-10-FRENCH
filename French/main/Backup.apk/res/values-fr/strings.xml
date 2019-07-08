@@ -560,9 +560,8 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
     <string name="hsa_sending">Envoi…</string>
     <string name="hsa_send_failed">"Impossible de désactiver Localiser l'appareil. Patientez une minute ou deux et réessayez."</string>
     <string name="hsa_tip_title">Astuces:</string>
-    <string name="hsa_tip_message">"1. Un message avec le code de vérification a été envoyé à l'appareil associé à votre ID Apple.
-
-2. Désactivez l'authentification à 2 facteurs si le code de vérification ne fonctionne pas."</string>
+    <string name="hsa_tip_message">"1. Si vous ne pouvez pas recevoir le code de vérification, assurez-vous que vous êtes déjà connecté à iCloud sur votre appareil Apple.
+2. Si la saisie du code de vérification ne vous aide pas, désactivez l'authentification à deux facteurs."</string>
     <string name="hsa_tip_message_with_device">"1. Un message avec le code de vérification a été envoyé à \"%s\" associé à votre ID Apple.
 
 2. Désactivez l'authentification à 2 facteurs si le code de vérification ne fonctionne pas."</string>
@@ -571,7 +570,7 @@ https://appleid.apple.com/#!&amp;page=signin pour désactiver"</string>
     <string name="hsa_verify_failed_message">"L'authentification à 2 facteurs a échoué. Vous pouvez réessayer ou désactiver l'authentification à 2 facteurs."</string>
     <string name="hsa_verify_retry">Veuillez réessayer</string>
     <string name="hsa_verify_shutdown">Désactiver</string>
-    <string name="iCloud_ID_verification_tip">"Entrez le code de vérification SMS envoyé au numéro de téléphone associé à votre identifiant Apple. Ignorer le code pop-up affiché sur l'écran de votre téléphone."</string>
+    <string name="iCloud_ID_verification_tip">"Appuyez sur \"Autoriser\" sur votre appareil Apple pour faire apparaître le code de vérification. Entrez le code de vérification ici."</string>
     <string name="import_data_from_icloud">Importer des données depuis iCloud</string>
     <string name="loading_data">Chargement des données</string>
     <string name="icloud_need_sync">"Pour importer les données depuis iOS, 

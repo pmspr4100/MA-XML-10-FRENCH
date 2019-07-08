@@ -253,6 +253,7 @@ across all your devices with Xunlei"</string>
     <string name="other">Autre</string>
     <string name="other_filter">Autre</string>
     <string name="package_filter">Packages</string>
+    <string name="path_not_available">"L'accès n'est pas disponible"</string>
     <string name="pause_download">En pause</string>
     <string name="paused">En pause</string>
     <string name="paused_by_app">En pause</string>

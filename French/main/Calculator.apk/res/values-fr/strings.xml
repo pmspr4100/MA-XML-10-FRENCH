@@ -170,6 +170,7 @@
     <string name="mortgage_item_years">Durée de prêt</string>
     <string name="mortgage_loans_amount">Montant du prêt</string>
     <string name="mortgage_provident_found_interest_rate">"Taux d'intérêt du fonds"</string>
+    <string name="mortgage_provider_east_money">Les données sont fournies par East Money</string>
     <string name="mortgage_repayment_amount">Montant du remboursement</string>
     <string name="mortgage_result">Résultats</string>
     <string name="mortgage_show_details">Afficher les détails</string>

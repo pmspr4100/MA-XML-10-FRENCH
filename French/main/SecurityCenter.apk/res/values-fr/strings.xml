@@ -170,7 +170,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="sms_filter">Filtre intelligent</string>
     <string name="sms_keywords">Liste noire des mots-clés</string>
     <string name="sms_service">Bloquer les SMS de services</string>
-    <string name="sms_stranger_block">Bloquer les SMS des personnes étranges</string>
+    <string name="sms_stranger_block">Bloqué</string>
     <string name="sms_contact_block">Bloquer les SMS des contacts</string>
     <string name="sms_delete_all_hint">Supprimer tous les messages maintenant ?</string>
     <string name="sms_malicious_url">Bloquer les SMS avec des URL malveillantes</string>
@@ -230,6 +230,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="st_antispam_mode_add_new">Ajouter des règles</string>
     <string name="st_antispam_title_whitelist">Exceptions</string>
     <string name="st_antispam_title_contactandanoy_group">Paramètres</string>
+    <string name="st_antispam_title_mms">MMS</string>
     <string name="st_antispam_title_contact_sms">SMS des contacts</string>
     <string name="st_antispam_title_contact_incoming">Appels des contacts</string>
     <string name="st_antispam_title_anoy_sms">"SMS d'inconnus"</string>
@@ -319,7 +320,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="st_share_settings">Utiliser les paramètres de la SIM 1</string>
     <string name="st_msg_settings">Liste noire des SMS</string>
     <string name="st_msg_intercept_contacts">Bloquer les SMS des contacts</string>
-    <string name="st_msg_stranger_group">Bloquer les SMS des personnes étranges</string>
+    <string name="st_msg_stranger_group">"Bloquer les messages d'étrangers"</string>
     <string name="st_msg_other_group">Autre</string>
     <string name="st_msg_keyword_group">Mots-clés</string>
     <string name="st_msg_keyword_black">Liste noire des mots-clés</string>
@@ -1039,6 +1040,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="legal_workday">Jours ouvrés</string>
     <string name="never">1 fois</string>
     <string name="power_20s_shutdown">"L'appareil va s'éteindre dans %d secondes"</string>
+    <string name="power_ambient_display">Affichage ambiant</string>
     <string name="boot_reminder">Allumer votre appareil à une heure programmée</string>
     <string name="shutdown_cancel_reminder">"Impossible d'éteindre l'appareil"</string>
     <string name="shutdown_cancel_reminder_detail">"Impossible d'éteindre l'appareil parce que vous étiez au milieu d'un appel"</string>
@@ -1108,6 +1110,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="battery_charge_full">Chargée</string>
     <string name="battery_charge_estimating">Calcul en cours</string>
     <string name="battery_charging_prompt">En charge</string>
+    <string name="battery_desc_ambient_display">"Puissance consommée par l'affichage ambiant"</string>
     <string name="deep_save_memory_clean_summary">Vider le cache lorsque vous verrouiller votre appareil pour éviter que les applicaitons déchargent la batterie</string>
     <string name="btn_text_open_now">Activer</string>
     <string name="btn_text_already_opened">Activé</string>
