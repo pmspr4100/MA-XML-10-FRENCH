@@ -236,7 +236,7 @@ et optimise vos photos en fonction des informations"</string>
     <string name="front_camera_hint_text_place">"Prendre des selfies sera plus facile
 si vous faites pivoter votre téléphone"</string>
     <string name="front_camera_hint_text_rotate">Faire pivoter votre téléphone</string>
-    <string name="hand_gesture_open_tip">Afficher votre paume à l'appareil photo pour démarrer la minuterie</string>
+    <string name="hand_gesture_open_tip">"Afficher votre paume vers l'appareil photo pour démarrer la minuterie"</string>
     <string name="hand_gesture_tip">Volet de paume</string>
     <string name="hibernate_hint">"Appuyez sur l'écran pour réveiller l'appareil photo"</string>
     <string name="hine_hht">"En basse lumière, l'appareil photo prendra plusieurs photos.
