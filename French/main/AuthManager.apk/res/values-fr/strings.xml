@@ -40,8 +40,6 @@
     <string name="HIPS_Perm_SendMMS_Desc">envoyer directement des MMS</string>
     <string name="HIPS_Perm_SendSMS">Envoyer des SMS</string>
     <string name="HIPS_Perm_SendSMS_Desc">envoyer directement des SMS</string>
-    <string name="HIPS_Perm_Contact">Modifier et supprimer des contacts</string>
-    <string name="HIPS_Perm_Contact_Desc">modifier et supprimer vos contacts</string>
     <string name="HIPS_Perm_SystemAlert">Afficher une fenêtre indépendante</string>
     <string name="HIPS_Perm_SystemAlert_Desc">afficher une fenêtre indépendante</string>
     <string name="HIPS_Perm_UDevice_ID">Partagez des informations sur les appareils avec les développeurs de jeux pour les aider à améliorer votre expérience de jeu. Accepter ?</string>
