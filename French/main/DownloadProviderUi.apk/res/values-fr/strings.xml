@@ -5,7 +5,7 @@
     <string name="DOWNLOAD_UNIT_KB">Ko</string>
     <string name="DOWNLOAD_UNIT_MB">Mo</string>
     <string name="DOWNLOAD_UNIT_TB">To</string>
-    <string name="Only_the_wifi">Only use WLAN</string>
+    <string name="Only_the_wifi">Utiliser uniquement le Wi-Fi</string>
     <string name="about">À propos</string>
     <string name="action_back">Retour</string>
     <string name="action_settings">Paramètres</string>
@@ -253,7 +253,7 @@ across all your devices with Xunlei"</string>
     <string name="other">Autre</string>
     <string name="other_filter">Autre</string>
     <string name="package_filter">Packages</string>
-    <string name="path_not_available">"L'accès n'est pas disponible"</string>
+    <string name="path_not_available">"Ce chemin n'est pas disponible"</string>
     <string name="pause_download">En pause</string>
     <string name="paused">En pause</string>
     <string name="paused_by_app">En pause</string>

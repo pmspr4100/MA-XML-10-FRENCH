@@ -2433,7 +2433,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gesture_setting_off">Désactivé</string>
     <string name="gesture_setting_on">Activé</string>
     <string name="gesture_w">Modèle W</string>
-    <string name="gesture_wakeup_summary">Cette fonctionnalité fonctionne lorsque le thème par défaut ou classique est appliqué</string>
+    <string name="gesture_wakeup_summary">"Vous pouvez appuyer deux fois pour éteindre l'écran lorsque le thème par défaut ou classique est appliqué"</string>
     <string name="gesture_z">Modèle Z</string>
     <string name="giga_hertz">" GHz"</string>
     <string name="gigabyteShort">Go</string>
@@ -3594,6 +3594,11 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="notch_force_black_desc">"Activer pour assombrir la zone autour de l'encoche"</string>
     <string name="notch_force_black_title">"Masquer l'encoche"</string>
     <string name="notch_settings">Encoche</string>
+    <string name="notch_style_mod_description">"Options d'affichage des encoches et de la barre d'état"</string>
+    <string name="notch_style_mod_title">"Masquer l'encoche"</string>
+    <string name="notch_style_show">"Ne pas masquer"</string>
+    <string name="notch_style_status_bar_inside">"Masquer sans déplacer la barre d'état"</string>
+    <string name="notch_style_status_bar_outside">"Masquer et déplacer la barre d'état"</string>
     <string name="notes_privacy_password_role_instruction">Vos notes privées seront stockées ici.</string>
     <string name="notifi_channels">Catégories de notifications</string>
     <string name="notifi_channels_other">Autre</string>
