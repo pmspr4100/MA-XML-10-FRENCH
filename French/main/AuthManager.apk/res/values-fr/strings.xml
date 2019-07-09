@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="HIPS_Action_Accept">Autoriser</string>
     <string name="HIPS_Action_Accept_Once">Accepter cette fois</string>
