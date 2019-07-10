@@ -2898,6 +2898,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lock_screen_notifications_summary_show">Afficher toutes les notifications et leurs contenus</string>
     <string name="lock_screen_notifications_summary_show_profile">Afficher tout contenu notificat. professionnelles</string>
     <string name="lock_screen_notifications_title">"Notification sur l'écran de verrouillage"</string>
+    <string name="lock_screen_settings_title">Écran de verrouillage</string>
     <string name="lock_screen_signature_summary">"Ce message s'affiche sur l'écran de verrouillage"</string>
     <string name="lock_screen_signature_title">"Informations du propriétaire sur l'écran de verrouillage"</string>
     <string name="lock_screen_tip_toast">"veuillez d'abord autoriser les paramètres de l'application de notification"</string>
@@ -3897,7 +3898,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="pointer_location_summary">Afficher les coordonnées tactiles</string>
     <string name="pointer_settings_category">Souris / Pavé tactile</string>
     <string name="pointer_speed">Vitesse du pointeur</string>
-    <string name="popup_gesture_summary">"Soulevez le téléphone et regardez l'écran pour ouvrir automatiquement l'appareil photo avant"</string>
+    <string name="popup_gesture_summary">"Retournez à l'écran d'accueil, décrochez le téléphone et regardez l'écran pour ouvrir automatiquement l'appareil photo avant."</string>
     <string name="popup_gesture_title">"Soulever pour ouvrir l'appareil photo avant"</string>
     <string name="popup_led_summary">"Afficher l'animation lorsque l'appareil photo avant apparaît et se rétracte"</string>
     <string name="popup_led_title">Effet visuel</string>
@@ -5469,7 +5470,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
 %1$s"</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font>"
 Une solution Google pour synchroniser vos données et vous permettre d'accéder à vos contacts, vos rendez-vous et plus, où que vous soyez."</string>
-    <string name="sync_settings">Synchronisation</string>
+    <string name="sync_settings">Comptes et synchronisation</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Synchronisation seulement en Wi-Fi</string>
     <string name="system">Système</string>
@@ -6774,6 +6775,8 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="xiaomi_account">Compte Mi</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_cloud_service_description">"Mi Cloud synchronisera les contacts, les photos et d'autres éléments sur vos appareils. \"Localiser l'appareil\" nécessite également que Mi Cloud fonctionne normalement."</string>
+    <string name="xiaomi_cloud_service_description_contact">contacts et</string>
+    <string name="xiaomi_cloud_service_description_format">"Mi Cloud synchronise vos %s photos, sauvegarde vos applications et vos paramètres et vous aide à trouver votre téléphone à l'aide de Trouver un appareil."</string>
     <string name="xiaomi_cloud_service_disabled">Désactivé</string>
     <string name="xiaomi_cloud_service_unknown">Inconnu</string>
     <string name="xiaomi_money_service">Mi Crédit</string>

@@ -273,7 +273,7 @@
     <string name="toast_select_white_need_remove">Choisissez les éléments à supprimer</string>
     <string name="network_not_available">Impossible de se connecter au réseau</string>
     <string name="no_network_btn">Réessayer</string>
-    <string name="notification_garbage_cleanup_summary">Taille de la corbeille atteinte %s</string>
+    <string name="notification_garbage_cleanup_summary">Effacer la corbeille (%s) pour accélérer votre appareil</string>
     <string name="notification_garbage_cleanup_title">Effacer les fichiers de la corbeille</string>
     <string name="notification_low_memory_cache_summary">"Moins de 1,5 Go d'espace de stockage disponible"</string>
     <string name="notification_low_memory_cache_title">Vider le cache</string>
