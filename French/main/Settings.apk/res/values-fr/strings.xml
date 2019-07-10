@@ -782,7 +782,7 @@ Applications:
     <string name="block_list_no_device">Aucun appareil connecté dans la liste noire</string>
     <string name="block_list_remove_dialog_content">"L'appareil \"%s\" sera en mesure de se connecter à ce point d'accès"</string>
     <string name="block_list_remove_dialog_title">Retirer “%s” de la liste noire</string>
-    <string name="block_list_summary">"Voir les appareils qui ne sont pas autorisés à se connecter à ce point d'accès"</string>
+    <string name="block_list_summary">"Afficher les appareils qui ne sont pas autorisés à se connecter à ce point d'accès"</string>
     <string name="block_list_title">Liste noire</string>
     <string name="block_title">Afficher les notifications</string>
     <string name="bluetooth">Bluetooth</string>
@@ -1268,7 +1268,7 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="checking_find_device_status">"Vérification de l'état de Localiser l'appareil…"</string>
     <string name="checking_for_updates">Vérification des mises à jour…</string>
     <string name="choose_a_card_to_reset">Sélectionner la carte SIM à réinitialiser</string>
-    <string name="choose_keyguard_clock_style">"Sélectionner le format de l'horloge"</string>
+    <string name="choose_keyguard_clock_style">"Sélectionnez le format de l'horloge"</string>
     <string name="choose_keyguard_clock_summary">"Ce paramètre ne fonctionne pas avec les thèmes tiers"</string>
     <string name="choose_profile">Sélectionnez un profil</string>
     <string name="choose_smartcover_type">"Choisir le type d'étui"</string>
@@ -2836,9 +2836,9 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="location_gps">Satellites GPS</string>
     <string name="location_high_battery_use">Forte utilisation de la batterie</string>
     <string name="location_low_battery_use">Faible utilisation de batterie</string>
-    <string name="location_mode_battery_saving_description">Utiliser le Wi-Fi et le réseau mobile pour déterminer la position</string>
+    <string name="location_mode_battery_saving_description">Utiliser le Wi-Fi et le réseau cellulaires pour déterminer la position</string>
     <string name="location_mode_battery_saving_title">"Economie d'énergie"</string>
-    <string name="location_mode_high_accuracy_description">Utiliser les réseaux GPS, Wi-Fi et mobiles pour déterminer la localisation</string>
+    <string name="location_mode_high_accuracy_description">Utiliser les réseaux GPS, Wi-Fi et cellulaires pour déterminer la localisation</string>
     <string name="location_mode_high_accuracy_title">Haute précision</string>
     <string name="location_mode_location_off_title">Localisation désactivée</string>
     <string name="location_mode_screen_title">Mode de localisation</string>
@@ -2846,7 +2846,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="location_mode_sensors_only_title">Appareil uniquement</string>
     <string name="location_neighborhood_level">Laisser les applications utiliser les données comme le Wi-Fi et les données réseaux pour déterminer votre position</string>
     <string name="location_neighborhood_level_wifi">Localisation déterminée par Wi-Fi</string>
-    <string name="location_network_based">Wi-Fi et réseau mobile</string>
+    <string name="location_network_based">Wi-Fi et réseau cellulaires</string>
     <string name="location_no_recent_apps">"Aucune demande d'accès à votre position n'a récemment été envoyée pour une application."</string>
     <string name="location_off_summary">Désactivé</string>
     <string name="location_on_summary">Activé</string>
@@ -2855,9 +2855,9 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="location_scanning_bluetooth_always_scanning_title">Recherche Bluetooth</string>
     <string name="location_scanning_screen_title">Recherche</string>
     <string name="location_scanning_wifi_always_scanning_description">"Autoriser les applications et les services à rechercher des réseaux Wi-Fi à tout moment, même si le Wi-Fi est désactivé. Cette autorisation peut permettre, par exemple, d'améliorer les fonctionnalités et les services basés sur la localisation."</string>
-    <string name="location_scanning_wifi_always_scanning_title">Recherche Wi‑Fi</string>
+    <string name="location_scanning_wifi_always_scanning_title">Recherche Wi-Fi</string>
     <string name="location_settings_master_switch_title">Utiliser ma position</string>
-    <string name="location_settings_title">Localisation</string>
+    <string name="location_settings_title">Paramètres de localisation</string>
     <string name="location_sources_heading">Sources de localisation</string>
     <string name="location_street_level">Autoriser les applications à utiliser le GPS sur votre téléphone pour vous localiser</string>
     <string name="location_title">Ma position</string>
@@ -2898,8 +2898,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lock_screen_notifications_summary_show">Afficher toutes les notifications et leurs contenus</string>
     <string name="lock_screen_notifications_summary_show_profile">Afficher tout contenu notificat. professionnelles</string>
     <string name="lock_screen_notifications_title">"Notification sur l'écran de verrouillage"</string>
-    <string name="lock_screen_signature_summary">"Ce message s'affiche à l'écran de verrouillage"</string>
-    <string name="lock_screen_signature_title">"Informations du propriétaire à l'écran de verrouillage"</string>
+    <string name="lock_screen_signature_summary">"Ce message s'affiche sur l'écran de verrouillage"</string>
+    <string name="lock_screen_signature_title">"Informations du propriétaire sur l'écran de verrouillage"</string>
     <string name="lock_screen_tip_toast">"veuillez d'abord autoriser les paramètres de l'application de notification"</string>
     <string name="lock_screen_unlock_show">"Ignorer l'écran de verrouillage"</string>
     <string name="lock_screen_unlock_show_summary">"Ouvrez l'écran d'accueil ou saisissez directement le mot de passe"</string>
@@ -3075,7 +3075,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="manage_notification_access_summary_zero">Les applications ne peuvent pas lire les notifications.</string>
     <string name="manage_notification_access_title">Accès aux notifications</string>
     <string name="manage_notification_title">"Notifications d'applications"</string>
-    <string name="manage_password">Gérer les mots de passe</string>
+    <string name="manage_password">Gestion des mots de passe</string>
     <string name="manage_password_summary">Remplir automatiquement les comptes et mots de passe enregistrés</string>
     <string name="manage_space_text">"Gérer l'espace"</string>
     <string name="manage_trust_agents">Agents de confiance</string>
@@ -3467,7 +3467,7 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="network_assistant">Consommation des données</string>
     <string name="network_changed_noti_summary">Avec les données mobiles</string>
     <string name="network_changed_noti_title">Déconnecté du Wi-Fi</string>
-    <string name="network_control">"Voir les paramètres de l'application"</string>
+    <string name="network_control">"Afficher les paramètres de l'application"</string>
     <string name="network_dashboard_summary_data_usage">conso. des données</string>
     <string name="network_dashboard_summary_hotspot">"point d'accès"</string>
     <string name="network_dashboard_summary_mobile">mobile</string>
@@ -3979,8 +3979,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="pref_title_lang_selection">Préférences de langue</string>
     <string name="pref_title_network_details">Détails du réseau</string>
     <string name="pref_title_update_notification">"Notifications de l'utilisation de données"</string>
-    <string name="pref_volume_launch_camera_summary">"Appuyer deux fois sur le volume bas pour lancer l'appareil photo"</string>
-    <string name="pref_volume_launch_camera_title">"Lancer l'appareil photo"</string>
+    <string name="pref_volume_launch_camera_summary">"Appuyer deux fois sur le volume bas pour ouvrir l'appareil photo"</string>
+    <string name="pref_volume_launch_camera_title">"Ouvrir l'appareil photo"</string>
     <string name="pref_volume_wake_summary">"Appuyer sur les boutons de volume allume l'appareil"</string>
     <string name="pref_volume_wake_title">Allumer avec les boutons de volume</string>
     <string name="preference_change_password_title">Modifier le mot de passe</string>
@@ -4271,7 +4271,7 @@ Interface UT: %5$s"</string>
     <string name="receiver_clean">"Libérer de l'espace"</string>
     <string name="recent_app_category_title">Applications ouvertes récemment</string>
     <string name="recent_apps_label">Recents</string>
-    <string name="recent_location_requests_summary">Voir les applications demandant à accéder vos infos de localisation</string>
+    <string name="recent_location_requests_summary">Afficher les applications demandant à accéder vos infos de localisation</string>
     <string name="recent_location_requests_title">Localisation</string>
     <string name="recent_notifications">Envoyées récemment</string>
     <string name="recent_notifications_see_all_title">Tout afficher depuis les sept derniers jours</string>
@@ -4414,7 +4414,7 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="runningservicedetails_settings_title">"Application en cours d'exécution"</string>
     <string name="runningservicedetails_stop_dlg_text">"Si vous arrêtez ce service, certaines fonctionnalités de votre téléphone peuvent cesser de fonctionner correctement jusqu'à ce que vous ayez éteint, puis rallumé votre appareil."</string>
     <string name="runningservicedetails_stop_dlg_title">Arrêter le service système ?</string>
-    <string name="runningservices_settings_summary">Voir et contrôler les services actuellement en exécution</string>
+    <string name="runningservices_settings_summary">Afficher et contrôler les services actuellement en exécution</string>
     <string name="runningservices_settings_title">"Services en cours d'exécution"</string>
     <string name="runtime_permissions_summary_no_permissions_granted">Aucune autorisation accordée</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Aucune autorisation demandée</string>
@@ -4677,7 +4677,7 @@ Pour épingler l'écran:
     <string name="search_onekey_migrate">Transfert;Mi Transfert;Ancien téléphone;Nouveau téléphone;Transfert de fichiers</string>
     <string name="search_other_advanced_settings">Paramètres supplémentaires;Plus de paramètres</string>
     <string name="search_other_settings_sync_settings">Synchroniser;Auto;Wi-Fi uniquement</string>
-    <string name="search_owner_info_settings_title">Information du propriétaire</string>
+    <string name="search_owner_info_settings_title">Informations du propriétaire</string>
     <string name="search_page_layout_settings">Taille de texte;Taille de police;Petite police;Grande police;Police moyenne;Police XXL;Très grande;Tailles de police</string>
     <string name="search_permission_manager">Permissions;Accès root;Téléchargement;Téléchargements</string>
     <string name="search_permission_settings_title">"Permissions d'application,Permissions d'accès,Gestion des applications,Téléchargement,Téléchargements"</string>
@@ -4770,8 +4770,8 @@ Pour épingler l'écran:
     <string name="search_wps_connect_title">Bouton WPS push;Connecter WPS;WPS</string>
     <string name="search_xiaomi_account">Compte Mi; Identifiant de compte Mi; Compte; Identifiant de compte; Compte Xiaomi; Protection de compte; Protéger le compte; Sécurité du compte; Mon compte</string>
     <string name="search_xspace">Application double;Applications doubles;Double application;Doubles applications;Application clônée;Applications clônées;Derux applications;2 applications;Deux comptes;2 comptes</string>
-    <string name="second_space">Deuxième espace</string>
-    <string name="secondspace_category">Deuxième espace</string>
+    <string name="second_space">Créer un deuxième espace</string>
+    <string name="secondspace_category">Créer un deuxième espace</string>
     <string name="secondspace_delete_space_title">Supprimer le deuxième espace</string>
     <string name="secspace_fod_finger_tips">Impossible de vérifier. Réessayez.</string>
     <string name="secspace_fod_finger_title">Vérifiez votre empreinte digitale</string>
