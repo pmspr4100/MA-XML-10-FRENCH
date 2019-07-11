@@ -16,7 +16,7 @@
     <string name="hint_search_in_enabled_apps">Rechercher des applications pouvant afficher des notifications</string>
     <string name="list_title_disable_notification">"Notifications ne sont pas autorisées"</string>
     <string name="loading">Chargement…</string>
-    <string name="lock_screen_display_rules">Format</string>
+    <string name="lock_screen_display_rules">Type de notifications</string>
     <string name="lock_screen_tip_toast">"Autoriser les notifications dans \"notifications d'applications\" en premier"</string>
     <string name="lockscreen_notifications">"Notifications sur l'écran de verrouillage"</string>
     <string name="not_sent_recently">Pas récemment</string>
