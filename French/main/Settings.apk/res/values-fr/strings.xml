@@ -6729,10 +6729,17 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="wifi_wps_setup_title">Configuration Wi-Fi protégé</string>
     <string name="window_animation_scale_title">"Échelle d'animation de fenêtre"</string>
     <string name="winscope_trace_quick_settings_title">Trace Winscope</string>
+    <string name="wireless_button">"Charger d'autres appareils sans-fil"</string>
+    <string name="wireless_charging_settings">"Charger d'autres appareils sans-fil"</string>
+    <string name="wireless_closed">Désactivé</string>
     <string name="wireless_connected">Connecté</string>
     <string name="wireless_networks_settings_title">Sans-fil et réseaux</string>
     <string name="wireless_off">Désactivé</string>
     <string name="wireless_on">Activé</string>
+    <string name="wireless_opened">Activé</string>
+    <string name="wireless_tip">"Utilisez votre téléphone pour charger d'autres appareils sans-fil.
+
+Cette fonction sera automatiquement désactivée si le chargement ne commence pas dans les 90 secondes."</string>
     <string name="wizard_back">Retour</string>
     <string name="wizard_finish">Terminer</string>
     <string name="wizard_next">Suivant</string>
