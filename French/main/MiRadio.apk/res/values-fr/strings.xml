@@ -428,11 +428,11 @@
     <string name="individuation_recommend_message">Turn on recommendations to receive personalized suggestions based on your preferences.</string>
     <string name="individuation_recommend_title">Recommendations</string>
     <string name="input_hint_prefix">Enter %1$s</string>
-    <string name="installing_apk">Installing…</string>
-    <string name="insufficient_space">"Not enough space on your device's internal storage"</string>
+    <string name="installing_apk">Installation…</string>
+    <string name="insufficient_space">"Pas assez d'espace sur la mémoire interne de votre appareil"</string>
     <string name="introduction">Introduction</string>
-    <string name="is_scanning">Checking storage…</string>
-    <string name="isornot_your_mi_account">Is this your Mi Account?</string>
+    <string name="is_scanning">Vérification du stockage…</string>
+    <string name="isornot_your_mi_account">Est-ce votre compte Mi ?</string>
     <string name="karaoke_message">Download and install Karaoke plug-in to use this feature.</string>
     <string name="karaoke_negative_text">Later</string>
     <string name="karaoke_positive_text">OK</string>
