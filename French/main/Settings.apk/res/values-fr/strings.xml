@@ -1237,10 +1237,10 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="carrier_enabled_summaryOff">APN désactivé</string>
     <string name="carrier_enabled_summaryOn">APN activé</string>
     <string name="carrier_provisioning">Informations de gestion des comptes opérateur</string>
-    <string name="category_personal">Personnel</string>
+    <string name="category_personal">Personnelles</string>
     <string name="category_work">Travail</string>
     <string name="cdma_security_settings_summary">"Définir les paramètres de la fonction Ma position, de déverrouillage de l'écran et de verrouillage du stockage des identifiants"</string>
-    <string name="cell_broadcast_settings">"Alertes d'urgence"</string>
+    <string name="cell_broadcast_settings">"Alertes d'urgences"</string>
     <string name="cell_data_limit">Limite de données: ^1</string>
     <string name="cell_data_template">^1 de données cellulaires</string>
     <string name="cell_data_warning">"Seuil d'avertissement sur la consommation des données: ^1"</string>
@@ -3849,7 +3849,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="passpoint_label">Enregistré via</string>
     <string name="passwordIncorrect">Mot de passe incorrect</string>
     <string name="password_entrance_title">"Définir le verrouillage de l'écran"</string>
-    <string name="password_guard">Mot de passe</string>
+    <string name="password_guard">Déverrouillage avec mot de passe</string>
     <string name="password_security_settings_title">Mots de passe et sécurité</string>
     <string name="password_turned_off_text">Le mot de passe a été désactivé</string>
     <string name="password_turned_on_text">Le mot de passe a été activé</string>
@@ -3876,13 +3876,13 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="permit_write_settings">Autoriser modification des paramètres système</string>
     <string name="person_hotpot">"Points d'accès mobiles"</string>
     <string name="personal_data_section_title">Données personnelles</string>
-    <string name="personal_device_admin_title">Personnel</string>
+    <string name="personal_device_admin_title">personnelles</string>
     <string name="personal_section_title">Personnalisation</string>
     <string name="phone_call_noise_suppression">Suppression du bruit ambiant durant un appel</string>
     <string name="phone_info_label">Informations sur le téléphone</string>
     <string name="phone_language">Langues</string>
     <string name="physical_keyboard_title">Clavier physique</string>
-    <string name="pick_up_gesture_wakeup_title">"Soulever pour allumer l'écran"</string>
+    <string name="pick_up_gesture_wakeup_title">"Soulever l'appareil pour allumer l'écran"</string>
     <string name="picture_color_mode">Mode image couleur</string>
     <string name="picture_color_mode_desc">Utiliser sRGB</string>
     <string name="picture_in_picture_app_detail_summary">"Autorisez cette application à créer une fenêtre Picture-in-picture lorsqu'elle est ouverte ou après l'avoir quittée (par exemple, pour continuer de regarder une vidéo). Cette fenêtre se superpose aux autres applications en cours d'utilisation."</string>
@@ -4619,7 +4619,7 @@ Pour épingler l'écran:
     <string name="search_credentials_install">"Installer depuis le stockage;Installation directe;Installer l'application"</string>
     <string name="search_date_and_time_settings_title">Date et heure;Date et heure;Date;Heure</string>
     <string name="search_description">Recherche dans les paramètres</string>
-    <string name="search_development_settings_title">Developer options;Assist;Developer;Developers;Developing;Development;Troubleshooting;Debug;Debugging;USB debugging;USB debug</string>
+    <string name="search_development_settings_title">Options pour les développeurs;Assistant;Développeur;Développeurs;Développement;Développement;Dépannage;Débogage;Débogage;Débogage USB;Débogage USB</string>
     <string name="search_device_name">"Nom de l'appareil"</string>
     <string name="search_device_status">État</string>
     <string name="search_display_settings">"Affichage;Écran;Lumière ambiante;Poche;Composition dans la poche;Température de la couleur;Couleurs;Saturation;Auto-rotation;Rotation automatique;Faire pivoter l'écran;Luminosité;Police;polices;Taille de la police;Rotation; Rotation automatique; Police; Texte; Taille du texte; Taille de la police; Résolution"</string>
@@ -4841,7 +4841,7 @@ Remarque: Votre empreinte digitale peut être moins sécurisée qu'un schéma ou
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Utilisez votre empreinte digitale pour déverrouiller votre téléphone ou approuver des achats.
 
 Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouiller cet appareil. Pour en savoir plus, contactez l'administrateur de votre entreprise."</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title">"Déverrouillage avec l'empreinte"</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">"Déverrouillage avec l'empreinte digitale"</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Utiliser votre empreinte digitale</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Relevez le doigt, puis appuyez à nouveau sur le capteur.</string>
     <string name="security_settings_fingerprint_enroll_repeat_message">Effectuez cette opération plusieurs fois pour ajouter les différentes parties de votre empreinte digitale.</string>
@@ -5146,7 +5146,7 @@ Cette fonctionnalité nécessite des autorisations pour accéder à votre locali
     <string name="sound_dashboard_summary">Volume, vibreur, Ne pas déranger</string>
     <string name="sound_effects_enable_title">Tonalité des touches</string>
     <string name="sound_settings">Son</string>
-    <string name="sound_settings_example_summary">Volume de sonnerie à 80 %</string>
+    <string name="sound_settings_example_summary">Volume de sonnerie à 80%</string>
     <string name="sound_settings_summary">Volume de sonnerie à %1$s</string>
     <string name="sound_settings_summary_silent">Sonnerie en mode silencieux</string>
     <string name="sound_settings_summary_vibrate">Sonnerie en mode vibreur</string>
@@ -5720,7 +5720,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlock_set_enter_system">"Désactiver l'écran de verrouillage"</string>
     <string name="unlock_set_enter_system_summary">"En allumant l'écran vous atteindrez directement le bureau."</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Fonctionnalité expérimentale avec niveau de sécurité faible</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Déverrouillage avec reconnaissance facial</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Déverrouillage avec reconnaissance faciale</string>
     <string name="unlock_set_unlock_disabled_summary">"Désactivé par l'admin, règles chiffrement, stockage ID"</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Changer ou désactiver un schéma, code PIN, ou mot de passe</string>
     <string name="unlock_set_unlock_launch_picker_change_title">"Modifier l'écran de verrouillage"</string>
