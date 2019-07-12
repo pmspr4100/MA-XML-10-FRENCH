@@ -2434,6 +2434,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gesture_setting_on">Activé</string>
     <string name="gesture_w">Modèle W</string>
     <string name="gesture_wakeup_summary">"Vous pouvez appuyer deux fois pour éteindre l'écran lorsque le thème par défaut ou classique est appliqué"</string>
+	<string name="gesture_wakeup_title">"Appuyez deux fois pour réveiller ou éteindre l'écran"</string>
     <string name="gesture_z">Modèle Z</string>
     <string name="giga_hertz">" GHz"</string>
     <string name="gigabyteShort">Go</string>
@@ -2442,11 +2443,11 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="gmscore_settings_title">Services de base de Google</string>
     <string name="go_back_button_label">Retour</string>
     <string name="go_to_sleep">"Éteindre l'écran"</string>
-    <string name="google_account_title">Compte google</string>
+    <string name="google_account_title">Compte Google</string>
     <string name="google_assistant_label">Google Assistant</string>
     <string name="google_backup_enable">Activer les sauvegardes</string>
     <string name="google_backup_section_title">Sauvegarde Google et restauration</string>
-    <string name="google_service_title">Compte google</string>
+    <string name="google_service_title">Compte Google</string>
     <string name="google_title">Paramètres Google</string>
     <string name="got_it">"C'est compris"</string>
     <string name="gsm_to_wifi_connect_type_title">Cellulaire par Wi-Fi</string>
@@ -5470,7 +5471,7 @@ Essayez d'utiliser un périphérique ^3 plus rapide, ou utilisez à la place ^4 
 %1$s"</string>
     <string name="sync_plug"><font fgcolor="#ffffffff">Bienvenue sur Google Sync !</font>"
 Une solution Google pour synchroniser vos données et vous permettre d'accéder à vos contacts, vos rendez-vous et plus, où que vous soyez."</string>
-    <string name="sync_settings">Comptes et synchronisation</string>
+    <string name="sync_settings">Autres Comptes</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">Synchronisation seulement en Wi-Fi</string>
     <string name="system">Système</string>

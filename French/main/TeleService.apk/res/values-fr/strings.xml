@@ -1744,9 +1744,9 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
     <string name="wfcmode_wifi_only">Wi-Fi uniquement</string>
     <string name="wfcmode_wifi_preferred">Préferer le Wi-Fi</string>
     <string name="wifi_ap_unable_to_handle_new_sta">"Point d'accès temporairement plein"</string>
-    <string name="wifi_call_setting">Réseaux VoWiFi</string>
-    <string name="wifi_calling">Réseaux VoWiFi</string>
-    <string name="wifi_calling_settings_title">Réseaux VoWiFi</string>
+    <string name="wifi_call_setting">Passer des appels Wi-Fi</string>
+    <string name="wifi_calling">Passer des appels Wi-Fi</string>
+    <string name="wifi_calling_settings_title">Passer des appels Wi-Fi</string>
     <string name="wifi_cant_connect">Connexion impossible</string>
     <string name="wifi_cant_connect_to_ap">Impossible de se connecter au réseau \"%1$s\"</string>
     <string name="wifi_check_password_try_again">Vérifiez le mot de passe et réessayez</string>
@@ -1774,7 +1774,7 @@ Les appels d’urgence ne sont possibles que dans les zones couvertes par une co
     <string name="wifi_verbose_logging">Autoriser enreg. infos Wi-Fi détaillées</string>
     <string name="wifi_verbose_logging_summary">Détailler plus infos Wi-Fi, afficher par RSSI de SSID dans outil sélection Wi-Fi</string>
     <string name="wificall_switch_summary">Utilisez le Wi-Fi pour émettre et recevoir des appels lorsque cela est possible</string>
-    <string name="wificall_switch_title">Passer des appels VoWiFi </string>
+    <string name="wificall_switch_title">Réseaux VoWiFi </string>
     <string name="wild_prompt_str">Remplacer les caractères spéciaux par</string>
     <string name="window_animation_scale_title">Échelle animation fenêtres</string>
     <string name="wrong_password">Le mot de passe que vous avez entré est incorrect</string>
