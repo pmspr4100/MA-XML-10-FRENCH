@@ -11,7 +11,7 @@
     <string name="function_settings">Paramètres du raccourci</string>
     <string name="handy_mode_default_to_close_whether_open">Le mode une main est désactivé par défaut. Activer le mode une main ?</string>
     <string name="hide_touch_assistant">Masquer automatiquement</string>
-    <string name="hide_touch_assistant_intro">"Cacher l'Assistant tactile dans les applications sélectionnées."</string>
+    <string name="hide_touch_assistant_intro">"Masquer l'Assistant tactile dans les applications sélectionnées."</string>
     <string name="hide_when_fullscreen">Masquer en plein écran</string>
     <string name="hide_when_fullscreen_intro">"Masquer lorsqu'on passe en mode plein écran."</string>
     <string name="mi_wallet_summary">"Carte de transport/Mi Pay/ Carte d'accès"</string>
@@ -53,5 +53,5 @@
     <string name="restore_intro">"Restaurer les paramètres par défaut, y compris les raccourcis ainsi que leur ordre. Les données d'application sur l'appareil ne seront pas affectées."</string>
     <string name="show_on_keyguard">"Afficher sur l'écran de verrouillage"</string>
     <string name="theme_manager_not_supported">Gestionnaire de thème non pris en charge.</string>
-    <string name="three_seconds_auto_hide">"Se déplacer sur le côté après 3 secondes d'inactivité"</string>
+    <string name="three_seconds_auto_hide">"Déplacer sur le côté après 3 secondes d'inactivité"</string>
 </resources>
