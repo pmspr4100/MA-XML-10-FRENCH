@@ -99,7 +99,7 @@ Turn this feature on and tap the Accessibility button at the bottom of your scre
     <string name="accessibility_menu_item_settings">Paramètres</string>
     <string name="accessibility_menu_service_name">Accessibility menu</string>
     <string name="accessibility_menu_summary">Control your device using convenient shortcuts</string>
-    <string name="accessibility_more_settings">Paramètres supplémentaires</string>
+    <string name="accessibility_more_settings">Paramètres additionnels</string>
     <string name="accessibility_no_service_selected">Aucun service sélectionné</string>
     <string name="accessibility_no_services_installed">Aucun service installé</string>
     <string name="accessibility_no_wifi">Déconnecté du Wi-Fi.</string>
@@ -250,7 +250,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="advanced_battery_title">Utilisation de la batterie</string>
     <string name="advanced_section_header">Paramètres additionnels</string>
     <string name="advanced_security_title">Paramètres additionnels</string>
-    <string name="advanced_settings">Paramètres supplémentaires</string>
+    <string name="advanced_settings">Paramètres additionnels</string>
     <string name="advanced_settings_summary">"Activer d'autres paramètres"</string>
     <string name="agps_roaming">"A-GPS pendant l'itinérance"</string>
     <string name="agps_roaming_dia">"Utiliser l'A-GPS en itinérance peut augmenter votre consommation de données mobiles. Si vous dépassez le forfait de données de votre forfait, votre opérateur pourrait vous facturer des frais supplémentaires."</string>
@@ -388,7 +388,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="app_link_open_always">Ouvrir</string>
     <string name="app_link_open_ask">Demander à chaque fois</string>
     <string name="app_link_open_never">Ne pas ouvrir</string>
-    <string name="app_link_title">"Paramètres supplémentaires dans l'application"</string>
+    <string name="app_link_title">"Paramètres additionnels dans l'application"</string>
     <string name="app_list_memory_use">Utilisation par les applis</string>
     <string name="app_list_preference_none">Aucune</string>
     <string name="app_memory_use">Utilisation de la mémoire</string>
@@ -421,7 +421,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="app_restrictions_custom_label">"Définir des restrictions d'applis"</string>
     <string name="app_sees_restricted_accounts">Cette application peut accéder à vos comptes.</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Cette application peut accéder à vos comptes. Contrôlée par %1$s.</string>
-    <string name="app_settings_link">"Paramètres supplémentaires dans l'application"</string>
+    <string name="app_settings_link">"Paramètres additionnels dans l'application"</string>
     <string name="app_special_disable_dlg_text">"Si vous désactivez cette application, il est possible qu'Android et d'autres applications ne fonctionnent plus comme prévu. Vos données seront également supprimées."</string>
     <string name="app_special_disable_dlg_title">"Supprimer les données et désactiver l'application ?"</string>
     <string name="app_switch_key">Récents</string>
@@ -3770,7 +3770,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="otg_tip">"USB On-The-Go permet aux lecteurs USB et aux claviers portables de se connecter à votre appareil mobile et d'échanger des données.
 
 L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
-    <string name="other_advanced_settings">Paramètres supplémentaires</string>
+    <string name="other_advanced_settings">Paramètres additionnels</string>
     <string name="other_device_info">Autres</string>
     <string name="other_personal_settings">Paramètres personnels</string>
     <string name="other_relative">Autre</string>
@@ -4677,7 +4677,7 @@ Pour épingler l'écran:
     <string name="search_ntts_settings_title">Synthèse vocale;Paramètres de la synthèse vocale</string>
     <string name="search_oldman_mode_entry_name">Mode simplifié;Mode personne âgé;Mode allégé</string>
     <string name="search_onekey_migrate">Transfert;Mi Transfert;Ancien téléphone;Nouveau téléphone;Transfert de fichiers</string>
-    <string name="search_other_advanced_settings">Paramètres supplémentaires;Plus de paramètres</string>
+    <string name="search_other_advanced_settings">Paramètres additionnels;Plus de paramètres</string>
     <string name="search_other_settings_sync_settings">Synchroniser;Auto;Wi-Fi uniquement</string>
     <string name="search_owner_info_settings_title">Informations du propriétaire</string>
     <string name="search_page_layout_settings">Taille de texte;Taille de police;Petite police;Grande police;Police moyenne;Police XXL;Très grande;Tailles de police</string>
