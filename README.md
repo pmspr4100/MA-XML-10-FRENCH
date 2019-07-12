@@ -1,3 +1,5 @@
+[![MIUI10 logo](https://i.imgur.com/s5PsCYM.png)](https://xiaomi.eu/)
+
 ## Référentiel MIUI v10:
 * Support de la ROM Stable pour xiaomi.eu
 * Support de la ROM Bêta pour xiaomi.eu
