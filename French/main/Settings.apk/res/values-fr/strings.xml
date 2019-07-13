@@ -264,7 +264,7 @@ Votre administrateur a la possibilité de surveiller et de gérer les paramètre
     <string name="ai_settings_long_click_category">Appuyer et maintenir le bouton IA</string>
     <string name="ai_settings_long_click_title">Appuyer et maintenir</string>
     <string name="ai_settings_single_press_des">"Appuyer sur le bouton IA pour parler à l'assistant Google, puis relâcher pour avoir la réponse."</string>
-    <string name="airplane_mode">Mode Avion</string>
+    <string name="airplane_mode">Mode avion</string>
     <string name="alarm_ringtone_title">"Son de l'alarme par défaut"</string>
     <string name="alarm_sound_dialog_title">"Choisir le son de l'alarme"</string>
     <string name="alarm_sound_title">"Son de l'alarme"</string>
@@ -1108,7 +1108,9 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bootloader_status_unlocked">Déverrouillé</string>
     <string name="bootloader_status_unlocked_info">Cet appareil est déverrouillé</string>
     <string name="bootloader_summary">Flasher votre appareil en USB</string>
-    <string name="bootloader_tips">"Une fois que vous avez ajouté votre compte Mi, ne vous déconnectez pas, ne réinitialisez pas aux paramètres d'usine et n'effacez pas les données des applications système. Si vous effectuez l'une des opérations ci-dessus, ajoutez à nouveau votre compte sinon vous ne pourrez pas déverrouiller votre appareil."</string>
+    <string name="bootloader_tips">"%s
+
+Si vous avez déjà effectué l'une des opérations ci-dessus, ajoutez à nouveau votre compte Mi. sinon, vous ne pourrez pas déverrouiller votre appareil."</string>    
     <string name="bootloader_tips_ok">"C'est compris"</string>
     <string name="breathing_light_color_menu_title">Couleur du voyant</string>
     <string name="breathing_light_color_summary">"Couleur du voyant à la réception d'une notification"</string>
@@ -1858,7 +1860,8 @@ Si le problème persiste, vous devrez peut-être désinstaller l'application pou
     <string name="disabled_by_admin">"Désactivée par l'administrateur"</string>
     <string name="disabled_by_admin_summary_text">"Contrôlé par l'admin"</string>
     <string name="disabled_by_administrator_summary">"Désactivé par l'administrateur"</string>
-    <string name="disabled_by_policy_title">Action interdite</string>
+    <string name="disabled_by_policy_title">Action non autorisée</string>
+    <string name="disallow_lock_screen_summary">"Autoriser les notifications dans \"Notifications\" en premier"</string>
     <string name="disabled_by_policy_title_adjust_volume">Impossible de modifier le volume</string>
     <string name="disabled_by_policy_title_camera">Appareil photo non autorisé</string>
     <string name="disabled_by_policy_title_outgoing_calls">Appel non autorisé</string>
@@ -2538,6 +2541,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="home_work_profile_not_supported">Non compatible avec les profils professionnels</string>
     <string name="http_invoke_app">Applications Web</string>
     <string name="http_invoke_app_summary">Ouvrez les applications plus rapidement sans les installer</string>
+    <string name="iCloud_ID_verification_tip">"Appuyez sur \"Autoriser\" sur votre appareil Apple pour faire apparaître le code de vérification. Entrez le code de vérification ici."</string>
     <string name="ignore_optimizations_off">Optimiser</string>
     <string name="ignore_optimizations_off_desc">"Recommandé pour améliorer l'autonomie de la batterie"</string>
     <string name="ignore_optimizations_on">Ne pas optimiser</string>
@@ -2985,8 +2989,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lockpassword_password_requires_digit">Veuillez inclure au moins un chiffre.</string>
     <string name="lockpassword_password_requires_symbol">Veuillez inclure au moins un symbole.</string>
     <string name="lockpassword_password_set_toast">Le mot de passe a été défini</string>
-    <string name="lockpassword_password_too_long">Le mot de passe doit comporter moins de %d caractères</string>
-    <string name="lockpassword_password_too_short">Le mot de passe doit comporter au moins %d caractères</string>
+    <string name="lockpassword_password_too_long">Doit contenir moins de %d caractères</string>
+    <string name="lockpassword_password_too_short">Doit comporter au moins %d caractères</string>
     <string name="lockpassword_pattern_set_toast">Le schéma a été défini</string>
     <string name="lockpassword_pin_blacklisted_by_admin">Les codes courants sont bloqués par votre administrateur informatique. Choisissez un autre code.</string>
     <string name="lockpassword_pin_contains_non_digits">Le code PIN ne doit contenir que des chiffres</string>
@@ -4591,7 +4595,7 @@ Pour épingler l'écran:
     <string name="search_account_list">Autres comptes;Compte;Comptes</string>
     <string name="search_add_facerecoginition_text">Déverrouillage faciale;reconnaissance faciale</string>
     <string name="search_advanced_settings">Paramètres additionnels;Wi-Fi;Paramètres Wi-Fi;Paramètres Wi-Fi</string>
-    <string name="search_airplane_mode">Mode Avion;Mode aéroplane;Mode Vol;Avion;Aéroplane;Vol</string>
+    <string name="search_airplane_mode">Mode avion;Mode aéroplane;Mode Vol;Avion;Aéroplane;Vol</string>
     <string name="search_alarm_sound_title">"Son alarme;sonnerie d'alarme;alarme"</string>
     <string name="search_ambient_display_screen_title">Affichage ambiant</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>

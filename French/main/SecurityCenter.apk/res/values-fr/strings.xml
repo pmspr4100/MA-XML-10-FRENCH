@@ -1170,7 +1170,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="auto_task_operation_open">Activé</string>
     <string name="auto_task_operation_close">Désactivé</string>
     <string name="auto_task_operation_no_op">Ne pas sélectionner cette action</string>
-    <string name="auto_task_operation_airplane_mode">Mode Avion</string>
+    <string name="auto_task_operation_airplane_mode">Mode avion</string>
     <string name="auto_task_operation_memory_clean_lockscreen">Vider la mémoire</string>
     <string name="auto_task_operation_mobile_data">Données cellulaires</string>
     <string name="auto_task_operation_wifi">Wi-Fi</string>

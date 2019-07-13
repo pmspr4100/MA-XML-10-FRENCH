@@ -283,7 +283,7 @@
     <string name="adb_warning_title">Autoriser le débogage USB ?</string>
     <string name="add_tile">Ajouter une vignette</string>
     <string name="adjust_button_width">Ajuster la largeur du bouton</string>
-    <string name="airplane_mode">Mode Avion</string>
+    <string name="airplane_mode">Mode avion</string>
     <string name="alarm_template">à %1$s</string>
     <string name="alarm_template_far">le %1$s</string>
     <string name="allow_mock_location">Autoriser les simulations de localisations</string>
@@ -1007,7 +1007,7 @@ Réessayez dans %2$d secondes."</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Les mots de passe ne’ correspondent pas</string>
     <string name="local_backup_password_toast_success">Nouveau de mot de passe de sauvegarde défini</string>
     <string name="local_backup_password_toast_validation_failure">Impossible de définir le mot de passe de sauvegarde</string>
-    <string name="lock_screen_carrier_airplane_mode_on">Mode Avion</string>
+    <string name="lock_screen_carrier_airplane_mode_on">Mode avion</string>
     <string name="lock_screen_date">EEEE dd MMMM</string>
     <string name="lock_screen_date_12">EEEE dd MMMM</string>
 	<string name="lock_screen_date_two_lines">"EEEE
@@ -1218,7 +1218,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="oem_unlock_enable">Déverrouillage OEM</string>
     <string name="oem_unlock_enable_summary">Autoriser le chargeur de démarrage à déverrouiller</string>
     <string name="okay">OK </string>
-    <string name="oldman_airplane_mode_text">Mode Avion</string>
+    <string name="oldman_airplane_mode_text">Mode avion</string>
     <string name="oldman_incall_text">"Retourner à l'appel"</string>
     <string name="open_camera_hint_text">"Balayez vers la gauche pour ouvrir l'appareil photo"</string>
     <string name="open_extreme_power_save_mode_title">"Activer l'économiseur de batterie extrême"</string>

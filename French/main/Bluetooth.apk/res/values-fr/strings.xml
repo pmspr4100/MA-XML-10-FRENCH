@@ -4,7 +4,7 @@
     <string name="a2dp_sink_mbs_label">Audio Bluetooth</string>
     <string name="ack_record">Enregistrement accusé de réception</string>
     <string name="airplane_error_msg">Bluetooth ne peut être utilisé en mode Avion.</string>
-    <string name="airplane_error_title">Mode Avion</string>
+    <string name="airplane_error_title">Mode avion</string>
     <string name="app_name">Bluetooth</string>
     <string name="auth_notif_message">Entrer la clé de session de %1$s</string>
     <string name="auth_notif_ticker">"Demande d'authentification Obex"</string>
