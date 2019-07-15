@@ -44,6 +44,11 @@
         <item>Pour tous les événements</item>
         <item>Pour les événements les plus pertinents</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Désactivé</item>
+        <item>Pour tous les événements</item>
+        <item>Pour les événements urgents</item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Toujours</item>
         <item>Seulement quand la sonnerie est désactivée</item>
@@ -294,5 +299,14 @@
     <string-array name="widget_style_list">
         <item>Transparent</item>
         <item>Arrière-plan blanc</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>D</item>
+        <item>L</item>
+        <item>M</item>
+        <item>M</item>
+        <item>J</item>
+        <item>V</item>
+        <item>S</item>
     </string-array>
 </resources>

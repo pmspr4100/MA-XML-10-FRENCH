@@ -206,11 +206,7 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     </plurals>
     <plurals name="view_num">
       <item quantity="other">%1$d vues</item>
-      <item quantity="zero">%1$d vues</item>
       <item quantity="one">%1$d vue</item>
-      <item quantity="two">%1$d vues</item>
-      <item quantity="few">%1$d vues</item>
-      <item quantity="many">%1$d vues</item>
     </plurals>
     <plurals name="result_virus_header">
       <item quantity="other">%d virus et applications non sécurisées trouvés</item>
@@ -366,7 +362,6 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
     </plurals>
     <plurals name="found_apps_title">
       <item quantity="other">%d applications trouvées</item>
-      <item quantity="zero">0 application trouvé</item>
       <item quantity="one">%d application trouvée</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">

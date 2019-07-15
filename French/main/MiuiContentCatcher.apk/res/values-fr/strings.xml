@@ -26,6 +26,8 @@
     <string name="ok">OK</string>
     <string name="save_content_tip">"Les éléments suivants seront sauvegardés: "</string>
     <string name="search">Recherche</string>
+    <string name="settings_clear_data_confirmation_description">"Si vous supprimez des mots de passe maintenant, vous devrez les saisir manuellement lors de votre prochaine connexion.
+Supprimer le mot de passe ?"</string>
     <string name="settings_clear_data_confirmation_title">Suppression de mots de passe</string>
     <string name="using_miui_autofill_message">Pour saisir automatiquement les mots de passe, MIUI enregistre les informations de votre compte et vos mots de passe sur votre appareil.</string>
 </resources>

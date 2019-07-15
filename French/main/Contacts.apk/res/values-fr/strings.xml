@@ -251,7 +251,7 @@ Les cartes de contact ont été désactivées"</string>
     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
     <string name="contact_import_methods_dialog_title">"Sélectionner une méthode d'importation"</string>
-    <string name="contact_is_deleted">Le contact a été supprimé</string>
+    <string name="contact_is_deleted">Ce contact a été supprimé</string>
     <string name="contact_is_readOnly">"Impossible d'éditer les contacts en lecture seule"</string>
     <string name="contact_list_loading">Chargement…</string>
     <string name="contact_pick_photo">Photo</string>
@@ -1034,6 +1034,8 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="shortcutContact">Contact</string>
     <string name="shortcutDialContact">Composition instantanée</string>
     <string name="shortcutMessageContact">SMS/MMS Instantané</string>
+    <string name="shortcut_new_contact_label">Nouveau contact</string>
+    <string name="shortcut_scan_label">Scan carte de visite</string>
     <string name="showAllContactsJoinItem">Afficher tous les contacts</string>
     <string name="simContacts_airplaneMode">Pour importer les contacts de la carte SIM, désactivez le mode Avion</string>
     <string name="simContacts_empty">Aucun contact sur la carte SIM</string>

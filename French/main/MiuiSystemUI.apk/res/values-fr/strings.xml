@@ -1441,11 +1441,13 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="recents_accessibility_split_screen_top">"Diviser l'écran dans la partie supérieure"</string>
     <string name="recents_app_info_button_label">"Informations sur l'application"</string>
     <string name="recents_caption_resize">Sélectionner une nouvelle disposition des tâches</string>
+    <string name="recents_dimiss_task">Effacer</string>
     <string name="recents_drag_hint_message">Appuyez et maintenez sur une application, puis faites-la glisser ici.</string>
     <string name="recents_empty_message">Aucun élément récent</string>
     <string name="recents_empty_message_dismissed_all">Vous avez tout effacé</string>
     <string name="recents_empty_message_multi_window">"Ouvrez les applications depuis l'écran d'accueil"</string>
     <string name="recents_exit_multi_window_mode">Quitter</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">"Impossible d'utiliser l'écran partagé lors de la diffusion"</string>
     <string name="recents_incompatible_app_message">Cette application ne prend pas en charge le mode Écran divisé</string>
     <string name="recents_launch_disabled_message">%s est désactivé en mode Sécurisé.</string>
     <string name="recents_launch_error_message">Impossible de lancer %s.</string>
@@ -1456,6 +1458,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="recents_multistack_add_stack_dialog_split_vertical">Diviser verticalement</string>
     <string name="recents_search_bar_label">Rechercher</string>
     <string name="recents_stack_action_button_label">Tout effacer</string>
+    <string name="recents_task_screening">Casting</string>
     <string name="recents_title_app_manager">Gérer les applications</string>
     <string name="recents_title_game">Jeux</string>
     <string name="recents_title_garbage_cleanup">Nettoyeur</string>

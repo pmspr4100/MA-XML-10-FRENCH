@@ -754,11 +754,6 @@
       <item>10 minutes</item>
       <item>30 minutes</item>
     </string-array>
-    <string-array name="drip_battery_indicator_style_entries">
-      <item>Graphique</item>
-      <item>"Pourcentage (dans l'icône)"</item>
-      <item>"Pourcentage (à côté de l'icône)"</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
       <item>Aucun</item>
       <item>Logcat</item>
@@ -932,6 +927,11 @@ Note : seulement pour Ubuntu 8.04 !"</item>
       <item>Graphique</item>
       <item>"Pourcentage (dans l'icône)"</item>
       <item>"Pourcentage (à côté de l'icône)"</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Graphique</item>
+        <item>"Pourcentage (dans l'icône)"</item>
+        <item>"Pourcentage (à côté de l'icône)"</item>
     </string-array>
     <string-array name="notification_shade_shortcut_entries">
       <item>Rechercher</item>

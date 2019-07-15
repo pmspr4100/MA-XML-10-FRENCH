@@ -355,6 +355,7 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="preferences_import_travel">Voyage</string>
     <string name="preferences_notification_ringtone_title">Son</string>
     <string name="preferences_popup_alert_smart_summary">MIUI identifiera automatiquement les événements les plus pertinents</string>
+    <string name="preferences_popup_alert_smart_summary_new">Les événements sensibles au temps sont les événements avec une heure exacte</string>
     <string name="preferences_popup_alert_smart_tips">"Remplacez les notifications traditionnelles par des alertes contextuelles pour éviter de rater des événements importants. Les alertes contextuelles n'apparaissent pas lorsque vous jouez à des jeux, regardez des vidéos en plein écran ou utilisez le mode voiture."</string>
     <string name="preferences_popup_alert_title">Alertes contextuelles</string>
     <string name="preferences_title">Agenda</string>
@@ -428,12 +429,14 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="setting_daysoff_update_net_err">"Impossible de vérifier les mises à jour. Attendez une minute ou deux et réessayez."</string>
     <string name="setting_daysoff_update_schedule">Mise à jour…</string>
     <string name="setting_daysoff_update_success">Mis à jour avec succés</string>
+    <string name="setting_desc_import_todo">Importer des tâches planifiées à partir de Notes</string>
     <string name="setting_features_title">Paramètres de fonctionnalités</string>
     <string name="setting_holiday_display_desc">"Cartes de vacances sont situées en bas de votre agenda sur la page d'accueil"</string>
     <string name="setting_holiday_reminder">Rappel de vacance</string>
     <string name="setting_others">Supplémentaire</string>
     <string name="setting_title_about">À propos</string>
     <string name="setting_title_holiday_display">Afficher les vacances</string>
+    <string name="setting_title_import_todo">Tâches importées</string>
     <string name="share_image">Partager</string>
     <string name="share_image_label">Partager via</string>
     <string name="share_title">Partager</string>
@@ -472,6 +475,8 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="today">"Aujourd'hui"</string>
     <string name="today_at_time_fmt">"Aujourd'hui à %s"</string>
     <string name="today_no_events">Aucun événement</string>
+    <string name="todo_audio_event">"[Tâche vocale] "</string>
+    <string name="todo_event">Tâches à venir</string>
     <string name="tomorrow">Demain</string>
     <string name="tomorrow_at_time_fmt">Demain à %s</string>
     <string name="too_long_content">Le contenu est trop long</string>
@@ -519,6 +524,7 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="widget_select_style">Sélectionnez le style</string>
     <string name="work_day_default_banner_title">Passez une journée productive au travail!</string>
     <string name="xiaomi_calendar_display_name">Calendrier</string>
+    <string name="year_indicator_month">Premier jour du calendrier lunaire</string>
     <string name="yearly">Annuel (le %s)</string>
     <string name="yearly_plain">Tous les ans</string>
     <string name="global_joke_collapse_text">Afficher moins</string>

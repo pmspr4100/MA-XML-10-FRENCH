@@ -1892,6 +1892,18 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="modify_password_mode"><u>Modifier le type de mot de passe</u></string>
     <string name="fingerprint_to_lock">Déverrouiller avec empreinte digitale</string>
     <string name="system_application">Applications système</string>
+    <string name="system_permission_declare_agree">Accepter</string>
+    <string name="system_permission_declare_double_link">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante: %2s."</string>
+    <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
+    <string name="system_permission_declare_privacy_declare">"Nous respectons et protégeons votre vie privée.
+Notez que %1s a besoin de collecter vos données et nécessite les permissions suivantes pour fonctionner normalement:"</string>
+    <string name="system_permission_declare_revoke_path">Vous pouvez désinstaller cette application, vous déconnecter de votre compte ou gérer vos permissions dans Sécurité. &gt; Gestion des applications &gt; Permissions &gt; Autres permissions.</string>
+    <string name="system_permission_declare_use_network">Se connecter au réseau</string>
+    <string name="system_permission_perm_answer_call">Faire des appels</string>
+    <string name="system_permission_perm_read_mms">Lire le MMS</string>
+    <string name="system_permission_perm_read_numbers">Lire les numéros de téléphone</string>
+    <string name="system_permission_perm_send_mms">Envoyer un MMS</string>
     <string name="third_application">Applications installées</string>
     <string name="finger_remind_message">"Ajoutez d'abord votre empreinte digitale. Appuyez pour ouvrir Paramètres."</string>
     <string name="fingerprint_not_remind">Ne plus demander</string>
