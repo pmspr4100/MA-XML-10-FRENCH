@@ -1054,7 +1054,7 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bluetooth_unlock_state_label">"État: "</string>
     <string name="bluetooth_unlock_state_ok">Débloqué</string>
     <string name="bluetooth_unlock_state_too_far">Pas assez proche</string>
-    <string name="bluetooth_unlock_title">Déverrouillé avec un périphérique Bluetooth</string>
+    <string name="bluetooth_unlock_title">Déverrouiller avec un périphérique Bluetooth</string>
     <string name="bluetooth_unlock_turned_off">Désactivé</string>
     <string name="bluetooth_unlock_turned_on">Activé</string>
     <string name="bluetooth_unpair_dialog_body">Votre téléphone ne sera plus associé à \"%1$s\"</string>
@@ -4093,8 +4093,8 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_password_add_account_setting">Compte et confidentialité</string>
     <string name="privacy_password_bind_account">Ajouter un compte Mi</string>
     <string name="privacy_password_bind_account_immediate">Ajouter</string>
-    <string name="privacy_password_confirm_SecondSpace_Password">Confirmer le mot de passe du second espace</string>
-    <string name="privacy_password_confirm_use_finger">Déverrouiller avec empreinte digitale</string>
+    <string name="privacy_password_confirm_SecondSpace_Password">Confirmer le mot de passe du deuxième espace</string>
+    <string name="privacy_password_confirm_use_finger">"Déverrouiller avec l'empreinte digitale"</string>
     <string name="privacy_password_enter_privacy">Saisissez le mot de passe de protection de confidentialité</string>
     <string name="privacy_password_exit_account_info">Le compte sera retiré automatiquement lorsque vous vous déconnectez</string>
     <string name="privacy_password_fingerprint_confirm_failed">"Impossible de vérifier l'empreinte digitale"</string>
@@ -4118,7 +4118,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="privacy_password_toggle_summary">Exigez un mot de passe chaque fois que des éléments privés sont accédés.</string>
     <string name="privacy_password_use_finger_dialog_mess">Vous pouvez également utiliser votre empreinte digitale avec le mot de passe de protection de confidentialité.</string>
     <string name="privacy_password_use_finger_dialog_open">Paramètres</string>
-    <string name="privacy_password_use_finger_dialog_title">Déverrouillage avec empreinte digitale</string>
+    <string name="privacy_password_use_finger_dialog_title">"Déverrouiller avec l'empreinte digitale"</string>
     <string name="privacy_password_use_finger_success">Activé</string>
     <string name="privacy_password_visible_pattern">Afficher le schéma</string>
     <string name="privacy_protect_title">Protection des données</string>
@@ -5723,7 +5723,7 @@ Vos empreintes digitales enregistrées seront également supprimées de ce profi
     <string name="unlock_set_enter_system">"Désactiver l'écran de verrouillage"</string>
     <string name="unlock_set_enter_system_summary">"En allumant l'écran vous atteindrez directement le bureau."</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Fonctionnalité expérimentale avec niveau de sécurité faible</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Déverrouillage avec reconnaissance faciale</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Déverrouiler avec la reconnaissance faciale</string>
     <string name="unlock_set_unlock_disabled_summary">"Désactivé par l'admin, règles chiffrement, stockage ID"</string>
     <string name="unlock_set_unlock_launch_picker_change_summary">Changer ou désactiver un schéma, code PIN, ou mot de passe</string>
     <string name="unlock_set_unlock_launch_picker_change_title">"Modifier l'écran de verrouillage"</string>

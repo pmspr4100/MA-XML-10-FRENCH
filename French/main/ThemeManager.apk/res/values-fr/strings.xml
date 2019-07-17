@@ -747,7 +747,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="wallpaper_loop_interval_desc">"Définir l'intervalle de temps pour votre diaporama"</string>
     <string name="wallpaper_loop_interval_title">"Changer de fond d'écran"</string>
     <string name="wallpaper_loop_manage">Gérer</string>
-    <string name="wallpaper_loop_more_options">Paramètres personnels</string>
+    <string name="wallpaper_loop_more_options">Paramètres additionels</string>
     <string name="wallpaper_loop_my_desk_wallpaper">"Mes fonds d'écran d'accueil"</string>
     <string name="wallpaper_loop_my_lock_wallpaper">"Mes fonds d'écran de verrouillage"</string>
     <string name="wallpaper_loop_order_desc">"Sélectionnez l'ordre dans lequel les diapositives apparaissent"</string>
@@ -755,8 +755,8 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="wallpaper_loop_order_shuffle">Aléatoire</string>
     <string name="wallpaper_loop_order_title">Ordre des diapositives</string>
     <string name="wallpaper_loop_title">"Diaporama de fond d'écran"</string>
-    <string name="wallpaper_loop_title_desk_wallpaper">"Diaporama de fond d'écran du l'écran d'accueil"</string>
-    <string name="wallpaper_loop_title_lock_walpaper">"Diaporama de fond d'écran du l'écran de verrouillage"</string>
+    <string name="wallpaper_loop_title_desk_wallpaper">"Diaporama de fond d'écran sur l'écran d'accueil"</string>
+    <string name="wallpaper_loop_title_lock_walpaper">"Diaporama de fond d'écran sur l'écran de verrouillage"</string>
     <string name="wallpaper_online">"Fonds d'écran en ligne"</string>
     <string name="wallpaper_online_no_more">"C'est tout pour le moment"</string>
     <string name="wallpaper_online_tip">"Connectez-vous au réseau pour voir plus d'éléments"</string>
