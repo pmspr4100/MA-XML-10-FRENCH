@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="data_net_usage_number">
-        <item>Pas de limite</item>
+        <item>Illimité</item>
         <item>100 Mo</item>
         <item>200 Mo</item>
         <item>500 Mo</item>
-        <item>Personnalisé</item>
-    </string-array>
-    <string-array name="app_start_setting">
-        <item>Autoriser uniquement la listes blanches à démarrage automatique</item>
-        <item>Tout interdire</item>
+        <item>Personnaliser</item>
     </string-array>
 </resources>
