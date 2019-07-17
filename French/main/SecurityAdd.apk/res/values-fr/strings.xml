@@ -48,7 +48,6 @@
     <string name="call_control_title">开启来电验证</string>
     <string name="can_not_switch_when_green_kid_active">亲情守护中禁止切换分身</string>
     <string name="cancel_button">Annuler</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="clean_kid_space">删除儿童空间</string>
     <string name="close_password_dialog_message">关闭密码后，初始空间中的密码也将停用。并将删除已录入的指纹和人脸数据，你将无法使用指纹，人脸识别及设备保护功能</string>
     <string name="close_password_dialog_title">关闭密码验证</string>
@@ -128,12 +127,6 @@
     <string name="loading_failed">加载失败点击重试</string>
     <string name="lucky_result_title">Enveloppes rouges</string>
     <string name="main_toolbar_purchase">Recharger</string>
-    <string name="min_10">10</string>
-    <string name="min_20">20</string>
-    <string name="min_30">30</string>
-    <string name="min_40">40</string>
-    <string name="min_50">50</string>
-    <string name="min_60">60</string>
     <string name="miuishare_title_more">Plus</string>
     <string name="miuishare_title_share">Partager</string>
     <string name="miuishare_wechat_timeline_title">Moments WeChat</string>
@@ -188,7 +181,6 @@
     <string name="sound_control_desc">欢快的背景音乐让宝贝获得更多乐趣</string>
     <string name="sound_control_title">打开音效</string>
     <string name="switch_kid_mode">切换儿童空间</string>
-    <string name="theme_id">com_7idear.framework.theme</string>
     <string name="this_function_can_not_use_in_second_space">亲情守护只支持在初始空间使用，请切换到初始空间使用此功能。</string>
     <string name="time_control_desc">管理宝贝在儿童空间内的时间使用</string>
     <string name="time_control_title">时间管理</string>
