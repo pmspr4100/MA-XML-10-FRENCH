@@ -6,12 +6,12 @@
     <string name="accessibility_back_preview_status">"Aperçu de l'appareil photo arrière"</string>
     <string name="accessibility_beauty_panel_closed">Menu embellir caché</string>
     <string name="accessibility_beauty_panel_open">Menu embellir ouvert</string>
-    <string name="accessibility_beauty_switch_closed">Embellir désactivé</string>
-    <string name="accessibility_beauty_switch_open">Embellir activé</string>
+    <string name="accessibility_beauty_switch_closed">Menu embellir désactivé</string>
+    <string name="accessibility_beauty_switch_open">Menu embellir activé</string>
     <string name="accessibility_bokeh_adjust">Réglage du flou darrière-plan</string>
     <string name="accessibility_bokeh_level">Ouverture F%1$s</string>
-    <string name="accessibility_bokeh_normal">"Flou arrière de l'appareil photo avant est désactivé"</string>
-    <string name="accessibility_bokeh_on">"Flou arrière de l'appareil photo avant est activé"</string>
+    <string name="accessibility_bokeh_normal">"Flou d'arrière-plan de l'appareil photo avant est désactivé"</string>
+    <string name="accessibility_bokeh_on">"Flou d'arrière-plan de l'appareil photo avant est activé"</string>
     <string name="accessibility_camera_lighting_close_panel">"Menu des effets d'éclairage fermés"</string>
     <string name="accessibility_camera_lighting_open_panel">"Menu des effets d'éclairage ouvert"</string>
     <string name="accessibility_camera_liveshot_off">Clichés dynamiques désactivés</string>
@@ -124,7 +124,7 @@ et optimise vos photos en fonction des informations"</string>
     <string name="close_back_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
     <string name="close_front_flash_toast">"Votre appareil à surchauffé. impossible d'utiliser le flash maintenant."</string>
     <string name="color_effect_entry_berry">Baies</string>
-    <string name="color_effect_entry_blackwhite">N&amp;B</string>
+    <string name="color_effect_entry_blackwhite">Noir et Blanc</string>
     <string name="color_effect_entry_cookie">Gâteau</string>
     <string name="color_effect_entry_delicacy">Gourmet</string>
     <string name="color_effect_entry_fade">Fondu</string>
