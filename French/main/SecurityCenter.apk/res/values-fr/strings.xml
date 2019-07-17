@@ -181,6 +181,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="call_private">Bloquer les appels des numéros masqués</string>
     <string name="call_stranger_block">Bloquer les appels des personnes étranges</string>
     <string name="call_contact_block">Bloquer les appels des contacts</string>
+    <string name="call_delete_all_hint">Supprimer tous les appels bloqués ?</string>
     <string name="call_transfer_block">Bloquer les appels transférés</string>
     <string name="call_cloud_block">Liste noire du Cloud</string>
     <string name="call_oversea_block">"Bloquer les appels de l'étranger"</string>

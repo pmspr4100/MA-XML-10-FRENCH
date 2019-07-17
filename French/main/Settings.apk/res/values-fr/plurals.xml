@@ -156,6 +156,14 @@
       <item quantity="other">Le mot de passe doit comporter au moins %d lettres majuscules</item>
       <item quantity="one">Le mot de passe doit comporter au moins %d lettre majuscule</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">"Vous pouvez entrer jusqu'à %d caractères"</item>
+        <item quantity="one">"Vous pouvez entrer jusqu'à %d caractère"</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Entrez au moins %d caractères</item>
+        <item quantity="one">Entrez au moins %d caractère</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
       <item quantity="other">Le code PIN doit comporter %d chiffres</item>
       <item quantity="one">Le code PIN doit comporter %d chiffre</item>

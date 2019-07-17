@@ -2735,6 +2735,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="keywords_wifi">Wi-Fi;Wi-Fi;Wi-Fi;Wi-Fi;WLAN;WLAN</string>
     <string name="keywords_wifi_calling">Wi-Fi, Wi-Fi, appel, appels</string>
     <string name="keywords_write_settings">modifier paramètres système</string>
+    <string name="kid_space_settings">Espace enfant</string>
     <string name="keywords_zen_mode_settings">ne pas déranger, calendrier, notifications, bloquer, silence, vibreur, veille, travail, sélectionner, son, couper le son, jour, jour de semaine, week-end, soir de semaine, événement</string>
     <string name="kilobyteShort">Ko</string>
     <string name="kilobyte_per_second">ko/s</string>

@@ -1080,12 +1080,12 @@ une capture d'écran de défilement"</string>
     <string name="miui_ringer_total">NPD</string>
     <string name="miui_ringer_total_description">"Réduire les sons et désactiver le vibreur pour tous les éléments sauf l'alarme"</string>
     <string name="miui_screen_rotation_freeze_message">Rotation auto désactivée.</string>
-    <string name="miui_toast_zen_dnd_to_off">Sons et vibrations restaurés à la normale</string>
-    <string name="miui_toast_zen_standard_to_off">Sonneries restaurées à la normale</string>
-    <string name="miui_toast_zen_standard_to_off_when_shield_media">Les sonneries, ainsi que les notifications et les sons médiatiques, seront joués.</string>
-    <string name="miui_toast_zen_to_dnd">Les sons sont réduits au silence et les vibrations sont coupées</string>
-    <string name="miui_toast_zen_to_standard">Sonneries pour les appels et les notifications réduites au silence</string>
-    <string name="miui_toast_zen_to_standard_when_shield_media">Les sonneries, ainsi que les notifications et les sons médiatiques, seront silencieux.</string>
+    <string name="miui_toast_zen_dnd_to_off">Le mode NPD est désactiver. Les sons et les vibrations sont ramenés à la normale.</string>
+    <string name="miui_toast_zen_standard_to_off">Le mode NPD est désactiver. Les sonneries sont rétablies dans la normale.</string>
+    <string name="miui_toast_zen_standard_to_off_when_shield_media">Le mode NPD est désactiver. Les sonneries, ainsi que les notifications et des sons multimédias seront joués.</string>
+    <string name="miui_toast_zen_to_dnd">Basculer sur NPD. Les sons sont réduits au silence et les vibrations sont désactivées.</string>
+    <string name="miui_toast_zen_to_standard">Basculer sur NPD. Les sonneries pour les appels et les notifications sont maintenant désactivées.</string>
+    <string name="miui_toast_zen_to_standard_when_shield_media">Basculer sur NPD. Les sonneries, ainsi que les notifications et les sons de média, sont maintenant désactivés.</string>
     <string name="mobile_data">Données cellulaires</string>
     <string name="mobile_data_always_on">Données cellulaires toujours actives</string>
     <string name="mobile_data_always_on_summary">Toujours garder les données cellulaires actives, même lorsque le Wi-Fi est actif (pour un changement rapide de réseau).</string>
@@ -1224,7 +1224,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="open_camera_hint_text">"Faites glisser l'icône pour ouvrir l'appareil photo"</string>
     <string name="open_extreme_power_save_mode_title">"Activer l'économiseur de batterie extrême"</string>
     <string name="open_lock_screen_magazine_hint_text">"Faites glisser l'icône pour ouvrir le fond d'écran carrousel"</string>
-    <string name="open_remote_center_hint_text">"Faites glisser l'icône pour afficher les contrôles"</string>
+    <string name="open_remote_center_hint_text">"Faites glisser l'icône pour afficher les raccourcis"</string>
     <string name="other">Autre</string>
     <string name="overlay_display_devices_title">Simuler des affichages secondaires</string>
     <string name="overview">Description</string>
