@@ -4,9 +4,17 @@
         <item quantity="other">"%d jours avant l'événement"</item>
         <item quantity="one">"%d jour avant l'événement"</item>
     </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d jours plus tard</item>
+        <item quantity="one">%1$d jour plus tard</item>
+    </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">Dans %1$d jours à %2$s</item>
         <item quantity="one">Dans %1$d jour à %2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">il y a %1$d jours</item>
+        <item quantity="one">il y a %1$d jour</item>
     </plurals>
     <plurals name="Ndays_ago_at">
         <item quantity="other">"%1$d jours avant l'événement à %2$s"</item>
@@ -25,8 +33,8 @@
         <item quantity="one">"%d semaine avant l'événement"</item>
     </plurals>
     <plurals name="anniversary_day">
-        <item quantity="other">"%1$s avant l'événement"</item>
-        <item quantity="one">"%1$s avant l'événement"</item>
+        <item quantity="other">%1$s jours</item>
+        <item quantity="one">%1$s jour</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
         <item quantity="other">Anniversaire: %1$s à %2$d ans dans 3 jours</item>
@@ -41,8 +49,8 @@
         <item quantity="one">%1$s année</item>
     </plurals>
     <plurals name="birthday_event_description_days_ago">
-        <item quantity="other">Il y a %1$d jours</item>
-        <item quantity="one">Il y a %1$d jour</item>
+        <item quantity="other">il y a %1$d jours</item>
+        <item quantity="one">il y a %1$d jour</item>
     </plurals>
     <plurals name="birthday_event_description_days_later">
         <item quantity="other">Dans %1$d jours</item>
@@ -80,9 +88,8 @@
         <item quantity="other">Peut régler %d rappels</item>
         <item quantity="one">Peut régler %d rappel</item>
     </plurals>
-    <plurals name="month_more_events">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
+    <plurals name="feed_list_dislike_title">
+        <item quantity="other">已选%1$d个理由</item>
     </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" jours"</item>
@@ -126,7 +133,6 @@
     </plurals>
     <plurals name="weekN">
         <item quantity="other">SEMAINE %d</item>
-        <item quantity="one">SEMAINE %d</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d jours ouvrables</item>
