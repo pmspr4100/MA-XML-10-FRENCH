@@ -772,6 +772,7 @@ Lors de l'étalonnage, MIUI vous enverra un message à votre opérateur de recev
     <string name="gateway_exception_summary">Vérifiez votre routeur et réessayez.</string>
     <string name="gateway_exception_summary2">Impossible de se connecter au serveur</string>
     <string name="other_exception_title">Vérification des autres problèmes</string>
+    <string name="other_milink_connect">"Can't cast. Another feature is being cast now."</string>
     <string name="other_exception_summary">"Vous n'êtes pas connecté à Internet"</string>
     <string name="see_detail">Détails</string>
     <string name="choose">Choisir</string>
@@ -1703,7 +1704,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_privacy_dialog_title">Politique de confidentialité</string>
     <string name="antivirus_privacy_dialog_summary">"Cette fonctionnalité crypte et envoi l'identifiant de votre appareil aux serveurs d'Avast, AVL et Tencent (%s)."</string>
-    <string name="antivirus_privacy_dialog_summary_link">voir la politique de confidentialité</string>
+    <string name="antivirus_privacy_dialog_summary_link">Politique de confidentialité</string>
     <string name="antivirus_privacy_dialog_cloudscan">Envoyer les noms et détails des applications</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
@@ -1749,6 +1750,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="uninstall_danagerous_desc">\" %s \" peut endommager votre appareil</string>
     <string name="uninstall_danagerous_msg">\" %s \" peut endommager votre appareil, réduire les performances ou provoquer des redémarrages.</string>
     <string name="still_retain_btn">Garder</string>
+    <string name="stop_milink_connect">Stopped casting</string>
     <string name="uninstall_danagerous_btn">Désinstaller</string>
     <string name="app_install_tips_install_success">%1$s installé avec succès</string>
     <string name="open_app">Ouvrir</string>
@@ -1921,13 +1923,20 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="fingerprint_to_lock">Déverrouiller avec empreinte digitale</string>
     <string name="system_application">Applications système</string>
     <string name="system_permission_declare_agree">Accepter</string>
+    <string name="system_permission_declare_disagree">Disagree</string>
     <string name="system_permission_declare_double_link">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
     <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante: %2s."</string>
     <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
     <string name="system_permission_declare_privacy_declare">"Nous respectons et protégeons votre vie privée.
 Notez que %1s a besoin de collecter vos données et nécessite les permissions suivantes pour fonctionner normalement:"</string>
-    <string name="system_permission_declare_revoke_path">Vous pouvez désinstaller cette application, vous déconnecter de votre compte ou gérer vos permissions dans Sécurité. &gt; Gestion des applications &gt; Permissions &gt; Autres permissions.</string>
+    <string name="system_permission_declare_privacy_no_permission">"Note that %1s needs to collect your data to work normally.
+We respect and protect your privacy."</string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_revoke_system">You can exit this app.</string>
+    <string name="system_permission_declare_revoke_uninstallable">You can uninstall this app or manage your permissions and authorization in Security &gt; Manage apps &gt; Permissions &gt; Other permissions.</string>
     <string name="system_permission_declare_use_network">Se connecter au réseau</string>
+    <string name="system_permission_declare_use_network_no_permission">Connect to the network</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; before using this feature.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">Faire des appels</string>
     <string name="system_permission_perm_read_mms">Lire le MMS</string>
     <string name="system_permission_perm_read_numbers">Lire les numéros de téléphone</string>
@@ -2479,8 +2488,10 @@ Notez que %1s a besoin de collecter vos données et nécessite les permissions s
     <string name="gamebox_func_immersion_close">Le mode immersif est désactivé maintenant</string>
     <string name="noti_back_diving_mode_title">Mode immersif Activé . Appuyez pour désactiver.</string>
     <string name="alert_back_diving_mode_title">Mode immersif</string>
+    <string name="alert_back_milink_hangup_tips_content">"Casting won't be interrupted while you're ending a call. You can press the Power button to wake the screen."</string>
     <string name="alert_back_diving_mode_summary">Désactiver le mode Immersif maintenant ?</string>
     <string name="gamebox_immerson_open">Activaction du mode immersif, ne changez pas de réseau…</string>
+    <string name="gamebox_milink">Cast</string>
     <string name="create_gamebooster_destop">"Création du raccourci de l'écran d'accueil avec succès"</string>
     <string name="notify_diving_mode_exception_close">Mode immersif désactivé avec succès</string>
     <string name="notify_diving_mode_exception_open_fail">"Une erreur de la carte SIM s'est produite. Impossible d'activer le mode immersif."</string>

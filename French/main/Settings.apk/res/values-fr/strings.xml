@@ -857,6 +857,8 @@ Applications:
     <string name="bluetooth_disable_absolute_volume_summary">Désactivez tout le volume du Bluetooth en cas de problème de volume avec des périphériques distants, par exemple un volume inacceptable ou une incapacité à le contrôler.</string>
     <string name="bluetooth_disable_inband_ringing">Disable in-band ringing</string>
     <string name="bluetooth_disable_inband_ringing_summary">Don’t play custom phone ringtones on Bluetooth headsets</string>
+    <string name="bluetooth_disable_mi_fast_connect">Disable Mi Fast Connect</string>
+    <string name="bluetooth_disable_mi_fast_connect_summary">Disable Mi Fast Connect Feature</string>
     <string name="bluetooth_disable_profile_message">Le profil:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>va être désactivé sur:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Désactiver le profil ?</string>
     <string name="bluetooth_disabled">Désactivé</string>
@@ -2453,6 +2455,7 @@ Lorsque vous activez la sauvegarde automatique, les données de l'appareil et de
     <string name="google_title">Paramètres Google</string>
     <string name="got_it">"C'est compris"</string>
     <string name="gsm_to_wifi_connect_type_title">Cellulaire par Wi-Fi</string>
+    <string name="gxzw_add_fingerprint_area">Fingerprint scanner</string>
     <string name="gxzw_add_fingerprint_continue">Continuer</string>
     <string name="gxzw_add_fingerprint_edge_message">Déplacez vos doigts pour que le capteur enregistre les bords de vos empreintes digitales</string>
     <string name="gxzw_add_fingerprint_edge_title">Ajustez votre prise</string>

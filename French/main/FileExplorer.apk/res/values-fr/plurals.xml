@@ -200,13 +200,18 @@
         <item quantity="other">Checked in %1$s days in a row, keep going!</item>
         <item quantity="one">Checked in %1$s day in a row, keep going!</item>
     </plurals>
+    <plurals name="text_group_count">
+        <item quantity="other">%d fichiers</item>
+        <item quantity="zero"> %1$d fichiers</item>
+        <item quantity="one">%d fichier</item>
+    </plurals>
     <plurals name="total_topic_num">
-        <item quantity="other">%1$s topics</item>
-        <item quantity="one">%1$s topic</item>
+        <item quantity="other">%1$s sujets</item>
+        <item quantity="one">%1$s sujet</item>
     </plurals>
     <plurals name="total_user_num">
-        <item quantity="other">%1$s people</item>
-        <item quantity="one">%1$s person</item>
+        <item quantity="other">%1$s personnes</item>
+        <item quantity="one">%1$s personne</item>
     </plurals>
 </resources>
 

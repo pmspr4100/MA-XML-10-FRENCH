@@ -414,6 +414,8 @@ Bluetooth"</string>
     <string name="choose_network_title">Sélectionner un réseau</string>
     <string name="choose_profile">Sélectionner un profil</string>
     <string name="clear_adb_keys">Annuler autorisations pour débog. USB</string>
+    <string name="clear_all_set_button">clear setting</string>
+    <string name="clear_all_set_title">this button is for clear all setting</string>
     <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">ACM est supérieur ou égal à ACMmax</string>
     <string name="clh_callFailed_access_information_discarded_txt">"Informations d'accès ignorées"</string>
     <string name="clh_callFailed_bearer_capability_not_authorized_txt">Capacité du support non autorisée</string>
@@ -701,6 +703,8 @@ Bluetooth"</string>
     <string name="entertainment_news_settings">Actualités de divertissement</string>
     <string name="eo_disable">"Les offres d'emploi sont désactivées"</string>
     <string name="eo_enable">"Les offres d'emploi sont activées"</string>
+    <string name="eps_only_set_button">set eps only</string>
+    <string name="eps_only_set_title">this button is for setting eps only</string>
     <string name="error_updating_title">"Erreur des paramètres d'appel"</string>
     <string name="exception_error">Erreur de réseau ou de carte SIM.</string>
     <string name="expand_button_title">Options avancées</string>
@@ -759,6 +763,7 @@ Bluetooth"</string>
     <string name="force_resizable_activities_summary">Permettre de redimensionner toutes les activités pour le mode multifenêtre, indépendamment des valeurs du fichier manifeste</string>
     <string name="force_rtl_layout_all_locales">Forcer droite à gauche</string>
     <string name="force_rtl_layout_all_locales_summary">Forcer orient. droite à gauche pour toutes langues</string>
+    <string name="frequecy_num">lte channel num</string>
     <string name="fw_change_failed">"Impossible de modifier le numéro de transfert.
 Veuillez contacter votre opérateur si le problème persiste."</string>
     <string name="fw_get_in_vm_failed">"Impossible de récupérer et d'enregistrer les paramètres actuels du numéro de transfert.
@@ -892,6 +897,9 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="local_weather_enable">La météo locale est activée</string>
     <string name="lodgings_disable">Les hébergements sont désactivés</string>
     <string name="lodgings_enable">Les hébergements sont activés</string>
+    <string name="lte_band_sel_setting">band list</string>
+    <string name="lte_band_set_status">lte band set</string>
+    <string name="lte_freq_set_button">set freq and pci</string>
     <string name="maintenance_disable">La maintenance est désactivée</string>
     <string name="maintenance_enable">La maintenance est activée</string>
     <string name="manageConferenceLabel">Gérer la conférence téléphonique</string>
@@ -955,6 +963,10 @@ Voulez-vous tout de même changer de fournisseur ?"</string>
     <string name="mock_location_app_set">Application de position fictive: \"%1$s\"</string>
     <string name="modem_dialog_body">"Le réseau mobile n'est pas stable provoquant ainsi des interruptions ou des problèmes de réseau. Envoyer un rapport de bogue à Mi pour analyse ? Ce rapport peut contenir des informations personnelles identifiables. Votre rapport sera utilisé pour aider à résoudre ce bogue et ne sera jamais partagé dans un contexte commercial."</string>
     <string name="modem_dialog_title">"Le réseau n'est pas stable"</string>
+    <string name="modem_set_title">MODEM SETTING</string>
+    <string name="modem_setting_button_title">Enter into setting manu</string>
+    <string name="modem_setting_info">MODEM SETTING INFO</string>
+    <string name="modem_setting_text_title">modem test property setting</string>
     <string name="msim_apn_not_set">Non défini</string>
     <string name="msim_cmcc_dds_switch_not_support">"Impossible de changer de carte SIM en raison des restrictions de l'opérateur."</string>
     <string name="msim_default_setting">Paramètres par défaut</string>
@@ -1146,6 +1158,7 @@ Veuillez réessayer ou appeler le service client pour plus d'options."</string>
 "</string>
     <string name="pause_prompt_yes">Oui</string>
     <string name="payphone">Cabine téléphonique</string>
+    <string name="pci_num">lte pci num</string>
     <string name="phoneAppLabel">Services téléphoniques</string>
     <string name="phoneIconLabel">Téléphone</string>
     <string name="phone_account_settings">Comptes des appels</string>
@@ -1719,10 +1732,10 @@ Cette tablette ne possède pas d'écouteur. Vous pouvez passer en mode Mains lib
     <string name="volte_provision_title">Activer les appels VoLTE</string>
     <string name="volte_switch_not_support_summary">Les appels VoLTE ne sont pas pris en charge pour la carte SIM de données mobiles.</string>
     <string name="volte_switch_not_support_summary2">"Les appels VoLTE ne sont pas pris en charge par l'opérateur."</string>
-    <string name="volte_switch_summary">Utiliser VoLTE pour améliorer la qualité de la voix et de la vidéo</string>
+    <string name="volte_switch_summary">Utiliser VoLTE pour améliorer la qualité des appels vocaux</string>
     <string name="volte_switch_summary2">"Confirmez que votre opérateur prend en charge cette fonctionnalité avant de l'activer. Sinon, les appels réguliers pourraient être affectés."</string>
     <string name="volte_switch_title">Réseaux VoLTE</string>
-    <string name="volte_switch_title_ct">Réseaux VoLTE</string>
+    <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">"Les services VoLTE de China Telecom ne sont fournis que dans les zones couvertes par le réseau VoLTE. Les services VoLTE sont fournis par l'opérateur."</string>
     <string name="vowifi_emergency_notification_channel">"Avertissement d'appel d'urgence Wi-Fi"</string>
     <string name="vowifi_emergency_notification_content">"Les appels d'urgence sont possibles dans les zones couvertes par le réseau mobile"</string>

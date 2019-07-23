@@ -77,7 +77,6 @@
     <string name="desktop_installing">Installation</string>
     <string name="desktop_wait_network">Patienter…</string>
     <string name="desktop_failed">Erreur</string>
-    <string name="recover_from_micloud">Restaurer à partir de la sauvegarde Mi Cloud</string>
     <string name="click_try_to_restore_again">Appuyez pour essayer à nouveau</string>
     <string name="open_wifi">Activer le Wi-Fi maintenant</string>
     <string name="open_wifi_description">Se connecter au Wi-Fi pour restaurer les applications</string>
@@ -131,6 +130,7 @@
     <string name="restore_finished_notification_content">"Les applications de l'écran d'accueil, les paramètres système, etc ont été restaurés."</string>
     <string name="backup_now">Sauvegarder maintenant</string>
     <string name="restore_unfinished">Restauration, réessayez plus tard</string>
+    <string name="restoring_data">Restauration des données…</string>
     <string name="remove_unfinished">Retrait, réessayez plus tard</string>
 	<string name="restore_app_order_finish">Terminé</string>
     <string name="restore_app_order_loading">Chargement…</string>

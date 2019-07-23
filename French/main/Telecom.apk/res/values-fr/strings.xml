@@ -302,6 +302,7 @@ Bluetooth"</string>
     <string name="local_backup_password_toast_validation_failure">Échec de la définition du mot de passe de secours.</string>
     <string name="managed_user_title">Toutes applis profession.</string>
     <string name="media_category">Multimédia</string>
+    <string name="missedcall_notification_public_version_title">Téléphone</string>
     <string name="mobile_data_always_on">Données mobiles toujours actives</string>
     <string name="mobile_data_always_on_summary">"Maintenir les données mobiles à l'état actif, même lorsque le Wi‑Fi est actif (pour changer rapidement de réseau)"</string>
     <string name="mock_location_app">"Sélectionner l'application de position fictive"</string>

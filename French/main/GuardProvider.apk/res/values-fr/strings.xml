@@ -14,17 +14,17 @@
     <string name="DesAvast">Avast</string>
     <string name="tencent_dialog_title">Politique de confidentialité de Tencent</string>
     <string name="tencent_dialog_header">"Cette fonctionnalité crypte et envoi l'identifiant de votre appareil aux serveurs de AVL et Tencent (%s)."</string>
-    <string name="tencent_dialog_policy">consulter la politique de confidentialité</string>
+    <string name="tencent_dialog_policy">Politique de confidentialité</string>
     <string name="tencent_dialog_cloudscan">Envoyer et analyser les noms et détails des applications en utilisant les bases de données de virus en ligne.</string>
     <string name="tencent_dialog_dbupdate">Mise à jour automatique de la base de données virales</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="avl_dialog_title">"Politique de confidentialité d'AVL"</string>
     <string name="avl_dialog_header">"Cette fonctionnalité crypte et envoi l'identifiant de votre appareil aux serveurs d'AVL (%s)."</string>
-    <string name="avl_dialog_policy">consulter la politique de confidentialité</string>
+    <string name="avl_dialog_policy">Politique de confidentialité</string>
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_dialog_title">"Politique de confidentialité d'Avast"</string>
     <string name="avast_dialog_header">"Cette fonctionnalité crypte et envoi l'identifiant de votre appareil aux serveurs d'Avast (%s)."</string>
-    <string name="avast_dialog_policy">afficher la politique de confidentialité</string>
+    <string name="avast_dialog_policy">Politique de confidentialité</string>
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">Le virus est un logiciel de publicité. Il affiche automatiquement des publicités.</string>
     <string name="avast_virus_type_cryportor_description">"Le virus est un cryptor. C'est un logiciel malveillant qui est transmis et se réplique dans l'espace de stockage."</string>
