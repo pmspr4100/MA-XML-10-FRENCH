@@ -1006,6 +1006,12 @@ Pour améliorer l'expérience d'utilisation de l'appareil, les applications et l
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Audio LDAC Codec: Qualité de lecture</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sélectionner Bluetooth Audio LDAC Codec:
  Qualité de lecture"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth Audio Codec LHDC: Latence</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Sélectionnez le codec Bluetooth Audio LHDC:
+Latence"</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth Audio LDAC Codec: Qualité de lecture</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Sélectionnez le codec Bluetooth Audio LDAC:
+Qualité de lecture"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">"Taux d'échantillon d'audio bluetooth"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sélectionner Bluetooth Audio Coded
  Echantillon"</string>
@@ -1141,6 +1147,14 @@ Cette fonctionnalité peut être désactivée dans [Settings]"</string>
     <string name="bt_ldac_open_dialog_title">Activer LDAC ?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Attributs</string>
+    <string name="bt_lhdc_declaration">"Lorsqu'un périphérique Bluetooth prend en charge le protocole LHDC, il sera connecté par défaut. LHDC fournit une expérience audio de haute qualité, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir lors de la lecture en raison de limitations matérielles Bluetooth."</string>
+    <string name="bt_lhdc_dialog_summary">"LHDC fournit une expérience audio de haute qualité et apporte également une consommation d'énergie supérieure
+Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
+    <string name="bt_lhdc_dialog_title">Le périphérique actuel prend en charge LHDC, qui a été connecté par défaut:</string>
+    <string name="bt_lhdc_open_dialog_summary">"LHDC fournit une expérience audio de haute qualité, mais augmente également la consommation d'énergie. Des problèmes peuvent survenir lors de la lecture en raison de limitations matérielles Bluetooth."</string>
+    <string name="bt_lhdc_open_dialog_title">Activer LHDC ?</string>
+    <string name="bt_lhdc_pre_title">LHDC</string>
+    <string name="bt_lhdc_property">Attributes</string>
     <string name="bt_pre_summary">Fournit une expérience audio de haute qualité</string>
     <string name="bt_rarely_used_device_title">Appareils rarement utilisés (%d)</string>
     <string name="bt_trace_log">Activer le suivi du journal Bluetooth</string>

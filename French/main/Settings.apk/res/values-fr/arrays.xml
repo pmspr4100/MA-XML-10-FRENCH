@@ -280,6 +280,28 @@
       <item>Optimisé pour la qualité de connexion (330kbps/303kbps)</item>
       <item>Meilleur effort (débit binaire adaptatif)</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Latence courte</item>
+        <item>Latence moyenne</item>
+        <item>Longue latence</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Latence courte (50~100ms)</item>
+        <item>Latence moyenne (150~200ms)</item>
+        <item>Longue latence (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimisé pour la qualité de la connexion</item>
+        <item>Qualité audio et de connexion équilibrée</item>
+        <item>Optimisé pour la qualité audio</item>
+        <item>Meilleur effort (débit binaire automatique)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimisé pour la qualité de la connexion (400kbps)</item>
+        <item>Qualité audio et de connexion équilibrée (500/560kbps)</item>
+        <item>Optimisé pour la qualité audio (900kbps)</item>
+        <item>Meilleur effort (Auto Bit Rate)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
       <item>Utiliser sélection du système (par défaut)</item>
       <item>44.1 kHz</item>
@@ -302,6 +324,7 @@
       <item>AudioQualcomm® aptX™ HD</item>
       <item>LDAC</item>
       <item>AudioQualcomm® aptX™ Adaptive</item>
+      <item>LHDC</item>
       <item>Activer les codecs facultatifs</item>
       <item>Désactiver les codecs facultatifs</item>
     </string-array>
@@ -313,6 +336,7 @@
       <item>Audio Qualcomm® aptX™ HD</item>
       <item>LDAC</item>
       <item>AudioQualcomm® aptX™ Adaptive</item>
+      <item>LHDC</item>
       <item>Activer les codecs facultatifs</item>
       <item>Désactiver les codecs facultatifs</item>
     </string-array>

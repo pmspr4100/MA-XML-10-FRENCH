@@ -429,12 +429,12 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="one">    + %1$d plus de caractère</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-      <item quantity="other">Peut cacher %d applications</item>
-      <item quantity="one">Peut cacher %d application</item>
+      <item quantity="other">"Icône de l'écran d'accueil masquée pour %d applications"</item>
+      <item quantity="one">"Icône de l'écran d'accueil masquée pour %d application"</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-      <item quantity="other">%d applications sont cachées</item>
-      <item quantity="one">%d application est cachée</item>
+      <item quantity="other">"L'icône de l'écran d'accueil n'est pas masquée pour %d applications"</item>
+      <item quantity="one">"L'icône de l'écran d'accueil n'est pas masquée pour %d application"</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
       <item quantity="other">%1$d problèmes nécessitent une optimisation</item>

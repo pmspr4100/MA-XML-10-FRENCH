@@ -448,7 +448,6 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
     <string name="confirm_new_pwd">Confirmer le nouveau mot de passe</string>
     <string name="inconsistent_pwd">Les mots de passe ne correspondent pas</string>
     <string name="same_new_and_old_pwd">Ne peut pas être identique au mot de passe actuel</string>
-    <string name="scan_barcode">Scannez le code QR pour vous connecter</string>
     <string name="account_security_info_pref_title">Informations de sécurité</string>
     <string name="account_bind_settings">Comptes</string>
     <string name="account_bind_devices">Appareils</string>

@@ -132,7 +132,7 @@
     <string name="restore_unfinished">Restauration, réessayez plus tard</string>
     <string name="restoring_data">Restauration des données…</string>
     <string name="remove_unfinished">Retrait, réessayez plus tard</string>
-	<string name="restore_app_order_finish">Terminé</string>
+    <string name="restore_app_order_finish">Terminé</string>
     <string name="restore_app_order_loading">Chargement…</string>
     <string name="restore_app_order_retry">Réessayer</string>
     <string name="restore_app_order_retry_desc">"Impossible de se connecter au réseau.
