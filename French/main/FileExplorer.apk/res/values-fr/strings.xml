@@ -5,6 +5,8 @@
     <string name="ad_download">Télécharger</string>
     <string name="add_private">Masquer les fichiers maintenant</string>
     <string name="add_private_files">Ajouter des fichiers</string>
+    <string name="app_function">Gérer les fichiers sur votre appareil</string>
+    <string name="app_name">Fichiers</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Appareil photo</string>
     <string name="app_name_downloadedrom">Paquets</string>
@@ -128,6 +130,7 @@
     <string name="error_create_dir">Impossible de créer le dossier</string>
     <string name="error_create_file">Impossible de créer le fichier</string>
     <string name="error_delete_failed">Impossible de supprimer le fichier</string>
+    <string name="error_file_already_exists">Ce fichier existe déjà</string>
     <string name="error_filename_too_long">Le nom du fichier que vous avez entré est trop long.</string>
     <string name="error_folder_already_exists">Ce fichier existe déjà</string>
     <string name="error_info_cant_send_folder">"Impossible d'envoyer les dossiers."</string>
@@ -166,6 +169,9 @@
     <string name="ftp_transfer_secure">Sécurité</string>
     <string name="ftp_username_and_passworld">Se connecter</string>
     <string name="ftp_username_hint">Utilisateur</string>
+    <string name="function_file_operation">"Pour accéder aux fichiers et les ouvrir; "</string>
+    <string name="function_set_private">"Pour visualiser et chiffrer des fichiers; "</string>
+    <string name="function_use_imei">"Pour accéder à IMEI et chiffrer des fichiers; "</string>
     <string name="gbk_summary">Encodage par défaut Windows chinois simplifié</string>
     <string name="gigabyteShort">Go</string>
     <string name="group_title">%2$s dans %1$s</string>
@@ -173,7 +179,7 @@
     <string name="group_title_extra_expire">"Sur le point d'expirer"</string>
     <string name="group_title_extra_new">Nouveau</string>
     <string name="home_action_up">Retour</string>
-    <string name="home_title">Fichiers</string>
+    <string name="home_title">Gestionnaire de fichiers</string>
     <string name="homepage_tab_category">Catégories</string>
     <string name="homepage_tab_file_view_phone">Stockage</string>
     <string name="homepage_tab_recent">Récent</string>
