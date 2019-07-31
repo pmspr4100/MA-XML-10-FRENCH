@@ -6,12 +6,13 @@
     <string name="btn_changelog">Changelog</string>
     <string name="btn_download">Téléchargement (%1$s)</string>
     <string name="btn_error">"Une erreur s'est produite, essayez à nouveau ?"</string>
-    <string name="btn_install">Installer</string>
+    <string name="btn_install">Vérifiez MD5 et Installer</string>
     <string name="btn_no">Annuler</string>
     <string name="btn_ok">OK</string>
     <string name="btn_pause">Pause</string>
     <string name="btn_share">Partager</string>
     <string name="btn_stop">Arrêter</string>
+    <string name="btn_wrong_md5">Bad MD5, click to remove ROM!</string>
     <string name="btn_yes">Oui</string>
     <string name="channel_downloading">Progression du téléchargement</string>
     <string name="channel_update">Nouvelle version disponible</string>

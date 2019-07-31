@@ -185,6 +185,10 @@
     <string name="dialog_insufficient_space_on_cache">"Impossible de terminer le téléchargement, l'espace de stockage interne restant est insuffisant."</string>
     <string name="dialog_insufficient_space_on_external">"Impossible de terminer le téléchargement. L'espace sur la carte SD est insuffisant."</string>
     <string name="dialog_media_not_found">"Impossible de télécharger. La carte SD n'est pas disponible."</string>
+    <string name="dialog_my_playlist_online_changed_merge">Garder</string>
+    <string name="dialog_my_playlist_online_changed_message">"On dirait que cette playlist a changé. Vous pouvez la remplacer par la nouvelle version ou conserver l’ancienne."</string>
+    <string name="dialog_my_playlist_online_changed_replace">Replacer</string>
+    <string name="dialog_my_playlist_set_to_public">Partager cette playlist sur Mi Musique</string>
     <string name="dialog_queued_body">"Ce fichier est mis en file d'attente pour un téléchargement à venir."</string>
     <string name="dialog_renew_failure">"Désolé, l'action a échoué"</string>
     <string name="dialog_renew_free_end">Votre essai gratuit est terminé. Abonnez-vous à Hungama PRO?</string>
@@ -381,7 +385,10 @@
     <string name="home_tab_yandex">Yandex Musique</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">Seuls les membres PRO peuvent télécharger plusieurs chansons. Obtenez dès maintenant un abonnement PRO ?</string>
-    <string name="hungama_category_chart">Charte</string>
+    <string name="hungama_category_chart">Hit-parade</string>
+    <string name="hungama_category_playlist">Playlists</string>
+    <string name="hungama_category_radio">Radio</string>
+    <string name="hungama_category_video">Vidéos</string>
     <string name="hungama_free_download_out_summary">Vous ne pouvez pas télécharger plus de chansons gratuites. Obtenez un abonnement PRO pour télécharger des chansons illimitées ?</string>
     <string name="hungama_playlist_category">Catégorie de playlist</string>
     <string name="hungama_privacy_desc">Politique de confidentialité de Hungama (facultatif)</string>
@@ -489,6 +496,10 @@
     <string name="my_account">Compte Mi</string>
     <string name="my_music_empty">La playlist est vide.</string>
     <string name="my_music_empty_goto_online">Aucune chanson trouvée</string>
+    <string name="my_playlist_add_song">Add songs</string>
+    <string name="my_playlist_create_self_playlist">Create playlists with your favorite songs</string>
+    <string name="my_playlist_set_to_private">Make private</string>
+    <string name="my_playlist_set_to_public">Make public</string>
     <string name="network_error_and_retry">Impossible de se connecter, appuyer pour réessayer</string>
     <string name="network_request_error">Impossible de se connecter au réseau</string>
     <string name="network_settings_error">Impossible de se connecter au réseau</string>
@@ -580,6 +591,8 @@
     <string name="permission_declaration_negative_text">Plus tard</string>
     <string name="permission_declaration_positive_text">Aller à Sécurité</string>
     <string name="permission_declaration_title">"Autoriser l'accès"</string>
+    <string name="permission_open">Autoriser</string>
+    <string name="permission_required">Permissions requises</string>
     <string name="pick_favorite_song">Favoris</string>
     <string name="pick_local_song">Chansons locales</string>
     <string name="pick_recent_song">Récemment lu</string>
@@ -627,6 +640,7 @@
     <string name="remove_download">Retirer</string>
     <string name="repeat_all_notif">Répétition de tous les morceaux.</string>
     <string name="repeat_current_notif">Répétition de la chanson en cours.</string>
+    <string name="request_overlay_permission_desc">Allow Mi Music to display floating windows to be able to use this feature.</string>
     <string name="request_share_info">Chargement…</string>
     <string name="request_subscription_status">Chargement…</string>
     <string name="restart_immediate">Redémarrer</string>
@@ -657,6 +671,7 @@
     <string name="search_hint">Rechercher des artistes, des chansons, des albums et des recommandations</string>
     <string name="search_history_clear_all">Effacer</string>
     <string name="search_history_delete_all_dialog_titile">"Effacer l'historique de recherche maintenant ?"</string>
+    <string name="search_in_youtube">Search on YouTube</string>
     <string name="search_instant_online_music">En ligne</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="search_result_local_songs">Locale</string>
@@ -696,6 +711,7 @@
     <string name="share_image_error">"Impossible de partager l'image en raison d'une erreur de téléchargement"</string>
     <string name="share_text_list">"Playlist de Mi Musique: "</string>
     <string name="share_text_song">"Chanson dans Mi Musique: "</string>
+    <string name="show_float_first_hint">Minimize player</string>
     <string name="show_more">Afficher %s de plus</string>
     <string name="shuffle_music">Lecture aléatoire</string>
     <string name="shuffle_off_notif">Lecture aléatoire désactivée.</string>
@@ -767,6 +783,9 @@
     <string name="toast_download_error_by_vip_required">Obtenir le Pack de chansons Premium pour télécharger cette chanson.</string>
     <string name="toast_download_in_process">Téléchargement en cours</string>
     <string name="toast_is_pro">Vous êtes déjà un membre PRO.</string>
+    <string name="toast_my_playlist_illegal_name">"The title of this playlist isn't valid. Rename this playlist."</string>
+    <string name="toast_my_playlist_set_to_private">"This playlist is private now. Other people can't see it."</string>
+    <string name="toast_my_playlist_set_to_public">This playlist is public now. Other people can see it.</string>
     <string name="toast_new_playlist_name_no_enter">Impossible de commencer un nouveau paragraphe</string>
     <string name="toast_new_playlist_name_too_long">Le nom de la playlist est trop long</string>
     <string name="toast_normal_songs_for_download">La qualité de téléchargement est définie sur Standard</string>
