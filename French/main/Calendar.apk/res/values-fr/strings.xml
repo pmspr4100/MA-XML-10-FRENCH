@@ -178,8 +178,6 @@
     <string name="delete_this_event_title">Supprimer cet événement ?</string>
     <string name="description_calendar">Applications système/Agenda</string>
     <string name="description_calendar_edit_event">Applications système/Calendrier/Paramètres</string>
-    <string name="description_calendar_huangli"/>
-    <string name="description_calendar_subscribe_group"/>
     <string name="di_zhi">地支</string>
     <string name="directory_searching_fmt">Recherche de %s…</string>
     <string name="discard_label">Annuler</string>
@@ -534,7 +532,6 @@
     <string name="month_medium_september">Sep</string>
     <string name="month_view">Mois</string>
     <string name="monthly">Tous les mois</string>
-    <string name="monthly_on_day">Monthly (on the same day each month)</string>
     <string name="monthly_on_day">Mensuel (même date)</string>
     <string name="more_match">更多赛事</string>
     <string name="more_string">+%1$d</string>
@@ -679,14 +676,12 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="repeat_label_choose_month">Sélectionnez un mois</string>
     <string name="repeat_label_choose_time">Sélectionnez la date de rappel</string>
     <string name="repeat_label_choose_week">Sélectionnez une semaine</string>
-    <string name="repeat_label_frequency">Répétition</string>
-    <string name="repeat_label_frequency">Frequency</string>
+    <string name="repeat_label_frequency">Fréquence</string>
     <string name="repeat_label_interval">Every</string>
     <string name="repeat_label_week">Week</string>
     <string name="repeat_lunar_monthly_chinese_calendar">农历每月</string>
     <string name="repeat_lunar_monthly_detail_chinese_calendar">农历每月（%1$s）</string>
     <string name="repeat_lunar_yearly_chinese_calendar">农历每年</string>
-    <string name="repeat_lunar_yearly_detail"/>
     <string name="repeat_lunar_yearly_detail_chinese_calendar">农历每年（%1$s）</string>
     <string name="repeats_label">Répéter</string>
     <string name="response_maybe">Peut-être</string>
