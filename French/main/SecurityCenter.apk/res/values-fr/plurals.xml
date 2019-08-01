@@ -180,6 +180,22 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="other">"%s minutes jusqu'à la charge complète"</item>
       <item quantity="one">"%s minute jusqu'à la charge complète"</item>
     </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minutes since last charge</item>
+        <item quantity="one">%d minute since last charge</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d seconds since last charge</item>
+        <item quantity="one">%d second since last charge</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d minutes remaining</item>
+        <item quantity="one">%d minute remaining</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d hours remaining</item>
+        <item quantity="one">%d hour remaining</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
       <item quantity="other">%2$d apps, y compris %1$s, épuisent la batterie</item>
       <item quantity="one">%2$d app, y compris %1$s, épuisent la batterie</item>
@@ -429,12 +445,12 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="one">    + %1$d plus de caractère</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-      <item quantity="other">"Icône de l'écran d'accueil masquée pour %d applications"</item>
-      <item quantity="one">"Icône de l'écran d'accueil masquée pour %d application"</item>
+      <item quantity="other">"%d app icons aren't hidden"</item>
+        <item quantity="one">"%d app icon isn't hidden"</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-      <item quantity="other">"L'icône de l'écran d'accueil n'est pas masquée pour %d applications"</item>
-      <item quantity="one">"L'icône de l'écran d'accueil n'est pas masquée pour %d application"</item>
+      <item quantity="other">%d app icons hidden</item>
+        <item quantity="one">%d app icon hidden</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
       <item quantity="other">%1$d problèmes nécessitent une optimisation</item>

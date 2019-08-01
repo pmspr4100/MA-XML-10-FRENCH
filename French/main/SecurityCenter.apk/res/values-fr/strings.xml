@@ -1054,6 +1054,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="boot_time_day_tomorrow">Éteindre demain à %1$s</string>
     <string name="boot_time">Mis sous tension à %1$s</string>
     <string name="battery_stats_on_battery">%1$s sur la batterie</string>
+    <string name="battery_statistics_activity_title">Battery usage stats</string>
     <string name="battery_stats_charging_label">En charge</string>
     <string name="battery_stats_screen_on_label">Écran allumé</string>
     <string name="battery_stats_gps_on_label">GPS activé</string>
@@ -1098,7 +1099,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="btn_text_optimize_now">Optimiser</string>
     <string name="btn_text_optimize_manually">Optimiser manuellement</string>
     <string name="battery_history_activity_title">Historique</string>
-    <string name="btn_text_goto_power_rank">Afficher le classement de la batterie</string>
+    <string name="btn_text_goto_power_rank">Afficher toutes les stats</string>
     <string name="btn_text_goto_setup">Accéder aux paramètres</string>
     <string name="power_save_title_text">Économiseur de batterie</string>
     <string name="power_save_summary_text">"Activer l'Économiseur de batterie pour réduire les activités à l'arrière-plan, arrêter les synchronisations et minimiser les animations système."</string>
@@ -1249,6 +1250,10 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="hide_mode_result_summary_text">"Personnaliser les paramètres d'économiseur de batterie pour des applications individuelles"</string>
     <string name="auto_task_result_summary_text">"Définir des tâches automatisées pour l'économiseur de batterie"</string>
     <string name="pc_settings_title">"Paramètre de l'optimisation de la batterie"</string>
+    <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm remaining</string>
+    <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm since last charge</string>
+    <string name="pc_statistics_battery_use_summary">%s since last charge</string>
+    <string name="pc_statistics_battery_use_title">Battery usage</string>
     <string name="pc_main_activity_back">Retour</string>
     <string name="pc_main_battery_text_day">Ajouté %1$s m, sur %2$s j restante</string>
     <string name="pc_main_battery_text_day_hour">Ajouté %1$s m, sur %2$s j %3$s h restante</string>
@@ -1620,8 +1625,8 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="superpower_dialog_title">Économiseur de batterie ultra</string>
     <string name="superpower_notification_hint_enter">Activer</string>
     <string name="superpower_notification_summary">Turn on Ultra battery saver</string>
-    <string name="superpower_notification_time_12">dd MMMM, EEEE</string>
-    <string name="superpower_notification_time_24">dd MMMM, EEEE</string>
+    <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
+    <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
     <string name="superpower_notification_title">Moins de 10% de batterie restante</string>
     <string name="superpower_progress_content">"Activer l'économiseur de batterie ultra…"</string>
     <string name="superpower_progress_left_time">%1$d h %2$d m</string>
@@ -1927,6 +1932,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="system_permission_declare_double_link">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
     <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante: %2s."</string>
     <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
+    <string name="system_permission_declare_no_say_no_non_mandatory">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work partially."</string>
     <string name="system_permission_declare_privacy_declare">"Nous respectons et protégeons votre vie privée.
 Notez que %1s a besoin de collecter vos données et nécessite les permissions suivantes pour fonctionner normalement:"</string>
     <string name="system_permission_declare_privacy_no_permission">"Note that %1s needs to collect your data to work normally.
@@ -2217,6 +2223,12 @@ We respect and protect your privacy."</string>
     <string name="app_error_tip_for_launcher">"Les composants matériels de votre appareil ou la version du système Android peuvent causer des problèmes de compatibilité et faire de sorte à ce que certaines applications ne fonctionnent correctement, boguent ou se bloquent. Si vous rencontrez de tels problèmes, partagez vos commentaires avec les développeurs d'applications."</string>
     <string name="app_error_tip_for_store">"Les composants matériels de votre appareil ou la version du système Android peuvent provoquer des problèmes de compatibilité qui peuvent entraîner l'échec de l'installation de certaines applications. Si vous rencontrez de tels problèmes ou que certaines applications se comportent de manière incorrecte, ou se bloquent, attendez que les développeurs d'applications corrigent les bogues et essayez d'installer l'application à nouveau."</string>
     <string name="pc_activity_title">Optimiser la batterie</string>
+    <string name="pc_battery_detail_curve_reference_now">Now</string>
+    <string name="pc_battery_detail_device_item_title">Battery usage stats</string>
+    <string name="pc_battery_history_battery_detail_menu_item">Details</string>
+    <string name="pc_battery_history_consume_rank_menu_item">Ranking</string>
+    <string name="pc_battery_history_rank_mha_menu_item">Milliampere hour</string>
+    <string name="pc_battery_history_rank_percent_menu_item">Percentage</string>
     <string name="game_booster">Accélérateur de jeu</string>
     <string name="game_booster_title">Accélérer</string>
     <string name="top_game">Meilleurs jeux</string>

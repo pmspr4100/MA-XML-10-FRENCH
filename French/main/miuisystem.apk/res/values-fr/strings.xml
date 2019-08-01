@@ -18,9 +18,9 @@
     <string name="lunar_calendar">Calendrier lunaire</string>
     <string name="no_notification_tips">Aucune notification.</string>
     <string name="android_ringtone_default_with_actual">Sonnerie par défaut (%1$s)</string>
-    <string name="cloud_state_disabled">La synchronisation avec Mi Cloud est désactivée</string>
-    <string name="cloud_state_finished">Synchronisé avec Mi Cloud</string>
-    <string name="cloud_state_syncing">Synchronisé avec Mi Cloud</string>
+    <string name="cloud_state_disabled">Synchronisation avec le cloud est désactivée</string>
+    <string name="cloud_state_finished">Synchronisé avec le cloud</string>
+    <string name="cloud_state_syncing">Synchroniser avec le cloud</string>
     <string name="vip_achievements">Accomplissements</string>
     <string name="vip_sign">Signature:</string>
     <string name="vip_not_login">Non connecté</string>

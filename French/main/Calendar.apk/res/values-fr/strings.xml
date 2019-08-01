@@ -265,6 +265,11 @@
     <string name="lunar_date">Date lunaire</string>
     <string name="match_finished">Impossible de définir des rappels pour les parties en cours et terminées</string>
     <string name="match_select_activity_label">Leagues</string>
+    <string name="menstruation_card_default_title">暂无经期助手数据</string>
+    <string name="menstruation_card_error_sub_title">可尝试退出并重启日历</string>
+    <string name="menstruation_card_error_title">当前数据请求异常</string>
+    <string name="menstruation_card_private_mode_sub_title">当前为私密模式哦</string>
+    <string name="menstruation_card_private_mode_title">生理周期****</string>
     <string name="menu_general_preferences">Général</string>
     <string name="menu_reminder_preferences">Rappels</string>
     <string name="missing_name">(Aucun nom)</string>
@@ -461,6 +466,7 @@ Vous pouvez aussi ajouter des rappels afin de ne rien manquer d'important."</str
     <string name="subscribe_channel_subscribing">Abonné</string>
     <string name="subscribe_channel_title">Chaîne</string>
     <string name="subscribing_card">Abonné</string>
+    <string name="subscription_service">订阅服务</string>
     <string name="tab_title_agenda">Évènements</string>
     <string name="tab_title_day">Jour</string>
     <string name="tab_title_month">Mois</string>
