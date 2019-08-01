@@ -83,7 +83,6 @@
     <string name="birthday_event_description_today">"Aujourd'hui c'est"</string>
     <string name="birthday_event_description_tomorrow">"Demain c'est"</string>
     <string name="birthday_event_description_yesterday">"Hier c'était"</string>
-    <string name="birthday_event_title">@string/birthday_notification_title_today</string>
     <string name="birthday_notification_text_days_later">"%1$s jours jusqu'à l'%4$s (%5$s)"</string>
     <string name="birthday_notification_text_today">"N'oubliez pas de lui souhaiter un bon anniversaire."</string>
     <string name="birthday_notification_title_days_later">%2$s de %1$s est pour très bientôt.</string>
@@ -169,7 +168,6 @@
     <string name="date_jump_hint">Aller directement à un jour quelconque</string>
     <string name="date_jump_title">Aller à la date</string>
     <string name="date_pattern_mm_dd">M月d日</string>
-    <string name="date_time_fmt">%1$s, %2$s</string>
     <string name="date_today">"  (aujourd'hui)"</string>
     <string name="day_view_new_event_hint">+ Nouvel événement</string>
     <string name="default_reminder_later_time">Intervalle par défaut pour \"Rappeler plus tard\"</string>
@@ -594,9 +592,6 @@ Vérifiez vos paramètres réseau, puis réessayez."</string>
     <string name="peace_day_tradition">和平紀念</string>
     <string name="pengzu">彭祖</string>
     <string name="phone_num">Phone</string>
-    <string name="prefDefault_alerts_vibrateWhen">never</string>
-    <string name="prefDefault_alerts_vibrate_false">never</string>
-    <string name="prefDefault_alerts_vibrate_true">always</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrer</string>
     <string name="pref_default_popup_alert_value">intelligente</string>
     <string name="pref_reminder_time">Heure de rappel</string>
