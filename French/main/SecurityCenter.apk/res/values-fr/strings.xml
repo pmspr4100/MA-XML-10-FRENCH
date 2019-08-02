@@ -1054,7 +1054,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="boot_time_day_tomorrow">Éteindre demain à %1$s</string>
     <string name="boot_time">Mis sous tension à %1$s</string>
     <string name="battery_stats_on_battery">%1$s sur la batterie</string>
-    <string name="battery_statistics_activity_title">Battery usage stats</string>
+    <string name="battery_statistics_activity_title">"Statistiques d'utilisation de la batterie"</string>
     <string name="battery_stats_charging_label">En charge</string>
     <string name="battery_stats_screen_on_label">Écran allumé</string>
     <string name="battery_stats_gps_on_label">GPS activé</string>
@@ -1250,10 +1250,10 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="hide_mode_result_summary_text">"Personnaliser les paramètres d'économiseur de batterie pour des applications individuelles"</string>
     <string name="auto_task_result_summary_text">"Définir des tâches automatisées pour l'économiseur de batterie"</string>
     <string name="pc_settings_title">"Paramètre de l'optimisation de la batterie"</string>
-    <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm remaining</string>
-    <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm since last charge</string>
-    <string name="pc_statistics_battery_use_summary">%s since last charge</string>
-    <string name="pc_statistics_battery_use_title">Battery usage</string>
+    <string name="pc_statistics_battery_last_hour_minute">%1$d h %2$d m restants</string>
+    <string name="pc_statistics_battery_use_hour_minute">%1$d h %2$d m depuis la dernière charge</string>
+    <string name="pc_statistics_battery_use_summary">%s depuis la dernière charge</string>
+    <string name="pc_statistics_battery_use_title">Utilisation de la batterie</string>
     <string name="pc_main_activity_back">Retour</string>
     <string name="pc_main_battery_text_day">Ajouté %1$s m, sur %2$s j restante</string>
     <string name="pc_main_battery_text_day_hour">Ajouté %1$s m, sur %2$s j %3$s h restante</string>
@@ -1922,27 +1922,27 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="numeric_password_confirmed_header_confirm">Défini avec succès. Appuyez sur \"Confirmer\".</string>
     <string name="mixed_password_confirmed_header_continue">Défini avec succès. Appuyez sur \"Suivant\".</string>
     <string name="mixed_password_confirmed_header_confirm">Défini avec succès. Appuyez sur \"Confirmer\".</string>
-    <string name="forget_pattern"><u>Mot de passe oublié</u></string>
-    <string name="unlock_pattern"><u>Schéma</u></string>
-    <string name="modify_password_mode"><u>Modifier le type de mot de passe</u></string>
+    <string name="forget_pattern">Mot de passe oublié</string>
+    <string name="unlock_pattern">Schéma</string>
+    <string name="modify_password_mode">Modifier le type de mot de passe</string>
     <string name="fingerprint_to_lock">Déverrouiller avec empreinte digitale</string>
     <string name="system_application">Applications système</string>
     <string name="system_permission_declare_agree">Accepter</string>
-    <string name="system_permission_declare_disagree">Disagree</string>
+    <string name="system_permission_declare_disagree">Refuser</string>
     <string name="system_permission_declare_double_link">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
     <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante: %2s."</string>
     <string name="system_permission_declare_no_say_no">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
-    <string name="system_permission_declare_no_say_no_non_mandatory">"If you choose not to give the required permissions or don't allow us to collect and use your data, this app won't be able to work partially."</string>
+    <string name="system_permission_declare_no_say_no_non_mandatory">"Si vous choisissez de ne pas donner les permissions requises ou de ne pas nous permettre de collecter et d'utiliser vos données, cette application ne pourra pas fonctionner normalement."</string>
     <string name="system_permission_declare_privacy_declare">"Nous respectons et protégeons votre vie privée.
 Notez que %1s a besoin de collecter vos données et nécessite les permissions suivantes pour fonctionner normalement:"</string>
-    <string name="system_permission_declare_privacy_no_permission">"Note that %1s needs to collect your data to work normally.
-We respect and protect your privacy."</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_revoke_system">You can exit this app.</string>
-    <string name="system_permission_declare_revoke_uninstallable">You can uninstall this app or manage your permissions and authorization in Security &gt; Manage apps &gt; Permissions &gt; Other permissions.</string>
+    <string name="system_permission_declare_privacy_no_permission">"Notez que %1s doit collecter vos données pour fonctionner normalement.
+Nous respectons et protégeons votre vie privée."</string>
+    <string name="system_permission_declare_privacy_policy">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
+    <string name="system_permission_declare_revoke_system">Vous pouvez quitter cette application.</string>
+    <string name="system_permission_declare_revoke_uninstallable">Vous pouvez désinstaller cette application ou gérer vos permissions et autorisations dans Sécurité. &gt; Gérer les applications &gt; Permissions &gt; Autres permissions.</string>
     <string name="system_permission_declare_use_network">Se connecter au réseau</string>
-    <string name="system_permission_declare_use_network_no_permission">Connect to the network</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; before using this feature.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_use_network_no_permission">Se connecter au réseau</string>
+    <string name="system_permission_declare_user_agreement">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
     <string name="system_permission_perm_answer_call">Faire des appels</string>
     <string name="system_permission_perm_read_mms">Lire le MMS</string>
     <string name="system_permission_perm_read_numbers">Lire les numéros de téléphone</string>
@@ -2223,12 +2223,12 @@ We respect and protect your privacy."</string>
     <string name="app_error_tip_for_launcher">"Les composants matériels de votre appareil ou la version du système Android peuvent causer des problèmes de compatibilité et faire de sorte à ce que certaines applications ne fonctionnent correctement, boguent ou se bloquent. Si vous rencontrez de tels problèmes, partagez vos commentaires avec les développeurs d'applications."</string>
     <string name="app_error_tip_for_store">"Les composants matériels de votre appareil ou la version du système Android peuvent provoquer des problèmes de compatibilité qui peuvent entraîner l'échec de l'installation de certaines applications. Si vous rencontrez de tels problèmes ou que certaines applications se comportent de manière incorrecte, ou se bloquent, attendez que les développeurs d'applications corrigent les bogues et essayez d'installer l'application à nouveau."</string>
     <string name="pc_activity_title">Optimiser la batterie</string>
-    <string name="pc_battery_detail_curve_reference_now">Now</string>
-    <string name="pc_battery_detail_device_item_title">Battery usage stats</string>
-    <string name="pc_battery_history_battery_detail_menu_item">Details</string>
-    <string name="pc_battery_history_consume_rank_menu_item">Ranking</string>
-    <string name="pc_battery_history_rank_mha_menu_item">Milliampere hour</string>
-    <string name="pc_battery_history_rank_percent_menu_item">Percentage</string>
+    <string name="pc_battery_detail_curve_reference_now">Maintenant</string>
+    <string name="pc_battery_detail_device_item_title">"Statistiques d'utilisation de la batterie"</string>
+    <string name="pc_battery_history_battery_detail_menu_item">Détails</string>
+    <string name="pc_battery_history_consume_rank_menu_item">Classement</string>
+    <string name="pc_battery_history_rank_mha_menu_item">Milliampère heure</string>
+    <string name="pc_battery_history_rank_percent_menu_item">Pourcentage</string>
     <string name="game_booster">Accélérateur de jeu</string>
     <string name="game_booster_title">Accélérer</string>
     <string name="top_game">Meilleurs jeux</string>
