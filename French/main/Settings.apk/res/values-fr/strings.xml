@@ -2373,14 +2373,14 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="force_stop_dlg_title">"Forcer l'arrêt ?"</string>
     <string name="foreground_traffic">Premier plan %s</string>
     <string name="forget">Supprimer</string>
-    <string name="forget_password_button_text"><u>Mot de passe oublié</u></string>
+    <string name="forget_password_button_text">Mot de passe oublié</string>
     <string name="forget_password_dialog_button_text">Retour</string>
     <string name="forget_password_dialog_content_four">&lt;Data>2. Sélectionnez &lt;font color=#e6e6e6>[Wipe data]&lt;/font> et attendez que votre appareil redémarre.&lt;/Data></string>
     <string name="forget_password_dialog_content_one">&lt;Data>Si vous oubliez votre mot de passe, vous ne pourrez pas le restaurer. Cependant, vous pouvez le réinitialiser une que vous &lt;font color =#ec2700> effacez toutes les données de votre appareil &lt;/font> (y compris les photos, contacts, etc.). Sauvegardez toutes les données importantes avant cette action&lt;/Data></string>
     <string name="forget_password_dialog_content_three">"&lt;Data>1. Éteignez votre appareil. Appuyez simultanément sur le bouton &lt;font color=#e6e6e6> [Power] &lt;/font> et sur le bouton &lt;font color = #e6e6e6> [Volume +]&lt;/font> jusqu'à ce que l'&lt;img src =''>icône.&lt;/Data>"</string>
     <string name="forget_password_dialog_content_two">Suivez ces étapes pour effacer les données:</string>
     <string name="forget_password_dialog_title">Réinitialisez votre mot de passe</string>
-    <string name="forget_pattern"><u>Schéma oublié ?</u></string>
+    <string name="forget_pattern">Schéma oublié ?</string>
     <string name="forget_privacy_password_setting">Ajouter un compte Mi</string>
     <string name="forget_privacy_password_summary">Utiliser le compte Mi pour réinitialiser votre mot de passe</string>
     <string name="forget_wifi_message">Votre appareil arrêtera de se connecter automatiquement à ce réseau.</string>

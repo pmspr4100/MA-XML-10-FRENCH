@@ -37,7 +37,7 @@
     <string name="passport_uplink_slot1_reg">Utiliser la SIM 1</string>
     <string name="passport_uplink_slot2_reg">Utiliser la SIM 2</string>
     <string name="passport_reg_via_sms_alert">Un message SMS sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
-    <string name="passport_reg_using_other_phone"><u>Utiliser un numéro de téléphone alternatif</u></string>
+    <string name="passport_reg_using_other_phone">Utiliser un numéro de téléphone alternatif</string>
     <string name="passport_reg_btn_using_other_phone">Utiliser un numéro de téléphone alternatif</string>
     <string name="passport_downlink_reg">Numéro de téléphone</string>
     <string name="passport_reg_using_phone_number_prompt">Inscription par le numéro de téléphone</string>
@@ -73,7 +73,7 @@
     <string name="passport_register_restricted_title">"Impossible d'utiliser ce numéro de téléphone"</string>
     <string name="passport_register_restricted">Trop de comptes ont été associés à ce numéro, essayez avec un autre</string>
     <string name="passport_change_phone_number">Changer de numéro</string>
-    <string name="passport_forget_password"><u>Mot de passe oublié</u></string>
+    <string name="passport_forget_password">Mot de passe oublié</string>
     <string name="passport_forget_password_no_underline">Mot de passe oublié</string>
     <string name="passport_reg_type_email">Adresse e-mail</string>
     <string name="passport_international_register_by_email">"Créer un compte en utilisant l'adresse e-mail"</string>

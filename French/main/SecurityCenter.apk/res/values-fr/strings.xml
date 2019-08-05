@@ -401,7 +401,7 @@ de l'opérateur"</string>
     <string name="main_tobe_added_desc">Données mobiles de 0,03 ¥/Mo</string>
     <string name="main_button_mi_sim_close">Activer Mi SIM</string>
     <string name="main_button_mi_sim_open">Voir les détails</string>
-    <string name="adjust_sms_cmd"><u>"Ajuster le modèle de SMS d'étalonnage"</u></string>
+    <string name="adjust_sms_cmd">"Ajuster le modèle de SMS d'étalonnage"</string>
     <string name="sms_detail_correct_success_text">"Voici les statistiques d'utilisation des données de l'étalonnage précédent (%1$s):"</string>
     <string name="tc_send_sms_error">"Impossible d'envoyer le SMS"</string>
     <string name="tc_cmd_invalid">Modèle invalide</string>
@@ -1846,7 +1846,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="exit_dialog_release_storage_positive_button">"Libérer de l'espace"</string>
     <string name="skin_change_close_toast">Les modifications seront appliquées la prochaine que vous lancez Sécurité</string>
     <string name="password_type">Modifier le mot de passe</string>
-    <string name="password_type_underline"><u>Modifier le mot de passe</u></string>
+    <string name="password_type_underline">Modifier le mot de passe</string>
     <string name="Setting_lock">Paramètres</string>
     <string name="more_lock">Plus</string>
     <string name="app_name">"Verrouillage d'application"</string>
@@ -1890,7 +1890,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="suggest_app_tolock">Suggestions</string>
     <string name="suggest_app_tolock_masked">Masqué</string>
     <string name="suggest_app_tolock_unmasked">Notifications visibles</string>
-    <string name="forget_password_button_text"><u>Mot de passe oublié</u></string>
+    <string name="forget_password_button_text">Mot de passe oublié</string>
     <string name="forget_password_button_text_normal">Mot de passe oublié</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Trop de tentatives sans succès !</string>
     <string name="lockscreen_glogin_password_hint">Mot de passe</string>
@@ -1978,7 +1978,7 @@ Nous respectons et protégeons votre vie privée."</string>
     <string name="applock_add_account_info">"Ajoutez votre compte Mi pour être en mesure de réinitialiser votre mot de passe en cas d'oubli."</string>
     <string name="applock_exit_account_info">Le compte sera retiré automatiquement lorsque vous vous déconnectez</string>
     <string name="applock_login_and_add_account">Se connecter et ajouter</string>
-    <string name="applock_not_add_account"><u>Pas maintenant</u></string>
+    <string name="applock_not_add_account">Pas maintenant</string>
     <string name="applock_add_account">Ajouter</string>
     <string name="applock_not_login_account">"Vous n'êtes pas connecté"</string>
     <string name="applock_bind_account_title">Mot de passe oublié</string>

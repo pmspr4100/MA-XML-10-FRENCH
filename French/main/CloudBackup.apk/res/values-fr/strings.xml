@@ -45,7 +45,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
     <string name="cloud_app_check_data">Communication avec Xiaomi Cloud…</string>
     <string name="cloud_app_no_network">Impossible de se connecter au réseau</string>
     <string name="button_delete">Supprimer</string>
-    <string name="customization"><u>Personnaliser</u></string>
+    <string name="customization">Personnaliser</string>
     <string name="home_hint_global_launcher">"Lanceur d'application POCO"</string>
     <string name="home_hint_other_launcher">"Autre lanceur d'application"</string>
     <string name="self_device_main_space">Premier espace de ce téléphone</string>
@@ -84,7 +84,7 @@ Note: Les données des applications que vous avez installées ne seront pas sauv
     <string name="download_settings">"Téléchargement des paramètres de l'écran d'accueil %s%%"</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">"Restaurer les paramètres de l'écran d'accueil"</string>
-    <string name="cancel_recover_settings"><u>Annuler</u></string>
+    <string name="cancel_recover_settings">Annuler</string>
     <string name="recover_settings_description">Maintenez votre appareil allumé</string>
     <string name="recover_miui_settings">Restaurer les paramètres système</string>
     <string name="wait_icon_download">Téléchargement des icônes des applications</string>

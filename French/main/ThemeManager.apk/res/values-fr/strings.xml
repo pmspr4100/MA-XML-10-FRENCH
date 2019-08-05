@@ -462,7 +462,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="resource_menu_refresh">Actualiser</string>
     <string name="resource_mute">Vide</string>
     <string name="resource_my">Hors-ligne</string>
-    <string name="resource_network_diagnostics"><u>Tester le réseau</u></string>
+    <string name="resource_network_diagnostics">Tester le réseau</string>
     <string name="resource_no_match_app">Aucune application trouvée pour effectuer cette action.</string>
     <string name="resource_no_network_text">Impossible de se connecter au réseau.</string>
     <string name="resource_no_result">Aucun résultat</string>

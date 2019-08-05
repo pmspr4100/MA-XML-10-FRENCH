@@ -537,7 +537,7 @@ Vérifiez les autorisations ou rédemarrez l'appareil."</string>
     <string name="my_favorite">Favoris</string>
     <string name="my_notification">Notifications</string>
     <string name="my_room">Ma pièce</string>
-    <string name="my_room_underline"><u>Ma pièce</u></string>
+    <string name="my_room_underline">Ma pièce</string>
     <string name="my_setting">Paramètres</string>
     <string name="my_store">Ma boutique</string>
     <string name="name_ch_dec">Chaîne -</string>
@@ -603,7 +603,7 @@ Vérifiez les autorisations ou rédemarrez l'appareil."</string>
     <string name="passport_back">Retour</string>
     <string name="passport_bad_authentication">Identifiant ou mot de passe incorrect</string>
     <string name="passport_barcode_add_account_prompt">Pour connecter un compte, scannez le code QR à nouveau après vous être connecté.</string>
-    <string name="passport_change_account"><u>Changer de compte</u></string>
+    <string name="passport_change_account">Changer de compte</string>
     <string name="passport_change_phone_number">Changer de numéro</string>
     <string name="passport_checking_account">Vérification du mot de passe…</string>
     <string name="passport_checking_input">Vérification de la saisie…</string>
@@ -648,7 +648,7 @@ Pour activer votre compte, suivez le
     <string name="passport_error_verify_activator_phone_title">Impossible de vérifier le numéro de téléphone</string>
     <string name="passport_failed_to_send_activate_email">"Impossible d'envoyer l'e-mail d'activation"</string>
     <string name="passport_find_password_on_web_msg">Veuillez visiter account.mi.com pour récupérer votre mot de passe.</string>
-    <string name="passport_forget_password"><u>Mot de passe oublié</u></string>
+    <string name="passport_forget_password">Mot de passe oublié</string>
     <string name="passport_forget_password_no_underline">Mot de passe oublié</string>
     <string name="passport_get_back_pwd">Récupérer le mot de passe</string>
     <string name="passport_get_verify_code">Obtenir le code</string>
@@ -707,7 +707,7 @@ Pour activer votre compte, suivez le
     <string name="passport_reg_success">Compte créé</string>
     <string name="passport_reg_success_summary">"%1$s a été associé à votre compte. Vous pouvez l'utiliser pour vous connecter et réinitialiser votre mot de passe."</string>
     <string name="passport_reg_type_email">Adresse e-mail</string>
-    <string name="passport_reg_using_other_phone"><u>Utiliser un numéro de téléphone alternatif</u></string>
+    <string name="passport_reg_using_other_phone">Utiliser un numéro de téléphone alternatif</string>
     <string name="passport_reg_using_other_phone_number_prompt">"Créer un nouveau compte en utilisant "</string>
     <string name="passport_reg_using_phone_number_prompt">Inscription par le numéro de téléphone</string>
     <string name="passport_reg_via_sms_alert">Un message SMS sortant peut être nécessaire pour activer ce service. Votre opérateur vous facturera ce message.</string>
@@ -967,7 +967,7 @@ Rendez-vous à Page d'accueil> \"+\" > Scanneur."</string>
     <string name="supported_by_kookong">Support technique par Kookong</string>
     <string name="supporting_soon">À venir</string>
     <string name="swipe_loading">Chargement…</string>
-    <string name="switch_login"><u>Changer de compte</u></string>
+    <string name="switch_login">Changer de compte</string>
     <string name="switch_place">Choisir la ville</string>
     <string name="tab_live">TV en direct</string>
     <string name="tab_store">Boutique</string>

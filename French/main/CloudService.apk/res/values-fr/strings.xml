@@ -217,7 +217,7 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
     <string name="micloud_confusion_check_account_title">Connectez-vous à votre Compte Mi pour réactiver Xiaomi Cloud.</string>
     <string name="micloud_confusion_account_name">Compte :</string>
     <string name="input_password_hint">Saisir le mot de passe</string>
-    <string name="forget_password"><u>Mot de passe oublié</u></string>
+    <string name="forget_password">Mot de passe oublié</string>
     <string name="micloud_sync_alert_dialog_title">Utiliser Xiaomi Cloud</string>
     <string name="micloud_sync_alert_dialog_message">Synchronisez vos photos, contacts, notes et plus encore sur tous vos appareils.</string>
     <string name="micloud_sync_alert_dialog_negative">Annuler</string>
