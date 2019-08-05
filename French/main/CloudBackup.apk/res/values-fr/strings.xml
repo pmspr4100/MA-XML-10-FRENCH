@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Sauvegarde Mi Cloud</string>
+    <string name="app_name">Sauvegarde Cloud</string>
     <string name="settings_backup">Paramètres système</string>
     <string name="deskclock_backup">Alarme</string>
     <string name="button_cancel">Annuler</string>
@@ -15,10 +15,10 @@
     <string name="cloud_app_restore_app_and_data">Configurer votre appareil</string>
     <string name="cloud_app_restore_data">Les données personnelles et les applications précédemment installées apparaitront automatiquement sur votre appareil</string>
     <string name="cloud_app_dont_restore">Configurer comme un nouvel appareil</string>
-    <string name="cloud_app_restore_wifi_prompt">"Restaurer à partir d'une sauvegarde Mi Cloud."</string>
+    <string name="cloud_app_restore_wifi_prompt">"Restaurer à partir de la sauvegarde sur le cloud."</string>
     <string name="cloud_backup_detail_state">Sauvegardes automatiques</string>
     <string name="cloud_backup_detail_title">"Écran d'accueil, applications et paramètres."</string>
-    <string name="cloud_backup_detail_state_summary">Créez automatiquement les mises à jour Mi Cloud une fois connecté au Wi-Fi.</string>
+    <string name="cloud_backup_detail_state_summary">Créez des sauvegardes Xiaomi Cloud automatiquement lorsque vous êtes connecté à un réseau Wi-Fi.</string>
     <string name="cloud_backup_detail_frequence">Planifier une sauvegarde</string>
     <string name="cloud_backup_detail_time">Dernière sauvegarde: %1$s</string>
     <string name="cloud_backup_detail_manage">Gérer les sauvegardes</string>
@@ -32,17 +32,17 @@
     <string name="cloud_back_up_subscribe_vip_title">Améliorer votre compte</string>
     <string name="cloud_back_up_subscribe_vip_discription">"Obtenez plus d'espace de stockage, des sauvegardes journalières, et plus."</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Mettre à niveau</string>
-    <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Mi Cloud lorsque votre appareil sera connecté à un Wi-Fi: 
+    <string name="cloud_back_up_detail_discription">"Ces éléments seront sauvegardés dans Xiaomi Cloud lorsque votre appareil sera connecté à un Wi-Fi: 
 *  Applications, Écran d'accueil et fonds d'écran 
 *  Alarmes et les paramètres de l'horloge 
 *  Paramètres des notifications 
 *  MIUI et les paramètres système 
-\"Note: Les données des applications que vous avez installées ne seront pas sauvegardées dans Mi Cloud.\""</string>
+Note: Les données des applications que vous avez installées ne seront pas sauvegardées dans Xiaomi Cloud."</string>
     <string name="cloud_app_no_data">Aucune sauvegarde</string>
     <string name="cloud_app_restore_error">Restauration impossible</string>
     <string name="cloud_app_restore_success">Applications restaurées</string>
     <string name="cloud_app_backup_success">Applications sauvegardées avec succès</string>
-    <string name="cloud_app_check_data">Communication avec Mi Cloud…</string>
+    <string name="cloud_app_check_data">Communication avec Xiaomi Cloud…</string>
     <string name="cloud_app_no_network">Impossible de se connecter au réseau</string>
     <string name="button_delete">Supprimer</string>
     <string name="customization"><u>Personnaliser</u></string>
@@ -58,9 +58,9 @@
     <string name="recovering">Restauration %s</string>
     <string name="start_recover">Restaurer %s</string>
     <string name="latest_backup_time_loading">Chargement…</string>
-    <string name="start_backup_to_micloud">Sauvegarder les applications sur Mi Cloud</string>
+    <string name="start_backup_to_micloud">Sauvegarder des applications sur Xiaomi Cloud</string>
     <string name="backing_up_to_micloud">Sauvegarde en cours…</string>
-    <string name="restore_from_cloud">Restaurer à partir de la sauvegarde Mi Cloud</string>
+    <string name="restore_from_cloud">Restaurer à partir de la sauvegarde sur le Cloud</string>
     <string name="backup_to_cloud">"Sauvegarder l'application"</string>
     <string name="restoring_file_title_no_progress">Restauration des fichiers…</string>
     <string name="menu_item_sort">Trier par</string>
@@ -94,7 +94,7 @@
     <string name="restore_network_unconnect">%s (Attente de la connexion)</string>
     <string name="restore_finish_description">Restauration terminée</string>
     <string name="backup_fail_wifi_needed">Impossible de sauvegarder, besoin de Wi-Fi.</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">"Pas assez d'espace de stockage dans Mi Cloud. Mettez à niveau votre plan ou libérez de l'espace de stockage."</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">"Pas assez d'espace de stockage dans Xiaomi Cloud. Mettez à niveau votre plan ou libérez de l'espace de stockage."</string>
     <string name="backup_failed_reason_disk_space_not_enough">"Pas assez d'espace de stockage. Libérez d'abord le stockage."</string>
     <string name="backup_failed_reason_network_error">Erreur réseau. Attendez une minute ou deux et réessayez.</string>
     <string name="backup_success">Sauvegardé avec succès</string>
@@ -112,9 +112,9 @@
     <string name="about_to_recover">Chargement…</string>
     <string name="success_open_cloudbackup">Sauvegarde des applications activée</string>
     <string name="as_new_device">"Remplacer l'écran d'accueil et les paramètres précédents"</string>
-    <string name="as_new_device_summary">Effacer les sauvegardes précédentes</string>
+    <string name="as_new_device_summary">Effacer les sauvegardes précédentes de Xiaomi Cloud</string>
     <string name="restore_data_summary">Cette fonctionnalité nécessite une connexion Internet.</string>
-    <string name="query_restore_summary">"Une sauvegarde Mi Cloud a été trouvée pour cet appareil. Restaurer les applis de l'écran d'accueil et les paramètres ou l'utiliser comme un nouvel appareil et effacer les sauvegardes Mi Cloud précédentes ?"</string>
+    <string name="query_restore_summary">"Une sauvegarde Xiaomi Cloud a été trouvée pour cet appareil. Restaurer les applis de l'écran d'accueil et les paramètres ou l'utiliser comme un nouvel appareil et effacer les sauvegardes Xiaomi Cloud précédentes ?"</string>
     <string name="restore_home_screen_apps">Restaurer à partir de la sauvegarde Mi Cloud</string>
     <string name="query_restore_description">"Restaurer les applications de l'ecran d'accueil et des paramètres à l'aide de cette sauvegarde. Cela va écraser les données d'applications pour les applications en double déjà installées sur cet appareil. les applications qui ne figurent pas dans la sauvegarde seront déplacées vers le dernier écran d'accueil."</string>
     <string name="restore_from_this_device">Restaurer à partir de cette sauvegarde</string>
@@ -124,8 +124,8 @@
     <string name="confirm_restore_title">Restaurer</string>
     <string name="confirm_restore_summary">"L'écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement."</string>
     <string name="confirm_restore">Restaurer</string>
-    <string name="cloud_backup_have_data">Sauvegarde trouvée dans Mi Cloud</string>
-    <string name="cloud_backup_select_recover">Choisir une sauvegarde à partir de Mi Cloud</string>
+    <string name="cloud_backup_have_data">Trouvé une sauvegarde dans Xiaomi Cloud</string>
+    <string name="cloud_backup_select_recover">Choisir une sauvegarde à partir de Xiaomi Cloud</string>
     <string name="backup_finished_notification_content">"Les applications sur l'écran d'accueil, les paramètres du système, etc. ont été sauvegardés."</string>
     <string name="restore_finished_notification_content">"Les applications de l'écran d'accueil, les paramètres système, etc ont été restaurés."</string>
     <string name="backup_now">Sauvegarder maintenant</string>
@@ -163,7 +163,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">Impossible de vérifier le compte.</string>
     <string name="no_account">"Vous n'êtes pas connecté au compte Mi."</string>
-    <string name="no_backup">Aucune sauvegarde dans Mi Cloud.</string>
+    <string name="no_backup">Aucune sauvegarde dans Xiaomi Cloud.</string>
     <string name="download_meta_failed">Impossible de charger les données.</string>
     <string name="home_restore_error">"Impossible de restaurer l'écran d'accueil"</string>
     <string name="get_device_id_error">"Impossible d'obtenir l'ID de l'appareil"</string>
@@ -189,10 +189,10 @@ Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="dialog_btn_restore_skip">Restaurer plus tard</string>
     <string name="dialog_btn_cancel_backup">Annuler</string>
     <string name="dialog_btn_overwrite_backup">Écraser</string>
-    <string name="dialog_msg_overwrite_backup">La sauvegarde locale est différente de celle de Mi Cloud. Si vous continuez, la sauvegarde actuelle écrasera la précédente.</string>
-    <string name="cloud_backup">Sauvegardes Mi Cloud</string>
+    <string name="dialog_msg_overwrite_backup">La sauvegarde locale est différente de celle de Xiaomi Cloud. Si vous continuez, la sauvegarde actuelle écrasera la précédente.</string>
+    <string name="cloud_backup">Sauvegardes Cloud</string>
     <string name="open_backup_switch">Basculer le bouton de sauvegarde</string>
-    <string name="restore_cloud_backup_to_phone">Restaurer les éléments depuis Mi Cloud</string>
+    <string name="restore_cloud_backup_to_phone">Restaurer les éléments depuis le Cloud</string>
     <string name="cloud_backup_in_process">Sauvegarde en cours…</string>
     <string name="cloud_backup_in_cancel">Annuler</string>
     <string name="dialog_cancel_backup_title">Annuler les sauvegardes en cours ?</string>
@@ -212,7 +212,7 @@ Vérifiez vos paramètres réseau et réessayez."</string>
     <string name="btn_restore_resume">Reprendre</string>
     <string name="title_alert_restore_error">Restauration impossible</string>
 	<string name="title_restore_with_current_network">Utiliser la connexion actuelle pour télécharger des fichiers</string>
-    <string name="msg_alert_restore_error">Impossible de restaurer les éléments du Mi Cloud. Réessayez.</string>
+    <string name="msg_alert_restore_error">Impossible de restaurer les éléments du Xiaomi Cloud. Réessayez.</string>
 	<string name="msg_restore_start_with_metered_network">"Votre écran d'accueil sera relancé. Les applications sauvegardées seront téléchargées automatiquement. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s des fichiers seront téléchargés.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">Si vous procédez à la restauration de ces éléments, les données mobiles seront utilisées pour le téléchargement..</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; des fichiers seront téléchargés."</string>

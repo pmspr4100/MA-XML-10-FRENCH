@@ -66,14 +66,14 @@
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">il y a %s min</item>
-        <item quantity="one">Il y a %s min</item>
+        <item quantity="one">il y a %s min</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">Il y a %s h</item>
-        <item quantity="one">Il y a %s h</item>
+        <item quantity="other">il y a %s h</item>
+        <item quantity="one">il y a %s h</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s services seront synchronisés avec Mi Cloud</item>
-        <item quantity="one">%s service sera synchronisé avec Mi Cloud</item>
+        <item quantity="other">%s services seront synchronisés avec Xiaomi Cloud</item>
+        <item quantity="one">%s service sera synchronisé avec Xiaomi Cloud</item>
     </plurals>
 </resources>

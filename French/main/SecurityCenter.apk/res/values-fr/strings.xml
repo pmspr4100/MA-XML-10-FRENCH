@@ -1264,6 +1264,11 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="pc_main_power_manager_hour_minute">"%1$s h %2$s m jusqu'à la charge complète"</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$s j %2$s h restant</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$s h %2$s m restante</string>
+    <string name="pc_search_keywords_battery">Batterie</string>
+    <string name="pc_search_keywords_battery_save">Économiseur de batterie</string>
+    <string name="pc_search_keywords_battery_use">Utilisation de la batterie</string>
+    <string name="pc_search_keywords_capacity">Capacité de la batterie</string>
+    <string name="pc_search_keywords_property">Performance</string>
     <string name="extreme_power_save_mode_card_summary">"Activez l'économiseur de batterie extrême pour économiser de l'énergie lorsque la batterie est faible."</string>
     <string name="handle_bar_title_system">Système</string>
     <string name="apps_list_header_title_sms">"Vérifier l'application de messagerie"</string>
@@ -1332,7 +1337,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
     <string name="sp_settings_check_item_title_root">Root</string>
     <string name="sp_settings_check_item_title_update">Mises à jour système</string>
-    <string name="sp_settings_check_item_title_virus_exception">Exceptions de virus</string>
+    <string name="sp_settings_check_item_title_virus_exception">Exceptions</string>
     <string name="sp_settings_check_item_title_sign_exception">Exceptions des signatures</string>
     <string name="sp_settings_check_item_summary_virus_exception">Gérer les exceptions de virus</string>
     <string name="sp_settings_check_item_summary_sign_exception">Gérer les exceptions de signatures</string>

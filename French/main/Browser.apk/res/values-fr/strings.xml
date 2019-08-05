@@ -850,7 +850,7 @@ Remember that the files you download and the bookmarks you add will still be sav
     <string name="pref_notifications_title">Notifications</string>
     <string name="pref_other_title">Autre</string>
     <string name="pref_paper_mode_title">Mode de lecture</string>
-    <string name="pref_personalized_customization">Personalized customization</string>
+    <string name="pref_personalized_customization">Personnalisation personnalisée</string>
     <string name="pref_privacy_clear_cache">Vider le cache</string>
     <string name="pref_privacy_clear_cache_dlg">Effacer le contenu et les bases de données mis en cache localement ?</string>
     <string name="pref_privacy_clear_cache_summary">Effacer le contenu et les bases de données mis en cache localement</string>

@@ -178,6 +178,8 @@
     <string name="group_title_extra_backup">Backups</string>
     <string name="group_title_extra_expire">"Sur le point d'expirer"</string>
     <string name="group_title_extra_new">Nouveau</string>
+    <string name="hint_switch_to_grid_mode">Basculé en mode grille</string>
+    <string name="hint_switch_to_list_mode">Basculé en mode liste</string>
     <string name="home_action_up">Retour</string>
     <string name="home_title">Gestionnaire de fichiers</string>
     <string name="homepage_tab_category">Catégories</string>

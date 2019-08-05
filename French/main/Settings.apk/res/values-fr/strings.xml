@@ -1315,10 +1315,10 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
     <string name="close_optimization_message">"La disposition du texte, les comptes et d'autres parties de MIUI peuvent être affectés après la désactivation de cette fonctionnalité."</string>
     <string name="close_optimization_option">Désactiver</string>
     <string name="close_privacy_thumbnail_blur_title">"Les aperçus ne sont pas flous"</string>
-    <string name="cloud_backup_section_title">Sauvegarde Mi Cloud</string>
+    <string name="cloud_backup_section_title">Sauvegarde Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Paramètres de sauvegarde</string>
     <string name="cloud_restore_section_summary">"Restaurer les paramètres du système, la position de l'écran d'accueil et les applications"</string>
-    <string name="cloud_restore_section_title">Restaurer depuis Mi Cloud</string>
+    <string name="cloud_restore_section_title">Restaurer depuis Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Version du matériel</string>
     <string name="color_black">Noir</string>
     <string name="color_blue">Bleu</string>
@@ -2414,6 +2414,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="fsg_mistake_touch_summary">Dans certaines scènes, telles que les jeux en plein écran et les vidéos, les gestes doivent être balayés deux fois afin de prendre effet</string>
     <string name="fsg_mistake_touch_title">Revérification des gestes</string>
     <string name="full_screen_display">Mode plein écran</string>
+    <string name="full_screen_keyboard_optimization">Améliorer le clavier</string>
     <string name="full_transparent_smarrcover_title">Étui avec façade transparente</string>
     <string name="fullbackup_data_summary">"Sauvegardez automatiquement les données de l'appareil (telles que les mots de passe Wi-Fi et l'historique des appels) et celles des applications (telles que les paramètres et les fichiers enregistrés par ces applications) à distance.
 
@@ -2597,6 +2598,16 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="input_assistance">Aide à la saisie</string>
     <string name="input_hint_prefix">Entrer %1$s</string>
     <string name="input_method">Clavier</string>
+    <string name="input_method_function_clipboard">Presse-papiers et phrases fréquentes</string>
+    <string name="input_method_function_clipboard_des">Appuyez pour afficher le contenu du presse-papiers et les expressions fréquentes</string>
+    <string name="input_method_function_no_function">Aucune</string>
+    <string name="input_method_function_no_function_des">"Ne montre aucun raccourci"</string>
+    <string name="input_method_function_switch">Basculer entre les claviers</string>
+    <string name="input_method_function_switch_des">Appuyez pour passer à un autre clavier</string>
+    <string name="input_method_function_voice">Saisie vocale</string>
+    <string name="input_method_function_voice_des">Appuyez pour utiliser la saisie vocale</string>
+    <string name="input_method_function_xiaoai">Mi IA saisie vocale</string>
+    <string name="input_method_function_xiaoai_des">Appuyez pour utiliser la saisie vocale Mi IA</string>
     <string name="input_method_selector">Sélection du mode de saisie</string>
     <string name="input_method_selector_always_hide_title">Toujours masquer</string>
     <string name="input_method_selector_always_show_title">Toujours afficher</string>
@@ -2804,6 +2815,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="led_frequence_summary">Définir un intervalle de fréquence</string>
     <string name="led_pulse_summary">Utiliser la LED lors de nouvelles notifications</string>
     <string name="led_settings">LED de notifications</string>
+    <string name="left_function_key">Raccourci gauche</string>
     <string name="legal_information">Informations légales</string>
     <string name="legal_workday">Jours ouvrés</string>
     <string name="legal_workday_invalidate">Lun-Ven (Infos de vacances expirées)</string>
@@ -3072,7 +3084,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lockscreen_magazine_title">"Fond d'écran carrousel"</string>
     <string name="lockscreen_remote_input">"Si l'appareil est verrouillé, empêcher la saisie des réponses ou de texte dans les notifications"</string>
     <string name="lockscreen_settings_title">"Préférences relatives à l'écran de verrouillage"</string>
-    <string name="login_account_dialog_message">Connectez-vous avec un compte Mi et activez la synchronisation avec Mi Cloud.</string>
+    <string name="login_account_dialog_message">Connectez-vous avec un compte Mi et activez la synchronisation avec le Cloud.</string>
     <string name="login_account_dialog_title">Se connecter avec le compte Mi</string>
     <string name="login_account_summary">Gérer les comptes, les services Cloud, les paiements et plus encore</string>
     <string name="login_action">Se connecter</string>
@@ -3081,7 +3093,9 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="long_press_home_key">Appui prolongé sur bouton Accueil</string>
     <string name="long_press_menu_key">Appui prolongé sur bouton Menu</string>
     <string name="long_press_menu_key_when_lock">"Appui prolongé sur Menu à l'écran de verrouillage"</string>
+    <string name="long_press_power_key">"Appuyez longuement sur le bouton d'alimentation"</string>
     <string name="long_press_power_key_half_of_second">Appuyez et maintenez le bouton d’alimentation pendant 0.5s pour activer Google Assistant</string>
+    <string name="long_press_power_key_tips">&lt;Data&gt;Long press the Power button &amp;lt;font color=#999999&amp;gt;Faster and more convenient&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
     <string name="long_press_volume_down">Appui prolongé sur le bouton inférieur du volume</string>
     <string name="lost_internet_access_cancel">Rester en Wi-Fi</string>
     <string name="lost_internet_access_persist">Ne plus afficher</string>
@@ -3614,6 +3628,7 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="noise_suppression">Suppression du bruit ambiant</string>
     <string name="none">Aucun</string>
     <string name="normal">Normal</string>
+    <string name="normal_bottom_height_of_keyboard">Régulier</string>
     <string name="normal_info">Tous les sons fonctionneront normalement</string>
     <string name="normal_smartcover_title">Étui avec facade opaque</string>
     <string name="not_battery_optimizing">Optimisation de la batterie non utilisée</string>
@@ -3991,6 +4006,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="power_usage_not_available">"Infos d'utilisation batterie indisponibles"</string>
     <string name="power_usage_summary">"Répartition de l'utilisation de la batterie"</string>
     <string name="power_usage_summary_title">Batterie et performance</string>
+    <string name="power_usage_summary_title_new">Batterie et performance</string>
     <string name="power_wifi">Wi-Fi</string>
     <string name="pre_installed_application">Applications pré-installées</string>
     <string name="pref_bg_network_title">Connexion en arrière-plan</string>
@@ -4291,6 +4307,9 @@ Interface UT: %5$s"</string>
     <string name="radio_info_toggle_dns_check_label">Activer/Désactiver le contrôle DNS</string>
     <string name="radio_info_ul_kbps">"Bande passante d'importation (kbit/s):"</string>
     <string name="radio_info_voice_network_type_label">Type de réseau vocal:</string>
+    <string name="raise_bottom_height_of_keyboard">Renforcé</string>
+    <string name="raise_bottom_height_of_keyboard_sub_title">Une barre avec des raccourcis personnalisables apparaîtra sous le clavier si vous passez en mode amélioré</string>
+    <string name="raise_bottom_height_of_keyboard_title">Ajuster le clavier pour un affichage plein écran</string>
     <string name="rank_title">Classements</string>
     <string name="rarely_running">"Rarement en cours d'exécution (%s)"</string>
     <string name="reading_data">"Obtention d'informations…"</string>
@@ -4403,6 +4422,7 @@ Interface UT: %5$s"</string>
     <string name="retail_demo_reset_title">Mot de passe requis</string>
     <string name="retry">Réessayer</string>
     <string name="rgb_manage_facerecoginition_text">Gérer la reconnaissance faciale 2D</string>
+    <string name="right_function_key">Raccourci droit</string>
     <string name="ring_volume_option_title">Volume de la sonnerie</string>
     <string name="ring_volume_title">Volume de la sonnerie</string>
     <string name="ringtone_slot_setting_title">Paramètres SIM</string>
@@ -4935,7 +4955,7 @@ Remarque: Vous ne pouvez pas utiliser votre empreinte digitale pour déverrouill
     <string name="settings_manual_activity_title">Manuel</string>
     <string name="settings_manual_activity_unavailable">Un problème est survenu lors du chargement du manuel.</string>
     <string name="settings_new_version_btn">Mise à jour</string>
-    <string name="settings_notify_need_backup">"Sauvegardez vos paramètres sur Mi Cloud afin d'y accéder après avoir changé de téléphone."</string>
+    <string name="settings_notify_need_backup">"Sauvegardez vos paramètres sur le Cloud afin d'y accéder après avoir changé de téléphone."</string>
     <string name="settings_notify_new_version">Une mise à jour est disponible. Appuyez pour afficher les détails.</string>
     <string name="settings_notify_phone_recycled">Votre numéro de téléphone a été recyclé. Appuyez pour ajouter un autre numéro de téléphone.</string>
     <string name="settings_safetylegal_activity_loading">Chargement…</string>
@@ -6801,10 +6821,10 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="write_tag">Modifier</string>
     <string name="wrong_pin_code_pukked">Code PIN de la carte SIM incorrect. Vous devez désormais contacter votre opérateur pour déverrouiller votre appareil.</string>
     <string name="xiaomi_account">Compte Mi</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
-    <string name="xiaomi_cloud_service_description">"Mi Cloud synchronisera les contacts, les photos et d'autres éléments sur vos appareils. \"Localiser l'appareil\" nécessite également que Mi Cloud fonctionne normalement."</string>
+    <string name="xiaomi_cloud_service">Cloud</string>
+    <string name="xiaomi_cloud_service_description">"Cloud synchronisera les contacts, les photos et d'autres éléments sur vos appareils. \"Localiser l'appareil\" nécessite également que Mi Cloud fonctionne normalement."</string>
     <string name="xiaomi_cloud_service_description_contact">contacts et</string>
-    <string name="xiaomi_cloud_service_description_format">"Mi Cloud synchronise vos %s photos, sauvegarde vos applications et vos paramètres et vous aide à trouver votre téléphone à l'aide de Trouver un appareil."</string>
+    <string name="xiaomi_cloud_service_description_format">"Cloud synchronise vos %s photos, sauvegarde vos applications et vos paramètres et vous aide à trouver votre téléphone à l'aide de Trouver un appareil."</string>
     <string name="xiaomi_cloud_service_disabled">Désactivé</string>
     <string name="xiaomi_cloud_service_unknown">Inconnu</string>
     <string name="xiaomi_money_service">Mi Crédit</string>

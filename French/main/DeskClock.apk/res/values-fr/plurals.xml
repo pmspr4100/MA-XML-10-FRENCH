@@ -36,6 +36,10 @@
         <item quantity="other">"Changer l'intervalle de répétition pour %d minutes"</item>
         <item quantity="one">"Changer l'intervalle de répétition pour %d minute"</item>
     </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">Every %1$s min, go off %2$s times</item>
+        <item quantity="one">Every %1$s min, go off %2$s time</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">"L'alarme sonnera %2$s fois (chaque %1$s min.)"</item>
         <item quantity="one">"L'alarme sonnera %2$s fois (%1$s min.)"</item>

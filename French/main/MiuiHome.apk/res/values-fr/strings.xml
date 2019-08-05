@@ -247,6 +247,7 @@
     <string name="multi_selecting_tips">Pour récupérer une application, faites glisser son icône et déposez-la ici.</string>
     <string name="no_detail_page">Aucune page de détails</string>
     <string name="no_space_toast">Espace insuffisant</string>
+    <string name="no_space_toast_when_click_widget">"Pas assez d'espace sur cette page. Essayez de faire glisser cet élément vers une autre page."</string>
     <string name="normal_wallpaper">"Fond d'écran"</string>
     <string name="notification_installed">Installation réussie</string>
     <string name="notification_open_button">Ouvrir</string>
