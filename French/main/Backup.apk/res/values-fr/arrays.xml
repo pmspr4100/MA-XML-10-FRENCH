@@ -6,6 +6,7 @@
         <item>Simplicité du processus</item>
         <item>Clarté des instructions</item>
         <item>Cette fonctionnalité est utile</item>
+	</string-array>
     <string-array name="trans_succeed_survey_title">
         <item>Expérience globale</item>
         <item>Durée du transfert</item>
