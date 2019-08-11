@@ -4,6 +4,19 @@
     <string name="activity_not_found">"L'application n'est pas installée sur votre appareil"</string>
     <string name="activity_not_unlocked">"Attendez que votre appareil soit complètement redémarré avant d'ouvrir les applications"</string>
     <string name="add_screen">Ajouter un écran</string>
+    <string name="all_apps">Toutes les applications</string>
+    <string name="all_apps_no_search_results">"Impossible de trouver des résultats"</string>
+    <string name="all_apps_search_app">Rechercher des applications</string>
+    <string name="all_apps_search_market_message">Recherche en ligne</string>
+    <string name="all_apps_setting_desktop_desc">"Afficher toutes les applications installées sur l'écran d'accueil. Appuyez longuement sur l'icône d'une application pour voir les raccourcis disponibles, gérer ou désinstaller l'application."</string>
+    <string name="all_apps_setting_desktop_title">Régulier</string>
+    <string name="all_apps_setting_drawer_desc">"Placez toutes les applications installées dans le tiroir d'applications, que vous pouvez ouvrir en faisant glisser l'écran d'accueil vers le haut. Vous pourrez toujours trouver les applications que vous avez déplacées vers l'écran d'accueil dans le tiroir d'applications."</string>
+    <string name="all_apps_setting_drawer_tips_desc">"Le tiroir d'applications s'ouvre en faisant glisser l'écran d'accueil vers le haut. Le passage en mode écran d'accueil avec App tiroir rendra la recherche indisponible. Changer quand même ?"</string>
+    <string name="all_apps_setting_drawer_tips_title">"Utilisé le tiroir d'applications"</string>
+    <string name="all_apps_setting_drawer_title">With App drawer</string>
+    <string name="all_apps_setting_title">"Écran d'accueil"</string>
+    <string name="all_apps_slide_up_tips">"Balayer vers le haut est réservé à l’ouverture du tiroir de l’application. Basculez sur le mode écran d'accueil normal et réessayez."</string>
+    <string name="all_apps_suggestions">"Suggestions d'applications"</string>
     <string name="announce_for_app_move_in_folder">Déplacé à la position %1$d dans le dossier</string>
     <string name="announce_for_checked">%1$s, vérifié</string>
     <string name="announce_for_choose_default_screen">"Définir l'écran %1$d comme l'écran d'accueil par défaut"</string>
@@ -292,6 +305,7 @@
     <string name="privacy_thumbnail_blur_summary">"Aperçu de l'application flou dans Récents"</string>
     <string name="privacy_thumbnail_blur_title">"Flouter les aperçus d'applications"</string>
     <string name="quick_app">Applications rapides</string>
+    <string name="recent_apps">Récent</string>
     <string name="recents_config_title">Récents</string>
     <string name="recommend_apk_size_and_desc">%1$d Mo | %2$s</string>
     <string name="recommend_apps_default_title">Vide</string>
@@ -304,6 +318,7 @@
     <string name="recommend_loading">Chargement en cours</string>
     <string name="recommend_refresh">Actualiser</string>
     <string name="recommend_xout">Ne pas afficher</string>
+    <string name="remove_invalidate_gadget_tips">"L'un des widgets que vous utilisez n'est plus disponible. Vous pouvez en ajouter un autre."</string>
     <string name="reset_description_first_time">Vous pouvez restaurer la disposition de %1$s dans les 2 heures</string>
     <string name="reset_description_others">Vous pouvez restaurer la disposition de %1$s</string>
     <string name="reset_fail">Impossible de restaurer</string>
