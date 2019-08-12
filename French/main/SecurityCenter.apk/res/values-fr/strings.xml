@@ -200,6 +200,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="sms_delete_hint">Supprimer les messages bloqués de ce numéro ?</string>
     <string name="call_delete_hint">Supprimer tous les appels bloqués de ce numéro ?</string>
     <string name="backsound_set_hint">"Définir votre message d'absence sur %s ?"</string>
+    <string name="battery_and_property">Batterie et performance</string>
     <string name="report">Rapport</string>
     <string name="report_only">Choisir un message à signaler</string>
     <string name="report_success">Message signalé</string>
@@ -960,7 +961,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="om_running_system_apps">Applications système en fonctionnement</string>
     <string name="om_running_third_apps">Applications tierces en fonctionnement</string>
     <string name="om_locked_apps_summary">Les applications verrouillées seront ignorées par le boost de vitesse.</string>
-    <string name="power_center_title">Optimisation de la batterie</string>
+    <string name="power_center_title">Batterie et performance</string>
     <string name="power_center_back">Retour</string>
     <string name="power_center_battery_last">%s restant</string>
     <string name="power_center_auto_shutdown">Planifier marche/arrêt</string>
@@ -1014,8 +1015,16 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_setting_background_app_save_summary">"Limiter l'activité des applications en arrière-plan sans affecter les fonctionnalités"</string>
     <string name="power_setting_background_app_save_title">Économiseur de batterie de fond</string>
     <string name="power_setting_category_other">Paramètres additionnels</string>
+    <string name="power_setting_config_scenario_policies_title">Scénarios</string>
+    <string name="power_setting_features">Caractéristiques spéciales</string>
+    <string name="power_setting_important_warning">Attention</string>
     <string name="power_setting_power_save_summary_text">Optimiser les paramètres du système pour économiser la batterie</string>
+    <string name="power_setting_scenario_policies_summary">"Identifiez les scénarios pour basculer automatiquement entre les modes d'économie de batterie"</string>
     <string name="power_setting_super_save_summary_text">Restreindre la plupart des fonctionnalités du système pour économiser la batterie</string>
+    <string name="power_setting_warm_configure">Contrôle de la température</string>
+    <string name="power_setting_warm_performance_tip">"Les scénarios nécessitant une consommation électrique élevée augmenteront la température de votre appareil au-dessus des niveaux du mode de contrôle de la température par défaut."</string>
+    <string name="power_setting_wireless_reverse_charging_summary">Charger des appareils compatibles sans fil</string>
+    <string name="power_setting_wireless_reverse_charging_title">Recharge sans fil inversée</string>
     <string name="power_settings_category_title">Indicateur de batterie</string>
     <string name="power_settings_lock_screen_saver_title">"Verrouiller les paramètres de l'écran"</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1249,7 +1258,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_center_super_save_title_text">Ultra économiseur de batterie</string>
     <string name="hide_mode_result_summary_text">"Personnaliser les paramètres d'économiseur de batterie pour des applications individuelles"</string>
     <string name="auto_task_result_summary_text">"Définir des tâches automatisées pour l'économiseur de batterie"</string>
-    <string name="pc_settings_title">"Paramètre de l'optimisation de la batterie"</string>
+    <string name="pc_settings_title">"Paramètre Batterie et performance"</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d h %2$d m restants</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$d h %2$d m depuis la dernière charge</string>
     <string name="pc_statistics_battery_use_summary">%s depuis la dernière charge</string>

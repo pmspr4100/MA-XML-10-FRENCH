@@ -105,6 +105,14 @@
       <item>Lundi au vendredi</item>
       <item>Personnalisé</item>
     </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Défaut</item>
+        <item>Prioriser la performance</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Utilisation du mode de contrôle de température par défaut</item>
+        <item>Prioriser la performance</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
       <item>Après 1 minute</item>
       <item>Après 5 minutes</item>

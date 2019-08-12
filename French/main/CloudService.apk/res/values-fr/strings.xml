@@ -15,6 +15,7 @@
     <string name="sub_sync_item_sms_summary">Synchroniser uniquement les messages contenant des photos, audio ou autres médias lorsque vous êtes connecté à un réseau Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Synchroniser les contacts</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Utiliser uniquement le Wi-Fi pour synchroniser les photos</string>
+    <string name="privacy_and_agreement">Confidentialité et accord</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Synchronise uniquement les photos de profil des contacts lorsque vous êtes connecté à un réseau Wi-Fi</string>
     <string name="error_data_in_transfer_title">"Xiaomi Cloud n'est pas disponible"</string>
     <string name="error_data_in_transfer">La synchronisation se terminera dans %s heures.</string>
@@ -35,6 +36,8 @@
     <string name="mx_sub_dspt_provision">Mi Message</string>
     <string name="mx_sub_dspt_provision_with_voip">Appel Internet</string>
     <string name="phone_number_required_dspt_provision">"Ce service nécessite votre numéro de téléphone. "</string>
+    <string name="pre_privacy_policy">Politique de confidentialité</string>
+    <string name="pre_user_agreement">"Accord de l'utilisateur"</string>
     <string name="sync_dspt_provision">"Synchroniser vos photos, contacts, notes, et plus sur tous vos appareils ou y accéder sur "</string>
     <string name="sync_dspt_provision3">". Vous pouvez activer et désactiver cette fonctionnalité quand vous le voulez dans les Paramètres.
 "</string>
@@ -67,8 +70,6 @@ Cette fonctionnalité crypte et envoie l'ID de votre appareil aux serveurs de Mi
     <string name="user_agreement_content">"
 En utilisant ce service, vous acceptez %s."</string>
     <string name="user_agreement_title">Modalités du service Xiaomi Cloud</string>
-	<string name="user_detail_agreement">"Accord de l'utilisateur"</string>
-    <string name="user_detail_privacy_policy">Politique de confidentialité</string>
     <string name="privacy_policy">Politique de confidentialité</string>
     <string name="loading">Chargement…</string>
     <string name="license_host_unreachable">Impossible de se connecter au réseau. Pour voir ces informations, allez sur %s.</string>
@@ -302,6 +303,8 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
     <string name="close_shortcut">Fermer</string>
     <string name="added_successfully">Ajouté avec succès !</string>
     <string name="sync_item_title">"Synchroniser les données de l'application"</string>
+    <string name="sync_normal_summary">"Certains éléments de la liste ci-dessous n'ont pas pu être synchronisés"</string>
+    <string name="sync_normal_title">"Impossible de terminer la synchronisation"</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Supprimer des éléments</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">Restaurer les éléments supprimés</string>
     <string name="micloud_main_head_menu_cloud_backup">"Sauvegardes des écrans d'accueil"</string>

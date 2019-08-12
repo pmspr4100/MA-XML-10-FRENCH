@@ -147,6 +147,7 @@
     <string name="thursday_shortest">J</string>
     <string name="friday_shortest">V</string>
     <string name="saturday_shortest">S</string>
+    <string name="search_action_mode_cancel">Annuler</string>
     <string name="name">Nom</string>
     <string name="nickname">Pseudo</string>
     <string name="phone">Téléphone</string>
