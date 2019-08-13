@@ -6,7 +6,12 @@
         <item>Aucun</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>"Page d'accueil par défaut"</item>
+        <item>Page de démarrage par défaut</item>
+        <item>Personnalisé</item>
+    </string-array>
+    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Page de démarrage par défaut</item>
+        <item>Page de démarrage propre</item>
         <item>Personnalisé</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">

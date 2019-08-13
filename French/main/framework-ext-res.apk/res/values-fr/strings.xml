@@ -107,7 +107,7 @@
     <string name="softap_notifif_summary">%d connecté</string>
     <string name="turn_off">Désactiver</string>
     <string name="unknown_caller">Numéro inconnu</string>
-    <string name="unrecognized_manufacture">Marque non reconnue</string>
+    <string name="unrecognized_manufacture">Inconnu</string>
     <string name="unrecognized_model">Appareil non reconnu</string>
     <string name="user_switching_dialog_switch_into_kid_space">"Passer à l'espace enfant…"</string>
     <string name="user_switching_dialog_switch_out_kid_space">"Quitter l'espace enfant…"</string>
@@ -264,7 +264,7 @@
     <string name="xiaomi_mix_2">Mi MIX 2</string>
     <string name="xiaomi_mix_2s">Mi MIX 2S</string>
     <string name="xiaomi_mix_3">Mi MIX 3</string>
-    <string name="xiaomi_mix_3_5g">Mi MIX3 5G</string>
+    <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="resolver_app_recommend_flag">Recommander</string>
