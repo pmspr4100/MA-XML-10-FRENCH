@@ -23,7 +23,7 @@
     <string name="usage_state_app_usage_detail_title">"Détails d'utilisation de l'application"</string>
     <string name="usage_state_app_usage_list_title">"Temps d'utilisation des applications"</string>
     <string name="usage_state_app_usage_list_week_title">"Apps' screen time"</string>
-    <string name="usage_state_app_usage_tip_title">"Temps d'utilisation entre %d:00 et %d:00"</string>
+    <string name="usage_state_app_usage_tip_title">"Temps d'utilisation entre %1$d:00 et %2$d:00"</string>
     <string name="usage_state_app_use_time">Utilisation des applications</string>
     <string name="usage_state_channel_mouth">30 derniers jours</string>
     <string name="usage_state_channel_week">7 derniers jours</string>
@@ -74,9 +74,9 @@
     <string name="usagestats_app_category_miui_video_etc">Musique et vidéo</string>
     <string name="usagestats_device_notification_des">"Limite de temps d'écran pour aujourd'hui: %s"</string>
     <string name="usagestats_device_notification_des_over">"Vous avez déjà atteint votre limite de temps d'écran aujourd'hui."</string>
-    <string name="usagestats_device_notification_des_reset">"Limite d'aujourd'hui: %s | %s restant"</string>
+    <string name="usagestats_device_notification_des_reset">"Limite d'aujourd'hui: %1$s | %2$s restant"</string>
     <string name="usagestats_device_notification_title">"Alerte de temps d'écran"</string>
-    <string name="usagestats_device_timeout_des">"Vous utilisez votre appareil depuis %d h %d m aujourd'hui. Reposez-vous !"</string>
+    <string name="usagestats_device_timeout_des">"Vous utilisez votre appareil depuis %1$dh %2$dm aujourd'hui. Reposez-vous !"</string>
     <string name="usagestats_device_timeout_negative">Rappeler dans 1 heure</string>
     <string name="usagestats_device_timeout_positive">Vu</string>
     <string name="usagestats_device_timeout_title">"Alerte de temps d'écran"</string>
