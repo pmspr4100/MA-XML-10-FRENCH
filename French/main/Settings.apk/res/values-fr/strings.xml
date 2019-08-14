@@ -3281,6 +3281,8 @@ D'autres personnes utilisent cet appareil.
     <string name="miui_lab_ai_cloud_closed">"Le préchargement IA n'est pas actuellement disponible."</string>
     <string name="miui_lab_ai_preload_desc">Le préchargement IA augmente la vitesse de lancement des applications</string>
     <string name="miui_lab_ai_preload_title">Préchargement IA</string>
+    <string name="miui_lab_aiasst_call_screen_desc">Connect By Tips</string>
+    <string name="miui_lab_aiasst_call_screen_title">Tips Call</string>
     <string name="miui_lab_drive_mode_desc">Utilisez les contrôles vocaux et écoutez les messages WeChat</string>
     <string name="miui_lab_drive_mode_title">Mode Voiture</string>
     <string name="miui_lab_feature_applied">Appliqué</string>

@@ -98,6 +98,11 @@
     <string name="audio_duration_minutes_format">%1$d minutes</string>
     <string name="audio_duration_seconds_format">%1$d secondes</string>
     <string name="audition_ringtone">Jouer</string>
+    <string name="author_attention">Follow</string>
+    <string name="author_attention_success">Followed successfully</string>
+    <string name="author_dialog_message">Unfollow this account now?</string>
+    <string name="author_dynamic">Status</string>
+    <string name="author_dynamic_no_resource">"Couldn't find results"</string>
     <string name="automatically_update_using_theme_tips">Mettre à jour automatiquement la prochaine fois</string>
     <string name="backup_theme_dialog_message">Sauvegarder votre thème actuel ?</string>
     <string name="backup_theme_dialog_ok">Sauvegarder</string>
@@ -147,6 +152,9 @@
     <string name="description_version_szie">Version: %1$s Taille: %2$s</string>
     <string name="desktop_effects">"Effets de l'écran d'accueil"</string>
     <string name="desktop_wallpaper">"Écran d'accueil"</string>
+    <string name="detail_author_attention_head">Follow some of our most outstanding designers</string>
+    <string name="detail_author_fans">"Followers: "</string>
+    <string name="detail_author_works">"Items: "</string>
     <string name="detail_recommend_title">Vous aimerez sûrement ceux-là</string>
     <string name="dev_options">Options développeur</string>
     <string name="dev_options_summary">Ressources Web</string>
@@ -261,7 +269,6 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="lockscreen_wallpaper">Verrouillage</string>
     <string name="lockstyle_personal_settings">Personnaliser</string>
     <string name="long_click_can_hide_resource">Appuyez longuement pour masquer les éléments</string>
-    <string name="loop_wallpaper_is_here">Les diaporamas de papier peint sont maintenant disponibles</string>
     <string name="mi_wallpaper">"Fond d'écran MIUI"</string>
     <string name="miuishare_account_activate_confirmation">Activer le compte Mi</string>
     <string name="miuishare_account_activate_ok">Activer</string>
@@ -348,6 +355,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="resource_alarm_default">Alarme</string>
     <string name="resource_app_name">Voir les ressources</string>
     <string name="resource_apply">Appliquer</string>
+    <string name="resource_apply_trial">Appliquer</string>
     <string name="resource_back">Retour</string>
     <string name="resource_buy">Acheter</string>
     <string name="resource_can_not_selected">%1$s ne peut pas être sélectionnée</string>
@@ -418,6 +426,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="resource_download">Télécharger</string>
     <string name="resource_download_notification_title_many">%1$s thèmes téléchargés</string>
     <string name="resource_download_notification_title_one">Thème téléchargé</string>
+    <string name="resource_download_trial">Try</string>
     <string name="resource_downloaded_title">Ressources téléchargées</string>
     <string name="resource_downloading">Téléchargement</string>
     <string name="resource_exchange">Rembourser</string>
@@ -757,6 +766,8 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="wallpaper_loop_title">"Diaporama de fond d'écran"</string>
     <string name="wallpaper_loop_title_desk_wallpaper">"Diaporama de fond d'écran sur l'écran d'accueil"</string>
     <string name="wallpaper_loop_title_lock_walpaper">"Diaporama de fond d'écran sur l'écran de verrouillage"</string>
+    <string name="wallpaper_no_favorite">No items here yet.</string>
+    <string name="wallpaper_no_record">No items here yet.</string>
     <string name="wallpaper_online">"Fonds d'écran en ligne"</string>
     <string name="wallpaper_online_no_more">"C'est tout pour le moment"</string>
     <string name="wallpaper_online_tip">"Connectez-vous au réseau pour voir plus d'éléments"</string>

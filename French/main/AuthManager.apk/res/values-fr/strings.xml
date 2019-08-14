@@ -50,8 +50,8 @@
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">désactiver ou activer le Wi-Fi</string>
     <string name="HIPS_Perm_add_voicemail">Message vocaux</string>
     <string name="HIPS_Perm_add_voicemail_Desc">ajoute des messages vocaux</string>
-    <string name="HIPS_Perm_background_start_activity">Démarrer en arrière-plan</string>
-    <string name="HIPS_Perm_background_start_activity_Desc">Démarrer en arrière-plan</string>
+    <string name="HIPS_Perm_background_start_activity">"Afficher les fenêtres contextuelles lors de l'exécution en arrière-plan"</string>
+    <string name="HIPS_Perm_background_start_activity_Desc">"afficher les fenêtres contextuelles lors de l'exécution en arrière-plan"</string>
     <string name="HIPS_Perm_deamon_notification">Notification permanente</string>
     <string name="HIPS_Perm_deamon_notification_Desc">Afficher les notifications permanentes</string>
     <string name="HIPS_Perm_get_accounts">"Accéder à des comptes sur l'appareil"</string>

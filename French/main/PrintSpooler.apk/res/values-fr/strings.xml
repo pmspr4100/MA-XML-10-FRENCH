@@ -84,7 +84,7 @@
     <string name="printer">Imprimante</string>
     <string name="printer_busy">"L'imprimante est occupée"</string>
     <string name="printer_error">"Erreur d'imprimante"</string>
-    <string name="printer_error_msg">"Erreur d'imprimante:…%1$s"</string>
+    <string name="printer_error_msg">"Erreur d'imprimante: %1$s"</string>
     <string name="printer_info_desc">"Plus d'informations sur cette imprimante"</string>
     <string name="printer_notification_error_title">"Impossible d'imprimer %1$s"</string>
     <string name="printer_unavailable">"L'imprimante n'est pas disponible"</string>

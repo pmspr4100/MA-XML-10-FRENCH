@@ -88,13 +88,13 @@ En utilisant ce service, vous acceptez %s."</string>
 	<string name="enable_sync_setting_title">Configuration des services cloud…</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Tous les éléments important dans un lieu</string>
-    <string name="micloud_dspt">"Utilisez Xiaomi Cloud pour synchroniser vos données et localiser votre appareil, "</string>
-    <string name="micloud_sec_dspt">et partager des fichiers avec vos amis.</string>
+    <string name="micloud_dspt">"Synchronisez vos contacts, vos messages, l’historique des appels et d’autres éléments sur tous les appareils.
+Localisez et verrouillez votre appareil en cas de perte. "</string>
     <string name="micloud_dspt_provision">Utilisez Xiaomi Cloud pour synchroniser vos données, localiser votre appareil et partager avec vos amis.</string>
     <string name="micloud_dspt_provision_xms">Utiliser Xiaomi Cloud pour synchroniser les données.</string>
     <string name="micloud_proceed">Continuer</string>
     <string name="master_alert_notif_title">Activer Xiaomi Cloud</string>
-    <string name="master_alert_notif_content">les données ne se sont pas synchronisées.</string>
+    <string name="master_alert_notif_content">"Sauvegardez régulièrement les éléments pour ne rien perdre d’important."</string>
     <string name="sub_alert_notif_title">Synchroniser avec Xiaomi Cloud</string>
     <string name="sub_alert_notif_content">Activer Xiaomi Cloud</string>
     <string name="cloud_lab_title">Lab</string>

@@ -236,7 +236,7 @@
     <string name="close_cloud_tab_tip">Close cloud tabs on %s?</string>
     <string name="cloud_loading_tips">Pull down to sync</string>
     <string name="cloud_no_new_data_toast">Everything is up to date</string>
-    <string name="cloud_sync_closed_toast">Turn on sync to update</string>
+    <string name="cloud_sync_closed_toast">"Can't update because sync is off"</string>
     <string name="cloud_sync_failed_toast">"Couldn't update"</string>
     <string name="cloud_tab">Onglets Cloud</string>
     <string name="cloud_tabs_sync_off">Sync off</string>

@@ -32,6 +32,7 @@
     <string name="cut">Couper</string>
     <string name="default_device_name">未知设备</string>
     <string name="copy">Copier</string>
+    <string name="customer_location_judgment">Chine</string>
     <string name="paste">Coller</string>
     <string name="pc_device_model_name">笔记本</string>
     <string name="replace">Remplacer</string>

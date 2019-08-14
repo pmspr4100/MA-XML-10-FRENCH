@@ -78,6 +78,10 @@
       <item>Utilisation des données</item>
       <item>Solde du téléphone</item>
     </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Oui</item>
+        <item>Non</item>
+    </string-array>
     <string-array name="luckymoney_sound">
       <item>Muet</item>
       <item>金币</item>

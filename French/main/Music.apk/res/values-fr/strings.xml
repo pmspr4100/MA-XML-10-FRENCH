@@ -71,13 +71,20 @@
     <string name="album_label">"Couvertures d'album"</string>
     <string name="album_name">Album</string>
     <string name="all_album_count">Tous les albums (%d)</string>
+    <string name="all_albums">All albums</string>
+    <string name="all_artists">All artists</string>
     <string name="all_playlist_count">Toutes les playlists (%d)</string>
+    <string name="all_playlists">All playlists</string>
+    <string name="all_songs">All songs</string>
     <string name="all_tracks">Toutes les chansons</string>
+    <string name="all_videos">All videos</string>
     <string name="already_download">Téléchargement…</string>
     <string name="already_download_btn">Téléchargement…</string>
     <string name="already_favorited">Déjà en favoris</string>
     <string name="always_use_metered">Toujours utiliser les données mobiles</string>
+    <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_label">Téléchargements</string>
+    <string name="app_name">SdkCommon</string>
     <string name="app_permission_confirm">"C'est compris"</string>
     <string name="app_permission_optional">Permissions optionnelles</string>
     <string name="app_permission_require">Permissions obligatoires</string>
@@ -109,6 +116,7 @@
     <string name="avoid_to_use_traffic_title">Prévenir lorsque vous utilisez les données mobiles pour lire des chansons</string>
     <string name="back">Retour</string>
     <string name="back_confirm">"Appuyez encore pour mettre l'application en arrière-plan"</string>
+    <string name="banner_op">Mi Musique</string>
     <string name="bluetooth_device">Appareil audio Bluetooth</string>
     <string name="buffering">Chargement…</string>
     <string name="button_cancel_download">Annuler</string>
@@ -144,7 +152,7 @@
     <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
     <string name="common_signin_button_text">Se connecter</string>
     <string name="common_signin_button_text_long">Se connecter avec Google</string>
-    <string name="confirm">OK </string>
+    <string name="confirm">OK</string>
     <string name="confirm_exit">Enregistrer les modifications ?</string>
     <string name="connect_now">Se connecter</string>
     <string name="connecting_apk">Connexion…</string>
@@ -161,6 +169,7 @@
     <string name="delete_download">Supprimer</string>
     <string name="delete_file_as_well">Supprimer définitivement cette chanson</string>
     <string name="delete_file_end">Supprimer définitivement</string>
+    <string name="delete_file_error">"Couldn't delete file"</string>
     <string name="delete_file_start">Supprimer les fichiers sélectionnés</string>
     <string name="deselect_all">Tout déselectionner</string>
     <string name="desktop_lyric_button_close">Fermer</string>
@@ -306,6 +315,7 @@
     <string name="eq_preset_select">Choisir une présélection</string>
     <string name="eq_rock">Rock</string>
     <string name="equalizer">Égaliseur</string>
+    <string name="error_not_support">Not supported</string>
     <string name="exo_controls_fastforward_description">Avance rapide</string>
     <string name="exo_controls_fullscreen_description">Mode plein écran</string>
     <string name="exo_controls_next_description">Titre suivant</string>
@@ -335,10 +345,13 @@
     <string name="exo_track_surround_5_point_1">Son surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Son surround 7.1</string>
     <string name="exo_track_unknown">Inconnu</string>
+    <string name="expand_button_title">Advanced</string>
     <string name="expired">Expiré</string>
     <string name="facebook_not_installed">"Installer d'abord Facebook."</string>
     <string name="fail_to_fetch_payment_page_url">"Impossible d'obtenir les informations de paiement"</string>
     <string name="fail_to_play">Impossible de jouer la chanson</string>
+    <string name="failed_not_access_sd_card">Allow access to SD card first</string>
+    <string name="failed_obtain_permissions">"Couldn't get permissions"</string>
     <string name="fav_login_msg">Connectez-vous à votre compte Mi pour télécharger des chansons</string>
     <string name="favorite_canceled">Supprimé des favoris</string>
     <string name="favorite_playlist">Favoris</string>
@@ -362,6 +375,10 @@
     <string name="filter_by_size_prefix">"Masquer lesfichiers plus petit que "</string>
     <string name="filter_by_size_summary">Masquer lespetits fichiers audio</string>
     <string name="filter_size_unit">%d ko</string>
+    <string name="floating_view_dialog_desc">Music will stop playing if you leave this page now. Leave anyway?</string>
+    <string name="floating_view_dialog_leave">Leave</string>
+    <string name="floating_view_dialog_stay">Stay</string>
+    <string name="floating_view_dialog_title">Leave this page?</string>
     <string name="follow">Suivre</string>
     <string name="followed">Suivi</string>
     <string name="format_not_support">"Ce format n'est pas pris en charge."</string>
@@ -379,9 +396,12 @@
     <string name="hide_lyric">Masquer les paroles</string>
     <string name="higher_quality_music">Audio haute qualité</string>
     <string name="higher_quality_music_summary">Écouter et télécharger des fichiers de haute qualité</string>
+    <string name="home_tab_home">Home</string>
     <string name="home_tab_joox">JOOX Musique</string>
     <string name="home_tab_local">Ma musique</string>
+    <string name="home_tab_more_music">More music</string>
     <string name="home_tab_online">Musique en ligne</string>
+    <string name="home_tab_search">Search</string>
     <string name="home_tab_yandex">Yandex Musique</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama_batch_download_alert_summary">Seuls les membres PRO peuvent télécharger plusieurs chansons. Obtenez dès maintenant un abonnement PRO ?</string>
@@ -465,7 +485,7 @@
     <string name="metered_serious_alert_msg_with_data">Il vous reste seulement %s de données mobiles. Utilisez des données mobiles pour lire des chansons ?</string>
     <string name="metered_serious_allow">Lire quand même</string>
     <string name="milink_unavaliable_please_update">"Le lien Mi n'est pas disponible. Mettre MIUI à jour."</string>
-    <string name="missing_title">&lt;Inconnu></string>
+    <string name="missing_title">&lt;Inconnu&gt;</string>
     <string name="miuishare_account_login_ok">Se connecter</string>
     <string name="miuishare_no_network">Impossible de se connecter au réseau.</string>
     <string name="miuishare_publish">Envoyer</string>
@@ -523,6 +543,7 @@
     <string name="not_login">Pas connecté</string>
     <string name="not_now">Pas maintenant</string>
     <string name="not_selected">Choisir une chanson</string>
+    <string name="not_support_documentui">"DocumentUI isn't supported on this device"</string>
     <string name="notif_title_file_size">%1$d au total</string>
     <string name="notif_title_single_downloading">Téléchargement %1$s</string>
     <string name="notification_download_complete">Téléchargement terminé</string>
@@ -638,6 +659,8 @@
     <string name="recommended_no_file_size_download_in_mobile">Utiliser votre connexion de données mobiles pour télécharger ce fichier ?</string>
     <string name="remove">Retirer</string>
     <string name="remove_download">Retirer</string>
+    <string name="renew_dialog_title">"Go Pro
+Be Happy"</string>
     <string name="repeat_all_notif">Répétition de tous les morceaux.</string>
     <string name="repeat_current_notif">Répétition de la chanson en cours.</string>
     <string name="request_overlay_permission_desc">Allow Mi Music to display floating windows to be able to use this feature.</string>
@@ -669,11 +692,14 @@
     <string name="search_for_album">Album</string>
     <string name="search_for_artist">Artiste</string>
     <string name="search_hint">Rechercher des artistes, des chansons, des albums et des recommandations</string>
+    <string name="search_hint_local">Search for songs on device</string>
+    <string name="search_hint_online">Search for artists, albums, songs, playlists, and videos online</string>
     <string name="search_history_clear_all">Effacer</string>
     <string name="search_history_delete_all_dialog_titile">"Effacer l'historique de recherche maintenant ?"</string>
     <string name="search_in_youtube">Search on YouTube</string>
     <string name="search_instant_online_music">En ligne</string>
     <string name="search_menu_title">Rechercher</string>
+    <string name="search_more">More</string>
     <string name="search_result_local_songs">Locale</string>
     <string name="search_result_online_songs">En ligne</string>
     <string name="search_songs">Rechercher des chansons</string>
@@ -725,8 +751,10 @@
     <string name="sleep_mode_summary">Arrêter la lecture après une durée déterminée</string>
     <string name="sleep_mode_title">Minuterie de mise en veille</string>
     <string name="sliding_pro_center">Centre PRO</string>
+    <string name="song_already_in_playlist">This song is already in the queue</string>
     <string name="song_exist_in_playlist">"Cette chanson est déjà dans la file d'attente"</string>
     <string name="song_info">Détails de la chanson</string>
+    <string name="song_is_added_to_playlist">Added to queue</string>
     <string name="song_is_empty">Le nom de la chanson ne peut pas être vide.</string>
     <string name="song_name">Titre</string>
     <string name="song_not_find">"Cette chanson n'est pas disponible."</string>
@@ -739,6 +767,7 @@
     <string name="start_to_check_new_version">Vérification des mises à jour…</string>
     <string name="start_to_download">Téléchargement…</string>
     <string name="start_to_play">Lecture</string>
+    <string name="storage_cloned_app">Storage for dual apps</string>
     <string name="storage_internal">Stockage interne</string>
     <string name="storage_sd_card">Stockage externe</string>
     <string name="storage_usb">Stockage USB</string>
@@ -748,8 +777,10 @@
     <string name="tab_artist">Artistes</string>
     <string name="tab_artist_list">Artistes</string>
     <string name="tab_folder">Dossiers</string>
+    <string name="tab_playlist">Playlists</string>
     <string name="tab_track">Chansons</string>
     <string name="tab_track_list">Chansons</string>
+    <string name="tab_video">Videos</string>
     <string name="take_effect_afater_restart">"Vous devez redémarrer l'application Musique pour que ce paramètre prenne effet."</string>
     <string name="talkback_back">Retour</string>
     <string name="talkback_batch_process">Plusieurs éléments</string>
@@ -771,6 +802,7 @@
     <string name="talkback_search">Rechercher</string>
     <string name="talkback_show_navigation_draw">Afficher le tiroir</string>
     <string name="terms_of_service">"Conditions générales d'utilisation"</string>
+    <string name="test_mode">Test mode</string>
     <string name="ticket_summary">Acheter des billets pour des spectacles, concerts, pièces de théâtre et autres événements</string>
     <string name="ticket_title">Afficher les billets</string>
     <string name="time_to_upgrade">Une mise à jour est disponible</string>
@@ -805,6 +837,8 @@
     <string name="upgrade_music_message">Les mises à jour sont prêtes. Redémarrez pour appliquer.</string>
     <string name="upgrading_in_backstage">Mise à jour en arrière-plan…</string>
     <string name="user_agreement">Accord utilisateur</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
     <string name="version_info">Version</string>
     <string name="video_play_cellular">"Votre appareil n'est pas connecté au Wi-Fi. Utiliser les données mobiles?"</string>
     <string name="video_replay_btn">Relire</string>
@@ -820,4 +854,14 @@ Appuyez sur %s
   pour démarrer ce téléchargement la prochaine fois que vous serez 
  connecté à un réseau Wi-Fi.\""</string>
     <string name="wifi_required_title">Vous devriez vous connecter en Wi-Fi pour télécharger ce fichier</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
 </resources>

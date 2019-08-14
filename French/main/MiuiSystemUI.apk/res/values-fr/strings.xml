@@ -541,6 +541,7 @@ Si vous reprenez, des frais peuvent s'appliquer pour l'utilisation des données.
     <string name="description_direction_left">Glissez à gauche pour %s.</string>
     <string name="description_direction_up">Glissez vers le haut pour %s.</string>
     <string name="description_image_button_answer">Répondre</string>
+    <string name="description_image_button_bubble_answer">Speaker</string>
     <string name="description_image_button_reject">Refuser</string>
     <string name="description_image_icon_sim_card">SIM %1$d</string>
     <string name="description_target_search">Recherche</string>
