@@ -82,9 +82,7 @@
     <string name="already_download_btn">Téléchargement…</string>
     <string name="already_favorited">Déjà en favoris</string>
     <string name="always_use_metered">Toujours utiliser les données mobiles</string>
-    <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_label">Téléchargements</string>
-    <string name="app_name">SdkCommon</string>
     <string name="app_permission_confirm">"C'est compris"</string>
     <string name="app_permission_optional">Permissions optionnelles</string>
     <string name="app_permission_require">Permissions obligatoires</string>
@@ -854,7 +852,6 @@ Appuyez sur %s
   pour démarrer ce téléchargement la prochaine fois que vous serez 
  connecté à un réseau Wi-Fi.\""</string>
     <string name="wifi_required_title">Vous devriez vous connecter en Wi-Fi pour télécharger ce fichier</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$s o</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
 Size: %2$s"</string>
@@ -862,6 +859,4 @@ Size: %2$s"</string>
 Delta update size: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Ko</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s Mo</string>
 </resources>
