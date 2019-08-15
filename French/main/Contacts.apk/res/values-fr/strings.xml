@@ -974,8 +974,9 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="scan_business_card">Scanner une carte de visite</string>
     <string name="scan_bussiness_card_merge_tip">Les données contradictoires ont été remplacées</string>
     <string name="scan_duplicate_message">%1$d contacts avec des infos identiques</string>
-    <string name="scan_merge">"\"Recherche d'éventuels contacts dupliqués…\""</string>
-    <string name="scan_qrcode_card_hint1">Scannez le code QR ci-dessus</string>
+    <string name="scan_merge">Recherche de contacts en double…</string>
+    <string name="scan_not_installed">"Installez d'abord le scanner"</string>
+    <string name="scan_qrcode_card_hint1">Scannez le QR code ci-dessus</string>
     <string name="scanning_sdcard_failed_message">Raison: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">"Impossible d'analyser la mémoire"</string>
     <string name="sdnContacts_empty">Aucun SDN</string>
@@ -985,7 +986,7 @@ Pour commencer, appuyez sur l'icône Fusionner en bas de votre écran."</string>
     <string name="search_contacts_display">Contacts;Afficher</string>
     <string name="search_contacts_more">Organiser;Contacts</string>
     <string name="search_contacts_recovery">Contacts</string>
-    <string name="search_contacts_setting">"Paramètres des Contacts;Afficher les photos et infos;Assigner des photos de contact;Importer et exporter;Partager; Importer de la stockage;Importer de la carte SIM;Importer à partir d'un autre téléphone;Exporter vers le stockage;Exporter vers la carte SIM;Partager des contacts; Afficher les préférences;Masquer les numéros incomplets;Afficher les contacts de la SIM;Configurer les listes de contacts;Groupes intelligents;Organiser les contacts; Fusionner les contacts en double;Supprimer le lot;Effacer les données;Recréer les index de données;t9;Stockage de la carte SIM;Introduction de la récupération des contacts;Photos de contact"</string>
+    <string name="search_contacts_setting">"Paramètres des Contacts;Afficher les photos et infos;Assigner des photos de contact;Importer et exporter;Partager;Importer de la stockage;Importer de la carte SIM;Importer à partir d'un autre téléphone;Exporter vers le stockage;Exporter vers la carte SIM;Partager des contacts; Afficher les préférences;Masquer les numéros incomplets;Afficher les contacts de la SIM;Configurer les listes de contacts;Groupes intelligents;Organiser les contacts; Fusionner les contacts en double;Supprimer le lot;Effacer les données;Recréer les index de données;t9;Stockage de la carte SIM;Introduction de la récupération des contacts;Photos de contact"</string>
     <string name="search_display_only_phones">Contacts;Afficher</string>
     <string name="search_display_sim_contacts">Contacts;Afficher</string>
     <string name="search_export_to_sdcard">Contacts;Importer;stockage</string>

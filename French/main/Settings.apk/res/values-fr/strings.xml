@@ -2354,7 +2354,7 @@ Il semblait n'y avoir ni chevaux, ni animaux d'aucune espèce ; les hommes tran
     <string name="font_size_summary1">"Si votre police système est trop petite, essayez "</string>
     <string name="font_size_summary2">Mode simplifié.</string>
     <string name="forbidden_switch_apn_string">Les paramètres de APN ne correspondent pas avec le type de réseau actuel</string>
-    <string name="force_allow_on_external">"Autoriser les applications d'écrire sur le stockage externe"</string>
+    <string name="force_allow_on_external">Forcer les applications à écrire sur un stockage externe</string>
     <string name="force_allow_on_external_summary">"Autoriser toute application susceptible d'être écrite dans un stockage externe, indépendamment des valeurs manifestes"</string>
     <string name="force_hw_ui">Forcer le rendu GPU</string>
     <string name="force_hw_ui_summary">"Forcer l'utilisation du GPU pour les dessins 2D"</string>
@@ -3474,7 +3474,7 @@ Sélectionnez votre système d'exploitation:"</string>
     <string name="music_unsupport_effect_summary">Les casques USB ne sont pas pris en charge</string>
     <string name="musicfx_title">Effets musicaux</string>
     <string name="mute_music_stream">Désactiver le son la diffusion de musique</string>
-    <string name="mute_voiceassist_stream">Assistance vocale muette</string>
+    <string name="mute_voiceassist_stream">Assistant vocale muet</string>
     <string name="mvno_match_data">Valeur MVNO</string>
     <string name="mvno_type">Type MVNO</string>
     <string name="my_device">Mon appareil</string>
@@ -6823,10 +6823,10 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="write_tag">Modifier</string>
     <string name="wrong_pin_code_pukked">Code PIN de la carte SIM incorrect. Vous devez désormais contacter votre opérateur pour déverrouiller votre appareil.</string>
     <string name="xiaomi_account">Compte Mi</string>
-    <string name="xiaomi_cloud_service">Cloud</string>
-    <string name="xiaomi_cloud_service_description">"Cloud synchronisera les contacts, les photos et d'autres éléments sur vos appareils. \"Localiser l'appareil\" nécessite également que Mi Cloud fonctionne normalement."</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+    <string name="xiaomi_cloud_service_description">"Xiaomi Cloud synchronisera les contacts, les photos et d'autres éléments sur vos appareils. \"Localiser l'appareil\" nécessite également que Mi Cloud fonctionne normalement."</string>
     <string name="xiaomi_cloud_service_description_contact">contacts et</string>
-    <string name="xiaomi_cloud_service_description_format">"Cloud synchronise vos %s photos, sauvegarde vos applications et vos paramètres et vous aide à trouver votre téléphone à l'aide de Trouver un appareil."</string>
+    <string name="xiaomi_cloud_service_description_format">"Xiaomi Cloud synchronise vos %s photos, sauvegarde vos applications et vos paramètres et vous aide à trouver votre téléphone à l'aide de Trouver un appareil."</string>
     <string name="xiaomi_cloud_service_disabled">Désactivé</string>
     <string name="xiaomi_cloud_service_unknown">Inconnu</string>
     <string name="xiaomi_money_service">Mi Crédit</string>

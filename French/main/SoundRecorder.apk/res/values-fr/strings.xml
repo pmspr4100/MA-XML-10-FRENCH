@@ -2,7 +2,7 @@
 <resources>
     <string name="alert_message_clear_records">Supprimer le(s) enregistrement(s) sélectionné(s) ?</string>
     <string name="alert_message_delete_local_record">Supprimer cet enregistrement ?</string>
-    <string name="alert_message_delete_record">Supprimer les enregistrements de votre appareil effacera également cet enregistrement de Mi Cloud. Supprimer maintenant ?</string>
+    <string name="alert_message_delete_record">Supprimer les enregistrements de votre appareil effacera également cet enregistrement du Xiaomi Cloud. Supprimer maintenant ?</string>
     <string name="alert_message_delete_record_title">"Supprimer l'enregistrement ?"</string>
     <string name="app_name">Magnéto</string>
     <string name="back">Retour</string>
@@ -14,12 +14,12 @@
     <string name="call_record_list_group_unconnected">Not connected</string>
     <string name="clear_records">Supprimer les enregistrements synchronisés</string>
     <string name="cloud_record_open">Synchroniser les enregistrements</string>
-    <string name="cloud_record_tip">Synchroniser les enregistrements avec Mi Cloud.</string>
-    <string name="cloud_service_state_open_reminder">Activez la synchronisation avec Mi Cloud pour synchroniser les enregistrements.</string>
+    <string name="cloud_record_tip">Synchroniser les enregistrements avec Xiaomi Cloud.</string>
+    <string name="cloud_service_state_open_reminder">Activez la synchronisation avec Xiaomi Cloud pour synchroniser les enregistrements.</string>
     <string name="cloud_status_full_dialog_cancel">Pas maintenant</string>
-    <string name="cloud_status_full_dialog_msg">"Votre stockage Mi Cloud est plein, impossible de synchroniser les enregistrements. mettez à niveau votre compte pour obtenir plus d'espace de stockage."</string>
+    <string name="cloud_status_full_dialog_msg">"Votre stockage Xiaomi Cloud est plein, impossible de synchroniser les enregistrements. mettez à niveau votre compte pour obtenir plus d'espace de stockage."</string>
     <string name="cloud_status_full_dialog_ok">Mettre à niveau</string>
-    <string name="cloud_status_full_dialog_title">Le stockage Mi Cloud est plein</string>
+    <string name="cloud_status_full_dialog_title">Le stockage Xiaomi Cloud est plein</string>
     <string name="data_connection_body">Utiliser votre connexion de données mobiles pour télécharger ce fichier augmentera votre consommation de données. Si vous dépassez la limite de votre forfait, votre opérateur de téléphonie mobile pourrait vous facturer des frais supplémentaires.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">"Avertissement de l'utilisation de données"</string>
@@ -28,7 +28,7 @@
     <string name="deleting_message">Suppression…</string>
     <string name="details">Détails</string>
     <string name="dialog_content_storage_full">"Enregistrement arrêté parce qu'il n'y a pas assez d'espace de stockage sur la mémoire interne de votre appareil."</string>
-    <string name="dialog_privacy_revoke_tips">"Après avoir révoqué l'autorisation, l'application arrêtera de collecter les données et toutes les données associées seront supprimées des serveurs. Cela pourrait rendre l'application virtuellement inutilisable. Révoquer l'autorisation quand même ? Pour vous assurer de la sécurité de votre compte, connectez-vous à i.mi.com avant de révoquer l'autorisation des services Mi Cloud."</string>
+    <string name="dialog_privacy_revoke_tips">"Après avoir révoqué l'autorisation, l'application arrêtera de collecter les données et toutes les données associées seront supprimées des serveurs. Cela pourrait rendre l'application virtuellement inutilisable. Révoquer l'autorisation quand même ? Pour vous assurer de la sécurité de votre compte, connectez-vous à i.mi.com avant de révoquer l'autorisation des services Xiaomi Cloud."</string>
     <string name="dialog_title_storage_full">Espace de stockage insuffisant</string>
     <string name="download">Télécharger</string>
     <string name="duration_format_hour">%s h</string>
@@ -180,7 +180,7 @@
     <string name="recognize_extra_price_desp">(Offre exclusive pour les utilisateurs de Mi)</string>
     <string name="record">Enregistrer</string>
     <string name="record_back_pressed_hint">"Pour arrêter l'enregistrement, appuyez à nouveau sur Retour"</string>
-    <string name="record_download">Télécharger depuis Mi Cloud</string>
+    <string name="record_download">Télécharger depuis Xiaomi Cloud</string>
     <string name="record_download_complete">Téléchargé</string>
     <string name="record_download_msg">"Les enregistrements ne peuvent être lus qu'une fois complètement téléchargés"</string>
     <string name="record_download_msg_reload">"Cet enregistrement n'existe pas."</string>
