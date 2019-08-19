@@ -1441,6 +1441,7 @@ Cette fonctionnalité peut être désactivée dans [Paramètres]"</string>
     <string name="connected_via_passpoint">Connecté via %1$s</string>
     <string name="connected_wifi">Connecté</string>
     <string name="connecting_to_vpn">Connexion au VPN</string>
+    <string name="connection_and_sharing">Connexion et partage</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="contributors_title">Collaborateurs</string>
     <string name="controls_label">Commandes</string>
@@ -2060,6 +2061,7 @@ Vous pouvez afficher les journaux générés dans le Gestionnaire de fichiers."<
     <string name="enable_mobile_data_when_opening_hotspot">Activer aussi la connexion de données mobile ?</string>
     <string name="enable_opengl_traces_title">Activer le traçage OpenGL</string>
     <string name="enable_quick_setting">Afficher dans la fenêtre de configuration rapide</string>
+    <string name="enable_screen_projection_summary">"Transférer le contenu de l'écran sur un moniteur externe"</string>
     <string name="enable_service_encryption_warning">"Si vous activez %1$s, votre appareil n'utilisera pas le verrouillage de l'écran pour améliorer le chiffrement des données."</string>
     <string name="enable_service_password_reason">"Vous devez confirmer le mot de passe, car l'activation du service %1$s influe sur le chiffrement des données."</string>
     <string name="enable_service_pattern_reason">"Vous devez confirmer le schéma, car l'activation du service %1$s influe sur le chiffrement des données."</string>
@@ -3795,6 +3797,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="onscreen_keyboard_settings_summary">Paramètres du clavier virtuel</string>
     <string name="open_demo_mode">Activer</string>
     <string name="open_demo_mode_warning_message">"Lorsque le mode Démo est activé, l'horloge dans la barre d'état s'arrêtera, les icônes de la batterie et du signal seront affichés comme plein. Vous pouvez désactiver le mode Démo ou redémarrer l'appareil pour modifier cela."</string>
+    <string name="open_game_accelerate">Turn on Game Turbo</string>
     <string name="open_miui_optimization_title">"Activer l'optimisation MIUI"</string>
     <string name="open_optimization_message">"Activez l'optimisation afin de profiter d'une interface utilisateur plus agréable et plus rapide."</string>
     <string name="open_optimization_option">Activer</string>
@@ -3813,6 +3816,7 @@ L'application pourra aussi activer ou désactiver le mode Ne pas déranger, et m
     <string name="otg_tip">"USB On-The-Go permet aux lecteurs USB et aux claviers portables de se connecter à votre appareil mobile et d'échanger des données.
 
 L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
+    <string name="other">Autre</string>
     <string name="other_advanced_settings">Paramètres additionnels</string>
     <string name="other_device_info">Autres</string>
     <string name="other_personal_settings">Paramètres personnels</string>
@@ -4483,6 +4487,8 @@ Ce paramètre affecte tous les utilisateurs de ce téléphone."</string>
     <string name="screen_compatibility_label">"Compatibilité de l'écran"</string>
     <string name="screen_compatibility_text">"Cette application n'est peut-être pas adaptée à votre écran. Vous pouvez modifier les paramètres d'ajustement ici."</string>
     <string name="screen_confirm">Activer</string>
+    <string name="screen_dark_mode_select_time_error_summary">"Start time and end time can't be the same"</string>
+    <string name="screen_dark_mode_time_title">Schedule</string>
     <string name="screen_effect">Contraste et couleurs</string>
     <string name="screen_key_long_press">Appui prolongé des boutons de navigation</string>
     <string name="screen_key_long_press_action">Fonction de déclenchement</string>
@@ -4546,6 +4552,24 @@ Pour épingler l'écran:
     <string name="screen_pinning_unlock_password">"Demander le mot de passe avant d'annuler l'épinglage"</string>
     <string name="screen_pinning_unlock_pattern">"Demander schéma de déverrouillage avant d'annuler épinglage"</string>
     <string name="screen_pinning_unlock_pin">Demander PIN avant annuler épinglage</string>
+    <string name="screen_projection">Cast</string>
+    <string name="screen_projection_characteristics">Caractéristiques spéciales</string>
+    <string name="screen_projection_characteristics_off_screen_summary">You can keep casting when the screen of your device is turned off. This feature decreases power consumption.</string>
+    <string name="screen_projection_characteristics_off_screen_title">Cast with screen off</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">"Don't display floating notifications, incoming calls, and other private items on external monitors."</string>
+    <string name="screen_projection_characteristics_privacy_protect_title">Hide private items</string>
+    <string name="screen_projection_characteristics_small_window_summary">"Minimize the window that's being cast to be able to use other features of your phone."</string>
+    <string name="screen_projection_characteristics_small_window_title">Minimize window</string>
+    <string name="screen_projection_example_document_summary">Display presentations on an external monitor while using your phone to switch between slides and view notes. Go to File Manager &gt; Docs to try this feature.</string>
+    <string name="screen_projection_example_document_title">Documents</string>
+    <string name="screen_projection_example_gallery_summary">Tap the Share button under an item in the Gallery app to display it on an external monitor.</string>
+    <string name="screen_projection_example_gallery_title">Photos et vidéos</string>
+    <string name="screen_projection_example_game_summary">Game Turbo allows you to cast games to an external monitor. Use the shortcut in the Game Turbo toolbox to turn this feature on.</string>
+    <string name="screen_projection_example_game_title">Games</string>
+    <string name="screen_projection_help">Help</string>
+    <string name="screen_projection_sample_summary">Casting documents, games, photos, and videos</string>
+    <string name="screen_projection_sample_title">Demos</string>
+    <string name="screen_projection_title">Cast</string>
     <string name="screen_reader_category_title">"Lecteurs d'écran"</string>
     <string name="screen_resolution_dialog_title">Changer de résolution</string>
     <string name="screen_resolution_high_format">Haute (%1$s)</string>
@@ -4664,6 +4688,7 @@ Pour épingler l'écran:
     <string name="search_choose_timezone">Sélectionner un fuseau horaire;Fuseau horaire;Fuseaux horaires</string>
     <string name="search_cloud_backup_settings_section_title">Paramètres de sauvegarde;Sauvegarde;Sauvegarder;Sauvegardes</string>
     <string name="search_cloud_restore_section_title">Restaurer à partir de Mi Cloud;Mi Cloud;Sauvegardes Mi Cloud</string>
+    <string name="search_connection_and_sharing">Plus;Sans-fil</string>
     <string name="search_copyright_title">"Droits d'auteur"</string>
     <string name="search_credentials_install">"Installer depuis le stockage;Installation directe;Installer l'application"</string>
     <string name="search_date_and_time_settings_title">Date et heure;Date et heure;Date;Heure</string>
@@ -4744,7 +4769,6 @@ Pour épingler l'écran:
     <string name="search_preferred_network_type_title">Type de réseau préféré;Réseau préféré;Type de réseau</string>
     <string name="search_privacy_policy">Politique de confidentialité</string>
     <string name="search_privacy_settings">Sauvegarde et réinitialisation;Sauvegarde et réinitialisation;réinitialisation;Sauvegarde</string>
-    <string name="search_radio_controls_title">Plus;Sans fil</string>
     <string name="search_results_title">Paramètres</string>
     <string name="search_ring_volume_option_title">Volume;volume;Sonnerie et notifications;sonnerie;sonneries;Alarme;Musique</string>
     <string name="search_ringtone_title">Sonnerie du téléphone;sonnerie;sonneries</string>
@@ -5536,6 +5560,7 @@ Une solution Google pour synchroniser vos données et vous permettre d'accéder 
     <string name="system_dashboard_summary">Langues, date et heure, sauvegarde, mises à jour</string>
     <string name="system_default_app">(Paramètres par défaut)</string>
     <string name="system_package">Les mises à jour du système ne peuvent pas être installées sur des supports externes.</string>
+    <string name="system_print_service_help">"À propos de l'impression"</string>
     <string name="system_shortcut_wake">Allumer avec les boutons de raccourcis</string>
     <string name="system_storage">Stockage système</string>
     <string name="system_ui_settings">"Afficher l'adaptateur de l'IU système"</string>
@@ -6834,6 +6859,7 @@ On dirait que le stockage des certificats n'est pas activé."</string>
     <string name="xiaomi_router_available_notif_title">Mi Router détecté</string>
     <string name="xiaomi_router_notif_summary">Me notifier lorsqu’un Mi Router est disponible</string>
     <string name="xiaomi_router_notif_title">Notification de Mi Router</string>
+    <string name="xiaomi_transfer">Mi Share</string>
     <string name="xspace">Applications clônées</string>
     <string name="yes">Oui</string>
     <string name="zen_access_disabled_package_warning">"Doit rester activé, car l'accès aux notifications est activé."</string>

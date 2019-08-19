@@ -4,7 +4,7 @@
     <string name="accept">Accepter</string>
     <string name="add_named">Ajouter %1$s</string>
     <string name="add_printer_by_ip">Ajouter une imprimante par adresse IP</string>
-    <string name="app_name">"Service d'impression par défaut"</string>
+    <string name="app_name">"Service d'impression système"</string>
     <string name="certificate_update_request">"Cette imprimante a fourni un nouveau certificat de sécurité ou un autre périphérique est en train de l'identifier. Accepter le nouveau certificat ?"</string>
     <string name="printer_busy">Occupée</string>
     <string name="printer_out_of_paper">À court de papier</string>

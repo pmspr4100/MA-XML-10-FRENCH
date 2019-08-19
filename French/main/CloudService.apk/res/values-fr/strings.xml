@@ -15,11 +15,14 @@
     <string name="sub_sync_item_sms_summary">Synchroniser uniquement les messages contenant des photos, audio ou autres médias lorsque vous êtes connecté à un réseau Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">Synchroniser les contacts</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Utiliser uniquement le Wi-Fi pour synchroniser les photos</string>
-    <string name="privacy_and_agreement">Confidentialité et accord</string>
+    <string name="privacy_and_agreement">Termes et conditions</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Synchronise uniquement les photos de profil des contacts lorsque vous êtes connecté à un réseau Wi-Fi</string>
     <string name="error_data_in_transfer_title">"Xiaomi Cloud n'est pas disponible"</string>
     <string name="error_data_in_transfer">La synchronisation se terminera dans %s heures.</string>
     <string name="no_sim">Impossible de trouver la carte SIM</string>
+    <string name="pay_info_dialog_confirm_to_pay">Payer %s</string>
+    <string name="pay_info_dialog_mibi_balance_prefix">Utiliser les crédits Mi restants: %s</string>
+    <string name="pay_info_dialog_title">Sélectionnez le mode de paiement</string>
     <string name="bad_authentication">Compte ou mot de passe non valide</string>
     <string name="title_reg">Créer un compte Mi</string>
     <string name="error_network">Impossible de se connecter au réseau</string>
@@ -101,6 +104,7 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
     <string name="cloud_storage_already_used">Occupé: %1$s/%2$s</string>
     <string name="cloud_storage_info_type_others">Autre</string>
     <string name="cloud_storage_manage_title">"Gérer le stockage"</string>
+    <string name="cloud_storage_no_data">"Pas encore d'éléments dans le cloud"</string>
     <string name="cloudservice_new_sync">Synchroniser %s avec Xiaomi Cloud</string>
     <string name="click_to_enabled">Appuyez pour synchroniser.</string>
     <string name="calendar_sync">Agenda</string>
