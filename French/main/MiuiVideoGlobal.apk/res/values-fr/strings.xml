@@ -643,7 +643,6 @@ Increase the security of your account."</string>
     <string name="plus_sort_type_time">Time</string>
     <string name="plus_tab_gallery">Folders</string>
     <string name="plus_tab_time">Timeline</string>
-    <string name="product_key">xl!f@e0GwR!7GRsm</string>
     <string name="psw_hint">Password</string>
     <string name="psw_sign_in">Sign in using password</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Pull up to refresh…</string>
@@ -760,9 +759,6 @@ Vérifiez d'autres vidéos !"</string>
     <string name="t_password_null">"Password can't be blank"</string>
     <string name="t_password_wrong">The password you entered is incorrect. Try again.</string>
     <string name="t_start_download">Démarrage du téléchargement:</string>
-    <string name="tag_index">tag_index</string>
-    <string name="tag_key">tag_key</string>
-    <string name="tag_object">tag_object</string>
     <string name="thursday">Thursday</string>
     <string name="ticket_hint">Code de vérification</string>
     <string name="ticket_invalid">Le code que vous avez entré est incorrect</string>
