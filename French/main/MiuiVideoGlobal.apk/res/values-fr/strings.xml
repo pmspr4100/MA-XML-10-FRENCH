@@ -39,9 +39,8 @@
     <string name="and"> et </string>
     <string name="app_name">Vidéo</string>
     <string name="app_name_hungama">Hungama Play</string>
-    <string name="bind_sign_in_title">Ajouter un compte</string>
-    <string name="before_yestoday">2 days ago</string>
-    <string name="bind_sign_in_title">Bind to Mi Account</string>
+    <string name="before_yestoday">il y a 2 jours</string>
+    <string name="bind_sign_in_title">Lier au compte Mi</string>
     <string name="cancel">Annuler</string>
     <string name="cancel_choose">Deselect</string>
     <string name="canceled">Annulé</string>
@@ -716,11 +715,10 @@ Vérifiez d'autres vidéos !"</string>
     <string name="save_cancel_toast">Appuyez à nouveau pour annuler l’enregistrement</string>
     <string name="screenrecord_cancel">Problèmes de compatibilité</string>
     <string name="screenrecord_nosupport_record">"L'enregistreur d'écran n'est pas actuellement pris en charge sur cet appareil."</string>
-    <string name="search">Search</string>
+    <string name="search">Rechercher</string>
     <string name="search_choose_language">Select language</string>
     <string name="search_choose_voice_language">Select the language used for voice search</string>
     <string name="search_hot_words">Popular</string>
-    <string name="search">Rechercher</string>
     <string name="search_menu_title">Rechercher</string>
     <string name="selectall">Tout sélectionner</string>
     <string name="selectnull">Tout déselectionner</string>
