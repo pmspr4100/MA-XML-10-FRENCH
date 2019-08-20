@@ -50,7 +50,6 @@
     <string name="usage_state_card_cancel">Annuler</string>
     <string name="usage_state_card_summary">Add the \"Screen time\" card to App vault to manage your time more efficiently.</string>
     <string name="usage_state_category">Catégories</string>
-    <string name="usage_state_category_usage_title">%s使用详情</string>
     <string name="usage_state_channel_mouth">30 derniers jours</string>
     <string name="usage_state_channel_week">7 derniers jours</string>
     <string name="usage_state_date">d MMM</string>
@@ -64,10 +63,10 @@
     <string name="usage_state_less_one_minute">Moins de 1 minute</string>
     <string name="usage_state_monday">Lun</string>
     <string name="usage_state_mourth_day">"Utilisé le %s"</string>
-    <string name="usage_state_noti_mourth_day">Notifications on %s</string>
+    <string name="usage_state_noti_mourth_day">Notifications le %s</string>
     <string name="usage_state_notification">Gérer les notifications</string>
     <string name="usage_state_notification_manager">"Gérer les notifications d'applications"</string>
-    <string name="usage_state_remind_new_summary">Receive a notification when screen time reaches set limit</string>
+    <string name="usage_state_remind_new_summary">"Recevoir une notification lorsque le temps passé sur l'écran atteint la limite définie"</string>
     <string name="usage_state_remind_summary">"Activer pour recevoir des alertes de temps d'utilisation."</string>
     <string name="usage_state_remind_title">"Alerte du temps d'utilisation"</string>
     <string name="usage_state_rest_day">Weekends</string>
@@ -84,7 +83,7 @@
     <string name="usage_state_today_total_text">Utilisation</string>
     <string name="usage_state_tuesday">Mar</string>
     <string name="usage_state_unlock_mourth_day">Déverrouillé le %s"</string>
-    <string name="usage_state_unusage">"Haven't used today"</string>
+    <string name="usage_state_unusage">"Non utilisé aujourd'hui"</string>
     <string name="usage_state_usage_time">Utilisation</string>
     <string name="usage_state_usage_time_remind">"Alerte du temps d'utilisation"</string>
     <string name="usage_state_usage_time_weekday_title">Semaine</string>
@@ -98,8 +97,8 @@
     <string name="usage_state_work_day_hour_minute">Semaine: %1$d h %2$d m</string>
     <string name="usage_stats_normal_day">Semaine</string>
     <string name="usage_stats_week_day">Weekends</string>
-    <string name="usagestats_app_category_miui_education">Education</string>
-    <string name="usagestats_app_category_miui_entainment">Entertainment</string>
+    <string name="usagestats_app_category_miui_education">Éducation</string>
+    <string name="usagestats_app_category_miui_entainment">Divertissement</string>
     <string name="usagestats_app_category_miui_financial">Finance</string>
     <string name="usagestats_app_category_miui_game">Jeux</string>
     <string name="usagestats_app_category_miui_life">Mode de vie</string>
