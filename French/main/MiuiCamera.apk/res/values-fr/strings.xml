@@ -29,6 +29,7 @@
     <string name="accessibility_filter_open_panel">Ouvrir le menu du filtre</string>
     <string name="accessibility_filter_pad_close">Le menu du filtrage est masqué</string>
     <string name="accessibility_flash_auto">Flash auto activé</string>
+    <string name="accessibility_flash_back_soft_light">闪光灯，柔光状态</string>
     <string name="accessibility_flash_off">Flash désactivé</string>
     <string name="accessibility_flash_on">Flash activé</string>
     <string name="accessibility_flash_torch">Flash activé, mode torche</string>
@@ -278,6 +279,7 @@ en mode Portrait"</string>
     <string name="live_error_confirm">Ajuster le temps</string>
     <string name="live_error_message">"Certaines fonctionnalités peuvent ne pas fonctionner correctement lorsque l'heure du système est incorrecte."</string>
     <string name="live_error_title">"L'heure du système n'est pas correcte"</string>
+    <string name="live_music_author">Xiaomi Short Video</string>
     <string name="live_music_change_bgm">Changer la musique de fond</string>
     <string name="live_music_close_cancel_message">Annuler</string>
     <string name="live_music_close_message">Désactiver la musique maintenant ?</string>
@@ -394,6 +396,9 @@ en mode Portrait"</string>
     <string name="pano_how_to_use_prompt_start">Appuyez sur la flèche pour changer de direction et commencez à vous déplacer lentement.</string>
     <string name="pano_how_to_use_prompt_to_move">Commencez le panoramique lentement</string>
     <string name="path_settings">Applications système/Appareil photo/Paramètres</string>
+    <string name="pic_flaw_blink_more">照片拍摄有人眨眼</string>
+    <string name="pic_flaw_blink_one">照片拍摄有眨眼</string>
+    <string name="pic_flaw_cover">照片拍摄有遮挡</string>
     <string name="popup_tip_3d_beauty_intro_text">Beauté 3D</string>
     <string name="portait_effect_entry_blackwhite">Noir et Blanc</string>
     <string name="portait_effect_entry_cool">Mint</string>
@@ -497,6 +502,7 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_camera_facedetection_auto_hidden_title">Masquer le cadre de détection de visage automatiquement</string>
     <string name="pref_camera_facedetection_title">Détection faciale</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
+    <string name="pref_camera_flashmode_entry_back_soft_light">Soft light</string>
     <string name="pref_camera_flashmode_entry_off">Désactivé</string>
     <string name="pref_camera_flashmode_entry_on">Activé</string>
     <string name="pref_camera_flashmode_entry_torch">Torche</string>
@@ -562,10 +568,11 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_camera_peak_entry_on">Activé</string>
     <string name="pref_camera_peak_title">Focus peaking</string>
     <string name="pref_camera_picture_format_entry_raw">Raw</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">Plein écran</string>
     <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Format de la photo</string>
-    <string name="pref_camera_portrait_mode_entry_off">Le mode portait est désactivé</string>
-    <string name="pref_camera_portrait_mode_entry_on">Le mode portait est activé</string>
+    <string name="pref_camera_portrait_mode_entry_off">Mode portait est désactivé</string>
+    <string name="pref_camera_portrait_mode_entry_on">Mode portait est activé</string>
     <string name="pref_camera_portrait_mode_title">Mode portrait</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Embellir en mode portrait</string>
     <string name="pref_camera_proximity_lock_summary">Verrouiller les gestes tactiles une fois placé dans une poche</string>
@@ -672,6 +679,8 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">"Vous ne pouvez enregistrer des vidéos 720p qu'à 960ips"</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">1080p FHD</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">720p HD</string>
+    <string name="pref_pic_flaw_tip_summary">拍摄的照片有闭眼或边缘有遮挡时,会在拍照界面实时给出提示</string>
+    <string name="pref_pic_flaw_tip_title">照片瑕疵提示</string>
     <string name="pref_priority_storage_title">Enregistrer sur la carte SD</string>
     <string name="pref_privacy_title">Politique de confidentialité</string>
     <string name="pref_retain_camera_mode_summary">"Basculez l'appareil photo vers le mode précédemment utilisé lorsque vous ouvrez l'application."</string>
@@ -725,6 +734,10 @@ Gardez le sujet net tout en rendant l'arrière-plan flou."</string>
     <string name="pref_watermark_on">Activé</string>
     <string name="pref_watermark_title">Filigrane</string>
     <string name="preparing_sd">Vérification carte SD…</string>
+    <string name="recommend_macro_mode">建议开启微距</string>
+    <string name="recommend_portrait">建议使用人像模式</string>
+    <string name="recommend_soft_light_tip">Use flash in the soft light mode</string>
+    <string name="recommend_super_night">建议使用夜景模式</string>
     <string name="record_back_pressed_hint">"Appuyez à nouveau pour arrêter l'enregistrement"</string>
     <string name="screen_on_proximity_sensor_hint">Pour désactiver cette fonction, appuyez simultanément sur les touches Volume haut et Retour.</string>
     <string name="screen_on_proximity_sensor_summary">"Ne couvrez pas la zone des écouteurs"</string>
@@ -803,6 +816,8 @@ Le mode ultra grand angle vient vous aider lorsque vous ne pouvez pas vous éloi
     <string name="video_reach_size_limit">Limite de taille atteinte.</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="view_privacy_policy">Afficher la Politique de confidentialité</string>
+    <string name="vv_hint">VISION仅支持横屏拍摄</string>
+    <string name="vv_start">开拍VISION</string>
     <string name="wait">Chargement…</string>
     <string name="wideselfie_press_shoot_key_to_start">"Appuyez sur le bouton de l'obturateur"</string>
     <string name="wideselfie_result_image_lossless">"Impossible de créer une prise de vue panoramique"</string>

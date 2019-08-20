@@ -172,11 +172,17 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Réactiver Xiaomi Cloud</string>
     <string name="micloud_check_sim_notify_text">"On dirait que vous avez changé de carte SIM. se connecter
 sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
+    <string name="micloud_setting_calendar_summary">Événements</string>
+    <string name="micloud_setting_calllog_summary">Historique des appels</string>
     <string name="micloud_setting_contact_summary">Contacts et photos de profil</string>
     <string name="micloud_setting_sms_summary">Messages SMS et MMS</string>
     <string name="micloud_setting_gallery_summary">Photos et vidéos</string>
     <string name="micloud_setting_browser_summary">Favoris, historique et onglets</string>
     <string name="micloud_setting_music_summary">Playlists et favoris</string>
+    <string name="micloud_setting_notes_summary">Notes</string>
+    <string name="micloud_setting_personal_assistant_summary">"Cartes et fonctions de coffre d'applications"</string>
+    <string name="micloud_setting_phrase_summary">Phrases fréquentes</string>
+    <string name="micloud_setting_recorder_summary">"Enregistrements audio et d'appel"</string>
     <string name="micloud_setting_wifi_summary">Paramètres Wi-Fi</string>
     <string name="micloud_setting_antispam_summary">Exceptions et numéros de téléphone bloqués</string>
     <string name="micloud_member_net_error_alert_title">Impossible de se connecter au réseau</string>
@@ -312,6 +318,8 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Supprimer des éléments</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">Restaurer les éléments supprimés</string>
     <string name="micloud_main_head_menu_cloud_backup">"Sauvegardes des écrans d'accueil"</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">Home screen layout, apps, and system settings</string>
+    <string name="micloud_main_head_menu_finddevice_summary">"Locate and lock your device if it's lost"</string>
     <string name="micloud_main_head_menu_state_open">Activé</string>
     <string name="micloud_main_head_menu_state_close">Désactivé</string>
     <string name="micloud_main_head_menu_state_unavailable">Non supporté</string>
@@ -360,7 +368,7 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
     <string name="micloud_manual_reactivate">Réactiver</string>
     <string name="micloud_manual_activating">Activation…</string>
     <string name="micloud_manual_all_sync_off_title">Synchronisation est désactivée</string>
-    <string name="micloud_manual_all_sync_off_button_text">Activer la synchronisation</string>
+    <string name="micloud_manual_all_sync_off_button_text">Activer</string>
     <string name="micloud_manual_network_disconnet_title">"Impossible de synchroniser en raison d'une erreur réseau"</string>
     <string name="micloud_manual_network_disconnet_button_text">Vérifier les paramètres du réseau</string>
     <string name="micloud_manual_local_storage_low_title">"Impossible de synchroniser. Pas assez d'espace de stockage sur votre appareil."</string>
@@ -397,7 +405,7 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
     <string name="warning_bar_title_master_sync_off">Synchronisation auto est désactivée</string>
     <string name="warning_bar_action_turn_on_master_sync">Activer</string>
     <string name="warning_bar_title_network_unconnected">Impossible de se connecter au réseau</string>
-    <string name="warning_bar_title_cloud_space_full">"L'espace de stockage de Xiaomi Cloud est plein. La synchronisation a été mise en pause."</string>
+    <string name="warning_bar_title_cloud_space_full">"Le cloud est plein. Impossible de synchroniser les photos, l'historique des appels et d'autres éléments."</string>
     <string name="warning_bar_action_upgrade_vip">Mettre à jour le forfait Xiaomi Cloud</string>
     <string name="warning_bar_title_cloud_space_already_full">"L'espace de stockage de Xiaomi Cloud est bientôt plein. Vos photos pourraient ne pas être synchronisées."</string>
     <string name="warning_bar_title_short_cut">"Ajouter un raccourci vers l'écran d'accueil pour Xiaomi Cloud ?"</string>
