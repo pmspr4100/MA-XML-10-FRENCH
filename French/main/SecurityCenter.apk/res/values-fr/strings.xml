@@ -343,12 +343,12 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="st_confirm_dialog_summary_stranger_call">Tous les appels provenant des personnes étranges seront bloqués.</string>
     <string name="st_confirm_dialog_summary_contact_call">Tous les appels provenant des contacts seront bloqués.</string>
     <string name="st_confirm_dialog_summary_oversea_call">"Activer pour bloquer tous les appels entrants des numéros de téléphone de l'étranger."</string>
-    <string name="cta_dialog_title">Connexion Internet</string>
-    <string name="cta_dialog_msg">"&lt;Data>Vous devez accepter notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a> avant d'utiliser Sécurité. Sécurité doit également se connecter à Internet et accéder à votre emplacement pour fonctionner normalement et conserver les définitions d'antivirus à jour. Acceptez-vous ?&lt;/Data>"</string>
+    <string name="cta_dialog_title">Connexion internet</string>
+    <string name="cta_main_purpose">"Bienvenue dans la sécurité ! Vous pouvez utiliser cette application pour nettoyer la corbeille de votre appareil, rechercher et neutraliser les virus, optimiser les performances de jeu, économiser la batterie, gérer des applications, etc."</string>
     <string name="cta_dialog_negative">Quitter</string>
     <string name="cta_dialog_positive">Accepter</string>
-    <string name="cta_settings">Autoriser la connexion à Internet</string>
-    <string name="gdpr_msg">"&lt;Data>Afin d'utiliser les fonctionnalités de base de la sécurité. Vous devez accepter que Xiaomi collecte, traite et utilise vos données personnelles, y compris les informations sur la façon dont vous utilisez les fonctionnalités de Sécurité (ex: les statistiques de l'utilisation des données mobiles, ) ainsi que des informations de base sur votre appareil et d'autres types d'informations spécifiées dans notre &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politique de confidentialité&lt;/a>.&lt;/Data>"</string>
+    <string name="cta_settings">Autoriser la connexion à internet</string>
+    <string name="gdpr_msg">"&lt;Data&gt;"Pour pouvoir utiliser les fonctionnalités de base de la sécurité, vous devez accepter que Xiaomi collecte, traite et utilise vos données personnelles, y compris des informations sur la manière dont vous utilisez les fonctionnalités de sécurité (statistiques d'utilisation des données mobiles, informations sur les programmes malveillants, etc.). informations de base sur votre appareil et d’autres types d’informations spécifiées dans notre &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
     <string name="app_name_na">Utilisation des données</string>
     <string name="list_empty_text">Vide</string>
     <string name="dialog_title_attention">Attention</string>

@@ -102,7 +102,10 @@ Localisez et verrouillez votre appareil en cas de perte. "</string>
     <string name="sub_alert_notif_content">Activer Xiaomi Cloud</string>
     <string name="cloud_lab_title">Lab</string>
     <string name="cloud_storage_already_used">Occupé: %1$s/%2$s</string>
+    <string name="cloud_storage_info_type_drive">Mi Drive</string>
+    <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_others">Autre</string>
+    <string name="cloud_storage_info_type_pdc">Paramètres système</string>
     <string name="cloud_storage_manage_title">"Gérer le stockage"</string>
     <string name="cloud_storage_no_data">"Pas encore d'éléments dans le cloud"</string>
     <string name="cloudservice_new_sync">Synchroniser %s avec Xiaomi Cloud</string>
@@ -293,6 +296,11 @@ sur votre compte Mi pour réactiver Xiaomi Cloud."</string>
     <string name="connect_wlan">Se connecter au Wi-Fi</string>
     <string name="data_protection_title">Protéger les données</string>
     <string name="soundrecorder_sync_records">Synchroniser avec Xiaomi Cloud</string>
+    <string name="storage_manage_expansion">Avoir plus</string>
+    <string name="storage_manage_list_title">Données cloud</string>
+    <string name="storage_manage_list_title_action">Afficher plus</string>
+    <string name="storage_manage_renewal">Renouveler</string>
+    <string name="storage_manage_upgrade">Mettre à jour</string>
     <string name="soundrecorder_sync_only_in_wifi">Synchronisation en Wi-Fi uniquement</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">"L'enregistreur n'utilisera pas de données mobiles pour télécharger ou uploader les enregistrements"</string>
     <string name="micloud_wipe_data_confirm_label">Retirer les données de Xiaomi Cloud</string>

@@ -376,6 +376,8 @@
     <string name="unknown_artist_name">Artiste inconnu</string>
     <string name="unnamed_folder_name">Dossier</string>
     <string name="unstable_dialog_content">"Ceci est une version de prévisualisation de l'image système Android et est susceptible de changer. L'utilisation de cette image système est régie par le contrat de licence du SDK Android Preview. L'image du système de prévisualisation Android n'est pas une version stable et peut contenir des erreurs et des défauts susceptibles d'endommager votre ordinateur, vos périphériques ou vos données. L'aperçu de l'image système Android n'est pas soumis aux mêmes tests que le système d'exploitation d'origine et peut entraîner l'arrêt de ce périphérique, des services installés ou des applications."</string>
+    <string name="user_query_notification_text">"Le fonctionnement du bureau est-il confortable ? L'animation est-elle fluide ? Parlez-nous de votre participation au sondage !"</string>
+    <string name="user_query_notification_title">"Le système MIUI vous invite à participer à l’enquête d’utilisation."</string>
     <string name="wallpaper">"Fond d'écran"</string>
     <string name="wallpaper_auto_change_title">Écran de verrouillage</string>
     <string name="wallpaper_failed_message">"Impossible de définir le fond d'écran"</string>
