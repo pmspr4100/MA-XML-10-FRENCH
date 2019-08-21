@@ -1415,9 +1415,6 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_settings_label">Paramètres</string>
     <string name="quick_settings_sync_label">Synchro</string>
     <string name="quick_settings_tethering_label">Partage de connexion</string>
-    <string name="quick_settings_tiles">défaut</string>
-    <string name="quick_settings_tiles_default">"cellule,wifi,flash,muet,capture d'écran,bt,luminosité automatique,mode avion,verrouillage de l'écran,gps,rotation,mode de papier,mode nuit,mode silencieux,économiseur de batterie,économiseur de batterie extrême,personnalisé(com.milink.service/com.milink.ui.service.MiLinkTileService),mode d'alimentation,personnalisé(com.miui.screenrecorder/.service.QuickService),vibrer,point d'accès,synchronisation,bouton d'écran,alimentation sans-fil,fc,éditer"</string>
-    <string name="quick_settings_tiles_stock">"cellule,wifi,flash,muet,capture d'écran,bt,luminosité automatique,mode avion,verrouillage de l'écran,gps,rotation,mode de papier,mode nuit,mode silencieux,économiseur de batterie,économiseur de batterie extrême,mode d'alimentation,vibrer,point d'accès,synchronisation,bouton d'écran,alimentation sans-fil,fc,éditer,mode voiture"</string>
     <string name="quick_settings_time_label">Durée</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Pour ajouter un élément, appuyez et maintenez-le, puis faites-le glisser dans la partie supérieure du panneau.</string>
     <string name="quick_settings_user_label">Moi</string>
