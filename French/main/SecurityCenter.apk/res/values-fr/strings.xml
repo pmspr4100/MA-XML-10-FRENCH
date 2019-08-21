@@ -1443,7 +1443,7 @@ medical card"</string>
     <string name="handle_bar_summary_wifi_unknown">Inconnu</string>
     <string name="sp_settings_group_title_check_item">Plusieurs éléments</string>
     <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
-    <string name="sp_settings_check_item_title_root">Root</string>
+    <string name="sp_settings_check_item_title_root">ROOT</string>
     <string name="sp_settings_check_item_title_update">Mises à jour système</string>
     <string name="sp_settings_check_item_title_virus_exception">Exceptions</string>
     <string name="sp_settings_check_item_title_sign_exception">Exceptions des signatures</string>
@@ -1462,7 +1462,6 @@ medical card"</string>
     <string name="dialog_no_longer_alert">Ne plus afficher</string>
     <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
     <string name="dialog_remobe_luckymoney_ok">前往开启</string>
-    <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
     <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往手机管家开启更快更稳定的小米红包助手？</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Alerte Wi-Fi public</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">"Vous êtes connecté à un réseau Wi-Fi public qui n'est peut-être pas sécurisé. Assurez-vous que votre paiement est protégé avant de le terminer."</string>
@@ -1518,7 +1517,7 @@ medical card"</string>
     <string name="activity_title_settings">Paramètres</string>
     <string name="activity_title_antivirus">Analyse de sécurité</string>
     <string name="activity_title_networkassistants">Utilisation des données</string>
-    <string name="activity_title_antispam">Liste Noire</string>
+    <string name="activity_title_antispam">Liste noire</string>
     <string name="activity_title_license_manager">Permissions</string>
     <string name="activity_title_power_manager">Optimisation de la batterie</string>
     <string name="activity_title_garbage_cleanup">Nettoyeur</string>
@@ -1675,7 +1674,7 @@ medical card"</string>
     <string name="monitor_requests_from_pc">"Gérer l'installation des applications via USB"</string>
     <string name="app_install_intercept">"Bloquer l'installation"</string>
     <string name="pc_to_phone_install">"L'installation de %s via USB est bloquée"</string>
-    <string name="recently_reject_message_one">"Demande d'installation %1$srejetée"</string>
+    <string name="recently_reject_message_one">"Demande d'installation %1$s rejetée"</string>
     <string name="recently_reject_message">Installation rejetée de %1$s et %2$d autres applications</string>
     <string name="delete_from_manual_item_white_list">Retirer des exceptions</string>
     <string name="button_text_ignore">Ignorer</string>
@@ -1738,9 +1737,9 @@ medical card"</string>
     <string name="superpower_dialog_massage">"L'économiseur de batterie ultra restreint la plupart des fonctionnalités énergivores et diminue les performances de votre appareil afin de laisser les fonctionnalités de base (appels, SMS et connexion au réseau, par exemple) disponibles le plus longtemps possible. Activer l'économiseur de batterie ultra ?"</string>
     <string name="superpower_dialog_title">Économiseur de batterie ultra</string>
     <string name="superpower_notification_hint_enter">Activer</string>
-    <string name="superpower_notification_summary">Turn on Ultra battery saver</string>
-    <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
-    <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
+    <string name="superpower_notification_summary">"Activer l'économiseur de batterie ultra"</string>
+    <string name="superpower_notification_time_12">EEEE dd MMMM</string>
+    <string name="superpower_notification_time_24">EEEE dd MMMM</string>
     <string name="superpower_notification_title">Moins de 10% de batterie restante</string>
     <string name="superpower_progress_content">"Activer l'économiseur de batterie ultra…"</string>
     <string name="superpower_progress_left_time">%1$d h %2$d m</string>
@@ -1893,11 +1892,11 @@ medical card"</string>
     <string name="antivirus_monitor_risk_advice">"Cette application n'est pas sécurisée, supprimez-la"</string>
     <string name="antivirus_monitor_virus_advice">Cette application peut contenir un virus, supprimez-la</string>
     <string name="security_scan_optimizing">Optimisation…</string>
-	<string name="securityadd_install_fail">"Impossible de mettre à jour le plug-in. Réessayer."</string>
-	<string name="securityadd_update_tips_cancle">Pas maintenant</string>
-	<string name="securityadd_update_tips_message">"Mettre à jour le plug-in de service de sécurité pour accéder aux dernières fonctionnalités de jeu. %1$dMo seront téléchargés."</string>
-	<string name="securityadd_update_tips_now">Mettre à jour</string>
-	<string name="securityadd_update_tips_title">Mettre à jour</string>
+    <string name="securityadd_install_fail">"Impossible de mettre à jour le plug-in. Réessayer."</string>
+    <string name="securityadd_update_tips_cancle">Pas maintenant</string>
+    <string name="securityadd_update_tips_message">"Mettre à jour le plug-in de service de sécurité pour accéder aux dernières fonctionnalités de jeu. %1$dMo seront téléchargés."</string>
+    <string name="securityadd_update_tips_now">Mettre à jour</string>
+    <string name="securityadd_update_tips_title">Mettre à jour</string>
     <string name="securitycenter_tab_title">Sécurité</string>
     <string name="preferred_app_entries_launcher">Lanceur</string>
     <string name="preferred_app_entries_dial">Composeur</string>
@@ -2359,7 +2358,7 @@ Nous respectons et protégeons votre vie privée."</string>
     <string name="gs_auto_clean_memory_detail">Effacer automatiquement le cache pour optimiser le jeu</string>
     <string name="gs_anto_clean_memory_whitelist">Exceptions de mémoire</string>
     <string name="gs_call_handsfree">Répondre aux appels les mains libres</string>
-    <string name="gs_call_handsfree_mute">Mode Silencieux</string>
+    <string name="gs_call_handsfree_mute">Mode silencieux</string>
     <string name="gs_gamebox">Raccourcis dans le jeu</string>
     <string name="gs_gamebox_detail">"Faites glisser votre doigt depuis le bord supérieur de l'écran pour afficher"</string>
     <string name="gs_slip_gamebox_detail">"Utilisez le curseur ou faites glisser votre doigt depuis le bord supérieur de l'écran pour faire apparaître le panneau de raccourcis"</string>
@@ -2890,7 +2889,7 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
     <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Suppression impossible: votre appareil est réglé pour basculer vers ce profil une fois la batterie est recharge, changez vos paramètres pour supprimer ce profil.</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Votre appareil est programmé pour basculer sur ce profil. Vous devez changer les paramètres de batterie afin de supprimer cette configuration.</string>
     <string name="power_mode_chooser_button_text">Appliquer</string>
-    <string name="power_20s_enter_mode">Basculer vers %2$s dans %1$ds</string>
+    <string name="power_20s_enter_mode">Basculer vers %2$s dans %1$d s</string>
     <string name="power_notify_lowbattery">la batterie est inférieure à %1$d%%</string>
     <string name="power_recovery_mode">Retour au profil %1$s</string>
     <string name="power_subtitle_lowbattery">"Économie d'énergie automatique quand la batterie est faible"</string>
@@ -2910,7 +2909,7 @@ Toutes les données sur votre appareil peuvent être supprimées et le mot de pa
     <string name="brightness_auto_adjust_on">Optimiser le niveau de luminosité par rapport à la lumière ambiente</string>
     <string name="brightness_auto_adjust_off">La luminosité restera constante dans tous les environnements</string>
     <string name="power_mode_choose_summary_change">Quelque chose a changé dans la configuration</string>
-    <string name="shutdown_time_day">Arrêt: %2$s %1$dd</string>
+    <string name="shutdown_time_day">Arrêt: %2$s %1$d j</string>
     <string name="shutdown_time_day_tomorrow">Arrêt: %1$s</string>
     <string name="shutdown_time">Arrêt: %1$s</string>
 </resources>

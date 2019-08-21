@@ -253,20 +253,20 @@ Si vous activez les données mobiles, votre opérateur pourrait vous facturer de
       <item quantity="one">"%s application n'est pas protégée"</item>
     </plurals>
     <plurals name="menu_text_antivirus_virus_ex">
-        <item quantity="other">%d apps contain viruses or malware</item>
-        <item quantity="one">%d app contains viruses or malware</item>
+       <item quantity="other">%d apps contain viruses or malware</item>
+       <item quantity="one">%d app contains viruses or malware</item>
     </plurals>
     <plurals name="menu_text_antivirus_day_ex">
-        <item quantity="other">"N'a pas analysé l'appareil depuis %d jours"</item>
-        <item quantity="one">"N'a pas analysé l'appareil depuis %d jour"</item>
+       <item quantity="other">"N'a pas analysé l'appareil depuis %d jours"</item>
+       <item quantity="one">"N'a pas analysé l'appareil depuis %d jour"</item>
     </plurals>
     <plurals name="menu_text_antispam_ex">
-        <item quantity="other">%d messages et appels bloqués</item>
-        <item quantity="one">%d message et appel bloqué</item>
+       <item quantity="other">%d messages et appels bloqués</item>
+       <item quantity="one">%d message et appel bloqué</item>
     </plurals>
     <plurals name="menu_text_app_manager_ex">
-        <item quantity="other">%d mises à jour disponibles</item>
-        <item quantity="one">%d mise à jour disponible</item>
+       <item quantity="other">%d mises à jour disponibles</item>
+       <item quantity="one">%d mise à jour disponible</item>
     </plurals>
     <plurals name="system_check_content">
       <item quantity="other">%1$d fichiers sécurisés</item>
