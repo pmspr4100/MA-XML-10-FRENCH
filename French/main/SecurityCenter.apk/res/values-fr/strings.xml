@@ -101,7 +101,7 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="dlg_not_block_call">"Débloquer les numéros sélectionnés ? Ils seront ajoutés aux exceptions, mais les éléments précédemment bloqués n'apparaîtront pas dans l'historique des appels."</string>
     <string name="dlg_update_date_title">Avertissement</string>
     <string name="dlg_update_data_content">"Vous n'êtes pas connecté au Wi-Fi. Utilser les données mobiles peut générer des frais supplémentaires. Continuer quand même ?"</string>
-    <string name="dlg_sec_network_unavailable">"L'application Sécurité ne peut pas effectuer de mise à jour parce que vous avez restreint la connexion Internet. Autoriser Sécurité à se connecter à Internet ?"</string>
+    <string name="dlg_sec_network_unavailable">"Sécurité ne peut pas se mettre à jour car vous avez restreint la connexion internet. Autoriser sécurité à se connecter à internet ?"</string>
     <string name="dlg_update_btn_contiue">Continuer</string>
     <string name="dlg_update_btn_open">Autoriser</string>
     <string name="dlg_update_updating">Mise à jour…</string>
@@ -200,6 +200,9 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="sms_delete_hint">Supprimer les messages bloqués de ce numéro ?</string>
     <string name="call_delete_hint">Supprimer tous les appels bloqués de ce numéro ?</string>
     <string name="backsound_set_hint">"Définir votre message d'absence sur %s ?"</string>
+    <string name="banner_optimizemanage_summary">Libérez de la mémoire</string>
+    <string name="banner_red_money_assist_button">Activer</string>
+    <string name="banner_red_money_assist_summary">Ouvre les enveloppes rouges plus rapidement</string>
     <string name="battery_and_property">Batterie et performance</string>
     <string name="report">Rapport</string>
     <string name="report_only">Choisir un message à signaler</string>
@@ -309,6 +312,16 @@ Il sera ajouté aux exceptions, mais les éléments bloqués précédemment n'ap
     <string name="name">Nom</string>
     <string name="nickname">Surnom</string>
     <string name="phone">Téléphone</string>
+    <string name="phone_manage">Utilitaires</string>
+    <string name="phone_manage_app_manager_summary">Gérer les applications sur votre appareil</string>
+    <string name="phone_manage_clean_summary">"Libérer de l'espace de stockage"</string>
+    <string name="phone_manage_clean_title">Nettoyer</string>
+    <string name="phone_manage_electric_summary">Optimisez votre appareil pour économiser la batterie</string>
+    <string name="phone_manage_electric_title">Batterie</string>
+    <string name="phone_manage_special_summary">Explorez nos fonctionnalités supplémentaires</string>
+    <string name="phone_manage_special_title">Caractéristiques spéciales</string>
+    <string name="phone_manage_system_tool_summary">Outils utiles au niveau du système</string>
+    <string name="phone_manage_system_tool_title">Outils</string>
     <string name="email">E-mail</string>
     <string name="organization">Société</string>
     <string name="im">Messagerie instantanée</string>
@@ -531,6 +544,7 @@ de l'opérateur"</string>
     <string name="power_save_ps_close_setting">"Désactiver les services d'arrière-plan (Synchro, GPS) pour économiser la batterie"</string>
     <string name="power_save_ps_freeze">Geler les applications en arrière-plan</string>
     <string name="power_save_ps_limit">"Restreindre l'activité des applications système"</string>
+    <string name="power_save_settings">Paramètres de la batterie</string>
     <string name="manual_input_traffic">"Ajuster l'utilisation des données"</string>
     <string name="manual_input_free_traffic">Définir la limite des données en heure creuse</string>
     <string name="declaration_dialog_msg">"Cette option vous permet de gérer au mieux l'utilisation de vos données, mais ne constitue pas une garantie fiable afin d'éviter d'éventuels surcoûts. Par conséquent, il est conseillé de garder une marge."</string>
@@ -1031,6 +1045,7 @@ Essayez d'utiliser un autre câble Ethernet pour connecter votre routeur. Si vou
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">Appareil en veille</string>
     <string name="power_phone">Appels</string>
+    <string name="power_save_mode">Économiseur de batterie</string>
     <string name="power_idle">Téléphone en veille</string>
     <string name="power_main_battery_last_day_hour">%1$s j %2$s h restantes</string>
     <string name="power_main_battery_last_hour_minute">%1$s h %2$s m restantes</string>
@@ -1438,13 +1453,17 @@ medical card"</string>
     <string name="sp_empty_title_sign_exception">"Maintenir l'application pour l'ajouter aux exceptions"</string>
     <string name="sp_toast_removed_from_sign_white_list">"Retiré des exceptions. L'élément sera analysé la prochaine fois."</string>
     <string name="sp_network_privacy_dialog_title">"Impossible d'utiliser l'analyse de sécurité"</string>
-    <string name="sp_network_privacy_dialog_message">"L'application Sécurité ne peut pas fonctionner parce que vous avez restreint la connexion Internet. Autoriser Sécurité à se connecter à Internet ?"</string>
+    <string name="sp_network_privacy_dialog_message">"Sécurité ne peut pas fonctionner parce que vous avez restreint la connexion internet. Autoriser sécurité à se connecter à internet ?"</string>
     <string name="sp_settings_exception_count_zero">Aucun élément</string>
     <string name="sp_monitored_apps_count_zero">"Aucune application de paiement n'est protégée"</string>
     <string name="monitor_app_more">Plus</string>
     <string name="monitor_app_add">Ajouter</string>
     <string name="sc_system_risk_fix_info_xspace">Impossible de résoudre ce problème dans deuxième espace. Essayez à nouveau dans Premier espace.</string>
     <string name="dialog_no_longer_alert">Ne plus afficher</string>
+    <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
+    <string name="dialog_remobe_luckymoney_ok">前往开启</string>
+    <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往安全中心开启更快更稳定的小米红包助手？</string>
+    <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往手机管家开启更快更稳定的小米红包助手？</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Alerte Wi-Fi public</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">"Vous êtes connecté à un réseau Wi-Fi public qui n'est peut-être pas sécurisé. Assurez-vous que votre paiement est protégé avant de le terminer."</string>
     <string name="sc_warning_updater_not_found">"Impossible de trouver l'application Mise à jour."</string>
@@ -1461,13 +1480,11 @@ medical card"</string>
     <string name="exit">Quitter</string>
     <string name="cancel">Annuler</string>
     <string name="btn_text_quick_cleanup">Nettoyer</string>
-    <string name="btn_text_power_cleanup">Nettoyage en profondeur</string>
+    <string name="btn_text_power_cleanup">Nettoyer en profondeur</string>
     <string name="btn_text_network_speed_detail">Connexion</string>
     <string name="btn_text_quick_scan">Analyser</string>
     <string name="menu_text_antivirus">Analyse de sécurité</string>
     <string name="menu_summary_antivirus">Rechercher les virus sur votre appareil</string>
-    <string name="menu_summary_antivirus_2">Risques potentiels trouvés</string>
-    <string name="menu_summary_antivirus_3">"Vous n'avez pas analysé votre appareil"</string>
     <string name="menu_text_optimize_manage">Augmenter la vitesse</string>
     <string name="menu_text_networkassistants">Utilisation des données</string>
     <string name="menu_summary_networkassistants">Gérez votre forfait de données</string>
@@ -1482,13 +1499,11 @@ medical card"</string>
     <string name="menu_text_networkassistants_unit_b">O</string>
     <string name="menu_text_antispam">Liste Noire</string>
     <string name="menu_summary_antispam">Bloquer les appels et les messages</string>
-    <string name="menu_summary_antispam_2">Appels et messages bloqués</string>
     <string name="menu_text_license_manager">Permissions</string>
     <string name="menu_text_garbage_cleanup">Nettoyeur</string>
     <string name="menu_summary_garbage_cleanup">Aucune corbeille trouvée</string>
-    <string name="menu_summary_garbage_cleanup_2">Taille de la corbeille</string>
-    <string name="menu_summary_garbage_cleanup_3">Vider la corbeille maintenant</string>
-    <string name="menu_text_power_manager">Optimisation de la batterie</string>
+    <string name="menu_summary_garbage_cleanup_ex">Effacer %s de la corbeille</string>
+    <string name="menu_text_power_manager">Batterie et performance</string>
     <string name="menu_summary_power_manager">"L'économiseur de batterie vous donne plus de temps de entre vos charges"</string>
     <string name="menu_summary_power_manager_1">La batterie est complètement chargée</string>
     <string name="menu_summary_power_manager_2">%s restants</string>
@@ -1508,7 +1523,6 @@ medical card"</string>
     <string name="activity_title_power_manager">Optimisation de la batterie</string>
     <string name="activity_title_garbage_cleanup">Nettoyeur</string>
     <string name="menu_summary_app_manager">Mettre à jour et désinstaller des applications</string>
-    <string name="menu_summary_app_manager_2">Mises à jour disponibles</string>
     <string name="memory_check_content">%s libéré</string>
     <string name="memory_clear_unused">Vider le cache (%s)</string>
     <string name="activity_title_virus">Virus</string>
@@ -1580,7 +1594,7 @@ medical card"</string>
     <string name="hints_virus_app_list_item_summary">application</string>
     <string name="hints_virus_apk_list_item_summary">application</string>
     <string name="hints_loading_text">Chargement…</string>
-    <string name="security_center_slogan">Sécurité. Toujours sur ses gardes.</string>
+    <string name="security_center_slogan">Gardez votre appareil rapide et sécurisé</string>
     <string name="activity_title_auto_start_manager">Démarrage automatique</string>
     <string name="activity_title_permission_manager">Permissions</string>
     <string name="activity_title_other_permission_manager">Autres permissions</string>
@@ -1604,8 +1618,8 @@ medical card"</string>
     <string name="hide_system_app">Masquer les applications système</string>
     <string name="about_autostart">À propos du démarrage auto</string>
     <string name="permission_action_accept">Accepter</string>
-    <string name="permission_action_always">Always allow</string>
-    <string name="permission_action_foreground">While using the app</string>
+    <string name="permission_action_always">Toujours autoriser</string>
+    <string name="permission_action_foreground">"Tout en utilisant l'application"</string>
     <string name="permission_action_prompt">Notifier</string>
     <string name="permission_action_reject">Refuser</string>
     <string name="empty_title_permission_apps_list">Vide.</string>
@@ -1672,7 +1686,7 @@ medical card"</string>
     <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="summary_cloud_service">Synchronisez vos photos, contacts et autres sur tous vos appareils</string>
     <string name="title_network_switch">Connexion réseau</string>
-    <string name="summary_network_switch">"Autoriser l'application Sécurité à se connecter à Internet"</string>
+    <string name="summary_network_switch">"Autoriser sécurité à se connecter à internet"</string>
     <string name="title_power_optimizer">Économiseur de batterie</string>
     <string name="summary_power_optimizer">Réduire les performances de votre appareil lorsque la batterie est faible</string>
     <string name="title_data_flow_monitor">Moniteur de données activé</string>
@@ -1819,7 +1833,7 @@ medical card"</string>
     <string name="antivirus_not_wlan">"Vous n'êtes pas connecté au Wi-Fi. Utilser les données mobiles peut générer des frais supplémentaires. Continuer quand même ?"</string>
     <string name="antivirus_longtime_no_update">"Il semble que vos bases de données virales sont obsolètes. Les mise à jour régulières aident à obtenir de meilleurs résultats d'analyse. Autoriser \" Sécurité \" à se connecter à Internet et mettre à jour les bases de données virales ?"</string>
     <string name="antivirus_longtime_no_update1">"Il semble que vos bases de données virales sont obsolètes. Les mises à jour régulières aident à obtenir de meilleurs résultats d'analyse. Mettez à jours les bases de données et réessayez."</string>
-    <string name="antivirus_sec_network_unavailable">"L'application Sécurité ne peut pas effectuer de mise à jour parce que vous avez restreint la connexion Internet. Autoriser Sécurité à se connecter à Internet ?"</string>
+    <string name="antivirus_sec_network_unavailable">"Sécurité ne peut pas se mettre à jour car vous avez restreint la connexion internet. Autoriser sécurité à se connecter à internet ?"</string>
     <string name="antivirus_update_btn_contiue">Continuer</string>
     <string name="antivirus_update_btn_open">Autoriser</string>
     <string name="antivirus_update_btn_update">Mettre à jour</string>
@@ -1884,6 +1898,7 @@ medical card"</string>
 	<string name="securityadd_update_tips_message">"Mettre à jour le plug-in de service de sécurité pour accéder aux dernières fonctionnalités de jeu. %1$dMo seront téléchargés."</string>
 	<string name="securityadd_update_tips_now">Mettre à jour</string>
 	<string name="securityadd_update_tips_title">Mettre à jour</string>
+    <string name="securitycenter_tab_title">Sécurité</string>
     <string name="preferred_app_entries_launcher">Lanceur</string>
     <string name="preferred_app_entries_dial">Composeur</string>
     <string name="preferred_app_entries_messaging">Messagerie</string>
@@ -2028,7 +2043,7 @@ medical card"</string>
     <string name="fingerprint_to_lock">Déverrouiller avec empreinte digitale</string>
     <string name="system_application">Applications système</string>
     <string name="system_permission_declare_agree">Accepter</string>
-    <string name="system_permission_declare_analytics_declare">"Thank you for enrolling in our User Experience Program. Your device needs to be connected to the internet to allow this feature to work normally. You're also required to grant the following permissions to allow us to collect the data that will help us improve our products and services. This data is collected for statistical purposes only. We won't be able to use this data to identify you personally."</string>
+    <string name="system_permission_declare_analytics_declare">"Merci de vous être inscrit à notre programme d'expérience utilisateur. Votre appareil doit être connecté à internet pour permettre à cette fonctionnalité de fonctionner normalement. Vous devez également accorder les autorisations suivantes pour nous permettre de collecter les données qui nous aideront à améliorer nos produits et services. Ces données sont collectées à des fins statistiques uniquement. Nous ne pourrons pas utiliser ces données pour vous identifier personnellement."</string>
     <string name="system_permission_declare_disagree">Refuser</string>
     <string name="system_permission_declare_double_link">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=\"%2$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
     <string name="system_permission_declare_main_purpose" formatted="false">"Bienvenue sur %1s ! Cette application vous permet d'utiliser la fonctionnalité suivante: %2s."</string>
@@ -2041,7 +2056,7 @@ Notez que %1s a besoin de collecter vos données et nécessite les permissions s
 Nous respectons et protégeons votre vie privée."</string>
     <string name="system_permission_declare_privacy_policy">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
     <string name="system_permission_declare_revoke_system">Vous pouvez quitter cette application.</string>
-    <string name="system_permission_declare_revoke_uninstallable">Vous pouvez désinstaller cette application ou gérer vos permissions et autorisations dans Sécurité. &gt; Gérer les applications &gt; Permissions &gt; Autres permissions.</string>
+    <string name="system_permission_declare_revoke_uninstallable">"Vous pouvez vous déconnecter, désinstaller cette application ou révoquer vos permissions dans Sécurité. &gt; Gérer les applications &gt; Permissions &gt; Permissions."</string>
     <string name="system_permission_declare_use_network">Se connecter au réseau</string>
     <string name="system_permission_declare_use_network_no_permission">Se connecter au réseau</string>
     <string name="system_permission_declare_user_agreement">"&lt;Data&gt;Lisez et acceptez notre &amp;lt;a href=\"%1$s\"&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; avant d'utiliser cette fonctionnalité.&lt;/Data&gt;"</string>
@@ -2049,6 +2064,8 @@ Nous respectons et protégeons votre vie privée."</string>
     <string name="system_permission_perm_read_mms">Lire le MMS</string>
     <string name="system_permission_perm_read_numbers">Lire les numéros de téléphone</string>
     <string name="system_permission_perm_send_mms">Envoyer un MMS</string>
+    <string name="system_tool_green_guard">Sécurité de la famille</string>
+    <string name="system_tool_sos">"S.O.S d'urgence"</string>
     <string name="third_application">Applications installées</string>
     <string name="finger_remind_message">"Ajoutez d'abord votre empreinte digitale. Appuyez pour ouvrir Paramètres."</string>
     <string name="fingerprint_not_remind">Ne plus demander</string>
@@ -2374,19 +2391,19 @@ Nous respectons et protégeons votre vie privée."</string>
     <string name="boosting">Augmentation de la vitesse…</string>
     <string name="get_sys_info">"Obtention d'informations…"</string>
     <string name="function_close">Désactivé</string>
-    <string name="function_gwsd_detail">"About this feature:
- 1. Incoming calls to your data SIM won't interrupt mobile data connection. The connection will be interrupted only when you answer a call.
- 2. When this feature is turned on, the caller won't hear call waiting ringtones. Incoming calls will be ended unless you answer within 6 seconds.
- 3. This feature only works for data SIM cards. Calls to your primary SIM will interrupt mobile data connection.
- 4. This feature is supported only by China Mobile and China Unicom."</string>
-    <string name="function_gwsd_title">"Don't allow incoming calls to interrupt data SIM connection"</string>
+    <string name="function_gwsd_detail">"À propos de cette fonctionnalité:
+ 1. Les appels entrants sur votre carte SIM n'interrompent pas la connexion de données mobile. La connexion ne sera interrompue que lorsque vous répondrez à un appel.
+ 2. Lorsque cette fonction est activée, l'appelant n'entend pas les sonneries d'appel en attente. Les appels entrants seront terminés à moins que vous ne répondiez dans les 6 secondes.
+ 3. Cette fonctionnalité ne fonctionne que pour les cartes SIM de données. Les appels vers votre carte SIM principale interrompent la connexion de données mobiles.
+ 4. Cette fonctionnalité est prise en charge uniquement par China Mobile et China Unicom."</string>
+    <string name="function_gwsd_title">"Ne pas autoriser les appels entrants à interrompre la connexion de données à la carte SIM"</string>
     <string name="add_done">Ajouté avec succès</string>
     <string name="boost_done">Augmenté avec succès</string>
     <string name="boost_stop">"Désactiver l'augmentation de la vitesse"</string>
     <string name="already_close_gamebooster">Accélérateur de jeu désactivé</string>
     <string name="no_game">Impossible de trouver des jeux</string>
     <string name="gamebooster_network_dialog_title">Certaines fonctionnalités ne sont pas disponibles</string>
-    <string name="gamebooster_network_dialog_message">"Autorisez Sécurité à se connecter au réseau afin d'utiliser toutes les fonctionnalités de l'accélérateur de vitesse de jeux ?"</string>
+    <string name="gamebooster_network_dialog_message">"Autoriser sécurité à se connecter au réseau afin d'utiliser toutes les fonctionnalités de Game Turbo ?"</string>
     <string name="ask_create_shortcut">"Créer un raccourci sur l'écran d'accueil ?"</string>
     <string name="create_shortcut">"Créer un raccourci pour l'accélérateur de jeu sur l'écran d'accueil"</string>
     <string name="i_know">"C'est compris"</string>

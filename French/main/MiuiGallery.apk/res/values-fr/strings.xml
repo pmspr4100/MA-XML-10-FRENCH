@@ -42,7 +42,7 @@
     <string name="ai_album_setting_key_word">Rechercher des photos</string>
     <string name="ai_album_setting_sub_title">"Autorisez l'algorithme IA à identifier les personnes, les lieux et les objets sur vos photos afin de les retrouver plus rapidement."</string>
     <string name="ai_album_setting_title">Identifier des objets sur les photos</string>
-    <string name="album_already_exists_check">Voir</string>
+    <string name="album_already_exists_check">Afficher</string>
     <string name="album_already_exists_msg">"L'album \"%s\" existe déjà"</string>
     <string name="album_already_forced_top">Déjà au dessus</string>
     <string name="album_bluetooth">Bluetooth</string>
@@ -608,7 +608,7 @@ le/la %4$s de %3$s partage l'album de %5$s avec vous"</string>
 Prenez plus de photos à vos amis !"</string>
     <string name="face_album_empty_syncing">Synchronisation des données en cours, revenez plus tard</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Se connecter au réseau pour synchroniser les informations</string>
-    <string name="face_album_long_tap_tip">Pour sélectionner plusieurs personnes ou modifier les paramètres de changement de groupe, appuyez &amp; maintenez une photo de profil</string>
+    <string name="face_album_long_tap_tip">Pour sélectionner plusieurs personnes ou modifier les paramètres de changement de groupe, appuyez et maintenez une photo de profil</string>
     <string name="face_album_new_name_hint">Nouveau nom</string>
     <string name="face_album_not_named">Sans nom</string>
     <string name="face_album_rename_hint">Saisir un nom</string>
@@ -631,7 +631,7 @@ Prenez plus de photos à vos amis !"</string>
     <string name="feature_guidance_photo_effects">"De nouveaux effets photo
 sont disponibles"</string>
     <string name="feature_guidance_video_editor_smart_effects">De nouveaux effets photo sont disponibles</string>
-    <string name="filter_bi_bw">N&amp;B</string>
+    <string name="filter_bi_bw">Noir et Blanc</string>
     <string name="filter_bi_dusk">Crépuscule</string>
     <string name="filter_bi_lilt">Lilt</string>
     <string name="filter_bi_memory">Mémoire</string>
@@ -649,7 +649,7 @@ sont disponibles"</string>
     <string name="filter_category_portrait">Portrait</string>
     <string name="filter_category_scene">Paysage</string>
     <string name="filter_category_sky">Ciel</string>
-    <string name="filter_film_blackwhite">N&amp;B</string>
+    <string name="filter_film_blackwhite">Noir et Blanc</string>
     <string name="filter_film_dew">Rosée</string>
     <string name="filter_film_fade">Fondu</string>
     <string name="filter_film_film">Film</string>
@@ -671,7 +671,7 @@ sont disponibles"</string>
     <string name="filter_master_rise">Augmenter</string>
     <string name="filter_master_somber">Sombre</string>
     <string name="filter_original">Aucun</string>
-    <string name="filter_people_bw">N&amp;B</string>
+    <string name="filter_people_bw">Noir et Blanc</string>
     <string name="filter_people_fairytale">Enfants</string>
     <string name="filter_people_japanese">Frais</string>
     <string name="filter_people_lilt">Lilt</string>
@@ -706,7 +706,7 @@ sont disponibles"</string>
     <string name="filter_sky_sunset">Coucher du soleil</string>
     <string name="finish_create_baby_album_toast">Album de \"%s\" créé dans Xiaomi Cloud</string>
     <string name="finish_fill_baby">Créer</string>
-    <string name="first_time_add_video_to_secret_tips">Update Gallery to be able to hide videos</string>
+    <string name="first_time_add_video_to_secret_tips">Mettre à jour la galerie pour pouvoir masquer les vidéos</string>
     <string name="flash_off">Flash désactivé</string>
     <string name="flash_on">Flash activé</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -821,7 +821,7 @@ sont disponibles"</string>
     <string name="image_selection_summary">MIUI analysera des photos similaires et marquera les meilleurs clichés pour vous. Désactivez cette fonctionnalité pour supprimer les marques sur les photos.</string>
     <string name="image_selection_title">Sélectionnez les meilleures photos</string>
     <string name="image_with_time">Photo prise le %s</string>
-    <string name="image_with_time_and_location">Photo prise le %1$s. Emplacement : %2$s.</string>
+    <string name="image_with_time_and_location">Photo prise le %1$s. Emplacement: %2$s.</string>
     <string name="impunity_declaration_settings">Notification de connexion Internet</string>
     <string name="impunity_declaration_summary">Afficher la notification de connexion Internet chaque fois que vous ouvrez la Galerie</string>
     <string name="initializing_cloud">Initialisation…</string>
@@ -889,7 +889,7 @@ pour personnaliser Galerie"</string>
     <string name="menu_item_sort_date">Date</string>
     <string name="menu_item_sort_name">Nom</string>
     <string name="menu_item_sort_size">Taille</string>
-    <string name="menu_view_contact">Voir le contact</string>
+    <string name="menu_view_contact">Afficher le contact</string>
     <string name="merge_album">Fusionner</string>
     <string name="merge_album_title">Fusionner avec une personne</string>
     <string name="messagelist_sender_self">Moi</string>
@@ -942,7 +942,7 @@ pour personnaliser Galerie"</string>
     <string name="more_face">Plus de personnes qui se ressemblent</string>
     <string name="more_face_album_name">Plus de personnes</string>
     <string name="morning">AM</string>
-    <string name="motion_photo_play">Play</string>
+    <string name="motion_photo_play">Lecture</string>
     <string name="move_to_other_albums_tip">Déplacer cet album vers les Autres albums ?</string>
     <string name="movie_add_disable">Vous pouvez sélectionner jusqu’à 20 photos</string>
     <string name="movie_audio_antiquity">Rétro</string>
@@ -1204,7 +1204,7 @@ pour personnaliser Galerie"</string>
     <string name="play_video_desc">Lire la vidéo</string>
     <string name="pm">PM</string>
     <string name="preparing_data">Chargement…</string>
-    <string name="privacy_permission_request_message">"Galerie a besoin d'accès à %3$s. Les informations collectées seront utilisées en accord avec notre %1$s et %2$s. Autoriser?"</string>
+    <string name="privacy_permission_request_message">"Galerie a besoin d'accès à %3$s. Les informations collectées seront utilisées en accord avec notre %1$s et %2$s. Autoriser ?"</string>
     <string name="privacy_permission_request_negative">Restreindre</string>
     <string name="privacy_permission_request_positive">Autoriser</string>
     <string name="privacy_permission_request_title">Permissions requise</string>
@@ -1252,8 +1252,8 @@ pour personnaliser Galerie"</string>
     <string name="remove_from_secret_fail">"Impossible de retirer de l'album caché"</string>
     <string name="remove_from_secret_failed_with_reason">"Ne peut être supprimé de l'album caché. %1$s."</string>
     <string name="remove_from_secret_successful">"Retiré de l'album caché"</string>
-    <string name="remove_hidden_status_success">Removed %s from hidden albums</string>
-    <string name="remove_hidden_status_tip">This album will be displayed among other albums if you unhide it.</string>
+    <string name="remove_hidden_status_success">"Supprimé %s d'albums cachés"</string>
+    <string name="remove_hidden_status_tip">"Cet album sera affiché parmi d'autres albums si vous le dévoilez."</string>
     <string name="remove_hidden_status_title">Unhide</string>
     <string name="remove_to_album_title">Fusionner avec</string>
     <string name="remove_to_other_album">Fusionner avec une personne différente</string>
@@ -1271,7 +1271,7 @@ pour personnaliser Galerie"</string>
     <string name="rename_face_album">Changer le nom</string>
     <string name="rename_fail_msg">Le changement de nom a échoué</string>
     <string name="rename_from_contact">Nom parmi les contacts</string>
-    <string name="request_qr_code_failed">Échec de la requête de code QR</string>
+    <string name="request_qr_code_failed">Échec de la requête du QR code</string>
     <string name="request_sms_url_failed">"Échec d'obtention des informations"</string>
     <string name="request_sms_url_msg">Requête de partage…</string>
     <string name="request_sms_url_title">Marquer</string>
@@ -1282,13 +1282,13 @@ pour personnaliser Galerie"</string>
     <string name="saturday">Samedi</string>
     <string name="saturday_short">Sam</string>
     <string name="saturday_shortest">S</string>
-    <string name="scan_barcode_guide">Pour obtenir un code QR, appuyez sur l’icône Partage.</string>
-    <string name="scan_barcode_to_join">Scannez le code QR pour ajouter un album</string>
-    <string name="scan_qr_code_buttom_text">Scanner le code QR pour voir cet album</string>
+    <string name="scan_barcode_guide">Pour obtenir un QR code, appuyez sur l’icône Partage.</string>
+    <string name="scan_barcode_to_join">Scannez le QR code pour ajouter un album</string>
+    <string name="scan_qr_code_buttom_text">Scanner le QR code pour voir cet album</string>
     <string name="screen_doodle_talkback_size">Largeur de ligne de Doodle</string>
-    <string name="screen_editor_btn_delete">Delete</string>
-    <string name="screen_editor_btn_save">Save</string>
-    <string name="screen_editor_delete_dialog_msg">Delete this screenshot?</string>
+    <string name="screen_editor_btn_delete">Supprimer</string>
+    <string name="screen_editor_btn_save">Sauvegarder</string>
+    <string name="screen_editor_delete_dialog_msg">"Supprimer cette capture d'écran ?"</string>
     <string name="screen_editor_finish">Terminer</string>
     <string name="screen_save_dialog_btn_cancel">Annuler</string>
     <string name="screen_save_dialog_btn_delete">"Suppression la captures d'écran"</string>
@@ -1305,7 +1305,7 @@ pour personnaliser Galerie"</string>
     <string name="search_error_and_retry">Une erreur est survenue, appuyer pour réessayer</string>
     <string name="search_failed_mark_feedback_false_negative">Ajout impossible</string>
     <string name="search_failed_mark_feedback_false_positive">Retrait impossible</string>
-    <string name="search_feedback_contribute">"Ajouter des photos à la base de donnée de l'algorithme AI"</string>
+    <string name="search_feedback_contribute">"Ajouter des photos à la base de donnée de l'algorithme IA"</string>
     <string name="search_feedback_false_negative_text">Ajouter des photos à \"%s\" ?</string>
     <string name="search_feedback_false_negative_title">Les éléments sélectionnés sont \"%s\"</string>
     <string name="search_feedback_false_positive_text">Retirer les photos de \"%s\" ?</string>
@@ -1379,7 +1379,7 @@ pour personnaliser Galerie"</string>
     <string name="set_as_baby_lock_wallpaper">"Définir comme fond d'écran de verrouillage"</string>
     <string name="set_as_slide_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
     <string name="set_as_slide_wallpaper_title">"Définir comme fond d'écran du diaporama"</string>
-    <string name="set_as_video_wallpaper_description">Télécharger cet élément et l’utiliser comme fond d’écran vidéo?</string>
+    <string name="set_as_video_wallpaper_description">Télécharger cet élément et l’utiliser comme fond d’écran vidéo ?</string>
     <string name="set_as_video_wallpaper_title">Définir un fond d’écran vidéo</string>
     <string name="set_as_wallpaper_description">"Cette image est une miniature, télécharger l'original ?"</string>
     <string name="set_as_wallpaper_title">"Définir comme fond d'écran"</string>
@@ -1389,7 +1389,7 @@ pour personnaliser Galerie"</string>
     <string name="set_face_group_toast_title_old_user">Les personnes peuvent être organisées par groupe</string>
     <string name="set_face_image">Définir une nouvelle photo de profil</string>
     <string name="set_group">Définir un groupe</string>
-    <string name="set_video_wallpaper_failed">Impossible d’utiliser cet élément en tant que fond d’écran vidéo</string>
+    <string name="set_video_wallpaper_failed">"Impossible d’utiliser cet élément en tant que fond d'écran vidéo"</string>
     <string name="set_wallpaper_get_image_failed">"Impossible de télécharger l'image, réessayez plus tard"</string>
     <string name="setup_network_connection">Paramètres du réseau</string>
     <string name="share">Partager</string>
@@ -1401,9 +1401,9 @@ pour personnaliser Galerie"</string>
     <string name="share_public_url_text">"j'ai partagé l'album %1$s avec vous. Consultez le sur %2$s"</string>
     <string name="share_with_family">Partager avec la famille</string>
     <string name="sharer_quota_fulfiled">Vous avez déjà partagé cet album avec le nombre maximum de personnes.</string>
-    <string name="show_cloud_albumlist_summary">Manage the albums you sync with the cloud</string>
-    <string name="show_hidden_album_summary">View and manage hidden albums</string>
-    <string name="show_hidden_album_title">View hidden albums</string>  
+    <string name="show_cloud_albumlist_summary">Gérez les albums que vous synchronisez avec le cloud</string>
+    <string name="show_hidden_album_summary">Afficher et gérer des albums cachés</string>
+    <string name="show_hidden_album_title">Afficher les albums cachés</string>  
     <string name="show_in_other_albums_disable_toast_long_press_menu">Déplacé avec succès, allez à Autres albums pour voir</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">Déplacé avec succès, allez à Albums pour voir</string>
     <string name="similar_keep_clear">Garder les meilleurs clichés</string>
@@ -1454,7 +1454,7 @@ pour personnaliser Galerie"</string>
     <string name="special_type_night_mode">IA Mode nuit</string>
     <string name="special_type_portrait">IA Portrait lumineux</string>
     <string name="special_type_wide_angle">IA Ultra grand angle</string>
-    <string name="start_debug">Débogage de Galerie</string>
+    <string name="start_debug">Débogage de la Galerie</string>
     <string name="start_to_use_face_albumset">Trier par personnes</string>
     <string name="sticker_ad">Dépliants</string>
     <string name="sticker_baibai">Plantes</string>
@@ -1472,7 +1472,7 @@ pour personnaliser Galerie"</string>
     <string name="sticker_spring">Printemps</string>
     <string name="sticker_summer">Été</string>
     <string name="sticker_words">Mots</string>
-    <string name="storage_description_primary">Stockage Interne</string>
+    <string name="storage_description_primary">Stockage interne</string>
     <string name="storage_description_sdcard">Stockage externe</string>
     <string name="storage_description_usb">Stockage USB</string>
     <string name="storage_description_xspace">Données des applications clonées</string>

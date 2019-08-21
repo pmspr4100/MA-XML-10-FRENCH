@@ -1415,6 +1415,9 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_settings_label">Paramètres</string>
     <string name="quick_settings_sync_label">Synchro</string>
     <string name="quick_settings_tethering_label">Partage de connexion</string>
+    <string name="quick_settings_tiles">défaut</string>
+    <string name="quick_settings_tiles_default">"cellule,wifi,flash,muet,capture d'écran,bt,luminosité automatique,mode avion,verrouillage de l'écran,gps,rotation,mode de papier,mode nuit,mode silencieux,économiseur de batterie,économiseur de batterie extrême,personnalisé(com.milink.service/com.milink.ui.service.MiLinkTileService),mode d'alimentation,personnalisé(com.miui.screenrecorder/.service.QuickService),vibrer,point d'accès,synchronisation,bouton d'écran,alimentation sans-fil,fc,éditer"</string>
+    <string name="quick_settings_tiles_stock">"cellule,wifi,flash,muet,capture d'écran,bt,luminosité automatique,mode avion,verrouillage de l'écran,gps,rotation,mode de papier,mode nuit,mode silencieux,économiseur de batterie,économiseur de batterie extrême,mode d'alimentation,vibrer,point d'accès,synchronisation,bouton d'écran,alimentation sans-fil,fc,éditer,mode voiture"</string>
     <string name="quick_settings_time_label">Durée</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Pour ajouter un élément, appuyez et maintenez-le, puis faites-le glisser dans la partie supérieure du panneau.</string>
     <string name="quick_settings_user_label">Moi</string>
@@ -1426,8 +1429,8 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="quick_settings_wifi_nearby">Sélectionner un réseau à proximité</string>
     <string name="quick_settings_wifi_no_network">Aucun réseau</string>
     <string name="quick_settings_wifi_not_connected">Non connecté</string>
-    <string name="quick_settings_wifi_off_label">Wi-Fi est désactivé</string>
-    <string name="quick_settings_wifi_on_label">Wi-Fi est activé</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi désactivé</string>
+    <string name="quick_settings_wifi_on_label">Wi-Fi activé</string>
     <string name="quick_settings_work_mode_label">Mode travail</string>
     <string name="rapid_charge_mode_tip">Charge rapide</string>
     <string name="recent_cannot_dock">"Impossible de diviser l'écran dans le deuxième espace"</string>
@@ -1543,7 +1546,7 @@ Vous êtes aussi connecté à un VPN qui et en mesure de surveiller l'activité 
     <string name="settings_toggle_position_reset">Remettre les raccourcis à zéro</string>
     <string name="share">Partager</string>
     <string name="show_all_anrs">Afficher toutes les ANR</string>
-    <string name="show_all_anrs_summary">"Afficher le dialogue \" L'application ne répond pas \" pour les applications en arrière-plan"</string>
+    <string name="show_all_anrs_summary">"Afficher le dialogue \"L'application ne répond pas\" pour les applications en arrière-plan"</string>
     <string name="show_battery_percentage">Afficher le pourcentage de la batterie incorporée</string>
     <string name="show_battery_percentage_summary">"Afficher le pourcentage du niveau de la batterie dans l'icône de la barre d'état une fois que la batterie n'est pas en charge"</string>
     <string name="show_brightness">Afficher la luminosité dans les paramètres rapides</string>
@@ -1696,7 +1699,6 @@ Glissez vers le bas pour verrouiller"</string>
     <string name="structure_face_unlock_not_same_person">Vous devez terminer toutes les étapes vous-même. Ne changez pas de place avec qui que ce soit.</string>
     <string name="structure_face_unlock_really_person">On dirait que vous avez remplacé votre visage avec un objet.</string>
     <string name="structure_face_unlock_tof_covered">"Impossible d'ajouter des données de visage. Éloignez-vous de l'écran."</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="switch_bar_off">Désactivé</string>
     <string name="switch_bar_on">Activé</string>
     <string name="switch_system_user">Retour au Premier espace</string>

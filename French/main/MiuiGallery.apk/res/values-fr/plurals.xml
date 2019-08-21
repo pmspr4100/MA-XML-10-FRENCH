@@ -38,12 +38,12 @@
         <item quantity="one">%d photo cloud a été ajoutée, désactiver \"Afficher uniquement les albums locaux\" pour la voir.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d éléments ne peuvent être ajoutés à l'album. %1$s."</item>
-        <item quantity="one">"%2$d élément ne peut être ajouté à l'album. %1$s."</item>
+        <item quantity="other">"%2$d fichiers ne peuvent être ajoutés à l'album. %1$s."</item>
+        <item quantity="one">"%2$d fichier ne peut être ajouté à l'album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d éléments ne peuvent pas être ajoutés à l'album masqué: %1$s."</item>
-        <item quantity="one">"%2$d élément ne peut être ajouté à l'album masqué. %1$s."</item>
+        <item quantity="other">"%2$d fichiers ne peuvent pas être ajoutés à l'album masqué: %1$s."</item>
+        <item quantity="one">"%2$d fichier ne peut être ajouté à l'album masqué. %1$s."</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d jours</item>
@@ -66,16 +66,16 @@
         <item quantity="one">%d photo</item>
     </plurals>
     <plurals name="album_count_and_size">
-        <item quantity="other">%1$d éléments | %2$s</item>
-        <item quantity="one">%1$d élément | %2$s</item>
+        <item quantity="other">%1$d fichiers | %2$s</item>
+        <item quantity="one">%1$d fichier | %2$s</item>
     </plurals>
     <plurals name="album_item_msg_format">
-        <item quantity="other">(%d éléments)</item>
-        <item quantity="one">(%d élément)</item>
+        <item quantity="other">(%d fichiers)</item>
+        <item quantity="one">(%d fichier)</item>
     </plurals>
     <plurals name="album_photo_count_text">
-        <item quantity="other">%1$d éléments</item>
-        <item quantity="one">%1$d élément</item>
+        <item quantity="other">%1$d fichiers</item>
+        <item quantity="one">%1$d fichier</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d photos de %2$s seront ajoutées</item>
@@ -90,8 +90,8 @@
         <item quantity="one">Reprendre la sauvegarde dans %d heure</item>
     </plurals>
     <plurals name="backup_file_over_size_title">
-        <item quantity="other">%d éléments sont trop gros pour être sauvegardé</item>
-        <item quantity="one">%d élément est trop gros pour être sauvegardé</item>
+        <item quantity="other">%d fichiers sont trop gros pour être sauvegardé</item>
+        <item quantity="one">%d fichier est trop gros pour être sauvegardé</item>
     </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d photo ou vidéo | En pause</item>
@@ -138,8 +138,8 @@
         <item quantity="one">"Sélectionnez jusqu'à %d photo"</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d éléments sélectionnés</item>
-        <item quantity="one">%d élément sélectionné</item>
+        <item quantity="other">%d fichiers sélectionnés</item>
+        <item quantity="one">%d fichier sélectionné</item>
     </plurals>
     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Delete %d burst shots from Xiaomi Cloud and all synced devices ?</item>
@@ -158,28 +158,28 @@
         <item quantity="one">%d item deleted</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">Supprimer %d éléments de tous les appareils et de Xiaomi Cloud ?</item>
-        <item quantity="one">Supprimer %d élément de tous les appareils et de Xiaomi Cloud ?</item>
+        <item quantity="other">Supprimer %d fichiers de tous les appareils et de Xiaomi Cloud ?</item>
+        <item quantity="one">Supprimer %d fichier de tous les appareils et de Xiaomi Cloud ?</item>
     </plurals>
     <plurals name="delete_media_from_local">
-        <item quantity="other">Supprimer %d éléments ?</item>
-        <item quantity="one">Supprimer %d élément ?</item>
+        <item quantity="other">Supprimer %d fichiers ?</item>
+        <item quantity="one">Supprimer %d fichier ?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Supprimer %d éléments de cet album et de Xiaomi Cloud ?</item>
-        <item quantity="one">Supprimer %d élément de cet album et de Xiaomi Cloud ?</item>
+        <item quantity="other">Supprimer %d fichiers de cet album et de Xiaomi Cloud ?</item>
+        <item quantity="one">Supprimer %d fichier de cet album et de Xiaomi Cloud ?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Supprimer ces %d photos de tous les appareils et de Xiaomi Cloud ?</item>
-        <item quantity="one">Supprimer cette photo de tous les appareils et de Xiaomi Cloud ?</item>
+        <item quantity="one">Supprimer %d photo de tous les appareils et de Xiaomi Cloud ?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">Supprimer %d photos ?</item>
-        <item quantity="one">Supprimer cette photo ?</item>
+        <item quantity="one">Supprimer %d photo ?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
         <item quantity="other">Supprimer ces %d photos de cet album et de Xiaomi Cloud ?</item>
-        <item quantity="one">Supprimer cette photo de cet album et de Xiaomi Cloud ?</item>
+        <item quantity="one">Supprimer %d photo de cet album et de Xiaomi Cloud ?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Delete %d burst shots from your device?</item>
@@ -187,15 +187,15 @@
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Supprimer ces %d vidéos de tous les appareils et de Xiaomi Cloud ?</item>
-        <item quantity="one">Supprimer cette vidéo de tous les appareils et de Xiaomi Cloud ?</item>
+        <item quantity="one">Supprimer %d vidéo de tous les appareils et de Xiaomi Cloud ?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">Supprimez ces %d vidéos ?</item>
-        <item quantity="one">Supprimez cette vidéo ?</item>
+        <item quantity="one">Supprimez %d vidéo ?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
         <item quantity="other">Supprimer ces %d vidéos de cet album et de Xiaomi Cloud ?</item>
-        <item quantity="one">Supprimer cette vidéo de cet album et de Xiaomi Cloud ?</item>
+        <item quantity="one">Supprimer %d vidéo de cet album et de Xiaomi Cloud ?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">Impossible de télécharger %1$d fichiers</item>
@@ -241,8 +241,8 @@
         <item quantity="one">il y a 1 minute</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d éléments en attente de sauvegarde</item>
-        <item quantity="one">1 élément en attente de sauvegarde</item>
+        <item quantity="other">%1$d fichiers en attente de sauvegarde</item>
+        <item quantity="one">1 fichier en attente de sauvegarde</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d photos</item>
@@ -273,8 +273,8 @@
         <item quantity="one">1 vidéo en attente de sauvegarde</item>
     </plurals>
     <plurals name="photo_count_format">
-        <item quantity="other">%1$d éléments au total</item>
-        <item quantity="one">%1$d élément au total</item>
+        <item quantity="other">%1$d fichiers au total</item>
+        <item quantity="one">%1$d fichier au total</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">"Les photos sélectionnées ne se trouvent pas sur l'appareil. Voulez-vous les télécharger en utilisant vos données mobiles ?"</item>
@@ -321,8 +321,8 @@
         <item quantity="one">Total: %d photo</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d éléments ne peuvent être retirés de l'album masqué. %1$s."</item>
-        <item quantity="one">"%2$d élément ne peut être retiré de l'album masqué. %1$s."</item>
+        <item quantity="other">"%2$d fichiers ne peuvent être retirés de l'album masqué. %1$s."</item>
+        <item quantity="one">"%2$d fichier ne peut être retiré de l'album masqué. %1$s."</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d photos ajoutées à \"%2$s\" et ajoutées à la base de données.</item>
@@ -365,12 +365,12 @@
         <item quantity="one">"N'a pas sauvegardé %d photo ou vidéo"</item>
     </plurals>
     <plurals name="sync_oversized_count">
-        <item quantity="other">%d éléments sont trop gros pour être sauvegardé</item>
-        <item quantity="one">%d élément est trop gros pour être sauvegardé</item>
+        <item quantity="other">%d fichiers sont trop gros pour être sauvegardé</item>
+        <item quantity="one">%d fichier est trop gros pour être sauvegardé</item>
     </plurals>
     <plurals name="sync_total_count">
-        <item quantity="other">%d éléments</item>
-        <item quantity="one">%d élément</item>
+        <item quantity="other">%d fichiers</item>
+        <item quantity="one">%d fichier</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d fichiers</item>
