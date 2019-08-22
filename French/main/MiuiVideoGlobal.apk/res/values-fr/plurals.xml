@@ -37,20 +37,20 @@
         <item quantity="one">Voir %d commentaire</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
-        <item quantity="other">Delete %s items now?</item>
-        <item quantity="one">Delete %s item now?</item>
+        <item quantity="other">Supprimer %s fichiers maintenant ?</item>
+        <item quantity="one">Supprimer 1 fichier maintenant ?</item>
     </plurals>
     <plurals name="plus_edit_top_titletext">
-        <item quantity="other">Selected %s items</item>
-        <item quantity="one">Selected %s item</item>
+        <item quantity="other">Sélectionné %s fichiers</item>
+        <item quantity="one">Sélectionné %s fichier</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
-        <item quantity="other">File size: %.2fKB</item>
-        <item quantity="one">File size: %.2fKB</item>
+        <item quantity="other">Taille du fichier: %.2f Ko</item>
+        <item quantity="one">Taille du fichier: %.2f Ko</item>
     </plurals>
     <plurals name="plus_search_result_title">
-        <item quantity="other">%2$s results for \"%1$s\"</item>
-        <item quantity="one">%2$s result for \"%1$s\"</item>
+        <item quantity="other">%2$s résultats pour \"%1$s\"</item>
+        <item quantity="one">%2$s résultat pour \"%1$s\"</item>
     </plurals>
     <plurals name="plus_serval_pictures">
         <item quantity="other">%d images</item>
@@ -61,7 +61,7 @@
         <item quantity="one">%d vidéo</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other"> abonnés</item>
-        <item quantity="one"> abonné</item>
+        <item quantity="other">" abonnés"</item>
+        <item quantity="one">" abonné"</item>
     </plurals>
 </resources>

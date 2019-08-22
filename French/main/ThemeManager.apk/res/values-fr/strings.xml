@@ -384,7 +384,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
     <string name="resource_comment_good_comments">Positif</string>
     <string name="resource_comment_invalid">Appuyez sur les étoiles pour noter le thème</string>
-    <string name="resource_comment_limit">Pas si vite! Revenez après avoir utilisé ce thème un peu plus longtemps.</string>
+    <string name="resource_comment_limit">Pas si vite ! Revenez après avoir utilisé ce thème un peu plus longtemps.</string>
     <string name="resource_comment_loading_list">Chargement…</string>
     <string name="resource_comment_name_default">Surnom</string>
     <string name="resource_comment_no_average_score">N/A</string>
@@ -526,7 +526,7 @@ Pour désactiver cette fonction, accédez à Paramètres > Sonnerie > Vidéo de 
     <string name="resource_share_text">Voici un thème que vous pourriez aimer: %1$s ! Lien: %2$s</string>
     <string name="resource_share_title">Partager</string>
     <string name="resource_system_title">Ressources système</string>
-    <string name="resource_tab_to_view">Appuyez pour voir.</string>
+    <string name="resource_tab_to_view">Appuyez pour afficher.</string>
     <string name="resource_tip_select_none">Aucune sélection</string>
     <string name="resource_title">Détails</string>
     <string name="resource_title_category">Catégories</string>
