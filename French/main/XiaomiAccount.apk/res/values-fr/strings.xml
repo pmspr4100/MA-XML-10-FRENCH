@@ -400,6 +400,7 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
     <string name="get_device_list_failed">Impossible de lister les appareils</string>
     <string name="delete_device_failed">"Impossible de supprimer l'appareil"</string>
     <string name="empty_device_list_notice">Aucun appareil</string>
+    <string name="ep_unsupported">Votre appareil ne prend pas en charge la connexion à un compte Xiaomi</string>
     <string name="device_name">"Nom de l'appareil"</string>
     <string name="sim_card">Carte SIM</string>
     <string name="multi_user_not_show_sync_activity_title">Désactiver la synchronisation avec Mi Cloud</string>

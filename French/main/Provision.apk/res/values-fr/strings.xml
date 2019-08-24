@@ -26,8 +26,8 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
     <string name="other_settings_user_experience_summary_index">Afficher les détails</string>
     <string name="other_settings_upload_debug_log_title">Envoyer automatiquement les données de diagnostic</string>
     <string name="other_settings_upload_debug_log_summary">"Les statistiques d'utilisation qui nous aident à vous localiser et à résoudre les problèmes peuvent contenir vos informations personnelles"</string>
-    <string name="other_settings_auto_update">Mettre à jour automatiquement</string>
-    <string name="other_settings_auto_update_summary">MIUI sélectionnera le meilleur moment pour installer les mises à jour</string>
+    <string name="other_settings_auto_update">Mises à jour automatiques du système</string>
+    <string name="other_settings_auto_update_summary">MIUI sélectionnera le meilleur moment pour télécharger et installer les mises à jour. Votre appareil sera automatiquement redémarré pour appliquer les modifications.</string>
     <string name="other_settings_ad_enable">Recommandation de publicités personnalisées</string>
     <string name="other_settings_ad_enable_summary">Recevoir des publicités personnalisées en fonction des données de vos habitudes</string>
     <string name="other_settings_enhanced_lockscreen">"Fond d'écran Carrousel"</string>
@@ -51,7 +51,7 @@ Voir la politique de confidentialité du clavier sélectionné."</string>
     <string name="terms_of_use_label">"Votre vie privée est très importante pour nous. Veuillez lire les conditions d'utilisation ainsi que la politique de confidentialité pour savoir quelles informations nous collectons, comment nous les utilisons et les différents choix disponibles.
 
 Vous devez les accepter avant de pouvoir utiliser MIUI. %s et les composants du compte Mi se connecteront à internet et localiseront votre appareil."</string>
-    <string name="terms_of_use_lable_apps">"Services Mi, Services de l'activation de la Mi SIM, Mi Cloud, Trouver votre appareil, Ecran d'accueil, Centre de jeux, MAB, MIUI Daemon et composants du système MSA, services de traduction, Apps rapides, App coffre-fort, statistiques, Lien Mi"</string>
+    <string name="terms_of_use_lable_apps">"Services Mi, Services de l'activation de la Mi SIM, Xiaomi Cloud, Trouver votre appareil, Ecran d'accueil, Game, Centre de jeux, MAB, MIUI Daemon,  Composants du système MSA, services de traduction, Apps rapides, App coffre-fort, statistiques, Lien Mi"</string>
     <string name="terms_of_use_lable_gms">, Services Google Play</string>
     <string name="terms_of_use_label_systemhelper">", Service d'enregistrement automatique"</string>
     <string name="terms_of_use_lable_smart_cards">, cartes intelligentes</string>
