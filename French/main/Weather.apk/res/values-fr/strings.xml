@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="about_weather_setting">À propos de la météo</string>
+    <string name="about_weather_setting_feedback">"Retour d'information"</string>
+    <string name="abrupt_weather_settings_summary_type">"Recevez des alertes sur les précipitations attendues, les changements de la qualité de l'air et d'autres changements importants"</string>
     <string name="act_find_city_hint">Saisir la ville</string>
     <string name="act_find_city_hot_attractions_title">Sites populaires</string>
     <string name="act_find_city_hot_city_title">Villes populaires</string>
@@ -26,6 +29,8 @@
     <string name="add_city">Ajouter</string>
     <string name="alert_detail_title">"Détails d'alerte"</string>
     <string name="alert_warning">Alertes météo</string>
+    <string name="alert_weather_enable_settings_summary">Recevez les avertissements météorologiques officiels</string>
+    <string name="alert_weather_enable_settings_title">Avertissements météo</string>
     <string name="already_voted_toast">"Vous avez déjà voté aujourd'hui"</string>
     <string name="app_name">Météo</string>
     <string name="aqi_data_source">Propulsé par Colorful Clouds</string>
@@ -66,6 +71,7 @@
     <string name="button_settings_confirm_to_revoke_msg">Vous ne pourrez plus utiliser Météo après avoir révoqué une autorisation.</string>
     <string name="button_settings_confirm_to_revoke_title">"Révoquer l'autorisation ?"</string>
     <string name="button_sure_abandon">Annuler les modifications ?</string>
+    <string name="card_item_ad_text">广告</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Vérifiez votre connexion réseau et réessayez</string>
     <string name="china_version_first_start_network_msg">Vous devez accepter %1$s et %2$s de Xiaomi pour pouvoir utiliser la météo. La météo doit accéder à votre localisation et se connecter à Internet pour fonctionner normalement. Accepter?</string>
@@ -96,6 +102,7 @@ Faites glisser vers le bas pour actualiser ou vérifier les paramètres réseau"
     <string name="empty_view_net_unavailable">Impossible de se connecter au réseau</string>
     <string name="empty_view_refresh">Veuillez réessayer</string>
     <string name="eu_region_version_first_start_network_msg">"En utilisant ce produit, vous acceptez que ce produit se connecte au réseau, collecte, traite et utilise vos informations personnelles, y compris les coordonnées des villes que vous recherchez ainsi que d'autres types de données spécifiés dans notre Politique de confidentialité. Référez-vous à notre politique de confidentialité pour savoir comment nous collectons et traitons les informations. En appuyant sur \"Accepter\", vous acceptez le %1$s et la %2$s de Xiaomi."</string>
+    <string name="feedback">Signaler des informations météo incorrectes</string>
     <string name="feedback_cloudy">Nuageux</string>
     <string name="feedback_foggy">Brouillard</string>
     <string name="feedback_haze">Brume</string>
@@ -150,7 +157,7 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="more_details">Plus de détails</string>
     <string name="network_not_available">Impossible de se connecter au réseau</string>
     <string name="network_unavailable">Impossible de se connecter au réseau.</string>
-    <string name="night_not_disturb_settings_summary">Réduisez au silence les alertes entre 23:00 et 07:00</string>
+    <string name="night_not_disturb_settings_summary">Bloquer les alertes entre 23h00 et 7h00</string>
     <string name="night_not_disturb_settings_title">Ne pas déranger la nuit</string>
     <string name="no_data">Aucune donnée</string>
     <string name="no_network_btn">Réessayer</string>
@@ -240,6 +247,8 @@ Appuyer sur l'écran pour ajouter manuellement ou repositionner une ville"</stri
     <string name="view_forecast_item_yesterday">Hier</string>
     <string name="view_indexes_item_today">"Aujourd'hui"</string>
     <string name="view_indexes_item_tommorrow">Demain</string>
+    <string name="warning_weather_day_and_night_settings_summary">Recevez des résumés quotidiens contenant des informations météorologiques à 7h00 et à 19h00</string>
+    <string name="warning_weather_day_and_night_settings_title">Résumés quotidiens</string>
     <string name="weather_alert_channel_name">Alertes</string>
     <string name="weather_introduce">Toujours avec toi, quil pleuve ou quil vente.</string>
     <string name="weather_permission_agree">Accepter</string>

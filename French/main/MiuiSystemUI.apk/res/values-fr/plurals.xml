@@ -16,6 +16,10 @@
         <item quantity="other">Masquer les notifications de %d applications ?</item>
         <item quantity="one">Masquer les notifications de cette application ?</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">Raccrocher dans %1$d secondes</item>
+        <item quantity="one">Raccrocher dans %1$d seconde</item>
+    </plurals>
     <plurals name="fold_tips_title">
         <item quantity="other">%d notifications sans importance</item>
         <item quantity="one">%d notification sans importance</item>

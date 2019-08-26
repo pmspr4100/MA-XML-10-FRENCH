@@ -16,9 +16,13 @@
         <item quantity="other">Moyenne de %1$s stations</item>
         <item quantity="one">Moyenne de %1$s station</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">Prévisions sur %1$s jours</item>
+        <item quantity="one">Prévisions sur %1$s jour</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">Prévisions sur %1$s-jours</item>
-        <item quantity="one">Prévisions sur %1$s-jour</item>
+        <item quantity="other">Prévisions sur %1$s jours</item>
+        <item quantity="one">Prévisions sur %1$s jour</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short_minute">
         <item quantity="other">Vous pouvez à nouveau soumettre vos commentaires dans %1$s minutes</item>

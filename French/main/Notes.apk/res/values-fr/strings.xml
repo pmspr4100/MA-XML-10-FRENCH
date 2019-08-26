@@ -2,8 +2,8 @@
 <resources>
     <string name="action_folder_description">Afficher les dossiers</string>
     <string name="action_mode_switcher_grid_description">Affichage grille</string>
-    <string name="action_mode_switcher_list_description">Affichage Liste</string>
-    <string name="action_settings_description">Ouvrir les paramètres</string>
+    <string name="action_mode_switcher_list_description">Affichage liste</string>
+    <string name="action_settings_description">Paramètres</string>
     <string name="actionbar_close_description">Fermer</string>
     <string name="actionbar_home_description">Retour</string>
     <string name="add_account_desc">Synchronisez vos notes avec votre compte Mi ?</string>

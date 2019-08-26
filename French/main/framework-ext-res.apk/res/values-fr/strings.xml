@@ -57,6 +57,7 @@
     <string name="call_record_sample_prefix_miui">Appeler</string>
     <string name="call_record_or">" ou "</string>
     <string name="caller_info_name_delimiter">" ou "</string>
+    <string name="can_not_transfer_when_screening">"Ne peut pas lancer pendant les transferts"</string>
     <string name="first_back_long_press_message">Pour personnaliser appuyer et maintenir pour naviguer avec les boutons, aller sur paramètres > système > boutons</string>
     <string name="force_exit_message">%1$s forcée de fermer</string>
     <string name="force_exit_skip_message">Impossible de fermer %1$s car elle est requise par le système.</string>
