@@ -2600,6 +2600,8 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="input_assistance">Aide à la saisie</string>
     <string name="input_hint_prefix">Entrer %1$s</string>
     <string name="input_method">Clavier</string>
+    <string name="input_method_bottom_close">Désactiver</string>
+    <string name="input_method_bottom_open">Activer</string>
     <string name="input_method_function_clipboard">Presse-papiers et phrases fréquentes</string>
     <string name="input_method_function_clipboard_des">Appuyez pour afficher le contenu du presse-papiers et les expressions fréquentes</string>
     <string name="input_method_function_no_function">Aucune</string>
@@ -2610,12 +2612,14 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="input_method_function_voice_des">Appuyez pour utiliser la saisie vocale</string>
     <string name="input_method_function_xiaoai">Mi IA saisie vocale</string>
     <string name="input_method_function_xiaoai_des">Appuyez pour utiliser la saisie vocale Mi IA</string>
+    <string name="input_method_manage">Gérer les claviers</string>
     <string name="input_method_selector">Sélection du mode de saisie</string>
     <string name="input_method_selector_always_hide_title">Toujours masquer</string>
     <string name="input_method_selector_always_show_title">Toujours afficher</string>
     <string name="input_method_selector_show_automatically_title">Automatique</string>
     <string name="input_method_settings">Paramètres</string>
     <string name="input_method_settings_button">Paramètres</string>
+    <string name="input_method_settings_text">Paramètres</string>
     <string name="input_methods_and_subtype_enabler_title">Sélectionner modes de saisie actifs</string>
     <string name="input_methods_settings_label_format">Paramètres %1$s</string>
     <string name="input_methods_settings_title">Saisie de texte</string>
@@ -2680,6 +2684,7 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="keyboard_layout_dialog_switch_hint">Appuyez sur Ctrl+Espace pour changer disposition</string>
     <string name="keyboard_layout_dialog_title">Sélectionner disposition du clavier</string>
     <string name="keyboard_layout_picker_title">Dispositions du clavier</string>
+    <string name="keyboard_mouse_touch">Clavier, souris et pavé tactile</string>
     <string name="keyboard_settings_category">Méthodes de saisie</string>
     <string name="keyboard_settings_title">Clavier Android</string>
     <string name="keyboard_shortcuts_helper">"Outil d'aide pour raccourcis clavier"</string>
@@ -3819,6 +3824,7 @@ L'OTG s'éteint automatiquement après 10 minutes d'inactivité."</string>
     <string name="other">Autre</string>
     <string name="other_advanced_settings">Paramètres additionnels</string>
     <string name="other_device_info">Autres</string>
+    <string name="other_input_settings">Paramètres additionnels du clavier</string>
     <string name="other_personal_settings">Paramètres personnels</string>
     <string name="other_relative">Autre</string>
     <string name="other_settings_sync_settings">Synchroniser</string>

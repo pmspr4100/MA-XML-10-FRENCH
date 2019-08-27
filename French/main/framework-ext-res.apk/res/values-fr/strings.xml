@@ -201,6 +201,7 @@
     <string name="xspace_resolver_activity_title">Sélectionner une application</string>
     <string name="user_switching_dialog_text">Changement…</string>
     <string name="vivo">vivo</string>
+    <string name="vivo_phone">vivo</string>
     <string name="xspace_head">Application clônée</string>
     <string name="activity_package_delete_confirm_title">Attention</string>
     <string name="button_text_cancel">Annuler</string>
@@ -224,6 +225,7 @@
     <string name="always">Toujours</string>
     <string name="onehour">30 minutes</string>
     <string name="oppo">OPPO</string>
+    <string name="oppo_phone">OPPO</string>
     <string name="twohours">1 heure</string>
     <string name="fourhours">2 heures</string>
     <string name="eighthours">8 heures</string>
@@ -271,6 +273,7 @@
     <string name="xiaomi_mix_3">Mi MIX 3</string>
     <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
     <string name="xiaomi_note_3">Mi Note 3</string>
+    <string name="xiaomi_phone">Xiaomi</string>
     <string name="xiaomi_poco_f1">POCO F1</string>
     <string name="resolver_app_recommend_flag">Recommander</string>
     <string name="resolver_checkbox_once">Une fois</string>
