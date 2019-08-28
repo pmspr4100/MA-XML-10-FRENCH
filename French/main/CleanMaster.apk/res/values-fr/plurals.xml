@@ -58,14 +58,6 @@
         <item quantity="other">%d vidéos trouvées, vous pouvez supprimer celles qui sont inutiles.</item>
         <item quantity="one">%d vidéos trouvée, vous pouvez la supprimer.</item>
     </plurals>
-    <plurals name="deepclean_install_info_desc1">
-        <item quantity="other">%d applications installées</item>
-        <item quantity="one">%d application installée</item>
-    </plurals>
-    <plurals name="wechat_copy_video_failed_dialog_msg">
-        <item quantity="other">"Impossible d'exporter %d vidéos. Libérez de l'espace et essayez à nouveau"</item>
-        <item quantity="one">"Impossible d'exporter %d vidéo. Libérez de l'espace et essayez à nouveau."</item>
-    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d groupes</item>
         <item quantity="one">%d groupe</item>
@@ -116,8 +108,8 @@
         <item quantity="one">%1$s vue</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
-        <item quantity="other">"Couldn't export %d videos. Free up space and try again"</item>
-        <item quantity="one">"Couldn't export %d video. Free up space and try again."</item>
+        <item quantity="other">"Impossible d'exporter %d vidéos. Libérez de l'espace et essayez à nouveau"</item>
+        <item quantity="one">"Impossible d'exporter %d vidéo. Libérez de l'espace et essayez à nouveau."</item>
     </plurals>
     <plurals name="wechat_empty_files">
         <item quantity="other">(%1$d fichiers vide)</item>
