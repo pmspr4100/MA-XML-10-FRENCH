@@ -155,10 +155,7 @@ Pour activer votre compte, suivez le
     <string name="passport_querying_phone_info">Demande des informations du compte en cours…</string>
     <string name="passport_area_code_title">Indicatif téléphonique</string>
     <string name="passport_area_code_hot">UTILISÉ FRÉQUEMMENT</string>
-    <string name="passport_user_agreement_p1">"Accepter l' "</string>
-    <string name="passport_user_agreement_p2">Accord Utilisateur</string>
-    <string name="passport_user_agreement_p3"> et la </string>
-    <string name="passport_user_agreement_p4">Politique de confidentialité</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;"J'ai lu et accepté Xiaomi &amp;lt;a href=%1$s&amp;gt;Accord de l'utilisateur&amp;lt;/a&amp;gt; et &amp;lt;a href=%2$s&amp;gt;Politique de confidentialité&amp;lt;/a&amp;gt;."&lt;/Data&gt;"</string>
     <string name="passport_privacy_policy">Politique de confidentialité</string>
     <string name="passport_user_agreement">Accord Utilisateur</string>
     <string name="passport_license_host_unreachable">Impossible de se connecter au réseau. Vous pouvez consulter cette page à %s.</string>
@@ -314,6 +311,11 @@ Vous pouvez vous connecter à votre compte Mi en utilisant %s maintenant."</stri
     <string name="account_user_avatar_from_album">Sélectionner une photo</string>
     <string name="account_crop_user_avatar">Retailler la photo</string>
     <string name="sns_access_token_expired_warning">La connexion automatique a expiré. Connectez-vous à nouveau à votre compte.</string>
+    <string name="system_ad">Annonces dans les applications système</string>
+    <string name="system_ad_list">Afficher les applications associées.</string>
+    <string name="system_ad_summary">"Activez cette fonctionnalité pour permettre la diffusion d'un petit nombre d'annonces dans les applications système. Ces publicités nous aident à développer et à améliorer nos produits et services. Vous pouvez choisir de désactiver cette fonctionnalité à tout moment. Merci pour votre aide ! "</string>
+    <string name="system_ad_switch">Annonces dans les applications système</string>
+    <string name="system_ad_switch_failed">échec</string>
     <string name="user_avatar_uploading">Chargement…</string>
     <string name="user_avatar_update_title">Modifier la photo de profil</string>
     <string name="photoPickerNotFoundText">Aucune photo disponible.</string>

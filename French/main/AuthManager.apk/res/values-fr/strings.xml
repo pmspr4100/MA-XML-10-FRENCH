@@ -96,6 +96,17 @@
     <string name="location_warning">"%1$s est un fournisseur de services de localisation pour cet appareil. L'accès à la localisation peut être modifié à partir des paramètres de localisation."</string>
     <string name="never_ask_again">Ne plus demander</string>
     <string name="ok">OK</string>
+    <string name="permgroupdesc_calendar">Accéder aux événements du calendrier</string>
+    <string name="permgroupdesc_calllog">"Accéder aux éléments de l'historique des appels et les sauvegarder"</string>
+    <string name="permgroupdesc_camera">Prendre des photos et enregistrer des vidéos</string>
+    <string name="permgroupdesc_contacts">Accéder aux contacts</string>
+    <string name="permgroupdesc_location">"Informations sur l'emplacement d'accès"</string>
+    <string name="permgroupdesc_microphone">Enregistrement audio</string>
+    <string name="permgroupdesc_phone">Passer des appels et gérer des conversations</string>
+    <string name="permgroupdesc_recognition">"Accéder à la santé et aux données d'activité"</string>
+    <string name="permgroupdesc_sensors">Accéder aux données du capteur de corps</string>
+    <string name="permgroupdesc_sms">Lire ou envoyer des SMS</string>
+    <string name="permgroupdesc_storage">"Accéder aux photos ou aux fichiers sur l'appareil"</string>
     <string name="permgrouprequest_storage_isolated">Autoriser &lt;b&gt;%1$s&lt;/b&gt; accéder aux photos et aux médias sur votre appareil ?</string>
     <string name="permission_description_summary_activity_recognition">Les applications disposant de cette autorisation peuvent accéder à votre activité physique, comment marcher, faire du vélo, conduire, compter les pas, etc.</string>
     <string name="permission_description_summary_calendar">Les applications avec cette autorisation peuvent accéder à votre calendrier</string>

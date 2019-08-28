@@ -132,6 +132,8 @@
     <string name="msg_update_error_code_unknown_error">Les serveurs sont actuellement occupés. Patientez une minute ou deux puis réessayez.</string>
     <string name="msg_cleanup_db_update_time_unknown">Dernière mise à jour: Inconnu</string>
     <string name="item_title_process_mode">Choisir une action</string>
+    <string name="junk_tag_RF_EmptyFolders">Empty folders</string>
+    <string name="junk_tag_RF_ImageThumbnails">Gallery Thumbnails</string>
     <string name="clean_content_zero">Vide</string>
     <string name="clean_content_one">1 élément</string>
     <string name="clean_content_two">2 éléments</string>
@@ -425,11 +427,7 @@
     <string name="output_videos">Exporter les vidéos</string>
     <string name="wechat_clean">Nettoyeur de WeChat</string>
     <string name="qq_clean">Nettoyeur QQ</string>
-    <string name="wechat_qq_normal_files">Corbeille</string>
-    <string name="wechat_cache_files">Cache de WeChat</string>
-    <string name="qq_cache_files">Cache QQ</string>
     <string name="wechat_qq_activity_title">Nettoyage en profondeur</string>
-    <string name="wechat_qq_chat_files">Historique de conversation</string>
     <string name="analying">Analyse…</string>
     <string name="open_file_error">"Impossible de trouver l'application qui ouvre ce fichier"</string>
     <string name="location_not_found">Impossible de trouver le fichier</string>
@@ -472,6 +470,43 @@
     <string name="file_not_found">Fichier non trouvé</string>
     <string name="app_usage_never">Pas récemment utilisé</string>
     <string name="app_usage_recently">Récemment utilisé</string>
+    <string name="appcleaner_g_audio_summary_qq">Permanently delete QQ voice messages</string>
+    <string name="appcleaner_g_audio_summary_wechat">Permanently delete WeChat voice messages</string>
+    <string name="appcleaner_g_audio_title_qq">QQ voice message cleaner</string>
+    <string name="appcleaner_g_audio_title_wechat">WeChat voice message cleaner</string>
+    <string name="appcleaner_g_earlier">Earlier</string>
+    <string name="appcleaner_g_image_sum_title_chat_wechat">Sent images</string>
+    <string name="appcleaner_g_image_sum_title_make_wechat">Images</string>
+    <string name="appcleaner_g_image_sum_title_save_wechat">Saved images</string>
+    <string name="appcleaner_g_image_summary_qq">Permanently delete QQ images</string>
+    <string name="appcleaner_g_image_summary_wechat">Permanently delete WeChat images</string>
+    <string name="appcleaner_g_image_title_qq">QQ image cleaner</string>
+    <string name="appcleaner_g_image_title_wechat">WeChat image cleaner</string>
+    <string name="appcleaner_g_last_month">Last month</string>
+    <string name="appcleaner_g_normal_summary_qq">Permanently delete QQ files</string>
+    <string name="appcleaner_g_normal_summary_wechat">Permanently delete WeChat files</string>
+    <string name="appcleaner_g_normal_title_qq">QQ file cleaner</string>
+    <string name="appcleaner_g_normal_title_wechat">WeChat file cleaner</string>
+    <string name="appcleaner_g_this_month">This month</string>
+    <string name="appcleaner_g_video_sum_title_chat_wechat">Sent videos</string>
+    <string name="appcleaner_g_video_sum_title_make_wechat">Videos</string>
+    <string name="appcleaner_g_video_sum_title_save_wechat">Saved videos</string>
+    <string name="appcleaner_g_video_summary_qq">Permanently delete QQ videos</string>
+    <string name="appcleaner_g_video_summary_wechat">Permanently delete WeChat videos</string>
+    <string name="appcleaner_g_video_title_qq">QQ video cleaner</string>
+    <string name="appcleaner_g_video_title_wechat">WeChat video cleaner</string>
+    <string name="appcleaner_main_cleaning">Cleaning…</string>
+    <string name="appcleaner_qq_clean_summary">Delete unnecessary items from QQ</string>
+    <string name="appcleaner_qq_clean_title">App cleaner</string>
+    <string name="appcleaner_qq_scanning_cache">QQ cache</string>
+    <string name="appcleaner_qq_scanning_chat">Sent files</string>
+    <string name="appcleaner_qq_scanning_trash">Trash</string>
+    <string name="appcleaner_result_dc_card_title">Free up more storage</string>
+    <string name="appcleaner_wechat_clean_summary">Delete unnecessary items from WeChat</string>
+    <string name="appcleaner_wechat_clean_title">App cleaner</string>
+    <string name="appcleaner_wechat_scanning_cache">WeChat cache</string>
+    <string name="appcleaner_wechat_scanning_chat">Sent files</string>
+    <string name="appcleaner_wechat_scanning_trash">Trash</string>
     <string name="resutl_function_deep_clean_summary">"&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> fichiers de plus peuvent être effacés. Libérez plus d'espace.;&lt;/Data>"</string>
     <string name="resutl_function_wechat_clean_summary">"&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> du cache de WeChat. Libérez plus d'espace.;&lt;/Data>"</string>
     <string name="resutl_function_qq_clean_summary">&lt;Data>Vous pouvez nettoyer &lt;font color=#ff0000 >%1$s&lt;/font> du cache généré par QQ;&lt;/Data></string>

@@ -2833,6 +2833,13 @@ Vous pouvez modifier cette option ultérieurement dans Paramètres > Applicatio
     <string name="lights_title">Lumière de la LED</string>
     <string name="line_breaking_summary">Optimiser la rupture de la ligne de paragraphe</string>
     <string name="line_breaking_title">Optimiser le texte</string>
+    <string name="link_turbo_prompt">"Les statistiques de cette page indiquent uniquement la quantité de données utilisée pour augmenter la vitesse de connexion Wi-Fi. Ces statistiques ne reflètent pas l'utilisation réelle des données mobiles."</string>
+    <string name="link_turbo_settings_all_app_display_loading">Chargement…</string>
+    <string name="link_turbo_settings_all_app_reach_max">"Vous pouvez sélectionner jusqu'à 15 applications"</string>
+    <string name="link_turbo_usage_state_month">Ce mois-ci</string>
+    <string name="link_turbo_usage_state_month_total">Ce mois-ci</string>
+    <string name="link_turbo_usage_state_today">"Aujourd'hui"</string>
+    <string name="link_turbo_usage_state_today_total">"Aujourd'hui"</string>
     <string name="list_bg_header_text">Si vous restreignez la connexion en arrière-plan, les nouvelles applications ne pourront pas se connecter à Internet en arrière-plan après leur installation. Elles pourraient être incapables de recevoir des messages ou de télécharger du contenu après cela.</string>
     <string name="list_empty_text">Vide</string>
     <string name="loading">Chargement…</string>
@@ -6548,6 +6555,13 @@ Configurer un réseau masqué n'affectera pas les paramètres de votre routeur."
     <string name="wifi_ip_settings_menu_cancel">Annuler</string>
     <string name="wifi_ip_settings_menu_save">Enregistrer</string>
     <string name="wifi_limit_optimizations_summary">Limiter la batterie util. par Wi-Fi</string>
+    <string name="wifi_link_turbo">Utiliser les données mobiles pour augmenter la vitesse</string>
+    <string name="wifi_link_turbo_app_settings_summary">Sélectionnez les applications qui utiliseront cette fonctionnalité</string>
+    <string name="wifi_link_turbo_app_settings_title">Sélectionnez des applications</string>
+    <string name="wifi_link_turbo_no_app">"Aucune application ici pour l'instant."</string>
+    <string name="wifi_link_turbo_off">Désactiver</string>
+    <string name="wifi_link_turbo_on">Activer</string>
+    <string name="wifi_link_turbo_summary">"Augmentez la vitesse de connexion pour la sélection d'applications utilisant des données mobiles lorsque la connexion Wi-Fi est mauvaise"</string>
     <string name="wifi_menu_advanced">Options avancées</string>
     <string name="wifi_menu_configure">Configurer</string>
     <string name="wifi_menu_connect">Se connecter au réseau</string>
