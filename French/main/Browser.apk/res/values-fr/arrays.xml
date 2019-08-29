@@ -9,11 +9,6 @@
         <item>Page de démarrage par défaut</item>
         <item>Personnalisé</item>
     </string-array>
-    <string-array name="pref_homepage_choices_with_simplehome">
-        <item>Page de démarrage par défaut</item>
-        <item>Page de démarrage propre</item>
-        <item>Personnalisé</item>
-    </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Téléphone</item>
         <item>Tablette</item>
